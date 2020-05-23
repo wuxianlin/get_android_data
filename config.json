@@ -1,0 +1,54 @@
+[
+  {
+    "cmd": "python tools/security/androidcve.py",
+    "out": "cve.csv"
+  },
+  {
+    "cmd": "python tools/rom/androidimages.py -t images -o android_images.csv",
+    "out": "android_images.csv"
+  },
+  {
+    "cmd": "python tools/rom/androidimages.py -t ota -o android_ota_images.csv",
+    "out": "android_ota_images.csv"
+  },
+  {
+    "cmd": "python tools/rom/oneplusrom.py -r cn -o oneplus_rom.csv",
+    "out": "oneplus_rom.csv"
+  },
+  {
+    "cmd": "python tools/rom/opporom.py",
+    "out": "oppo_rom.csv"
+  },
+  {
+    "cmd": "python tools/rom/realmerom.py",
+    "out": "realme_rom.csv"
+  },
+  {
+    "cmd": "python tools/rom/oneplusrom.py -r us -o oneplus_us_rom.csv",
+    "out": "oneplus_us_rom.csv"
+  },
+  {
+    "cmd": "python tools/rom/miuiglobalrom.py",
+    "out": "miui_global_rom.csv"
+  },
+  {
+    "cmd": "python tools/rom/flymerom.py",
+    "out": "flyme_rom.csv"
+  },
+  {
+    "cmd": "python tools/rom/vivorom.py",
+    "out": "vivo_rom.csv"
+  },
+  {
+    "cmd": "python tools/rom/miuirom.py",
+    "out": "miui_rom.csv"
+  },
+  {
+    "cmd": "python tools/phone/ctphone.py -k OPPO -o oppo_phone.csv",
+    "out": "oppo_phone.csv"
+  },
+  {
+    "cmd": "python tools/rom/oneplusrom.py -r global -o oneplus_global_rom.csv",
+    "out": "oneplus_global_rom.csv"
+  }
+]
