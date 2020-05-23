@@ -1,0 +1,68 @@
+name: Auto Update application
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  schedule:
+    - cron: 0 9,21 * * *
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Check firefox and install geckodriver
+      run: |
+        set -x
+        firefox --version
+        if geckodriver --version 2>/dev/null; then
+          :
+        else
+          mkdir -p tmp
+          LATEST_JSON=$(curl --fail --retry 3 -H "Authorization: ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/mozilla/geckodriver/releases/latest)
+          GECKODRIVER_ASSET_URL=$(echo "$LATEST_JSON" | jq -r '.assets[].browser_download_url | select(contains("linux64"))')
+          curl --silent --show-error --location --fail --retry 3 --output tmp/geckodriver.tar.gz ${GECKODRIVER_ASSET_URL}
+          tar xf tmp/geckodriver.tar.gz -C tmp
+          sudo install -m 755 -o root -g root -p tmp/geckodriver /usr/local/bin/geckodriver
+          geckodriver --version
+        fi
+    - name: Check google-chrome and install chromedriver
+      run: |
+        set -x
+        google-chrome --version
+        if chromedriver --version 2>/dev/null; then
+          :
+        else
+          mkdir -p tmp
+          CHROME_VERSION=$(google-chrome --version | cut -f 3 -d ' ' | cut -d '.' -f 1)
+          CHROMEDRIVER_RELEASE=$(curl --location --fail --retry 3 http://chromedriver.storage.googleapis.com/LATEST_RELEASE_${CHROME_VERSION})
+          curl --silent --show-error --location --fail --retry 3 --output tmp/chromedriver_linux64.zip http://chromedriver.storage.googleapis.com/$CHROMEDRIVER_RELEASE/chromedriver_linux64.zip
+          unzip -x tmp/chromedriver_linux64.zip -d tmp
+          sudo install -m 755 -o root -g root -p tmp/chromedriver /usr/local/bin/chromedriver
+          chromedriver --version
+        fi
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install lxml selenium requests
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run and update
+      run: |
+        bash run.sh
+    - name: Commit changes
+      uses: autosuite/autocommit@master
+      with:
+        commit-message: auto update
+        add-options: data
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
