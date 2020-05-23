@@ -59,6 +59,7 @@ if __name__ == '__main__':
     matchObj = re.search( r'phones =(.*?);', phonelist, re.M|re.I)
     if matchObj:
         phonelistjson = json.loads(matchObj.group(1))
-        for phone in phonelistjson:
+        phonelistjson.sort(key = lambda x:x['pid'])
+        for phone in reversed(phonelistjson):
             parse_phone(writer, phone)
     rominfooutf.close()
