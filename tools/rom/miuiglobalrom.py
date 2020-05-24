@@ -21,7 +21,7 @@ def parse_phone(writer, phone):
     for device in devices.keys():
         roms = devices[device]
         for romtype in roms.keys():
-            writer.writerow([phoneName,device,romtype,roms[romtype]['version'],roms[romtype]['rom_url'],roms[romtype]['size']])
+            writer.writerow([phoneName,device,romtype,roms[romtype]['version'],roms[romtype]['rom_url'].replace('http://','https://'),roms[romtype]['size']])
     time.sleep(sleeptime)
 
 if __name__ == '__main__':
