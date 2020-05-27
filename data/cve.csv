@@ -17,7 +17,7 @@ CVE-2020-0104,2020-05-01,[A-144430870](https://android.googlesource.com/platform
 CVE-2020-0110,2020-05-05,A-148159562 [Upstream kernel](https://android-review.googlesource.com/c/kernel/common/+/1243775),EoP,High,N/A,kernel components,Kernel Scheduler,
 CVE-2019-19536,2020-05-05,A-146642883 [Upstream kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=ead16e53c2f0ed946d82d4037c630e2f60f4ab69),ID,High,N/A,kernel components,PCAN-USB driver,
 CVE-2020-0064,2020-05-05,A-149866855 [*](#asterisk),ID,High,N/A,mediatek,Omacp,
-CVE-2020-0065,2020-05-05,A-149813448 [*](#asterisk),ID,High,N/A,mediatek,Android Suite Daemon,
+CVE-2020-0065,2020-05-05,A-149813448 [*](#asterisk),ID,High,N/A,mediatek,Android suite daemon,
 CVE-2020-0090,2020-05-05,A-149813048 [*](#asterisk),ID,High,N/A,mediatek,Email,
 CVE-2020-0091,2020-05-05,A-149808700 [*](#asterisk),ID,High,N/A,mediatek,mnld,
 CVE-2019-14053,2020-05-05,A-143902261 [QC-CR#2317498](https://source.codeaurora.org/quic/la/kernel/msm-4.9/commit/?id=a7afe21e5d65c74c7eacb6e577fa5cf78f8685fd),N/A,High,N/A,qualcomm-components,Kernel,
