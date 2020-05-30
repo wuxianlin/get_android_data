@@ -3,8 +3,6 @@ name: Auto Update application
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
   schedule:
     - cron: 0 5,17 * * *
 
@@ -22,8 +20,7 @@ jobs:
           :
         else
           mkdir -p tmp
-          #LATEST_JSON=$(curl --fail --retry 3 -H "Authorization: ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/mozilla/geckodriver/releases/latest)
-          LATEST_JSON=$(curl --fail --retry 3 https://api.github.com/repos/mozilla/geckodriver/releases/latest)
+          LATEST_JSON=$(curl --fail --retry 3 -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/repos/mozilla/geckodriver/releases/latest)
           GECKODRIVER_ASSET_URL=$(echo "$LATEST_JSON" | jq -r '.assets[].browser_download_url | select(contains("linux64"))')
           curl --silent --show-error --location --fail --retry 3 --output tmp/geckodriver.tar.gz ${GECKODRIVER_ASSET_URL}
           tar xf tmp/geckodriver.tar.gz -C tmp
@@ -51,17 +48,19 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install lxml selenium requests
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run and update
       run: |
         bash run.sh
-    - name: Commit changes
-      uses: autosuite/autocommit@master
-      with:
-        commit-message: auto update
-        add-options: data
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Commit and push changes
+      run: |
+        git config user.email "noreply@github.com"
+        git config user.name "GitHub Action"
+        git add data
+        if [ -z "$(git status --porcelain)" ]; then
+          echo "No changes to commit"
+        else
+          git commit -m "auto update"
+        fi
+        git push

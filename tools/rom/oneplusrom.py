@@ -8,7 +8,7 @@ from selenium import webdriver
 import argparse
 import time
 
-sleeptime=1
+sleeptime=2
 
 parser = argparse.ArgumentParser()
 parser.description='please enter parameters region ...'

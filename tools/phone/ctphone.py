@@ -16,7 +16,7 @@ headers = {'User-Agent' : 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Geck
 sleeptime=5
 
 parser = argparse.ArgumentParser()
-parser.description='please enter parameters region ...'
+parser.description='please enter parameters ...'
 parser.add_argument('-k', '--keyword', help='which keyword you want to get phone from', dest='keyword', type=str, default='OPPO')
 parser.add_argument('-o', '--output', help='output file', dest='out', type=str, default='oppo_phone.csv')
 args = parser.parse_args()

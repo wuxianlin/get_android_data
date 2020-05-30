@@ -12,7 +12,7 @@ import json
 headers = {'User-Agent' : 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0'}
 
 parser = argparse.ArgumentParser()
-parser.description='please enter parameters region ...'
+parser.description='please enter parameters ...'
 parser.add_argument('-t', '--type', help='images or ota', dest='type', type=str, default='images')
 parser.add_argument('-o', '--output', help='output file', dest='out', type=str, default='android_images.csv')
 args = parser.parse_args()
