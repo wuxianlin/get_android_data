@@ -55,6 +55,7 @@ jobs:
 
     - name: Commit and push changes
       run: |
+        rm geckodriver.log
         git config user.email "noreply@github.com"
         git config user.name "GitHub Action"
         git add data
@@ -62,5 +63,5 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "auto update"
+          git push
         fi
-        git push
