@@ -19,6 +19,8 @@ Model,Version,Download,SHA-256 Checksum
 """coral"" for Pixel 4 XL","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/coral-ota-qq2a.200405.005-e9ad5990.zip,e9ad5990a4b17c27c1c6620a04cc8b702c8fb753ff0bba3f0b2819a3800d8f6d
 """coral"" for Pixel 4 XL","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/coral-ota-qq2a.200501.001.a3-e5a01457.zip,e5a01457d4979f396969de1d29ef467b5b9123e26a8c85c5b999242ff58d90f4
 """coral"" for Pixel 4 XL","10.0.0 (QQ2A.200501.001.B2, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/coral-ota-qq2a.200501.001.b2-8309f363.zip,8309f363e3e2baae31fffac0504b4e80f8ec9cb6cea09322bce1d2a30b91b631
+"""coral"" for Pixel 4 XL","10.0.0 (QQ3A.200605.001, Jun 2020)",https://dl.google.com/dl/android/aosp/coral-ota-qq3a.200605.001-3b5bb1bd.zip,3b5bb1bd20f9d9de190935ad7fe62f5f3384be97444d17691581a7e4e4d0a5ac
+"""coral"" for Pixel 4 XL","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/coral-ota-qq3a.200605.002.a1-834b2588.zip,834b258836dec3f46dfa07ba1324909702c35b64e084fd31c73202c2c71d104c
 """flame"" for Pixel 4","10.0.0 (QD1A.190821.007, Oct 2019)",https://dl.google.com/dl/android/aosp/flame-ota-qd1a.190821.007-88cad89f.zip,88cad89f459fdeb2d5a0ec13fe2b4ce1ba29a827a83fe9152ae8edebb7d935d4
 """flame"" for Pixel 4","10.0.0 (QD1A.190821.011, Oct 2019)",https://dl.google.com/dl/android/aosp/flame-ota-qd1a.190821.011-63183d81.zip,63183d817de803e49edbe21cd6087c8c4dd81af33d0ab6ece16761d1ff29d2b5
 """flame"" for Pixel 4","10.0.0 (QD1A.190821.011.C4, Oct 2019)",https://dl.google.com/dl/android/aosp/flame-ota-qd1a.190821.011.c4-e67422bd.zip,e67422bdf73737a7b19967c1de02f39780d7ebcf5ba77260966a522238e5fd5e
@@ -39,6 +41,8 @@ Model,Version,Download,SHA-256 Checksum
 """flame"" for Pixel 4","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/flame-ota-qq2a.200405.005-2b5150a4.zip,2b5150a4c025ea6ffa20341f6c19257dbbfb9710d42de52894bc3ddb4d312b2d
 """flame"" for Pixel 4","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/flame-ota-qq2a.200501.001.a3-0013aa1f.zip,0013aa1f232b9bfe8c57bfa11e28e694e420dcd65d0c934e41259aeae8ebad02
 """flame"" for Pixel 4","10.0.0 (QQ2A.200501.001.B2, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/flame-ota-qq2a.200501.001.b2-46940f66.zip,46940f66d2d0053fbba24663c7acc24c478c60d430929bafa3726bb8871bf5b5
+"""flame"" for Pixel 4","10.0.0 (QQ3A.200605.001, Jun 2020)",https://dl.google.com/dl/android/aosp/flame-ota-qq3a.200605.001-09888a47.zip,09888a47d921ba27522d3e6c6ae122a07c71b253392ce287a587ff668b651473
+"""flame"" for Pixel 4","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/flame-ota-qq3a.200605.002.a1-fca47c5b.zip,fca47c5b4ea2be4dd8577ec141cf1648be0b421f1f354a6fdd2fa03ba1f2580a
 """bonito"" for Pixel 3a XL","9.0.0 (PD2A.190115.029, Mar 2019)",https://dl.google.com/dl/android/aosp/bonito-ota-pd2a.190115.029-c6fe430d.zip,c6fe430da3e87b194201a36f86a7d6b52d46fe667143faa9e69c96938540b665
 """bonito"" for Pixel 3a XL","9.0.0 (PD2A.190115.032, Mar 2019)",https://dl.google.com/dl/android/aosp/bonito-ota-pd2a.190115.032-fc8c7aa1.zip,fc8c7aa13db1c54fe71210ae9259761d49a89493c9c5a4bb616f902c1fe3e643
 """bonito"" for Pixel 3a XL","9.0.0 (PQ3B.190605.006, Jun 2019)",https://dl.google.com/dl/android/aosp/bonito-ota-pq3b.190605.006-63b72728.zip,63b7272885db5cd4ad36ac4388983f436df4a9236dda211d6467a1d0f2478cbd
@@ -56,6 +60,8 @@ Model,Version,Download,SHA-256 Checksum
 """bonito"" for Pixel 3a XL","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/bonito-ota-qq2a.200405.005-861f32ad.zip,861f32adb0479fcfe3443c7f15ea2f8888d7e57c8947fdd831492ff29fc3d603
 """bonito"" for Pixel 3a XL","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/bonito-ota-qq2a.200501.001.a3-096cca70.zip,096cca700f12f6a95104572f5e2ca3ca4e88e9e8495736b4be77342044f7d52c
 """bonito"" for Pixel 3a XL","10.0.0 (QQ2A.200501.001.B2, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/bonito-ota-qq2a.200501.001.b2-d802632f.zip,d802632f0f59ae396040f580ab0b86a212b90d3d21e0864795cb8529b6fe146b
+"""bonito"" for Pixel 3a XL","10.0.0 (QQ3A.200605.002, Jun 2020)",https://dl.google.com/dl/android/aosp/bonito-ota-qq3a.200605.002-4b234a3d.zip,4b234a3d4267143a3d80b226ac3717fdc3ca0e7e2e72017389f1b3a91b66cad8
+"""bonito"" for Pixel 3a XL","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/bonito-ota-qq3a.200605.002.a1-0c530add.zip,0c530add7e00006e0e351bcc09e06f7ce8cca989bc795eca3dae19adbe8e6176
 """sargo"" for Pixel 3a","9.0.0 (PD2A.190115.029, Mar 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.029-8673a81e.zip,8673a81e7d6a9ff5617103df10c9d685937fe4f13ef3a4e298d15feabe045229
 """sargo"" for Pixel 3a","9.0.0 (PD2A.190115.032, Mar 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.032-ee012043.zip,ee012043172d77a8fe772da70e8ef65d17efcd6abb2b373f4ed1e09f72f094e7
 """sargo"" for Pixel 3a","9.0.0 (PQ3B.190605.006, Jun 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pq3b.190605.006-45ff7e3e.zip,45ff7e3ef8c01b61c250445e1f994fd91778eaed29035f294778cd13e06b6b51
@@ -73,6 +79,8 @@ Model,Version,Download,SHA-256 Checksum
 """sargo"" for Pixel 3a","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/sargo-ota-qq2a.200405.005-827de487.zip,827de487df13bed8d1d3a82a824474d9040013e294897dd9f1925ad36b6258e0
 """sargo"" for Pixel 3a","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/sargo-ota-qq2a.200501.001.a3-b6057e2d.zip,b6057e2dd6225a517327bbaf016f45d14c5814d052196c37cb976547f9496c0d
 """sargo"" for Pixel 3a","10.0.0 (QQ2A.200501.001.B2, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/sargo-ota-qq2a.200501.001.b2-d6a95867.zip,d6a958672c7552f5ca9a919b6394ac86ce58bc66c815b9a3aab53588d5809313
+"""sargo"" for Pixel 3a","10.0.0 (QQ3A.200605.002, Jun 2020)",https://dl.google.com/dl/android/aosp/sargo-ota-qq3a.200605.002-cfd7d758.zip,cfd7d758d490b57e09a385cb7fa8f6b0427e03baff2e5ec5ff5091c617f07232
+"""sargo"" for Pixel 3a","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/sargo-ota-qq3a.200605.002.a1-22d17653.zip,22d17653e688a0aea8f235ff91a1d998a0d6a8670c899eb196071dfa597001ff
 """crosshatch"" for Pixel 3 XL","9.0.0 (PD1A.180720.030, Sep 2018)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.030-21ac68ff.zip,21ac68ff9e6aacefec2be4c4dde1cfa0b45e0b4aefe412dc741c4f096cbc6af5
 """crosshatch"" for Pixel 3 XL","9.0.0 (PD1A.180720.031, Sep 2018, Verizon)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.031-e5f99be0.zip,e5f99be08947d7cb75d86d3c2c837d4d9b225a9d35f44be36728cc57402c62c4
 """crosshatch"" for Pixel 3 XL","9.0.0 (PQ1A.181105.017.A1, Nov 2018)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181105.017.a1-feb712c3.zip,feb712c3ca8b5b58a13543969dde22702ecb62d051cd38958a40cfa444f03e6c
@@ -100,6 +108,8 @@ Model,Version,Download,SHA-256 Checksum
 """crosshatch"" for Pixel 3 XL","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/crosshatch-ota-qq2a.200405.005-1c4f345e.zip,1c4f345e07190d4f17de823a5efa53f04336284daf21fe52f9a5f6f7130d013e
 """crosshatch"" for Pixel 3 XL","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/crosshatch-ota-qq2a.200501.001.a3-5a383861.zip,5a383861205baa35b470b03258cae776c51dd6eb3d3fb03d1f7f0b4d41ae796b
 """crosshatch"" for Pixel 3 XL","10.0.0 (QQ2A.200501.001.B2, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/crosshatch-ota-qq2a.200501.001.b2-e3177f53.zip,e3177f534aa72c3fdf04e98b00b9e74f2b79e6f7678d32a5ff484d55f2f7dbd9
+"""crosshatch"" for Pixel 3 XL","10.0.0 (QQ3A.200605.001, Jun 2020)",https://dl.google.com/dl/android/aosp/crosshatch-ota-qq3a.200605.001-68685f95.zip,68685f957d8af0a925a26f1c0c11b9a7629df6e08dad70038c87c923a805d4aa
+"""crosshatch"" for Pixel 3 XL","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/crosshatch-ota-qq3a.200605.002.a1-3b96477d.zip,3b96477d75ad865b600fbadb6b3f34291389b7f74f7d1653858930b1e236f36a
 """blueline"" for Pixel 3","9.0.0 (PD1A.180720.030, Sep 2018)",https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.030-1d5a4f8d.zip,1d5a4f8dc5b91a1a78e9b44357e62a49dbc1d64965d743f01da563d4d534092b
 """blueline"" for Pixel 3","9.0.0 (PD1A.180720.031, Sep 2018, Verizon)",https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.031-60fa3eba.zip,60fa3ebaf1ddc6bbd93e20c261014f85329c37acd9d389e98351452372b287d7
 """blueline"" for Pixel 3","9.0.0 (PQ1A.181105.017.A1, Nov 2018)",https://dl.google.com/dl/android/aosp/blueline-ota-pq1a.181105.017.a1-7f2186c3.zip,7f2186c3905eafcaee2dc9b965633963224e54361015d3e371bb66bf3419b4fe
@@ -127,6 +137,8 @@ Model,Version,Download,SHA-256 Checksum
 """blueline"" for Pixel 3","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/blueline-ota-qq2a.200405.005-ce568bc8.zip,ce568bc89a0a208b15cf76ce48ca9d5f77bf6a8162189844f21aea52793ce93b
 """blueline"" for Pixel 3","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/blueline-ota-qq2a.200501.001.a3-1e2a6755.zip,1e2a675556c603886df25b28deb1047c27f7189f3da9e2de115f913cbffc6fa3
 """blueline"" for Pixel 3","10.0.0 (QQ2A.200501.001.B2, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/blueline-ota-qq2a.200501.001.b2-0cf1cccc.zip,0cf1ccccc377f0a0b242d3c51a7eee50ff00044b602866722b012820bdad2a6e
+"""blueline"" for Pixel 3","10.0.0 (QQ3A.200605.001, Jun 2020)",https://dl.google.com/dl/android/aosp/blueline-ota-qq3a.200605.001-d01387b9.zip,d01387b918193963ded7034cc90c179bbc9bb92b0d0f43cd404def0abd295047
+"""blueline"" for Pixel 3","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/blueline-ota-qq3a.200605.002.a1-f6510888.zip,f6510888fd8409357a5e5d68a1684e047c3c745be38360c5ae9c2302bfcdef03
 """taimen"" for Pixel 2 XL","8.0.0 (OPD1.170816.010, Sep 2017)",https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.010-825664c4.zip,825664c4b581bae9af8231ad323ad5fc63105785d868bdd53b3c9dfb75bdcca1
 """taimen"" for Pixel 2 XL","8.0.0 (OPD1.170816.011, Sep 2017, Telstra)",https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.011-797ba455.zip,797ba455bb5e6a3c8d7be5a4f0800983bbcb4495d1be0bcf2bc1407c53e7c9b9
 """taimen"" for Pixel 2 XL","8.0.0 (OPD1.170816.012, Sep 2017, Rogers, Fido)",https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.012-c726c936.zip,c726c936cab143b4c99ed71463bfbbab7af841374942f0f06a8945da4197dae9
@@ -172,6 +184,8 @@ Model,Version,Download,SHA-256 Checksum
 """taimen"" for Pixel 2 XL","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/taimen-ota-qq2a.200405.005-a1de17f3.zip,a1de17f3bb8fa172f7bdb1456c682bce9fb5b25393723ee12363553d20296168
 """taimen"" for Pixel 2 XL","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/taimen-ota-qq2a.200501.001.a3-0b4c9315.zip,0b4c931563d8ce9b98c1e0800db7c32dfae45d5cf92fdfcf43bd072ccbe0e830
 """taimen"" for Pixel 2 XL","10.0.0 (QQ2A.200501.001.B3, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/taimen-ota-qq2a.200501.001.b3-85b863e3.zip,85b863e3c61165763f67a9b5659889920a51067f8236ec2fbf0a23dd5929a6d8
+"""taimen"" for Pixel 2 XL","10.0.0 (QQ3A.200605.001, Jun 2020)",https://dl.google.com/dl/android/aosp/taimen-ota-qq3a.200605.001-992633c8.zip,992633c8482230a68706433859f692a05af21b9dbd1f59a7016ae8d425fd682c
+"""taimen"" for Pixel 2 XL","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/taimen-ota-qq3a.200605.002.a1-a5271614.zip,a5271614a7cea58d8dd0f253aff0c5bbb167f5439599c0f60827a0ab4d24a829
 """walleye"" for Pixel 2","8.0.0 (OPD1.170816.010, Sep 2017)",https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.010-768eb7b1.zip,768eb7b1141db97be5c8e5118935c19178e5a12defe862c86dfd6dc0eb468f31
 """walleye"" for Pixel 2","8.0.0 (OPD1.170816.011, Sep 2017, Telstra)",https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.011-1e0ba663.zip,1e0ba663ab69d5ef3f4130ea03322856018877e5124a94e60c0065e507065a10
 """walleye"" for Pixel 2","8.0.0 (OPD1.170816.012, Sep 2017, Rogers, Fido)",https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.012-e69461b4.zip,e69461b4ed3471a3c96607b335f1a469776f068ff7ffa7ee861284b06fb9b1ca
@@ -221,6 +235,8 @@ Model,Version,Download,SHA-256 Checksum
 """walleye"" for Pixel 2","10.0.0 (QQ2A.200405.005, Apr 2020)",https://dl.google.com/dl/android/aosp/walleye-ota-qq2a.200405.005-9731590a.zip,9731590afdaae9e23f97f331b1eab2fd66c617956f03b93a63d088a52791dfac
 """walleye"" for Pixel 2","10.0.0 (QQ2A.200501.001.A3, May 2020, TW carriers)",https://dl.google.com/dl/android/aosp/walleye-ota-qq2a.200501.001.a3-3e4a7439.zip,3e4a7439304210cf06c94521d6b2b57d376e034cafe328d9e0b44fb71d57a7fd
 """walleye"" for Pixel 2","10.0.0 (QQ2A.200501.001.B3, May 2020, All carriers except TW)",https://dl.google.com/dl/android/aosp/walleye-ota-qq2a.200501.001.b3-94f0865f.zip,94f0865fcb7b602cd38f8e47c9c642bb663d8dcbcbe25e1dea93e1cbd4fe9d49
+"""walleye"" for Pixel 2","10.0.0 (QQ3A.200605.001, Jun 2020)",https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200605.001-ec8364f7.zip,ec8364f7c1280c04565feee9b7e861b30f173e90cce4df4495ec4b1153f1836c
+"""walleye"" for Pixel 2","10.0.0 (QQ3A.200605.002.A1, Jun 2020, Telstra Only)",https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200605.002.a1-b8ec20a1.zip,b8ec20a13f64f1f7ce835e4dfc4e60c8a117403fa7540ba38a1e84fe68bd83a1
 """marlin"" for Pixel XL","7.1.0 (NDE63H, Oct 2016)",https://dl.google.com/dl/android/aosp/marlin-ota-nde63h-0c0ed502.zip,0c0ed502c19913c3a328eafe4e8142cbda1325be18a377e6e4122b486763e1c8
 """marlin"" for Pixel XL","7.1.0 (NDE63L, Oct 2016)",https://dl.google.com/dl/android/aosp/marlin-ota-nde63l-205d22e7.zip,205d22e797998ce5aa4ad3c877a09900c3f55067c0b2dfd8661de441a2db786d
 """marlin"" for Pixel XL","7.1.0 (NDE63P, Oct 2016)",https://dl.google.com/dl/android/aosp/marlin-ota-nde63p-20858ae7.zip,20858ae7151f25963bf1a5b1bb54d3129fec9f3766e8e29ad2982bf8c80d8244
