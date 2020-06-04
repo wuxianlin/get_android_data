@@ -35,6 +35,8 @@ for link in links:
             #print(h2id)
             if h2id.endswith('-security-patch-level—vulnerability-details'):
                 detailsdate=h2id[:-len('-security-patch-level—vulnerability-details')]
+            elif h2id.endswith('-security-patch-level-vulnerability-details'):
+                detailsdate=h2id[:-len('-security-patch-level-vulnerability-details')]
             elif h2id.endswith('-details'):
                 detailsdate=h2id[:-len('-details')]
             elif h2id == 'vulnerability details' and 'android-10' in href:
