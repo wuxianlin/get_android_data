@@ -2,7 +2,8 @@ Phone,Device,Type,Version,RomUrl,Size
 POCO F2 Pro,POCO F2 Pro EEA,stable_rom,V11.0.6.0.QJKEUXM (MIUI11),https://bigota.d.miui.com/V11.0.6.0.QJKEUXM/miui_LMIEEAGlobal_V11.0.6.0.QJKEUXM_c20779f7ec_10.0.zip,2.6G
 POCO F2 Pro,POCO F2 Pro Global,stable_rom,V11.0.2.0.QJKMIXM (MIUI11),https://bigota.d.miui.com/V11.0.2.0.QJKMIXM/miui_LMIGlobal_V11.0.2.0.QJKMIXM_11263d45f3_10.0.zip,2.5G
 Mi 10/Pro,Mi 10 ID,stable_rom,V11.0.3.0.QJBIDXM (MIUI11),https://bigota.d.miui.com/V11.0.3.0.QJBIDXM/miui_UMIIDGlobal_V11.0.3.0.QJBIDXM_9a9a881ee4_10.0.zip,2.5G
-Mi 10/Pro,Mi 10 EEA,stable_rom,V11.0.9.0.QJBEUXM (MIUI11),https://bigota.d.miui.com/V11.0.9.0.QJBEUXM/miui_UMIEEAGlobal_V11.0.9.0.QJBEUXM_f40b8c154f_10.0.zip,2.5G
+Mi 10/Pro,Mi 10 EEA,stable_rom,V11.0.12.0.QJBEUXM (MIUI11),https://bigota.d.miui.com/V11.0.12.0.QJBEUXM/miui_UMIEEAGlobal_V11.0.12.0.QJBEUXM_88a2514f92_10.0.zip,2.5G
+Mi 10/Pro,Mi 10 RU,stable_rom,V11.0.1.0.QJBRUXM (MIUI11),https://bigota.d.miui.com/V11.0.1.0.QJBRUXM/miui_UMIRUGlobal_V11.0.1.0.QJBRUXM_40231fe5ac_10.0.zip,2.5G
 Mi 10/Pro,Mi 10 Global,stable_rom,V11.0.2.0.QJBMIXM (MIUI11),https://bigota.d.miui.com/V11.0.2.0.QJBMIXM/miui_UMIGlobal_V11.0.2.0.QJBMIXM_4f986c08cb_10.0.zip,2.5G
 Mi 10/Pro,Mi 10 IN,stable_rom,V11.0.4.0.QJBINXM (MIUI11),https://bigota.d.miui.com/V11.0.4.0.QJBINXM/miui_UMIINGlobal_V11.0.4.0.QJBINXM_1818b1d7b6_10.0.zip,2.4G
 Mi 10/Pro,Mi 10 Pro EEA,stable_rom,V11.0.10.0.QJAEUXM (MIUI11),https://bigota.d.miui.com/V11.0.10.0.QJAEUXM/miui_CMIEEAGlobal_V11.0.10.0.QJAEUXM_1011655dba_10.0.zip,2.5G
@@ -30,9 +31,9 @@ Redmi 8/8A,Redmi 8A EEA,stable_rom,V11.0.4.0.PCPEUXM (MIUI11),https://bigota.d.m
 Redmi 8/8A,Redmi 8A Global,stable_rom,V11.0.6.0.PCPMIXM (MIUI11),https://bigota.d.miui.com/V11.0.6.0.PCPMIXM/miui_OLIVELITEGlobal_V11.0.6.0.PCPMIXM_4fccc6d422_9.0.zip,1.7G
 Redmi 8/8A,Redmi 8 India,stable_rom,V11.0.11.0.PCNINXM (MIUI11),https://bigota.d.miui.com/V11.0.11.0.PCNINXM/miui_OLIVEINGlobal_V11.0.11.0.PCNINXM_aa4516b793_9.0.zip,2.0G
 Redmi 8/8A,Redmi 8 ID,stable_rom,V11.0.5.0.PCNIDXM (MIUI11),https://bigota.d.miui.com/V11.0.5.0.PCNIDXM/miui_OLIVEIDGlobal_V11.0.5.0.PCNIDXM_a71f53ad0c_9.0.zip,1.9G
-Redmi 8/8A,Redmi 8 EEA,stable_rom,V11.0.6.0.PCNEUXM (MIUI11),https://bigota.d.miui.com/V11.0.6.0.PCNEUXM/miui_OLIVEEEAGlobal_V11.0.6.0.PCNEUXM_beb6960123_9.0.zip,2.0G
+Redmi 8/8A,Redmi 8 EEA,stable_rom,V11.0.7.0.PCNEUXM (MIUI11),https://bigota.d.miui.com/V11.0.7.0.PCNEUXM/miui_OLIVEEEAGlobal_V11.0.7.0.PCNEUXM_305316f209_9.0.zip,2.0G
 Redmi 8/8A,Redmi 8 RU,stable_rom,V11.0.5.0.PCNRUXM (MIUI11),https://bigota.d.miui.com/V11.0.5.0.PCNRUXM/miui_OLIVERUGlobal_V11.0.5.0.PCNRUXM_ba1a23e0cb_9.0.zip,2.0G
-Redmi 8/8A,Redmi 8 Global,stable_rom,V11.0.10.0.PCNMIXM (MIUI11),https://bigota.d.miui.com/V11.0.10.0.PCNMIXM/miui_OLIVEGlobal_V11.0.10.0.PCNMIXM_3daae20692_9.0.zip,2.0G
+Redmi 8/8A,Redmi 8 Global,stable_rom,V11.0.11.0.PCNMIXM (MIUI11),https://bigota.d.miui.com/V11.0.11.0.PCNMIXM/miui_OLIVEGlobal_V11.0.11.0.PCNMIXM_4a0ca7fcbd_9.0.zip,2.0G
 Redmi Note 8/Pro/8T,Redmi Note 8 Global,stable_rom,V11.0.8.0.PCOMIXM (MIUI11),https://bigota.d.miui.com/V11.0.8.0.PCOMIXM/miui_GINKGOGlobal_V11.0.8.0.PCOMIXM_f9fd10c076_9.0.zip,2.0G
 Redmi Note 8/Pro/8T,Redmi Note 8 Pro Global,stable_rom,V11.0.6.0.PGGMIXM (MIUI11),https://bigota.d.miui.com/V11.0.6.0.PGGMIXM/miui_BEGONIAGlobal_V11.0.6.0.PGGMIXM_41b14febb2_9.0.zip,1.9G
 Redmi Note 8/Pro/8T,Redmi Note 8 Pro EEA,stable_rom,V11.0.3.0.PGGEUXM (MIUI11),https://bigota.d.miui.com/V11.0.3.0.PGGEUXM/miui_BEGONIAEEAGlobal_V11.0.3.0.PGGEUXM_d7349241eb_9.0.zip,1.9G
