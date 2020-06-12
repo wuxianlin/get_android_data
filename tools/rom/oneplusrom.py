@@ -21,6 +21,9 @@ writer = csv.writer(phoneinfooutf)
 
 writer.writerow(['机型','类型','版本','时间','大小','MD5','下载'] if args.region=='cn' else ['Model','Build Type','Version','Updated On','Size','MD5','Download'])
 
+if args.region=='cn':
+    sleeptime=5
+
 # Get the Firefox profile object
 profile = webdriver.firefox.webdriver.FirefoxProfile()
 # Disable images

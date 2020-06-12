@@ -39,6 +39,8 @@ for link in links:
                 detailsdate=h2id[:-len('-security-patch-level-vulnerability-details')]
             elif h2id.endswith('-details'):
                 detailsdate=h2id[:-len('-details')]
+                if len(detailsdate)<10:
+                    detailsdate=t.attrib.get('data-text').split(' ')[0]
             elif h2id == 'vulnerability details' and 'android-10' in href:
                 detailsdate='2019-09-01'
             elif h2id.endswith('spl'):
