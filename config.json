@@ -12,6 +12,22 @@
     "out": "android_ota_images.csv"
   },
   {
+    "cmd": "python tools/device/gmsdevice.py -b OnePlus,Oppo,Realme -o oplus_gms_devices.csv",
+    "out": "oplus_gms_devices.csv"
+  },
+  {
+    "cmd": "python tools/device/gmsdevice.py -b Xiaomi,Redmi,POCO,Blackshark -o mi_gms_devices.csv",
+    "out": "mi_gms_devices.csv"
+  },
+  {
+    "cmd": "python tools/device/gmsdevice.py -b Huawei -o huawei_gms_devices.csv",
+    "out": "huawei_gms_devices.csv"
+  },
+  {
+    "cmd": "python tools/device/gmsdevice.py -b Vivo -o vivo_gms_devices.csv",
+    "out": "vivo_gms_devices.csv"
+  },
+  {
     "cmd": "python tools/rom/oneplusrom.py -r cn -o oneplus_rom.csv",
     "out": "oneplus_rom.csv"
   },
@@ -44,7 +60,7 @@
     "out": "miui_rom.csv"
   },
   {
-    "cmd": "python tools/phone/ctphone.py -k OPPO -o oppo_phone.csv",
+    "cmd": "python tools/device/ctphone.py -k OPPO -o oppo_phone.csv",
     "out": "oppo_phone.csv"
   },
   {
