@@ -30,6 +30,9 @@ Redmi,Redmi 8,olive,Redmi 8
 Redmi,Redmi 8A,olivelite,Redmi 8A
 Redmi,Redmi 8A Dual,olivewood,Redmi 8A Dual
 Redmi,Redmi 8A Dual,olivewood,Redmi 8A Pro
+Redmi,Redmi 9,galahad,M2004J19C
+Redmi,Redmi 9,galahad,galahad
+Redmi,Redmi 9,lancelot,M2004J19C
 Redmi,Redmi K20,davinci,Mi 9T
 Redmi,Redmi K20,davinci,Redmi K20
 Redmi,Redmi K20,davinciin,Redmi K20
@@ -38,6 +41,7 @@ Redmi,Redmi K20 Pro,raphael,Redmi K20 Pro
 Redmi,Redmi K20 Pro,raphael,Redmi K20 Pro Premium Edition
 Redmi,Redmi K30,phoenix,Redmi K30
 Redmi,Redmi K30 5G,picasso,Redmi K30 5G
+Redmi,Redmi K30i 5G,picasso,Redmi K30i 5G
 Redmi,Redmi Note 7,lavender,Redmi Note 7
 Redmi,Redmi Note 8,ginkgo,GINKGO
 Redmi,Redmi Note 8,ginkgo,Redmi Note 8
@@ -46,7 +50,13 @@ Redmi,Redmi Note 8 pro,begoniain,Redmi Note 8 Pro
 Redmi,Redmi Note 8T,willow,Redmi Note 8T
 Redmi,Redmi Note 8T,willow,willow
 Redmi,Redmi Note 9,merlin,M2003J15SC
+Redmi,Redmi Note 9,merlinnfc,M2003J15SC
+Redmi,Redmi Note 9 Pro,curtana,Redmi Note 9 Pro
+Redmi,Redmi Note 9 Pro,curtana,curtana
 Redmi,Redmi Note 9 Pro,joyeuse,Redmi Note 9 Pro
+Redmi,Redmi Note 9S,curtana,Redmi Note 9 Pro
+Redmi,Redmi Note 9S,curtana,Redmi Note 9S
+Redmi,Redmi Note 9S,excalibur,Redmi Note 9 Pro Max
 Xiaomi,China,braveheart,MiTV
 Xiaomi,HM 1SC,armani,HM 1AC
 Xiaomi,HM 1SC,armani,HM 1S
@@ -225,11 +235,6 @@ Xiaomi,Redmi Note 5 Pro,whyred,Redmi Note 5 Pro
 Xiaomi,Redmi Note 5A,ugg,Redmi Note 5A
 Xiaomi,Redmi Note 5A,ugg,Redmi Y1
 Xiaomi,Redmi Note 5A,ugglite,Redmi Note 5A
-Xiaomi,Redmi Note 9 Pro,curtana,Redmi Note 9 Pro
-Xiaomi,Redmi Note 9 Pro,curtana,curtana
-Xiaomi,Redmi Note 9S,curtana,Redmi Note 9 Pro
-Xiaomi,Redmi Note 9S,curtana,Redmi Note 9S
-Xiaomi,Redmi Note 9S,excalibur,Redmi Note 9 Pro Max
 Xiaomi,Redmi Pro,omega,Redmi Pro
 Xiaomi,Redmi S2,ysl,Redmi S2
 Xiaomi,TELEBEE,once,MIBOX3
