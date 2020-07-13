@@ -37,6 +37,8 @@ for link in links:
                 detailsdate=h2id[:-len('-security-patch-level—vulnerability-details')]
             elif h2id.endswith('-security-patch-level-vulnerability-details'):
                 detailsdate=h2id[:-len('-security-patch-level-vulnerability-details')]
+            elif h2id.endswith('-spl-details'):
+                detailsdate=h2id[:-len('-spl-details')]
             elif h2id.endswith('-details'):
                 detailsdate=h2id[:-len('-details')]
                 if len(detailsdate)<10:
