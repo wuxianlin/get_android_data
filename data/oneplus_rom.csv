@@ -1,12 +1,14 @@
 机型,类型,版本,时间,大小,MD5,下载
-OnePlus 8 Pro,稳定版,10.5.10.IN11,2020-06-08,3.10 GB,9a87ff041f76e52c6e7fa4b55cc8eb3b,http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.19_OTA_019_all_2005301412_eb61529bbcde48c9.zip
-OnePlus 8,稳定版,10.5.6.IN21,2020-06-08,3.02 GB,b5b2345118cdfef20442085f9ebc6122,http://download.h2os.com/OnePlus8/MP/OnePlus8Hydrogen_15.H.15_OTA_015_all_2005301406_8e11f9132d024b36.zip
+OnePlus 8 Pro,稳定版,10.5.11.IN11AA,2020-07-14,3.10 GB,428acd2263cb56e4c9a5ac6431e1e382,http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.20_OTA_020_all_2007021955_c0be2f16a0bc4be6.zip
+OnePlus 8,稳定版,10.5.7.IN21,2020-07-14,3.02 GB,f74831076667617ebfd69d0f3d97e20a,http://download.h2os.com/OnePlus8/MP/OnePlus8Hydrogen_15.H.16_OTA_016_all_2006300133_8a4ea3ce57c64128.zip
 OnePlus 7T Pro,稳定版,10.0.8.HD01,2020-06-12,3.40GB,1467a9b2c1a6407426916def97a4fd97,http://download.h2os.com/OnePlus7T%20Pro/MP/OnePlus7TProHydrogen_14.H.13_OTA_013_all_2005132008_71ff653b558048a0.zip
-OnePlus 7T Pro,公测版,第6版,2020-06-23,3.46 GB,fd816584b2db1cfd7b7f04c83a8cd587,http://download.h2os.com/OnePlus7T%20Pro/OBT/OnePlus7TProHydrogen_13.X.06_OTA_006_all_2006111742_3b33ebc22d4446c6.zip
+OnePlus 7T Pro,公测版,第7版,2020-07-14,3.51 GB,8f55bc8eb4bef63bbf7bec6d8044d72e,http://download.h2os.com/OnePlus7T%20Pro/OBT/OnePlus7TProHydrogen_13.X.07_OTA_007_all_2007030054_b16031cb06674e3d.zip
 OnePlus 7T,稳定版,10.0.10.HD65,2020-06-12,3.31GB,315c9b80d33f9cc403c383be9e40fcbe,http://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.13_OTA_013_all_2005131949_e0faf0194a4049ba.zip
 OnePlus 7T,公测版,第6版,2020-06-23,3.39 GB,33b79872782d3856af2e87665b4f1a9d,http://download.h2os.com/OnePlus7T/OBT/OnePlus7THydrogen_13.X.06_OTA_006_all_2006111718_dd8bee2682cf46c8.zip
+OnePlus 7 Pro,稳定版,10.0.6.GM21,2020-06-12,3.00GB,cec19be53485367983793bfe3fc6ecc1,http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.26_OTA_026_all_2005131910_126315831bb246d9.zip
+OnePlus 7 Pro,公测版,第15版,2020-07-14,3.14 GB,e796f1d2dd04faf387a28c382a5d3d68,http://download.h2os.com/OnePlus7Pro/OBT/OnePlus7ProHydrogen_13.X.39_OTA_039_all_2007031234_2bc88d7c326644b5.zip
 OnePlus 7,稳定版,10.0.6.GM57,2020-06-12,2.94 GB,4b65b5e52733ea6729c7eeefaf66b686,http://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.26_OTA_026_all_2005131921_07ed821de2814cf6.zip
-OnePlus 7,公测版,第14版,2020-06-23,3.06 GB,67a690098ffdd351280da3a3f352183e,http://download.h2os.com/OnePlus7/OBT/OnePlus7Hydrogen_13.X.37_OTA_037_all_2006111656_850a68bf149144cf.zip
+OnePlus 7,公测版,第15版,2020-07-14,3.11 GB,15a8c7fe574dd1bd00aaec393220ca2e,http://download.h2os.com/OnePlus7/OBT/OnePlus7Hydrogen_13.X.39_OTA_039_all_2007030032_29ec276e10f04874.zip
 OnePlus 6T,稳定版,第4版（Android10.0）,2020-05-15,2.27 GB,8f6855067fd624dc9fb4ff06cf5d9415,http://download.h2os.com/OnePlus6T/MP/OnePlus6THydrogen_34_OTA_044_all_2004151612_8acea2712bfb4699.zip
 OnePlus 6T,公测版,第6版（Android10.0）,2020-04-08,2.47GB,d40acfdfda14325a829688b709013385,http://download.h2os.com/OnePlus6T/OPEN/OnePlus6THydrogen_41_OTA_065_all_2004012153_e3f97d69d2a64f69.zip
 OnePlus 6,稳定版,第4版（Android10.0）,2020-05-15,2.20 GB,6b11b1acf2c10a02f8c2f90769fa25bc,http://download.h2os.com/OnePlus6/MP/OnePlus6Hydrogen_22_OTA_044_all_2004151609_0096a960ae414744.zip
