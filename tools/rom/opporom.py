@@ -12,34 +12,29 @@ headers = {'User-Agent' : 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Geck
 sleeptime=5
 
 def parse_brand(writer, brand):
-    brandId = brand['brandId']
+    brandId = brand['id']
     brandName = brand['brandName']
-    productList = requests.get('https://bbs.coloros.net/V1/product/getProductList?brandId='+brandId, headers=headers).content.decode('utf-8')
+    productList = requests.get('https://www.coloros.com/api/colorOS/business/rom/productList?brandId='+str(brandId), headers=headers).content.decode('utf-8')
     productlistjson = json.loads(productList)
     for product in productlistjson['data']:
         parse_product(writer, brandName, product)
     time.sleep(sleeptime)
 
 def parse_product(writer, brandName, product):
-    productId = product['productId']
+    productId = product['id']
     productName = product['productName']
     print(productName)
-    romInfo = requests.get('https://bbs.coloros.net/V1/oppoRom/getRomInfo?productId='+productId, headers=headers).content.decode('utf-8')
+    romInfo = requests.get('https://www.coloros.com/api/colorOS/business/rom/romList?productId='+productId, headers=headers).content.decode('utf-8')
     romInfojson = json.loads(romInfo)
-    parse_rom(writer, brandName, productName, romInfojson['data'])
+    for rom in romInfojson['data']:
+        writer.writerow([brandName, productName, rom['version'], rom['colorosVersion'], rom['androidVersion'], rom['fileUrl'], rom['fileSize'], rom['updateTime'], rom['fileMd5']])
     time.sleep(sleeptime*2)
-
-def parse_rom(writer, brandName, productName, romList):
-    writer.writerow([brandName, productName, romList['romName'], romList['romVersion'], romList['colorVersion'], romList['androidVersion'], romList['fileUrl'], romList['fileSizeAlias'], romList['releasePackageDate'], romList['md5']])
-    if not romList['oppoRomList'] is None:
-        for rom in romList['oppoRomList']:
-            parse_rom(writer, brandName, productName, rom)
 
 if __name__ == '__main__':
     rominfooutf = codecs.open('oppo_rom.csv', 'w', encoding='utf-8')
     writer = csv.writer(rominfooutf)
-    writer.writerow(['系列', '机型', '名称', '版本', 'ColorOS', 'Android', '地址', '大小', '时间', 'MD5'])
-    brandlist = requests.get('https://bbs.coloros.net/V1/oppoBrand/getBrandList', headers=headers).content.decode('utf-8')
+    writer.writerow(['系列', '机型', '版本', 'ColorOS', 'Android', '地址', '大小', '时间', 'MD5'])
+    brandlist = requests.get('https://www.coloros.com/api/colorOS/business/rom/brandList', headers=headers).content.decode('utf-8')
     brandlistjson = json.loads(brandlist)
     for brand in brandlistjson['data']:
         parse_brand(writer, brand)
