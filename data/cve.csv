@@ -14,7 +14,7 @@ CVE-2020-0256,2020-08-01,[A-152874864](https://android.googlesource.com/platform
 CVE-2020-0248,2020-08-01,[A-154627439](https://android.googlesource.com/platform/frameworks/base/+/c4d6e387984e09e86a58e6485555a2d651f0481f),ID,High,10,system,N/A,
 CVE-2020-0250,2020-08-01,[A-154934934](https://android.googlesource.com/platform/packages/services/Telephony/+/aa4283b976ea7bc5d1708472477834462a1dbdde),ID,High,10,system,N/A,
 CVE-2020-0259,2020-08-05,A-157941353 [*](#asterisk),EoP,High,N/A,amlogic-components,dm-verity,
-CVE-2020-0255,2020-08-05,A-155485360 [Upstream kernel](http://android.googlesource.com/kernel/common/+/fb73974172ff),EoP,High,N/A,kernel-components,SELinux,
+CVE-2020-10751,2020-08-05,A-155485360 [Upstream kernel](http://android.googlesource.com/kernel/common/+/fb73974172ff),EoP,High,N/A,kernel-components,SELinux,
 CVE-2020-12464,2020-08-05,A-156071259 [Upstream kernel](https://android.googlesource.com/kernel/common/+/056ad39ee925),EoP,High,N/A,kernel-components,Linux USB Subsystem,
 CVE-2019-16746,2020-08-05,A-145728612 [Upstream kernel](https://android.googlesource.com/kernel/common/+/f88eb7c0d002),ID,High,N/A,kernel-components,Linux Wireless Subsystem,
 CVE-2020-0252,2020-08-05,A-152236803 [*](#asterisk),EoP,High,N/A,mediaTek-components,Multimedia Processing Driver,
