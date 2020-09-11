@@ -49,7 +49,7 @@ V8 标配版,A（公开版）,出厂系统,Flyme 7.1.2.2A,83d9a76d6e55c18c7fe20c
 15 Plus,A（公开版）,体验版,Flyme 8.19.11.26 beta,bfb7d1e080357d1ec8fe93db4c83d273,https://firmware.meizu.com/Firmware/Flyme/15_Plus/8.19.11.26/cn_beta/20191125203325/4c83d273/update.zip,2125MB,2019-11-27
 15 Plus,A（公开版）,体验版,Flyme 8.19.11.12 beta,d2c92245ce425a9c7e61626d2dcfba0d,https://firmware.meizu.com/Firmware/Flyme/15_Plus/8.19.11.12/cn_beta/20191108104807/2dcfba0d/update.zip,2125MB,2019-11-12
 15 Plus,A（公开版）,出厂系统,Flyme 7.0.3.2A,12a57f65d868d7467f2f0aaffdec806e,https://firmware.meizu.com/Firmware/Flyme/15_Plus/7.0.3.2/cn/20180831212057/fdec806e/update.zip,2064MB,2018-06-22
-15,A（公开版）,稳定版 推荐,Flyme 8.0.0.0A,3ee1e5af00a0b51deb7453493a887e53,https://firmware.meizu.com/Firmware/Flyme/15/8.0.0.0/cn/20191216104918/3a887e53/update.zip,2336MB,2019-12-20
+15,A（公开版）,稳定版 推荐,Flyme 8.0.5.0A,f6a51dff0076475e79d01ce875dc7714,https://firmware.meizu.com/Firmware/Flyme/15/8.0.5.0/cn/20200907103451/75dc7714/update.zip,2287MB,2020-09-11
 15,A（公开版）,体验版,Flyme 8.19.11.26 beta,19b4e425d5547defa13b07736b80b652,https://firmware.meizu.com/Firmware/Flyme/15/8.19.11.26/cn_beta/20191126112955/6b80b652/update.zip,2338MB,2019-11-27
 15,A（公开版）,体验版,Flyme 8.19.11.12 beta,2c2e7f4c6ff7ab54c2ca777642a990ab,https://firmware.meizu.com/Firmware/Flyme/15/8.19.11.12/cn_beta/20191109183530/42a990ab/update.zip,2339MB,2019-11-12
 15,A（公开版）,出厂系统,Flyme 7.0.2.2A,61b3c9bf732316ccb4cd667d3041f5e4,https://firmware.meizu.com/Firmware/Flyme/15/7.0.2.2/cn/20180831211852/3041f5e4/update.zip,2248MB,2018-06-15
@@ -58,7 +58,7 @@ M15,A（公开版）,稳定版 推荐,Flyme 8.0.5.0A,d0da76ea99512b536a757d59f42
 M15,A（公开版）,体验版,Flyme 7.9.5.28 beta,768bc9054ac698f85569573b0a643ba7,https://firmware.meizu.com/Firmware/Flyme/M15/7.9.5.28/cn_beta/20190524194114/0a643ba7/update.zip,2598MB,2019-05-28
 M15,A（公开版）,体验版,Flyme 7.9.5.7 beta,a141b2b695be176605fa1d9b05942842,https://firmware.meizu.com/Firmware/Flyme/M15/7.9.5.7/cn_beta/20190505191519/05942842/update.zip,2566MB,2019-05-07
 M15,A（公开版）,出厂系统,Flyme 7.0.1.2A,b7fe7e95d9d7e93fc65abb2b1bcdf575,https://firmware.meizu.com/Firmware/Flyme/M15/7.0.1.2/cn/20180831211550/1bcdf575/update.zip,2208MB,2018-06-29
-魅蓝 E3,A（公开版）,稳定版 推荐,Flyme 8.0.0.0A,76575a1a3170ce0fea3e474e486af3c1,https://firmware.meizu.com/Firmware/Flyme/M3E/8.0.0.0/cn/20200117180649/486af3c1/update.zip,2292MB,2020-01-20
+魅蓝 E3,A（公开版）,稳定版 推荐,Flyme 8.0.5.0A,9f2889c237ecd6e54b93f3e8e9e0417c,https://firmware.meizu.com/Firmware/Flyme/M3E/8.0.5.0/cn/20200910111156/e9e0417c/update.zip,2276MB,2020-09-11
 魅蓝 E3,A（公开版）,体验版,Flyme 7.8.11.13 beta,e866988958026815ae0c87c044d3a6cd,https://firmware.meizu.com/Firmware/Flyme/M3E/7.8.11.13/cn_beta/20181109160412/44d3a6cd/update.zip,2149MB,2018-11-13
 魅蓝 E3,A（公开版）,体验版,Flyme 7.8.10.30 beta,9349d8a5fb60702b400e3febd74332a3,https://firmware.meizu.com/Firmware/Flyme/M3E/7.8.10.30/cn_beta/20181026171529/d74332a3/update.zip,2145MB,2018-10-30
 魅蓝 E3,A（公开版）,出厂系统,Flyme 6.3.2.2A,0dc2ea4356f9b71024d53203f05e3186,https://firmware.meizu.com/Firmware/Flyme/M3E/6.3.2.2/cn/20180530115721/f05e3186/update.zip,2045MB,2018-06-07
@@ -83,7 +83,7 @@ PRO 7 Plus,A（公开版）,稳定版 推荐,Flyme 8.0.0.0A,2a14ec8a4df9a4481757
 PRO 7 Plus,A（公开版）,体验版,Flyme 8.19.11.26 beta,25996da208951059915849005101bee9,https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/8.19.11.26/cn_beta/20191126111810/5101bee9/update.zip,1739MB,2019-11-27
 PRO 7 Plus,A（公开版）,体验版,Flyme 8.19.11.12 beta,134f1613bb1d11c806ad7a0ca08e4506,https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/8.19.11.12/cn_beta/20191109183515/a08e4506/update.zip,1739MB,2019-11-12
 PRO 7 Plus,A（公开版）,出厂系统,Flyme 6.1.2.5A,43161cf9677ee3f3fe7a72d82cace34a,https://firmware.meizu.com/Firmware/Flyme/PRO7_Plus/6.1.2.5/cn/20170914153556/2cace34a/update.zip,1365MB,2017-09-18
-PRO 7 高配版,A（公开版）,稳定版 推荐,Flyme 8.0.0.0A,7223035238e31a2e80cfe9bae9701eed,https://firmware.meizu.com/Firmware/Flyme/PRO7H/8.0.0.0/cn/20191217114750/e9701eed/update.zip,1707MB,2019-12-18
+PRO 7 高配版,A（公开版）,稳定版 推荐,Flyme 8.0.5.0A,435f665e4ce7100e111f1b99ca7d302b,https://firmware.meizu.com/Firmware/Flyme/PRO7H/8.0.5.0/cn/20200908095355/ca7d302b/update.zip,1688MB,2020-09-11
 PRO 7 高配版,A（公开版）,体验版,Flyme 8.19.11.26 beta,ddad00273b7e9fb3f6324d71a7c750f4,https://firmware.meizu.com/Firmware/Flyme/PRO7H/8.19.11.26/cn_beta/20191126111610/a7c750f4/update.zip,1705MB,2019-11-27
 PRO 7 高配版,A（公开版）,体验版,Flyme 8.19.11.12 beta,270e063ed18d9fe4f107c8304d1ee6f4,https://firmware.meizu.com/Firmware/Flyme/PRO7H/8.19.11.12/cn_beta/20191109183500/4d1ee6f4/update.zip,1705MB,2019-11-12
 PRO 7 高配版,A（公开版）,出厂系统,Flyme 6.2.0.1A,527d76a86315a2dc73dbb08a9c970eff,https://firmware.meizu.com/Firmware/Flyme/PRO7H/6.2.0.1/cn/20171023113334/9c970eff/update.zip,1331MB,2017-11-07
