@@ -1,4 +1,5 @@
 机型,类型,版本,时间,大小,MD5,下载
+OnePlus 8 Pro,稳定版,10.5.13.IN11AA,2020-08-19,3.16 GB,4d5b48bea7d3bac1534d08776229c4e6,http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.22_OTA_022_all_2008080047_69fc62d12bff4c00.zip
 OnePlus 8,稳定版,10.5.9.IN21,2020-08-19,3.09 GB,38899b78f202be17095c5e259d1d6e69,http://download.h2os.com/OnePlus8/MP/OnePlus8Hydrogen_15.H.18_OTA_018_all_2008080046_368332a4354e4133.zip
 OnePlus 7T Pro,稳定版,10.0.9.HD01,2020-08-04,3.46 GB,4e7e478412462cd7681f3121a5de33e1,http://download.h2os.com/OnePlus7T%20Pro/MP/OnePlus7TProHydrogen_14.H.14_OTA_014_all_2007240048_7ce216b99f32446f.zip
 OnePlus 7T Pro,公测版,第8版,2020-08-19,3.61 GB,7c3ad1a2727a9f0c4ec1377706494890,http://download.h2os.com/OnePlus7T%20Pro/OBT/OnePlus7TProHydrogen_13.X.08_OTA_008_all_2008032335_7d18dded52124680.zip
@@ -16,10 +17,6 @@ OnePlus 5T,稳定版,10.0.1,2020-09-08,2.36 GB,954de6cdfefca666188cbaad2cb00774,
 OnePlus 5T,公测版,第33版,2019-06-27,2.10 GB,A6D0480A8AC0A79EBBA2B98555807981,http://download.h2os.com/5T/OPEN/OnePlus5THydrogen_43_OTA_054_all_1906241433_fb64e41048a44182.zip
 OnePlus 5,稳定版,10.0.1,2020-09-08,2.34 GB,e2bb6dceb161164f87cad67ee002f040,http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_063_all_2008051515_03d2307351f0443c.zip
 OnePlus 5,公测版,第34版,2019-06-27,2.08 GB,1308C7EDE4CE904E48FAFEB58401F9C7,http://download.h2os.com/OnePlus5/OPEN/OnePlus5Hydrogen_23_OTA_054_all_1906241435_a7d827c332c14e09.zip
-OnePlus 3T,稳定版,第二版,2020-03-27,1.82GB,6e4f3bc765838b0d01c085247fffa973,http://download.h2os.com/OnePlus%203T/MP/OnePlus3THydrogen_28_OTA_083_all_2002201900_bf0fc8385b5547c0.zip
-OnePlus 3T,公测版,Android 8.0第15版,2018-06-28,1.77G,82B741C6B30CC6606EF5C01AF4D52259,http://download.h2os.com/OnePlus%203T/OPEN/OnePlus3THydrogen_28_OTA_056_all_1806211839_a3c679ec81b94a27.zip
-OnePlus 3,稳定版,第二版,2020-03-27,1.82GB,276dee6f8c5a429da57e7f6aa95e3794,http://download.h2os.com/oneplus3/MP/OnePlus3Hydrogen_16_OTA_083_all_2002201900_abc8cfd625b5477b.zip
-OnePlus 3,公测版,Android 8.0 第15版,2018-06-28,1.77G,957D4309145445382949A05FA35D6E04,http://download.h2os.com/oneplus3/PublicTest/OnePlus3Hydrogen_16_OTA_056_all_1806211851_42dff0c55312402b.zip
 OnePlus 2,稳定版,第十七版,2017-08-23,1.15G,9669F58C18D14ABD3DA67C7953A101B8,http://download.h2os.com/oneplus_2/mp/OnePlus2Hydrogen_14_OTA_022_all_1608171641_bfffc21a086c4849.zip
 OnePlus 2,公测版,氢OS2.5版,2016-12-31,1.14G,07AD888CEA3CC542773E012989508EB0,http://download.h2os.com/oneplus_2/PublicTest/OnePlus2Hydrogen_14_OTA_000_all_1612281850_10b3b62a678c4e2e.zip
 OnePlus X,稳定版,第六版,2019-11-18,974M,169EA065B6A40A3F943AE74E00A0C719,http://download.h2os.com/oneplus_x/mp/OnePlusH2OS_14_OTA_010_all_201604191650_320ac892f8bc4145.zip
