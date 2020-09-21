@@ -106,7 +106,7 @@ Redmi Go,Redmi Go Global,stable_rom,V10.2.7.0.OCLMIXM (AndroidGo),https://bigota
 Redmi Go,Redmi Go India,stable_rom,V10.2.10.0.OCLINXM (AndroidGo),https://bigota.d.miui.com/V10.2.10.0.OCLINXM/tiare_in_global_images_V10.2.10.0.OCLINXM_20190711.0000.00_8.1_ccbe9e67d3.tgz,1.7G
 Redmi Go,Redmi Go EEA,stable_rom,V10.2.8.0.OCLEUXM (AndroidGo),https://bigota.d.miui.com/V10.2.8.0.OCLEUXM/tiare_eea_global_images_V10.2.8.0.OCLEUXM_20190719.0000.00_8.1_0c1b40ca2a.tgz,1.7G
 Mi MIX 3,Mi MIX 3 Global,stable_rom,V12.0.1.0.QEEMIXM (MIUI12),https://bigota.d.miui.com/V12.0.1.0.QEEMIXM/miui_MIMIX3Global_V12.0.1.0.QEEMIXM_029b9f7869_10.0.zip,2.2G
-Mi MIX 3,Mi MIX 3 Russia,stable_rom,V11.0.4.0.QEERUXM (MIUI11),https://bigota.d.miui.com/V11.0.4.0.QEERUXM/miui_MIMIX3RUGlobal_V11.0.4.0.QEERUXM_e8f6f0855f_10.0.zip,2.1G
+Mi MIX 3,Mi MIX 3 Russia,stable_rom,V12.0.2.0.QEERUXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.QEERUXM/miui_MIMIX3RUGlobal_V12.0.2.0.QEERUXM_19f2f8b678_10.0.zip,2.2G
 Mi MIX 3,Mi MIX 3 5G Global,stable_rom,V10.3.20.0.PEMMIXM (MIUI10),https://bigota.d.miui.com/V10.3.20.0.PEMMIXM/miui_ANDROMEDAGlobal_V10.3.20.0.PEMMIXM_6aa4a1ed13_9.0.zip,2.0G
 Mi MIX 3,Mi MIX 3 5G EEA,stable_rom,V12.0.1.0.PEMEUXM (MIUI12),https://bigota.d.miui.com/V12.0.1.0.PEMEUXM/miui_ANDROMEDAEEAGlobal_V12.0.1.0.PEMEUXM_9e4961bf09_9.0.zip,2.2G
 Mi MIX 2S,Mi MIX 2S Global,stable_rom,V12.0.1.0.QDGMIXM (MIUI12),https://bigota.d.miui.com/V12.0.1.0.QDGMIXM/miui_MIMIX2SGlobal_V12.0.1.0.QDGMIXM_1f5f076ae3_10.0.zip,1.9G
@@ -114,7 +114,7 @@ Mi MIX 2S,Mi MIX 2S Russia,stable_rom,V12.0.1.0.QDGRUXM (MIUI12),https://bigota.
 Redmi Note 6 Pro,Redmi Note 6 Pro Global,stable_rom,V11.0.5.0.PEKMIXM (MIUI11),https://bigota.d.miui.com/V11.0.5.0.PEKMIXM/miui_HMNote6ProGlobal_V11.0.5.0.PEKMIXM_49b9874b65_9.0.zip,1.8G
 Redmi Note 6 Pro,Redmi Note 6 Pro Russia,stable_rom,V10.2.1.0.OEKRUXM (MIUI10),https://bigota.d.miui.com/V10.2.1.0.OEKRUXM/miui_HMNote6ProRUGlobal_V10.2.1.0.OEKRUXM_bee593b24a_8.1.zip,1.7G
 POCOPHONE F1,POCOPHONE F1 Global,stable_rom,V11.0.9.0.QEJMIXM (MIUI11),https://bigota.d.miui.com/V11.0.9.0.QEJMIXM/miui_POCOF1Global_V11.0.9.0.QEJMIXM_5536c538da_10.0.zip,1.9G
-POCOPHONE F1,POCOPHONE F1 Russia,stable_rom,V11.0.4.0.QEJRUXM (MIUI11),https://bigota.d.miui.com/V11.0.4.0.QEJRUXM/miui_POCOF1RUGlobal_V11.0.4.0.QEJRUXM_17a9455ab2_10.0.zip,1.9G
+POCOPHONE F1,POCOPHONE F1 Russia,stable_rom,V12.0.2.0.QEJRUXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.QEJRUXM/miui_POCOF1RUGlobal_V12.0.2.0.QEJRUXM_7158ad0f56_10.0.zip,1.9G
 Mi A2,Mi A2,stable_rom,V11.0.10.0.QDIMIXM (Android Q),https://bigota.d.miui.com/V11.0.10.0.QDIMIXM/miui_JASMINEGlobal_V11.0.10.0.QDIMIXM_c9e3ef9494_10.0.zip,1.3G
 Redmi S2/Y2,Redmi S2/Y2 Global,stable_rom,V11.0.5.0.PEFMIXM (MIUI11),https://bigota.d.miui.com/V11.0.5.0.PEFMIXM/miui_HMS2Global_V11.0.5.0.PEFMIXM_2eea38f36c_9.0.zip,1.5G
 Redmi S2/Y2,Redmi S2/Y2  Russia,stable_rom,V11.0.1.0.PEFRUXM (MIUI11),https://bigota.d.miui.com/V11.0.1.0.PEFRUXM/miui_HMS2RUGlobal_V11.0.1.0.PEFRUXM_32fd736bf5_9.0.zip,1.5G
