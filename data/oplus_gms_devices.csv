@@ -453,6 +453,7 @@ Realme,realme 5i,RMX2032,RMX2032
 Realme,realme 5pro,RMX1971,RMX1971
 Realme,realme 5pro,RMX1973,RMX1973
 Realme,realme 6,RMX2001L1,RMX2001
+Realme,realme 6,RMX2002L1,RMX2002
 Realme,realme 6,RMX2003L1,RMX2003
 Realme,realme 6Pro,RMX2061L1,RMX2061
 Realme,realme 6Pro,RMX2063L1,RMX2063
@@ -460,6 +461,9 @@ Realme,realme 6i,RMX2030,RMX2190
 Realme,realme 6i,RMX2040,RMX2040
 Realme,realme 6i,RMX2041,RMX2041
 Realme,realme 6i,RMX2042,RMX2042
+Realme,realme 6s,RMX2002L1,RMX2002
+Realme,realme 7 Pro,RMX2170L1,RMX2170
+Realme,realme C17,RE50BF,RMX2101
 Realme,realme C2,RMX1946,RMX1946
 Realme,realme C3,RMX2020,RMX2020
 Realme,realme C3,RMX2021,RMX2021
@@ -468,14 +472,20 @@ Realme,realme C3,RMX2027,RMX2027
 Realme,realme C3i,RMX2027,RMX2027
 Realme,realme Q,RMX1971CN,RMX1971
 Realme,realme TV 32,ikebukuro,AI PONT
+Realme,realme V3 5G,RMX2200CN,RMX2200
+Realme,realme V3 5G,RMX2201CN,RMX2201
+Realme,realme V5 5G,RMX2111CN,RMX2111
+Realme,realme V5 5G,RMX2112CN,RMX2112
 Realme,realme X2,RMX1991CN,RMX1991
 Realme,realme X2,RMX1992L1,RMX1992
 Realme,realme X2,RMX1993L1,RMX1993
 Realme,realme X2Pro,RMX1931CN,RMX1931
 Realme,realme X2Pro,RMX1931L1,RMX1931
 Realme,realme X3,RMX2081L1,RMX2081
+Realme,realme X3,RMX2083L1,RMX2083
 Realme,realme X3,RMX2085L1,RMX2085
 Realme,realme X3,RMX2086L1,RMX2086
+Realme,realme X50 5G,RMX2144L1,RMX2144
 Realme,realme X50 5G 移动版,RMX2025CN,RMX2025
 Realme,realme X50 Pro,RMX2071CN,RMX2071
 Realme,realme X50 Pro,RMX2075L1,RMX2075
@@ -490,3 +500,7 @@ Realme,realme X50t 5G,RMX2052CN,RMX2052
 Realme,realme XT,RMX1921,RMX1921
 Realme,realme XT,RMX1921L1,RMX1921
 Realme,realme XT,RMX1922,RMX1922
+Realme,realme narzo 20A,RMX2050,RMX2050
+Realme,realme  X7Pro 5G,RMX2121CN,RMX2121
+Realme,realme 7i,RE50C1,RMX2103
+Realme,realme 7i,RE50C1,RMX2104

@@ -1,6 +1,8 @@
 机型,类型,版本,时间,大小,MD5,下载
 OnePlus 8 Pro,稳定版,10.5.14.IN11AA,2020-09-21,3.16 GB,b8949da28cb47a8717c729a414068a3c,http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.23_OTA_023_all_2009071857_5b7a8917021f49da.zip
+OnePlus 8 Pro,公测版,Open Beta 1,2020-09-23,3.78 GB,d03929cc4f328088f9030a74f8cdcf29,http://download.h2os.com/OnePlus8Pro/OBT/OnePlus8ProHydrogen_15_OTA_0110_all_2009112319_2084a2d916f34549.zip
 OnePlus 8,稳定版,10.5.10.IN21,2020-09-21,3.09 GB,f833bc93a0f62f9730581110feb0b1a5,http://download.h2os.com/OnePlus8/MP/OnePlus8Hydrogen_15.H.19_OTA_019_all_2009071901_064d282d043041a6.zip
+OnePlus 8,公测版,Open Beta 1,2020-09-23,3.73 GB,e1cbb24525cefc113930cddcfefa7119,http://download.h2os.com/OnePlus8/OBT/OnePlus8Hydrogen_15_OTA_0110_all_2009112319_5b0216a8275e4edd.zip
 OnePlus 7T Pro,稳定版,10.0.9.HD01,2020-08-04,3.46 GB,4e7e478412462cd7681f3121a5de33e1,http://download.h2os.com/OnePlus7T%20Pro/MP/OnePlus7TProHydrogen_14.H.14_OTA_014_all_2007240048_7ce216b99f32446f.zip
 OnePlus 7T Pro,公测版,第9版,2020-09-21,3.63 GB,f07f73771a8247ea79291c7339bd1ab1,http://download.h2os.com/OnePlus7T%20Pro/OBT/OnePlus7TProHydrogen_13.X.09_OTA_009_all_2009072107_d05f0cd0859f49a0.zip
 OnePlus 7T,稳定版,10.0.11.HD65,2020-08-04,3.37 GB,acf8a03b51ffd492c97abdadd8b9983c,http://download.h2os.com/OnePlus7T/MP/OnePlus7THydrogen_14.H.14_OTA_014_all_2007240052_f6d81952be7f41f2.zip
@@ -25,5 +27,3 @@ OnePlus 2,稳定版,第十七版,2017-08-23,1.15G,9669F58C18D14ABD3DA67C7953A101
 OnePlus 2,公测版,氢OS2.5版,2016-12-31,1.14G,07AD888CEA3CC542773E012989508EB0,http://download.h2os.com/oneplus_2/PublicTest/OnePlus2Hydrogen_14_OTA_000_all_1612281850_10b3b62a678c4e2e.zip
 OnePlus X,稳定版,第六版,2019-11-18,974M,169EA065B6A40A3F943AE74E00A0C719,http://download.h2os.com/oneplus_x/mp/OnePlusH2OS_14_OTA_010_all_201604191650_320ac892f8bc4145.zip
 OnePlus X,公测版,氢OS2.0版,2016-09-29,703M,0B7BBEF803E2D009898B3C4FC508C2EB,http://download.h2os.com/oneplus_x/mp/OnePlusH2OS_14_OTA_001_all_201610291136_98e9299fced2483e.zip
-OnePlus 1,稳定版,氢OS2.0版,2016-08-26,645M,98D61BB8BDF6533F0D24BC7159FE1B8C,http://download.h2os.com/oneplus_one/opentest/third/H2OS1.zip
-OnePlus 1,公测版,公测第五版,2016-03-10,753M,5F3BD04EAFB78ED6712DA499EA12BFCF,http://download.h2os.com/oneplus_one/opentest/third/ONELH2OS_12_OTA_016_all_201603041137.zip
