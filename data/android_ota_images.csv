@@ -1,4 +1,7 @@
 Model,Version,Download,SHA-256 Checksum
+"""redfin"" for Pixel 5","11.0.0 (RD1A.200810.020, Oct 2020)",https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.020-7b6b7070.zip,7b6b70702d50d747a3301d6b36b4d2df984d6453af08c7bfef682b5c1413fee4
+"""redfin"" for Pixel 5","11.0.0 (RD1A.200810.021.A1, Oct 2020, KDDI only)",https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.021.a1-924eb0a7.zip,924eb0a77802e6f550b6ba79dcc4a37ebac4a0a19293841e7341eba99bc85292
+"""bramble"" for Pixel 4a (5G)","11.0.0 (RD1A.200810.020, Oct 2020)",https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.020-b52f870c.zip,b52f870cef4b0c1bf3d5b64d95feb69aa93a405011db2a9331a6519e2b9c003c
 """sunfish"" for Pixel 4a","10.0.0 (QD4A.200317.024.A1, May 2020, JP carriers and Verizon)",https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.024.a1-19a394ae.zip,19a394ae23a51a03f4971afd34b7367c95f9ef27c625f64aa0fca6a27b5f405f
 """sunfish"" for Pixel 4a","10.0.0 (QD4A.200317.027, Aug 2020)",https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.027-6c6c95d0.zip,6c6c95d063ac06d58ece57b24570efb9342b00485fc00bbf2931d28e084c806b
 """sunfish"" for Pixel 4a","10.0.0 (QD4A.200805.001, Aug 2020, JP carriers and Verizon)",https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200805.001-a1256d7f.zip,a1256d7f36effa1327c4a3ba2c05b28f5763f6871fce8b6e16464d13c1cc2d25
