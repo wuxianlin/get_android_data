@@ -260,6 +260,7 @@ Model,Version,Download,SHA-256 Checksum
 """taimen"" for Pixel 2 XL","10.0.0 (QQ3A.200805.001, Aug 2020)",https://dl.google.com/dl/android/aosp/taimen-ota-qq3a.200805.001-8541f893.zip,8541f89323d774db1b47a46f22ce2455c74f99ac3c76556f4ed6a4488c0b27fa
 """taimen"" for Pixel 2 XL","11.0.0 (RP1A.200720.009, Sep 2020)",https://dl.google.com/dl/android/aosp/taimen-ota-rp1a.200720.009-a5a90702.zip,a5a90702c6b6d89913e33fb2e5d21f45aad37d43c663ea03b8d54697ec7117e9
 """taimen"" for Pixel 2 XL","11.0.0 (RP1A.201005.004, Oct 2020)",https://dl.google.com/dl/android/aosp/taimen-ota-rp1a.201005.004-b5dff51e.zip,b5dff51e9891236ea84bb1027614d6e9c8a4ad59f0a35275a9e0ff14f946a70c
+"""taimen"" for Pixel 2 XL","11.0.0 (RP1A.201005.004.A1, Dec 2020)",https://dl.google.com/dl/android/aosp/taimen-ota-rp1a.201005.004.a1-9de3b962.zip,9de3b96223cf14e8afd69ed9b21b801a15a96990781a7058ac8418ffd78e0dd7
 """walleye"" for Pixel 2","8.0.0 (OPD1.170816.010, Sep 2017)",https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.010-768eb7b1.zip,768eb7b1141db97be5c8e5118935c19178e5a12defe862c86dfd6dc0eb468f31
 """walleye"" for Pixel 2","8.0.0 (OPD1.170816.011, Sep 2017, Telstra)",https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.011-1e0ba663.zip,1e0ba663ab69d5ef3f4130ea03322856018877e5124a94e60c0065e507065a10
 """walleye"" for Pixel 2","8.0.0 (OPD1.170816.012, Sep 2017, Rogers, Fido)",https://dl.google.com/dl/android/aosp/walleye-ota-opd1.170816.012-e69461b4.zip,e69461b4ed3471a3c96607b335f1a469776f068ff7ffa7ee861284b06fb9b1ca
@@ -315,6 +316,7 @@ Model,Version,Download,SHA-256 Checksum
 """walleye"" for Pixel 2","10.0.0 (QQ3A.200805.001, Aug 2020)",https://dl.google.com/dl/android/aosp/walleye-ota-qq3a.200805.001-d5ccdd9c.zip,d5ccdd9c8e1b7168e3d4c775092229e070b43fc9e6d8d1bfe480bb61455efcc7
 """walleye"" for Pixel 2","11.0.0 (RP1A.200720.009, Sep 2020)",https://dl.google.com/dl/android/aosp/walleye-ota-rp1a.200720.009-90cc52a4.zip,90cc52a4d9893d384326c5f0fb69360d2fba5428a1456141c31ff05f6e1870c3
 """walleye"" for Pixel 2","11.0.0 (RP1A.201005.004, Oct 2020)",https://dl.google.com/dl/android/aosp/walleye-ota-rp1a.201005.004-6efaff49.zip,6efaff496f25b06961b92c562ae748007fafdfb92b45db4e3e59d5c741f67e58
+"""walleye"" for Pixel 2","11.0.0 (RP1A.201005.004.A1, Dec 2020)",https://dl.google.com/dl/android/aosp/walleye-ota-rp1a.201005.004.a1-ccd1069b.zip,ccd1069bde76fc2ef3414d619ddb5fb840addae955e85d9829df9a7e8d2484a9
 """marlin"" for Pixel XL","7.1.0 (NDE63H, Oct 2016)",https://dl.google.com/dl/android/aosp/marlin-ota-nde63h-0c0ed502.zip,0c0ed502c19913c3a328eafe4e8142cbda1325be18a377e6e4122b486763e1c8
 """marlin"" for Pixel XL","7.1.0 (NDE63L, Oct 2016)",https://dl.google.com/dl/android/aosp/marlin-ota-nde63l-205d22e7.zip,205d22e797998ce5aa4ad3c877a09900c3f55067c0b2dfd8661de441a2db786d
 """marlin"" for Pixel XL","7.1.0 (NDE63P, Oct 2016)",https://dl.google.com/dl/android/aosp/marlin-ota-nde63p-20858ae7.zip,20858ae7151f25963bf1a5b1bb54d3129fec9f3766e8e29ad2982bf8c80d8244
