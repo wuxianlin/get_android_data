@@ -1,5 +1,5 @@
 Phone,Device,Type,Version,RomUrl,Size
-Mi 10T/Pro/Lite,Mi 10T/Pro EEA,stable_rom,V12.0.10.0.QJDEUXM (MIUI12),https://bigota.d.miui.com/V12.0.10.0.QJDEUXM/miui_APOLLOEEAGlobal_V12.0.10.0.QJDEUXM_ab1218565d_10.0.zip,2.8G
+Mi 10T/Pro/Lite,Mi 10T/Pro EEA,stable_rom,V12.0.13.0.QJDEUXM (MIUI12),https://bigota.d.miui.com/V12.0.13.0.QJDEUXM/miui_APOLLOEEAGlobal_V12.0.13.0.QJDEUXM_45c42ff803_10.0.zip,2.8G
 Mi 10T/Pro/Lite,Mi 10T/Pro India,stable_rom,V12.0.3.0.QJDINXM (MIUI12),https://bigota.d.miui.com/V12.0.3.0.QJDINXM/miui_APOLLOINGlobal_V12.0.3.0.QJDINXM_8925a89c08_10.0.zip,2.7G
 Mi 10T/Pro/Lite,Mi 10T/Pro Global,stable_rom,V12.0.7.0.QJDMIXM (MIUI12),https://bigota.d.miui.com/V12.0.7.0.QJDMIXM/miui_APOLLOGlobal_V12.0.7.0.QJDMIXM_ff2061c1f8_10.0.zip,2.7G
 POCO X3 NFC,POCO X3 NFC ID,stable_rom,V12.0.3.0.QJGIDXM (MIUI11),https://bigota.d.miui.com/V12.0.3.0.QJGIDXM/miui_SURYAIDGlobal_V12.0.3.0.QJGIDXM_43d42743ee_10.0.zip,2.2G
@@ -39,8 +39,8 @@ Mi 10/Pro/Lite 5G,Mi 10 Pro EEA,stable_rom,V12.0.5.0.QJAEUXM (MIUI12),https://bi
 Mi 10/Pro/Lite 5G,Mi 10 Pro Global,stable_rom,V12.0.5.0.QJAMIXM (MIUI12),https://bigota.d.miui.com/V12.0.5.0.QJAMIXM/miui_CMIGlobal_V12.0.5.0.QJAMIXM_8fefe1495f_10.0.zip,2.7G
 Mi 10/Pro/Lite 5G,Mi 10 Lite 5G Global,stable_rom,V12.0.2.0.QJIMIXM (MIUI12),https://bigota.d.miui.com/V12.0.2.0.QJIMIXM/miui_MONETGlobal_V12.0.2.0.QJIMIXM_d2c28e07f9_10.0.zip,2.6G
 Mi 10/Pro/Lite 5G,Mi 10 Lite 5G EEA,stable_rom,V12.0.3.0.QJIEUXM (MIUI12),https://bigota.d.miui.com/V12.0.3.0.QJIEUXM/miui_MONETEEAGlobal_V12.0.3.0.QJIEUXM_31a34bf096_10.0.zip,2.6G
-Redmi Note 9/S/Pro,Redmi Note 9S Global,stable_rom,V12.0.2.0.QJWMIXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.QJWMIXM/miui_CURTANAGlobal_V12.0.2.0.QJWMIXM_2870fe290a_10.0.zip,2.3G
-Redmi Note 9/S/Pro,Redmi Note 9S India,stable_rom,V12.0.1.0.QJWINXM (MIUI11),https://bigota.d.miui.com/V12.0.1.0.QJWINXM/miui_CURTANAINGlobal_V12.0.1.0.QJWINXM_3429e721e1_10.0.zip,2.3G
+Redmi Note 9/S/Pro,Redmi Note 9S Global,stable_rom,V12.0.2.0.QJWMIXM (MIUI12),https://bigota.d.miui.com/V12.0.2.0.QJWMIXM/miui_CURTANAGlobal_V12.0.2.0.QJWMIXM_2870fe290a_10.0.zip,2.3G
+Redmi Note 9/S/Pro,Redmi Note 9S India,stable_rom,V12.0.1.0.QJWINXM (MIUI12),https://bigota.d.miui.com/V12.0.1.0.QJWINXM/miui_CURTANAINGlobal_V12.0.1.0.QJWINXM_3429e721e1_10.0.zip,2.3G
 Redmi Note 9/S/Pro,Redmi Note 9S RU,stable_rom,V12.0.2.0.QJWRUXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.QJWRUXM/miui_CURTANARUGlobal_V12.0.2.0.QJWRUXM_6e8cd6258a_10.0.zip,2.3G
 Redmi Note 9/S/Pro,Redmi Note 9S EEA,stable_rom,V12.0.2.0.QJWEUXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.QJWEUXM/miui_CURTANAEEAGlobal_V12.0.2.0.QJWEUXM_954fdcf2b2_10.0.zip,2.3G
 Redmi Note 9/S/Pro,Redmi Note 9 Pro EEA,stable_rom,V12.0.1.0.QJZEUXM (MIUI11),https://bigota.d.miui.com/V12.0.1.0.QJZEUXM/miui_JOYEUSEEEAGlobal_V12.0.1.0.QJZEUXM_dc8e184acb_10.0.zip,2.3G
