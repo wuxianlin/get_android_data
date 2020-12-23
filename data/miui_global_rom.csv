@@ -89,7 +89,7 @@ Mi 9/9T Series,Mi 9 Global,stable_rom,V12.0.3.0.QFAMIXM (MIUI12),https://bigota.
 Mi 9/9T Series,Mi 9 EEA,stable_rom,V12.0.3.0.QFAEUXM (MIUI12),https://bigota.d.miui.com/V12.0.3.0.QFAEUXM/miui_CEPHEUSEEAGlobal_V12.0.3.0.QFAEUXM_86b15cca82_10.0.zip,2.3G
 Mi 9/9T Series,Mi 9 SE Global,stable_rom,V12.0.2.0.QFBMIXM (MIUI12),https://bigota.d.miui.com/V12.0.2.0.QFBMIXM/miui_GRUSGlobal_V12.0.2.0.QFBMIXM_c855a1dd7e_10.0.zip,2.3G
 Mi 9/9T Series,Mi 9 Russia,stable_rom,V12.0.2.0.QFARUXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.QFARUXM/miui_CEPHEUSRUGlobal_V12.0.2.0.QFARUXM_3bf2bf5143_10.0.zip,2.3G
-Mi 9/9T Series,Mi 9 SE EEA,stable_rom,V12.0.2.0.QFBEUXM (MIUI12),https://bigota.d.miui.com/V12.0.2.0.QFBEUXM/miui_GRUSEEAGlobal_V12.0.2.0.QFBEUXM_e0d020988d_10.0.zip,2.3G
+Mi 9/9T Series,Mi 9 SE EEA,stable_rom,V12.0.3.0.QFBEUXM (MIUI12),https://bigota.d.miui.com/V12.0.3.0.QFBEUXM/miui_GRUSEEAGlobal_V12.0.3.0.QFBEUXM_81b6632b04_10.0.zip,2.3G
 Mi 9/9T Series,Mi 9T Global,stable_rom,V12.0.5.0.QFJMIXM (MIUI12),https://bigota.d.miui.com/V12.0.5.0.QFJMIXM/miui_DAVINCIGlobal_V12.0.5.0.QFJMIXM_68eafed495_10.0.zip,2.3G
 Mi 9/9T Series,Mi 9T EEA,stable_rom,V12.0.3.0.QFJEUXM (MIUI12),https://bigota.d.miui.com/V12.0.3.0.QFJEUXM/miui_DAVINCIEEAGlobal_V12.0.3.0.QFJEUXM_12b99693bc_10.0.zip,2.3G
 Mi 9/9T Series,Mi 9T Russia,stable_rom,V12.0.2.0.QFJRUXM (MIUI12),https://bigota.d.miui.com/V12.0.2.0.QFJRUXM/miui_DAVINCIRUGlobal_V12.0.2.0.QFJRUXM_0613a54fe9_10.0.zip,2.3G
@@ -124,7 +124,7 @@ POCOPHONE F1,POCOPHONE F1 Global,stable_rom,V12.0.2.0.QEJMIXM (MIUI11),https://b
 POCOPHONE F1,POCOPHONE F1 Russia,stable_rom,V12.0.2.0.QEJRUXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.QEJRUXM/miui_POCOF1RUGlobal_V12.0.2.0.QEJRUXM_7158ad0f56_10.0.zip,1.9G
 Mi A2,Mi A2,stable_rom,V11.0.10.0.QDIMIXM (Android Q),https://bigota.d.miui.com/V11.0.10.0.QDIMIXM/miui_JASMINEGlobal_V11.0.10.0.QDIMIXM_c9e3ef9494_10.0.zip,1.3G
 Redmi S2/Y2,Redmi S2/Y2 Global,stable_rom,V12.0.2.0.PEFMIXM (MIUI11),https://bigota.d.miui.com/V12.0.2.0.PEFMIXM/miui_HMS2Global_V12.0.2.0.PEFMIXM_668a87d737_9.0.zip,1.6G
-Redmi S2/Y2,Redmi S2/Y2  Russia,stable_rom,V11.0.1.0.PEFRUXM (MIUI11),https://bigota.d.miui.com/V11.0.1.0.PEFRUXM/miui_HMS2RUGlobal_V11.0.1.0.PEFRUXM_32fd736bf5_9.0.zip,1.5G
+Redmi S2/Y2,Redmi S2/Y2  Russia,stable_rom,V12.0.1.0.PEFRUXM (MIUI11),https://bigota.d.miui.com/V12.0.1.0.PEFRUXM/miui_HMS2RUGlobal_V12.0.1.0.PEFRUXM_e9d9a66ed5_9.0.zip,1.6G
 Redmi 6/6A/Pro,Redmi 6 Global,stable_rom,V11.0.4.0.PCGMIXM (MIUI11),https://bigota.d.miui.com/V11.0.4.0.PCGMIXM/miui_HM6Global_V11.0.4.0.PCGMIXM_68887320d7_9.0.zip,1.4G
 Redmi 6/6A/Pro,Redmi 6A Russia,stable_rom,V11.0.4.0.PCBRUXM (MIUI10),https://bigota.d.miui.com/V11.0.4.0.PCBRUXM/miui_HM6ARUGlobal_V11.0.4.0.PCBRUXM_00e71ddc2b_9.0.zip,1.4G
 Redmi 6/6A/Pro,Redmi 6 Russia,stable_rom,V11.0.5.0.PCGRUXM (MIUI10),https://bigota.d.miui.com/V11.0.5.0.PCGRUXM/miui_HM6RUGlobal_V11.0.5.0.PCGRUXM_9be9598f94_9.0.zip,1.4G
