@@ -1,21 +1,26 @@
 Model,Build Type,Version,Updated On,Size,MD5,Download
-OnePlus Nord,Official Build,10.5.9.AC01AA,"November 6, 2020",2.45 GB,93df7d7a7f520d3068493a78b1053fb2,https://oxygenos.oneplus.net/NordOxygen_14.O.11_OTA_011_all_2010232026_030570f24a384f63.zip
-OnePlus 8 Pro,Official Build,11.0.1.1.IN11AA,"November 24, 2020",2.85 GB,bda937925b549ec282367a41aa41618e,https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.O.31_OTA_0310_all_2011010122_9011a4e9a0524993.zip
-OnePlus 8 Pro,Beta Build,Open Beta 3,"November 6, 2020",2.86 GB,f7410d347d5a61f3e7a90dc29c6003f2,https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.X.13_OTA_0130_all_2010200209_597442495fcc435a.zip
-OnePlus 8,Official Build,11.0.1.1.IN21AA,"November 24, 2020",2.81 GB,908c62e999cf8addd939b5985820cab0,https://oxygenos.oneplus.net/OnePlus8Oxygen_15.O.31_OTA_0310_all_2011010118_9ab2204c91f94f98.zip
-OnePlus 8,Beta Build,Open Beta 3,"November 6, 2020",2.81 GB,f29f330abc7dac87146e6e932b7bb618,https://oxygenos.oneplus.net/OnePlus8Oxygen_15.X.13_OTA_0130_all_2010200210_1403188d3b654c91.zip
+OnePlus Nord N100,Official Build,10.5.4.BE81AA,"December 31, 2020",2.00 GB,d0632b57e12d8124413200c0a41245be,https://oxygenos.oneplus.net/OnePlusN100Oxygen_14.O.07_OTA_007_all_2012151222_d81743ad5f9f4c69.zip
+OnePlus Nord N10,Official Build,10.5.8.BE86AA,"December 30, 2020",2.70 GB,793b4698407270ff7c3ab4a2f1c1a765,https://oxygenos.oneplus.net/OnePlusN10Oxygen_14.O.07_OTA_007_all_2011210317_3193876a482f4a6b.zip
+OnePlus 8T,Official Build,11.0.6.8.KB05AA,"January 19, 2021",2.70 GB,a20afa67747ed2854d379f0baac0917f,https://oxygenos.oneplus.net/OnePlus8TOxygen_15.O.21_OTA_0215_all_2101010247_ec6a7bddc57f444a.zip
+OnePlus Nord,Official Build,10.5.10.AC01AA,"January 13, 2021",2.45 GB,8431da45312b5b868570f5403bacc97d,https://oxygenos.oneplus.net/NordOxygen_14.O.12_OTA_012_all_2012212243_2ef9ca6007a245c0.zip
+OnePlus 8 Pro,Official Build,11.0.2.2.IN11AA,"December 7, 2020",2.86 GB,6addfbe3c9193d45223f2e3231af4146,https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.O.32_OTA_0320_all_2011190130_785679267cee43a4.zip
+OnePlus 8 Pro,Beta Build,open beta 4,"December 29, 2020",2.90 GB,5c1053e5484c7d5c2f8e9a98131253d5,https://oxygenos.oneplus.net/OnePlus8ProOxygen_15.X.14_OTA_0140_all_2011111132_ce0dd6d90d114625.zip
+OnePlus 8,Official Build,11.0.2.2.IN21AA,"December 7, 2020",2.81 GB,8e7dbdd9d144e7aae7c5fc9226298345,https://oxygenos.oneplus.net/OnePlus8Oxygen_15.O.32_OTA_0320_all_2011190313_d8faf83c64124392.zip
+OnePlus 8,Beta Build,open beta 4,"December 29, 2020",3.0 GB,b685c2fb1d87a5f41b33a4701ab1059e,https://oxygenos.oneplus.net/OnePlus8Oxygen_15.X.14_OTA_0140_all_2011111129_9017726a87ee4397.zip
 OnePlus 8 Visible,Official Build,10.5.4.IN68CE,"November 2, 2020",2.19 GB,1223e4dff06b4aff446e34e04637a164,https://oxygenos.oneplus.net/OnePlus8VisibleOxygen_15.O.05_OTA_005_all_2010121051_9777576041474f2b.zip
-OnePlus 7T,Official Build,10.0.14.HD65AA,"November 11, 2020",2.56 GB,7800774958605c765cef8defea320dd5,https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.20_OTA_020_all_2010111858_f4889b82a7ac4fd1.zip
-OnePlus 7T,Beta Build,Open Beta 9,"November 4, 2020",2.68 GB,e027b19ee36ab6e82b144ed837fbf8bc,https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.09_OTA_009_all_2010191213_27e8e10bbde44b8d.zip
-OnePlus 7Pro,Official Build,10.3.6.GM21AA,"November 11, 2020",2.11 GB,e5c143a1ef25e4c3ba379c38ca3c15c1,https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.30_OTA_030_all_2010111737_a71f1756032b4d9c.zip
-OnePlus 7Pro,Beta Build,Open Beta 19,"November 4, 2020",2.23 GB,41c7ff680da3487b87f9d4f2912547fe,https://oxygenos.oneplus.net/OnePlus7ProOxygen_13.W.45_OTA_045_all_2010191035_fde4ca8ebd8f4cfc.zip
-OnePlus 6T,Official Build,10.3.5,"August 11, 2020",1.85 GB,483900aba0124d2047c2182d710e2b0d,https://oxygenos.oneplus.net/OnePlus6TOxygen_34_OTA_047_all_2007171912_3ac1d37aee4841a9.zip
+OnePlus 7T Pro,Beta Build,Open Beta 1,"January 22, 2021",2.61 GB,4187d52d7201b3cca794c6097934e6fb,https://oxygenos.oneplus.net/OnePlus7TProOxygen_13.W.21_OTA_0210_all_2101120411_b9d3d9bbab1241dd.zip
+OnePlus 7T,Official Build,10.0.15.HD65AA,"November 27, 2020",2.57 GB,47366e2bb722291d74b8e48fbb3bb745,https://oxygenos.oneplus.net/OnePlus7TOxygen_14.O.21_OTA_021_all_2011052319_c7d44b2dcf46471e.zip
+OnePlus 7T,Beta Build,Open Beta 1,"January 22, 2021",2.58 GB,47fe47aa0adc5c03b859c8a5bfc3340f,https://oxygenos.oneplus.net/OnePlus7TOxygen_13.W.21_OTA_0210_all_2101121639_9a48c7dc03e64c06.zip
+OnePlus 7Pro,Official Build,10.3.7.GM21AA,"November 27, 2020",2.12 GB,3c70b1d5011c0e84ed65dca957adba57,https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.P.31_OTA_031_all_2011052258_42a665d7dc95490e.zip
+OnePlus 7Pro,Beta Build,Open Beta 1,"January 22, 2021",2.42 GB,961d523f119ac504fd04466516598470,https://oxygenos.oneplus.net/OnePlus7ProOxygen_13.W.56_OTA_0560_all_2101120609_9771858d9b944bdb.zip
+OnePlus 7,Beta Build,Open Beta 1,"January 22, 2021",2.41 GB,22453b30e84b267be19a5637eacf267a,https://oxygenos.oneplus.net/OnePlus7Oxygen_13.W.56_OTA_0560_all_2101121205_1a464004e5024a38.zip
+OnePlus 6T,Official Build,10.3.7,"December 11, 2020",1.85 GB,3d7c020bd0fb67894bc1c23f67c8eb72,https://oxygenos.oneplus.net/OnePlus6TOxygen_34.J.49_OTA_049_all_2011161944_66389b3dfed64c84.zip
 OnePlus 6T,Beta Build,Open Beta 5（Android 10）,"February 28, 2020",1.85GB,8031c081f2efb4102432cf71a357a942,https://oxygenos.oneplus.net/OnePlus6TOxygen_41_OTA_064_all_2002191415_7bc878840a7646d5.zip
-OnePlus 6,Official Build,10.3.5,"August 11, 2020",1.75 GB,6b822937fefa578d42209ae4234cd4e5,https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_047_all_2007191515_bd6f7476887846cb.zip
+OnePlus 6,Official Build,10.3.7,"December 11, 2020",1.76 GB,74e8f5a4439516aac04ce8c94fb9427a,https://oxygenos.oneplus.net/OnePlus6Oxygen_22.J.49_OTA_049_all_2011161942_43384717ffec439b.zip
 OnePlus 6,Beta Build,Open Beta 5(Android 10),"February 28, 2020",1.75 GB,c43cc13372cfc7b042984a651b4b6bfc,https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_064_all_2002191414_0199520b61064b5c.zip
-OnePlus 5T,Official Build,10.0.0,"June 29, 2020",1.83 GB,5cd5d2dbfd938ece3ad2ce37a1d5b8b0,https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_068_all_2006012227_f63ba0f8b46a4c4a.zip
+OnePlus 5T,Official Build,10.0.1,"December 31, 2020",1.83 GB,242e3a4021f0b37c513ac4be935fbea0,https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_069_all_2010292144_76910d123e3940e5.zip
 OnePlus 5T,Beta Build,Open Beta 33,"July 27, 2019",1.83 GB,b62ca2d674c944628376876ccd6cce89,https://oxygenos.oneplus.net/OnePlus5TOxygen_43_OTA_054_all_1906241434_770a37baadd84d4b.zip
-OnePlus 5,Official Build,10.0.0,"June 29, 2020",1.82 GB,51a0dd530d90b81182d7cf27a3788afd,https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_068_all_2006012224_f14cb766f9c94108.zip
+OnePlus 5,Official Build,10.0.1,"December 31, 2020",1.82 GB,8f41d1cca57e8a91879f4b09088103b4,https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_069_all_2010292138_55db5445239246dd.zip
 OnePlus 5,Beta Build,Open Beta 35,"June 27, 2019",1.83 GB,e4cfe12b8ac3cabc02cc28794ccc5d07,https://oxygenos.oneplus.net/OnePlus5Oxygen_23_OTA_054_all_1906241442_89253a909cad4e39.zip
 OnePlus 3T,Official Build,9.0.6,"November 29, 2019",1.52GB,e4e46aa9eebffdd485071383dcda4218,https://oxygenos.oneplus.net/OnePlus3TOxygen_28_OTA_086_all_1911042121_f2d6336ae39a4545.zip
 OnePlus 3T,Beta Build,Open Beta 30,"July 9, 2018",1.54 GB,39bf57dcf59e60351533a4f39265a5b7,http://oxygenos.oneplus.net.s3.amazonaws.com/OnePlus3TOxygen_28_OTA_056_all_1807041932_51862eac73134fb7.zip
