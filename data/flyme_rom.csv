@@ -69,12 +69,12 @@ M15,A（公开版）,出厂系统,Flyme 7.0.1.2A,b7fe7e95d9d7e93fc65abb2b1bcdf57
 魅蓝 S6,A（公开版）,体验版,Flyme 7.8.8.7 beta,f4b4ed6e2fc029bffd5557ce07aa0d7e,https://firmware.meizu.com/Firmware/Flyme/s6/7.8.8.7/cn_beta/20180803154054/07aa0d7e/update.zip,1470MB,2018-08-08
 魅蓝 S6,A（公开版）,体验版,Flyme 7.8.7.24 beta,84038ef3ffadd2beedf8591085ac7ac5,https://firmware.meizu.com/Firmware/Flyme/s6/7.8.7.24/cn_beta/20180719170624/85ac7ac5/update.zip,1465MB,2018-07-24
 魅蓝 S6,A（公开版）,出厂系统,Flyme 6.3.1.2A,c97915df1cefdaa5878fd7607e856503,https://firmware.meizu.com/Firmware/Flyme/s6/6.3.1.2/cn/20180803160054/7e856503/update.zip,1340MB,2018-04-08
-魅蓝 6,A（公开版）,稳定版 推荐,Flyme 8.0.5.0A,a8cbd38922dd4b42f3965e121c437b64,https://firmware.meizu.com/Firmware/Flyme/m6/8.0.5.0/cn/20200710165923/1c437b64/update.zip,1703MB,2020-07-20
+魅蓝 6,A（公开版）,稳定版推荐,Flyme 8.0.5.0A,a8cbd38922dd4b42f3965e121c437b64,https://firmware.meizu.com/Firmware/Flyme/m6/8.0.5.0/cn/20200710165923/1c437b64/update.zip,1703MB,2020-07-20
 魅蓝 6,A（公开版）,体验版,Flyme 7.8.6.25 beta,3f2026407df1fc0542c8b22bfbe36fcc,https://firmware.meizu.com/Firmware/Flyme/m6/7.8.6.25/cn_beta/20180622194519/fbe36fcc/update.zip,1455MB,2018-06-25
 魅蓝 6,A（公开版）,体验版,Flyme 7.8.6.5 beta,7a5c084ca50b37abf840d6f11cf9976d,https://firmware.meizu.com/Firmware/Flyme/m6/7.8.6.5/cn_beta/20180601184327/1cf9976d/update.zip,1455MB,2018-06-05
 魅蓝 6,A（公开版）,出厂系统,Flyme 6.2.0.5A,cec7b73b042a76cd067581fd8db0a2f5,https://firmware.meizu.com/Firmware/Flyme/m6/6.2.0.5/cn/20180411144909/8db0a2f5/update.zip,1306MB,2018-04-13
 魅蓝 6,Q（电信版）,出厂系统,Flyme 6.2.0.3Q,286f7efee7374976e9eef39e00d15032,https://firmware.meizu.com/Firmware/Flyme/m6/6.2.0.3/tel/20180718150845/00d15032/update.zip,1312MB,2018-07-24
-魅蓝 6,M（移动定制）,稳定版 推荐,Flyme 6.3.0.3M,51667f9e435d569db994937d328290b4,https://firmware.meizu.com/Firmware/Flyme/m6/6.3.0.3/cmcc/20190417180915/328290b4/update.zip,1405MB,2019-04-23
+魅蓝 6,M（移动定制）,稳定版推荐,Flyme 6.3.0.3M,51667f9e435d569db994937d328290b4,https://firmware.meizu.com/Firmware/Flyme/m6/6.3.0.3/cmcc/20190417180915/328290b4/update.zip,1405MB,2019-04-23
 魅蓝 6,M（移动定制）,出厂系统,Flyme 6.2.0.5M,7e3e531a3d5a2b25ddcc23254868fc75,https://firmware.meizu.com/Firmware/Flyme/m6/6.2.0.5/cmcc/20180718103009/4868fc75/update.zip,1401MB,2018-07-24
 魅蓝 Note6,A（公开版）,稳定版 推荐,Flyme 8.0.5.0A,df31466742237fa43a39a868b68e83cd,https://firmware.meizu.com/Firmware/Flyme/m6_note/8.0.5.0/cn/20200709154303/b68e83cd/update.zip,2268MB,2020-07-14
 魅蓝 Note6,A（公开版）,体验版,Flyme 8.19.11.26 beta,9cf345c6592155d10274e232c70c6c95,https://firmware.meizu.com/Firmware/Flyme/m6_note/8.19.11.26/cn_beta/20191126173509/c70c6c95/update.zip,2266MB,2019-11-27
@@ -120,7 +120,7 @@ PRO 7 标准版,M（移动定制）,出厂系统,Flyme 6.1.3.5M,9ef4b901137dd011
 魅蓝 5s,Q（电信版）,出厂系统,Flyme 5.2.13.7Q,fee36e6a13ac1d7febb712c661946727,http://firmware.meizu.com/Firmware/Flyme/m5s/5.2.13.7/tel/20170515073917/61946727/update.zip,1150MB,2017-05-24
 魅蓝 5s,M（移动定制）,稳定版 推荐,Flyme 6.3.0.2M,069a2e51734f29b6d21dbe25fc5d3623,https://firmware.meizu.com/Firmware/Flyme/m5s/6.3.0.2/cmcc/20180307103437/fc5d3623/update.zip,1300MB,2018-03-07
 魅蓝 5s,M（移动定制）,出厂系统,Flyme 5.2.13.4M,d6d491790ef27b46c2588e9e5e060348,http://firmware.meizu.com/Firmware/Flyme/m5s/5.2.13.4/cmcc/20170703054514/5e060348/update.zip,1186MB,2017-07-18
-PRO 6 Plus,A（公开版）,稳定版推荐,Flyme 8.0.5.0A,526192c6edb428a5e30bd4ee8e9f480a,https://firmware.meizu.com/Firmware/Flyme/PRO6_Plus/8.0.5.0/cn/20200709031541/8e9f480a/update.zip,1568MB,2020-07-14
+PRO 6 Plus,A（公开版）,稳定版 推荐,Flyme 8.0.5.0A,526192c6edb428a5e30bd4ee8e9f480a,https://firmware.meizu.com/Firmware/Flyme/PRO6_Plus/8.0.5.0/cn/20200709031541/8e9f480a/update.zip,1568MB,2020-07-14
 PRO 6 Plus,A（公开版）,体验版,Flyme 7.8.7.24 beta,ca68fd58d324ff54a96f6df952719f71,https://firmware.meizu.com/Firmware/Flyme/PRO6_Plus/7.8.7.24/cn_beta/20180719162346/52719f71/update.zip,1431MB,2018-07-24
 PRO 6 Plus,A（公开版）,体验版,Flyme 7.8.7.10 beta,9b582c36230957958e32d70015306fcb,https://firmware.meizu.com/Firmware/Flyme/PRO6_Plus/7.8.7.10/cn_beta/20180706171400/15306fcb/update.zip,1431MB,2018-07-10
 PRO 6 Plus,A（公开版）,体验版,Flyme 6.7.7.1 beta,3b580540e9336a83725fbee907a706ff,https://firmware.meizu.com/Firmware/Flyme/PRO6_Plus/6.7.7.1/cn_beta/20170920094015/07a706ff/update.zip,1216MB,2017-07-01
