@@ -12,9 +12,11 @@ headers = {'User-Agent' : 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Geck
 
 #domain='https://source.android.com'
 domain='https://source.android.google.cn'
-html = requests.get(domain+'/security/bulletin?hl=en', headers=headers).content.decode('utf-8')
-hxml = etree.HTML(html)
-links = hxml.xpath('//tr/td[1]/a[@href]')
+links = []
+for url in ['/security/bulletin?hl=en',  '/security/bulletin/pixel?hl=en']:
+    html = requests.get(domain+url, headers=headers).content.decode('utf-8')
+    hxml = etree.HTML(html)
+    links += hxml.xpath('//tr/td[1]/a[@href]')
 
 cveoutf = codecs.open('cve.csv', 'w', encoding='utf-8')
 writer = csv.writer(cveoutf)
@@ -25,6 +27,7 @@ cves=[]
 for link in links:
     href=link.attrib.get('href')
     print(href)
+    #continue
     detailhtml = requests.get(domain+href+'?hl=en', headers=headers).content.decode('utf-8')
     detailhxml = etree.HTML(detailhtml)
     detailsdate = ''
@@ -43,13 +46,18 @@ for link in links:
                 detailsdate=h2id[:-len('-details')]
                 if len(detailsdate)<10:
                     detailsdate=t.attrib.get('data-text').split(' ')[0]
+            elif h2id.startswith('details-') or h2id.startswith('detsild-'):
+                detailsdate=href[href.rfind('/')+1:href.rfind('-')+1]+h2id[len('details-'):]
             elif h2id == 'vulnerability details' and 'android-10' in href:
                 detailsdate='2019-09-01'
             elif h2id.endswith('spl'):
                 detailsdate=href[href.rfind('/')+1:href.rfind('-')+1]+h2id[:-len('spl')]
             elif ('2015' in href or '2016' in href) and ('_details' in h2id or ('2015-08-01' in href and 'acknowledgements' in h2id)):
                 detailsdate=href[href.rfind('/')+1:]
+            elif 'patches' in h2id and 'functional' not in h2id and 'pixel' in href:
+                detailsdate=href[href.rfind('/')+1:]
             else :
+                print(h2id)
                 detailsdate = ''
                 component = ''
                 continue
@@ -60,7 +68,8 @@ for link in links:
         elif not detailsdate == '' and not component == '':
             title=[]
             for th in t.xpath('.//th'):
-                title.append(th.text.strip())
+            	if th.text:
+                    title.append(th.text.strip())
             rowspans={}
             for tr in t.xpath('.//tr'):
                 content=[]
