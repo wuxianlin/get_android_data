@@ -1,10 +1,10 @@
 系列,机型,类型,版本,地址,大小
 小米11,小米11,稳定版,V12.5.9.0.RKBCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.9.0.RKBCNXM/miui_VENUS_V12.5.9.0.RKBCNXM_160bfcd826_11.0.zip,3.9G
 Redmi Note 9/4G/Pro,Redmi Note 9,稳定版,V12.5.3.0.RJECNXM （MIUI12）,https://bigota.d.miui.com/V12.5.3.0.RJECNXM/miui_CANNON_V12.5.3.0.RJECNXM_9a6ee651c7_11.0.zip,2.8G
-Redmi Note 9/4G/Pro,Redmi Note 9 4G,稳定版,V12.0.18.0.QJQCNXM （MIUI12）,https://bigota.d.miui.com/V12.0.18.0.QJQCNXM/miui_LIME_V12.0.18.0.QJQCNXM_da465ffab4_10.0.zip,2.6G
-Redmi Note 9/4G/Pro,Redmi Note 9 Pro,稳定版,V12.5.2.0.RJSCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.2.0.RJSCNXM/miui_GAUGUIN_V12.5.2.0.RJSCNXM_f7a1898218_11.0.zip,3.1G
+Redmi Note 9/4G/Pro,Redmi Note 9 4G,稳定版,V12.0.3.0.RJQCNXM （MIUI12）,https://bigota.d.miui.com/V12.0.3.0.RJQCNXM/miui_LIME_V12.0.3.0.RJQCNXM_dacb1297df_11.0.zip,2.7G
+Redmi Note 9/4G/Pro,Redmi Note 9 Pro,稳定版,V12.5.3.0.RJSCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.3.0.RJSCNXM/miui_GAUGUIN_V12.5.3.0.RJSCNXM_97aef68cde_11.0.zip,3.1G
 Redmi K30S 至尊纪念版,Redmi K30S 至尊纪念版,稳定版,V12.5.1.0.RJDCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.1.0.RJDCNXM/miui_APOLLO_V12.5.1.0.RJDCNXM_2efbaeca9c_11.0.zip,3.5G
-Redmi 9/9A,Redmi 9,稳定版,V12.0.1.0.RJCCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.1.0.RJCCNXM/miui_LANCELOT_V12.0.1.0.RJCCNXM_802db7e020_11.0.zip,2.3G
+Redmi 9/9A,Redmi 9,稳定版,V12.0.9.0.QJCCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.9.0.QJCCNXM/miui_LANCELOT_V12.0.9.0.QJCCNXM_7132831d46_10.0.zip,2.1G
 Redmi 9/9A,Redmi 9A,稳定版,V12.0.14.0.QCDCNXM （MIUI12）,https://bigota.d.miui.com/V12.0.14.0.QCDCNXM/miui_DANDELION_V12.0.14.0.QCDCNXM_90538a23c9_10.0.zip,1.9G
 Redmi 10X/Pro,Redmi 10X Pro,稳定版,V12.5.2.0.RJLCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.2.0.RJLCNXM/miui_BOMB_V12.5.2.0.RJLCNXM_b62e276d74_11.0.zip,2.9G
 Redmi 10X/Pro,Redmi 10X 5G,稳定版,V12.5.2.0.RJHCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.2.0.RJHCNXM/miui_ATOM_V12.5.2.0.RJHCNXM_e1b466363c_11.0.zip,2.8G
@@ -23,10 +23,10 @@ Redmi Note 8/Pro,Redmi Note 8,稳定版,V12.0.3.0.RCOCNXM （MIUI12）,https://b
 Redmi Note 8/Pro,Redmi Note 8Pro,稳定版,V12.5.1.0.RGGCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.1.0.RGGCNXM/miui_BEGONIA_V12.5.1.0.RGGCNXM_0b7bc915a1_11.0.zip,2.2G
 Redmi 8/8A,Redmi 8,稳定版,V12.0.3.0.QCNCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.3.0.QCNCNXM/miui_OLIVE_V12.0.3.0.QCNCNXM_55fb07fc2a_10.0.zip,2.1G
 Redmi 8/8A,Redmi 8A,稳定版,V12.0.3.0.QCPCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.3.0.QCPCNXM/miui_OLIVELITE_V12.0.3.0.QCPCNXM_a8926d9977_10.0.zip,1.6G
-小米CC9/CC9 Pro/CC9e/美图定制版,小米CC9,稳定版,V12.0.2.0.QFCCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.2.0.QFCCNXM/miui_PYXIS_V12.0.2.0.QFCCNXM_b122bf39b6_10.0.zip,2.5G
+小米CC9/CC9 Pro/CC9e/美图定制版,小米CC9,稳定版,V12.5.3.0.RFCCNXM （MIUI11）,https://bigota.d.miui.com/V12.5.3.0.RFCCNXM/miui_PYXIS_V12.5.3.0.RFCCNXM_123bbbed28_11.0.zip,2.4G
 小米CC9/CC9 Pro/CC9e/美图定制版,小米CC9 Pro,稳定版,V12.5.2.0.RFDCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.2.0.RFDCNXM/miui_TUCANA_V12.5.2.0.RFDCNXM_9b1f885f20_11.0.zip,3.1G
 小米CC9/CC9 Pro/CC9e/美图定制版,小米CC9e,稳定版,V12.0.4.0.QFMCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.4.0.QFMCNXM/miui_LAURUS_V12.0.4.0.QFMCNXM_74cce5492a_10.0.zip,2.4G
-小米CC9/CC9 Pro/CC9e/美图定制版,小米CC9 美图定制版,稳定版,V12.0.3.0.QFECNXM （MIUI11）,https://bigota.d.miui.com/V12.0.3.0.QFECNXM/miui_VELA_V12.0.3.0.QFECNXM_c0824e79ad_10.0.zip,2.4G
+小米CC9/CC9 Pro/CC9e/美图定制版,小米CC9 美图定制版,稳定版,V12.5.3.0.RFECNXM （MIUI11）,https://bigota.d.miui.com/V12.5.3.0.RFECNXM/miui_VELA_V12.5.3.0.RFECNXM_c327a7c047_11.0.zip,2.4G
 Redmi K20/Pro,Redmi K20,稳定版,V12.1.2.0.RFJCNXM （MIUI12）,https://bigota.d.miui.com/V12.1.2.0.RFJCNXM/miui_DAVINCI_V12.1.2.0.RFJCNXM_cbafd0e088_11.0.zip,2.4G
 Redmi K20/Pro,Redmi K20 Pro,稳定版,V12.5.4.0.RFKCNXM （MIUI12）,https://bigota.d.miui.com/V12.5.4.0.RFKCNXM/miui_RAPHAEL_V12.5.4.0.RFKCNXM_1d376aa388_11.0.zip,2.6G
 小米9 SE,小米9 SE,稳定版,V12.5.1.0.RFBCNXM （MIUI11）,https://bigota.d.miui.com/V12.5.1.0.RFBCNXM/miui_GRUS_V12.5.1.0.RFBCNXM_0aa6dd99a1_11.0.zip,2.4G
@@ -58,7 +58,7 @@ Redmi红米6/红米6A/7,Redmi 7A,稳定版,V12.0.4.0.QCMCNXM （MIUI11）,https:
 红米S2,红米S2,开发版,9.2.28 （MIUI10）,https://bigota.d.miui.com/9.2.28/miui_HMS2_9.2.28_0138d72455_8.1.zip,1.4G
 小米8 SE,小米8 SE,稳定版,V12.0.2.0.QEBCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.2.0.QEBCNXM/miui_MI8SE_V12.0.2.0.QEBCNXM_09d4db05cb_10.0.zip,1.9G
 小米8 SE,小米8 SE,开发版,9.9.3 （MIUI10）,https://bigota.d.miui.com/9.9.3/miui_MI8SE_9.9.3_a9d719f08b_9.0.zip,1.9G
-小米8/探索版/屏幕指纹版,小米8,稳定版,V12.0.4.0.QEACNXM （MIUI12）,https://bigota.d.miui.com/V12.0.4.0.QEACNXM/miui_MI8_V12.0.4.0.QEACNXM_30cdb1e4d3_10.0.zip,2.1G
+小米8/探索版/屏幕指纹版,小米8,稳定版,V12.5.1.0.QEACNXM （MIUI12）,https://bigota.d.miui.com/V12.5.1.0.QEACNXM/miui_MI8_V12.5.1.0.QEACNXM_8e708da17d_10.0.zip,2.0G
 小米8/探索版/屏幕指纹版,小米8,开发版,9.9.3 （MIUI10）,https://bigota.d.miui.com/9.9.3/miui_MI8_9.9.3_0fb85e6431_9.0.zip,2.2G
 小米8/探索版/屏幕指纹版,小米8探索版,稳定版,V12.0.5.0.QEHCNXM （MIUI11）,https://bigota.d.miui.com/V12.0.5.0.QEHCNXM/miui_MI8Explorer_V12.0.5.0.QEHCNXM_de254be5c3_10.0.zip,2.2G
 小米8/探索版/屏幕指纹版,小米8探索版,开发版,9.9.3 （MIUI10）,https://bigota.d.miui.com/9.9.3/miui_MI8Explorer_9.9.3_38cd89d21c_9.0.zip,2.2G
@@ -68,7 +68,7 @@ Redmi红米6/红米6A/7,Redmi 7A,稳定版,V12.0.4.0.QCMCNXM （MIUI11）,https:
 小米6X,小米6X,开发版,9.9.3 （MIUI10）,https://bigota.d.miui.com/9.9.3/miui_MI6X_9.9.3_3ad06bc283_9.0.zip,2.0G
 小米MIX 2S,小米MIX 2S,稳定版,V12.0.3.0.QDGCNXM （MIUI12）,https://bigota.d.miui.com/V12.0.3.0.QDGCNXM/miui_MIMIX2S_V12.0.3.0.QDGCNXM_cd55623678_10.0.zip,2.1G
 小米MIX 2S,小米MIX 2S,开发版,9.9.3 （MIUI10）,https://bigota.d.miui.com/9.9.3/miui_MIMIX2S_9.9.3_f81fcc2242_9.0.zip,2.1G
-红米Note 5,红米Note 5,稳定版,V11.0.2.0.PEICNXM （MIUI11）,https://bigota.d.miui.com/V11.0.2.0.PEICNXM/miui_HMNote5_V11.0.2.0.PEICNXM_918af93cae_9.0.zip,1.8G
+红米Note 5,红米Note 5,稳定版,V12.0.3.0.PEICNXM （MIUI11）,https://bigota.d.miui.com/V12.0.3.0.PEICNXM/miui_HMNote5_V12.0.3.0.PEICNXM_5cb7befde7_9.0.zip,1.9G
 红米Note 5,红米Note 5,开发版,9.9.3 （MIUI10）,https://bigota.d.miui.com/9.9.3/miui_HMNote5_9.9.3_d6316ce86a_9.0.zip,1.9G
 红米5 Plus,红米5 Plus,稳定版,V11.0.3.0.OEGCNXM （MIUI11）,https://bigota.d.miui.com/V11.0.3.0.OEGCNXM/miui_HM5Plus_V11.0.3.0.OEGCNXM_e47aba1020_8.1.zip,1.5G
 红米5 Plus,红米5 Plus,开发版,9.9.2 （MIUI10）,https://bigota.d.miui.com/9.9.2/miui_HM5Plus_9.9.2_38e86b99ac_8.1.zip,1.5G
