@@ -3973,7 +3973,7 @@ CVE-2015-3833,2015-08-01,[ANDROID-20034603](https://android.googlesource.com/pla
 CVE-2015-3844,2015-08-01,[ANDROID-21669445](https://android.googlesource.com/platform/frameworks/base/+/e3cde784e3d99966f313fe00dcecf191f6a44a31),N/A,Moderate,5.1 and below,activitymanagerservice_getprocessrecordlocked_may_load_a_system_uid_application_into_the_wrong_process,N/A,
 CVE-2015-3826,2015-08-01,[ANDROID-20923261](https://android.googlesource.com/platform/frameworks/av/+/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1),N/A,Low,5.0 and 5.1,unbounded_buffer_read_in_libstagefright_while_parsing_3gpp_metadata,N/A,
 CVE-2021-3491,2021-09-01,A-190877100 [Upstream kernel](https://android.googlesource.com/kernel/common/+/d1f82808877bb10d3deee7cf3374a4eb3fb582db),EoP,Moderate,N/A,kernel,io_uring,
-CVE-2021-0869,2021-09-01,A-179620905 [*](https://android-alexandra.corp.googleapis.com/v1/bulletins/11779727775340953601/preview/public#asterisk),RCE,High,N/A,pixel,dumpstate,
+CVE-2021-0869,2021-09-01,A-179620905 [*](#asterisk),RCE,High,N/A,pixel,dumpstate,
 CVE-2021-0462,2021-08-01,A-168799695 [*](#asterisk),EoP,Moderate,N/A,pixel,NFC Firmware,
 CVE-2020-36158,2021-07-01,A-177123726 [Upstream kernel](https://android.googlesource.com/kernel/common/+/5c455c5ab332773464d02ba17015acdca198f03d),EoP,Moderate,N/A,kernel-components,Wi-Fi,
 CVE-2021-29154,2021-07-01,A-185462528 [Upstream kernel](https://android.googlesource.com/kernel/common/+/e4d4d456436bfb2fe412ee2cd489f7658449b098) [2](https://android.googlesource.com/kernel/common/+/26f55a59dc65ff77cd1c4b37991e26497fc68049),EoP,Moderate,N/A,kernel-components,Bpf,

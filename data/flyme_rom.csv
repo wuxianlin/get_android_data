@@ -1,6 +1,6 @@
 机型,网络,类型,版本,MD5,下载,大小,时间
-18 Pro,A（公开版）,出厂系统,Flyme 9.0.1.2A,c78282162309a8b7ddc8f7178402bdc8,https://firmware.meizu.com/Firmware/Flyme/meizu18_Pro/9.0.1.2/cn/20210714010110/8402bdc8/update.zip,2368MB,2021-07-16
-18,A（公开版）,出厂系统,Flyme 9.0.2.2A,15ea1cafea6631a5bff34b47df785682,https://firmware.meizu.com/Firmware/Flyme/meizu18/9.0.2.2/cn/20210714005910/df785682/update.zip,2381MB,2021-07-16
+18 Pro,A（公开版）,出厂系统,Flyme 9.0.1.3A,cbb3598ccf42314e96b945b090744c3a,https://firmware.meizu.com/Firmware/Flyme/meizu18_Pro/9.0.1.3/cn/20210906042726/90744c3a/update.zip,2380MB,2021-09-16
+18,A（公开版）,出厂系统,Flyme 9.0.2.3A,02e86061aa8973e40c3c1f075fed4553,https://firmware.meizu.com/Firmware/Flyme/meizu18/9.0.2.3/cn/20210903045634/5fed4553/update.zip,2393MB,2021-09-16
 17 Pro,A（公开版）,稳定版 推荐,Flyme 9.0.0.1A,29cfe9ca317f1772f270be445625fc78,https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/9.0.0.1/cn/20210831154512/5625fc78/update.zip,2258MB,2021-09-02
 17 Pro,A（公开版）,出厂系统,Flyme 8.2.0.1A,88fd4381319473ae31fdeee4a0cf8c29,https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/8.2.0.1/cn/20210324181824/a0cf8c29/update.zip,2742MB,2021-04-09
 17,A（公开版）,稳定版 推荐,Flyme 9.0.0.1A,7ac0de14e7501a74b2a942ebe6aa7038,https://firmware.meizu.com/Firmware/Flyme/meizu17/9.0.0.1/cn/20210831152241/e6aa7038/update.zip,2223MB,2021-09-02
@@ -29,8 +29,8 @@ Note9,A（公开版）,稳定版 推荐,Flyme 8.1.5.0A,4de3bf266ce0efe3b7aab774f
 Note9,A（公开版）,体验版,Flyme 8.20.6.30 beta,1480defc6320f07fe0272c23abb20c82,https://firmware.meizu.com/Firmware/Flyme/note9/8.20.6.30/cn_beta/20200715101816/abb20c82/update.zip,2613MB,2020-07-17
 Note9,A（公开版）,体验版,Flyme 8.20.6.16 beta,4f79301e71c7f74f82adf23157b83c8b,https://firmware.meizu.com/Firmware/Flyme/note9/8.20.6.16/cn_beta/20200611202926/57b83c8b/update.zip,2613MB,2020-06-16
 Note9,A（公开版）,出厂系统,Flyme 7.3.0.0A,ea5c70c84983fb627460e515fd94b6a7,https://firmware.meizu.com/Firmware/Flyme/note9/7.3.0.0/cn/20190827203134/fd94b6a7/update.zip,2347MB,2019-09-04
-Note8,A（公开版）,稳定版推荐,Flyme 8.1.5.1A,3be62d2d3f83a2528403504fb5bbd4a9,https://firmware.meizu.com/Firmware/Flyme/note8/8.1.5.1/cn/20210806122228/b5bbd4a9/update.zip,2386MB,2021-08-30
-Note8,A（公开版）,稳定版推荐,Flyme 8.1.5.0A,57908e895a2076390820d41b52ceba36,https://firmware.meizu.com/Firmware/Flyme/note8/8.1.5.0/cn/20210518233842/52ceba36/update.zip,2384MB,2021-05-19
+Note8,A（公开版）,稳定版 推荐,Flyme 8.1.5.1A,3be62d2d3f83a2528403504fb5bbd4a9,https://firmware.meizu.com/Firmware/Flyme/note8/8.1.5.1/cn/20210806122228/b5bbd4a9/update.zip,2386MB,2021-08-30
+Note8,A（公开版）,稳定版 推荐,Flyme 8.1.5.0A,57908e895a2076390820d41b52ceba36,https://firmware.meizu.com/Firmware/Flyme/note8/8.1.5.0/cn/20210518233842/52ceba36/update.zip,2384MB,2021-05-19
 Note8,A（公开版）,体验版,Flyme 8.20.6.30 beta,fd0e90cef2e701dfe03da05085712ac7,https://firmware.meizu.com/Firmware/Flyme/note8/8.20.6.30/cn_beta/20200715113610/85712ac7/update.zip,2326MB,2020-07-17
 Note8,A（公开版）,体验版,Flyme 8.20.6.16 beta,6c6cbff9e04c827bcfae0573d122d1b3,https://firmware.meizu.com/Firmware/Flyme/note8/8.20.6.16/cn_beta/20200611203032/d122d1b3/update.zip,2338MB,2020-06-16
 Note8,A（公开版）,出厂系统,Flyme 7.1.6.1A,aee377e8602cde253fbe764472460d59,https://firmware.meizu.com/Firmware/Flyme/note8/7.1.6.1/cn/20181107144618/72460d59/update.zip,2290MB,2018-12-11
