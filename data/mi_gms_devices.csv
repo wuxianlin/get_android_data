@@ -32,6 +32,9 @@ Redmi,Mi 9T,davinci,Mi 9T
 Redmi,Redmi  7A,pine,Redmi 7A
 Redmi,Redmi  7A,pine,pine
 Redmi,Redmi  Note  7,lavender,Redmi Note 7
+Redmi,Redmi 10,eos,21061119DG
+Redmi,Redmi 10,selene,21061119AG
+Redmi,Redmi 10,selene,21061119AL
 Redmi,Redmi 10X,apricot,M2004J7AC
 Redmi,Redmi 10X,atom,M2004J7AC
 Redmi,Redmi 10X,atom,atom
@@ -85,6 +88,7 @@ Redmi,Redmi Note 10,camellia,M2103K19C
 Redmi,Redmi Note 10,sunny,M2101K7AG
 Redmi,Redmi Note 10,sunny,M2101K7AI
 Redmi,Redmi Note 10 5G,camellian,M2103K19G
+Redmi,Redmi Note 10 JE,XIG02,XIG02
 Redmi,Redmi Note 10 Pro,sweet,M2101K6G
 Redmi,Redmi Note 10 Pro,sweetin,M2101K6P
 Redmi,Redmi Note 10 Pro Max,sweetin,M2101K6I
@@ -326,6 +330,8 @@ Xiaomi,Redmi Note 8,ginkgo,Redmi Note 8
 Xiaomi,Redmi Pro,omega,Redmi Pro
 Xiaomi,Redmi S2,ysl,Redmi S2
 Xiaomi,TELEBEE,once,MIBOX3
+Xiaomi,Xiaomi 11 Lite 5G NE,lisa,2109119DG
+Xiaomi,Xiaomi 11 Lite NE,lisa,2109119DI
 Xiaomi,Xiaomi 11T,amber,21081111RG
 Xiaomi,Xiaomi 11T Pro,vili,2107113SG
 Xiaomi,Xiaomi 11T Pro,vili,2107113SR
