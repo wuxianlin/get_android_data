@@ -20,6 +20,8 @@ POCO,POCO M2,shiva,M2004J19PI
 POCO,POCO M2 Pro,gram,POCO M2 Pro
 POCO,POCO M3,citrus,M2010J19CG
 POCO,POCO M3,citrus,M2010J19CI
+POCO,POCO M3 Pro 5G,camellia,M2103K19PI
+POCO,POCO M3 Pro 5G,camellian,M2103K19PG
 POCO,POCO X2,phoenixin,POCO X2
 POCO,POCO X3,karna,M2007J20CI
 POCO,POCO X3 NFC,surya,M2007J20CG
@@ -97,6 +99,7 @@ Redmi,Redmi Note 10S,maltose,M2101K7BL
 Redmi,Redmi Note 10S,rosemary,M2101K7BNY
 Redmi,Redmi Note 10S,secret,M2101K7BG
 Redmi,Redmi Note 10S,secret,M2101K7BI
+Redmi,Redmi Note 10T,camellian,M2103K19Y
 Redmi,Redmi Note 10T 5G,camellia,M2103K19I
 Redmi,Redmi Note 10T 5G,camellia,TBD
 Redmi,Redmi Note 7,lavender,Redmi Note 7
