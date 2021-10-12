@@ -10,7 +10,6 @@ CVE-2021-0483,2021-10-01,[A-153358911](https://android.googlesource.com/platform
 CVE-2021-0643,2021-10-01,[A-183612370](https://android.googlesource.com/platform/frameworks/opt/telephony/+/ac114bf880c089a72cbb29007fef07b2bd57256c) [2](https://android.googlesource.com/platform/frameworks/opt/telephony/+/4277230fb439d531947926d35658c003ad82adf4),ID,High,"10, 11",system,N/A,
 CVE-2021-0706,2021-10-01,[A-193444889](https://android.googlesource.com/platform/frameworks/base/+/42c16edc958fa196e934e361205f74727db8285b),DoS,High,"8.1, 9, 10, 11",system,N/A,
 CVE-2021-0870,2021-10-05,A-192472262,RCE,Critical,"8.1, 9, 10, 11",system_1,N/A,
-CVE-2020-29368,2021-10-05,A-174738029 [Upstream kernel](https://android.googlesource.com/kernel/common/+/c444eb564fb16645c172d550359cb3d75fe8a040),EoP,High,N/A,kernel-components,Kernel Memory Management,
 CVE-2020-29660,2021-10-05,A-175451844 [Upstream kernel](https://android.googlesource.com/kernel/common/+/c8bcd9c5be24fb9e6132e97da5a35e55a83e36b9),EoP,High,N/A,kernel-components,TTY,
 CVE-2020-10768,2021-10-05,A-169505929 [Upstream kernel](https://android.googlesource.com/kernel/common/+/4d8df8cbb9156b0a0ab3f802b80cb5db57acc0bf),ID,High,N/A,kernel-components,i86 Spectre v2 protections,
 CVE-2021-29647,2021-10-05,A-184622099 [Upstream kernel](https://android.googlesource.com/kernel/common/+/50535249f624d0072cd885bcdce4e4b6fb770160),ID,High,N/A,kernel-components,Qualcomm IPC Router support,
