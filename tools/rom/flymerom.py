@@ -29,7 +29,8 @@ profile.set_preference(
 #profile.native_events_enabled = True
 options = webdriver.firefox.options.Options()
 options.headless = True
-firefox = webdriver.Firefox(firefox_profile=profile, options=options, timeout=60)
+options.profile = profile
+firefox = webdriver.Firefox(options=options, timeout=60)
 firefox.get('https://www.flyme.cn/firmware.html')
 
 total=0

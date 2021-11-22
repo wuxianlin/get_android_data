@@ -35,7 +35,8 @@ profile.set_preference(
 #profile.native_events_enabled = True
 options = webdriver.firefox.options.Options()
 options.headless = True
-firefox = webdriver.Firefox(firefox_profile=profile, options=options, timeout=60)
+options.profile = profile
+firefox = webdriver.Firefox(options=options, timeout=60)
 firefox.get('https://www.oneplus.com/'+args.region+'/support/softwareupgrade')
 try:
     firefox.find_element_by_xpath('//a[@id="close-cookie-btn"]').click()

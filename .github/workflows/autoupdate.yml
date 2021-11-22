@@ -55,7 +55,7 @@ jobs:
 
     - name: Commit and push changes
       run: |
-        rm geckodriver.log
+        [ -f geckodriver.log ] && rm geckodriver.log
         git config user.email "noreply@github.com"
         git config user.name "GitHub Action"
         git add data
