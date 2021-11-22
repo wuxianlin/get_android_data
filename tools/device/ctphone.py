@@ -50,11 +50,13 @@ for div in divs:
     if pro_id is None or pro_id.strip()=='':
         pro_id = onclicksplit[1]
     time.sleep(sleeptime)
-    tag = requests.get('http://surfing.tydevice.com/prochangetag.do?pro_id=' + pro_id + '&attrCode=200007826', headers=headers)
+    tag = requests.get('http://surfing.tydevice.com/prochangetag.do?pro_id=' + pro_id + '&attrCode=660010000', headers=headers)
     tagjson = json.loads(tag.text)
-    for taglist in tagjson['list']:
-        datas[taglist['attr_name']]=taglist['pro_attr_values']
-        #print(taglist['attr_name'], taglist['pro_attr_values'])
+    #print(tagjson)
+    if tagjson['list'] != 'null':
+        for taglist in tagjson['list']:
+            datas[taglist['attr_name']]=taglist['pro_attr_values']
+            #print(taglist['attr_name'], taglist['pro_attr_values'])
     #for tagversion in tagjson['version']:
         #datas[tagversion['attr_name']]=tagversion['pro_attr_values']
         #print(tagversion['attr_name'], tagversion['pro_attr_values'])

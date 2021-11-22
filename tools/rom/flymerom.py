@@ -19,17 +19,17 @@ writer = csv.writer(phoneinfooutf)
 writer.writerow(['机型','网络','类型','版本','MD5','下载','大小','时间'])
 
 # Get the Firefox profile object
-profile = webdriver.firefox.webdriver.FirefoxProfile()
+#profile = webdriver.firefox.webdriver.FirefoxProfile()
 # Disable images
-profile.set_preference('permissions.default.image', 2)
+#profile.set_preference('permissions.default.image', 2)
 # Disable Flash
-profile.set_preference(
-    'dom.ipc.plugins.enabled.libflashplayer.so', 'false'
-)
+#profile.set_preference(
+#    'dom.ipc.plugins.enabled.libflashplayer.so', 'false'
+#)
 #profile.native_events_enabled = True
 options = webdriver.firefox.options.Options()
 options.headless = True
-options.profile = profile
+#options.profile = profile
 firefox = webdriver.Firefox(options=options, timeout=60)
 firefox.get('https://www.flyme.cn/firmware.html')
 

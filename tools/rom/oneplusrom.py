@@ -25,17 +25,17 @@ if args.region=='cn':
     sleeptime=5
 
 # Get the Firefox profile object
-profile = webdriver.firefox.webdriver.FirefoxProfile()
+#profile = webdriver.firefox.webdriver.FirefoxProfile()
 # Disable images
-profile.set_preference('permissions.default.image', 2)
+#profile.set_preference('permissions.default.image', 2)
 # Disable Flash
-profile.set_preference(
-    'dom.ipc.plugins.enabled.libflashplayer.so', 'false'
-)
+#profile.set_preference(
+#    'dom.ipc.plugins.enabled.libflashplayer.so', 'false'
+#)
 #profile.native_events_enabled = True
 options = webdriver.firefox.options.Options()
 options.headless = True
-options.profile = profile
+#options.profile = profile
 firefox = webdriver.Firefox(options=options, timeout=60)
 firefox.get('https://www.oneplus.com/'+args.region+'/support/softwareupgrade')
 try:
