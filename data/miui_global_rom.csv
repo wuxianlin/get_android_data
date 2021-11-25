@@ -42,12 +42,12 @@ POCO F2 Pro,POCO F2 Pro EEA,stable_rom,V12.5.2.0.RJKEUXM (MIUI12),https://bigota
 POCO F2 Pro,POCO F2 Pro RU,stable_rom,V12.5.2.0.RJKRUXM (MIUI12),https://bigota.d.miui.com/V12.5.2.0.RJKRUXM/miui_LMIRUGlobal_V12.5.2.0.RJKRUXM_080e3ed82c_11.0.zip,3.0G
 POCO F2 Pro,POCO F2 Pro Global,stable_rom,V12.5.3.0.RJKMIXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RJKMIXM/miui_LMIGlobal_V12.5.3.0.RJKMIXM_87580f4e91_11.0.zip,3.0G
 POCO F2 Pro,POCO F2 Pro TR,stable_rom,version自定义文案 (MIUI11),https://bigota.d.miui.com/V12.5.2.0.RJKTRXM/miui_LMITRGlobal_V12.5.2.0.RJKTRXM_f61f0f0c45_11.0.zip,3.0G
-Mi 10/Pro/Lite 5G,Mi 10 ID,stable_rom,V12.5.1.0.RJBIDXM (MIUI12),https://bigota.d.miui.com/V12.5.1.0.RJBIDXM/miui_UMIIDGlobal_V12.5.1.0.RJBIDXM_efbfcedf78_11.0.zip,3.0G
+Mi 10/Pro/Lite 5G,Mi 10 ID,stable_rom,V12.5.2.0.RJBIDXM (MIUI12),https://bigota.d.miui.com/V12.5.2.0.RJBIDXM/miui_UMIIDGlobal_V12.5.2.0.RJBIDXM_12f7dc4528_11.0.zip,3.2G
 Mi 10/Pro/Lite 5G,Mi 10 EEA,stable_rom,V12.5.5.0.RJBEUXM (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RJBEUXM/miui_UMIEEAGlobal_V12.5.5.0.RJBEUXM_9408fc707e_11.0.zip,3.1G
 Mi 10/Pro/Lite 5G,Mi 10 RU,stable_rom,V12.5.2.0.RJBRUXM (MIUI12),https://bigota.d.miui.com/V12.5.2.0.RJBRUXM/miui_UMIRUGlobal_V12.5.2.0.RJBRUXM_7a84aeb818_11.0.zip,3.1G
 Mi 10/Pro/Lite 5G,Mi 10 Global,stable_rom,V12.5.3.0.RJBMIXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RJBMIXM/miui_UMIGlobal_V12.5.3.0.RJBMIXM_1f6ba74d4b_11.0.zip,3.1G
 Mi 10/Pro/Lite 5G,Mi 10 IN,stable_rom,V12.5.3.0.RJBINXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RJBINXM/miui_UMIINGlobal_V12.5.3.0.RJBINXM_7fb8d7b57c_11.0.zip,3.0G
-Mi 10/Pro/Lite 5G,Mi 10 Pro EEA,stable_rom,V12.5.2.0.RJAEUXM (MIUI12),https://bigota.d.miui.com/V12.5.2.0.RJAEUXM/miui_CMIEEAGlobal_V12.5.2.0.RJAEUXM_2c37c153d0_11.0.zip,3.0G
+Mi 10/Pro/Lite 5G,Mi 10 Pro EEA,stable_rom,V12.5.3.0.RJAEUXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RJAEUXM/miui_CMIEEAGlobal_V12.5.3.0.RJAEUXM_a799b6f1d2_11.0.zip,3.2G
 Mi 10/Pro/Lite 5G,Mi 10 Pro Global,stable_rom,V12.5.2.0.RJAMIXM (MIUI12),https://bigota.d.miui.com/V12.5.2.0.RJAMIXM/miui_CMIGlobal_V12.5.2.0.RJAMIXM_b157ae69b4_11.0.zip,3.0G
 Mi 10/Pro/Lite 5G,Mi 10 Lite 5G Global,stable_rom,V12.5.4.0.RJIMIXM (MIUI12),https://bigota.d.miui.com/V12.5.4.0.RJIMIXM/miui_MONETGlobal_V12.5.4.0.RJIMIXM_55bfcc7da8_11.0.zip,2.9G
 Mi 10/Pro/Lite 5G,Mi 10 Lite 5G EEA,stable_rom,V12.5.5.0.RJIEUXM (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RJIEUXM/miui_MONETEEAGlobal_V12.5.5.0.RJIEUXM_b1909e5dec_11.0.zip,2.9G
@@ -235,7 +235,7 @@ Xiaomi 11T/Pro,Xiaomi 11T EEA,stable_rom,V12.5.6.0.RKWEUXM (),https://bigota.d.m
 Xiaomi 11T/Pro,Xiaomi 11T Pro TW,stable_rom,V12.5.2.0.RKDTWXM (),https://bigota.d.miui.com/V12.5.2.0.RKDTWXM/miui_VILITWGlobal_V12.5.2.0.RKDTWXM_ec4690424b_11.0.zip,3.1G
 Xiaomi 11T/Pro,Xiaomi 11T Pro EEA,stable_rom,V12.5.13.0.RKDEUXM (),https://bigota.d.miui.com/V12.5.13.0.RKDEUXM/miui_VILIEEAGlobal_V12.5.13.0.RKDEUXM_1466b081a2_11.0.zip,3.2G
 Xiaomi 11T/Pro,Xiaomi 11T Pro RU,stable_rom,V12.5.3.0.RKDRUXM (),https://bigota.d.miui.com/V12.5.3.0.RKDRUXM/miui_VILIRUGlobal_V12.5.3.0.RKDRUXM_2906e80091_11.0.zip,3.2G
-Xiaomi 11T/Pro,Xiaomi 11T Pro TR,stable_rom,V12.5.1.0.RKDTRXM (),https://bigota.d.miui.com/V12.5.1.0.RKDTRXM/miui_VILITRGlobal_V12.5.1.0.RKDTRXM_6397e04dd0_11.0.zip,3.0G
+Xiaomi 11T/Pro,Xiaomi 11T Pro TR,stable_rom,V12.5.2.0.RKDTRXM (),https://bigota.d.miui.com/V12.5.2.0.RKDTRXM/miui_VILITRGlobal_V12.5.2.0.RKDTRXM_e0efc185ee_11.0.zip,3.2G
 Xiaomi 11T/Pro,Xiaomi 11T Pro Global,stable_rom,V12.5.7.0.RKDMIXM (),https://bigota.d.miui.com/V12.5.7.0.RKDMIXM/miui_VILIGlobal_V12.5.7.0.RKDMIXM_5cef21e38e_11.0.zip,3.2G
 Xiaomi 11T/Pro,Xiaomi 11T TW,stable_rom,V12.5.2.0.RKWTWXM (),https://bigota.d.miui.com/V12.5.2.0.RKWTWXM/miui_AGATETWGlobal_V12.5.2.0.RKWTWXM_05e65056a2_11.0.zip,2.6G
 Xiaomi 11T/Pro,Xiaomi 11T Pro JP,stable_rom,V12.5.2.0.RKDJPXM (),https://bigota.d.miui.com/V12.5.2.0.RKDJPXM/miui_VILIJPGlobal_V12.5.2.0.RKDJPXM_55ccb51845_11.0.zip,3.2G
