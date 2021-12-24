@@ -226,6 +226,7 @@ POCO F3,POCO F3 Global,stable_rom,version自定义文案 (),https://bigota.d.miu
 POCO M4,POCO M4 Pro 5G EEA,stable_rom,V12.5.3.0.RGBEUXM (),https://bigota.d.miui.com/V12.5.3.0.RGBEUXM/miui_EVERGREENEEAGlobal_V12.5.3.0.RGBEUXM_7ae75e2c79_11.0.zip,2.4G
 POCO M4,POCO M4 Pro 5G Global,stable_rom,V12.5.3.0.RGBMIXM (),https://bigota.d.miui.com/V12.5.3.0.RGBMIXM/miui_EVERGREENGlobal_V12.5.3.0.RGBMIXM_16a12077e0_11.0.zip,2.3G
 POCO M4,POCO M4 Pro 5G RU,stable_rom,V12.5.1.0.RGBRUXM (),https://bigota.d.miui.com/V12.5.1.0.RGBRUXM/miui_EVERGREENRUGlobal_V12.5.1.0.RGBRUXM_b621ceca9e_11.0.zip,2.4G
+POCO M4,POCO M4 Pro 5G TW,stable_rom,V12.5.1.0.RGBTWXM (),https://bigota.d.miui.com/V12.5.1.0.RGBTWXM/miui_EVERGREENTWGlobal_V12.5.1.0.RGBTWXM_412e34ce12_11.0.zip,2.3G
 Xiaoimi pad 5,Xiaoimi pad 5 Global,stable_rom,V12.5.11.0.RKXMIXM (),https://bigota.d.miui.com/V12.5.11.0.RKXMIXM/miui_NABUGlobal_V12.5.11.0.RKXMIXM_2907f02cc8_11.0.zip,2.6G
 Xiaoimi pad 5,Xiaoimi pad 5 EEA,stable_rom,V12.5.8.0.RKXEUXM (),https://bigota.d.miui.com/V12.5.8.0.RKXEUXM/miui_NABUEEAGlobal_V12.5.8.0.RKXEUXM_7dc79eb5b7_11.0.zip,2.6G
 Xiaoimi pad 5,Xiaoimi pad 5 TW,stable_rom,V12.5.9.0.RKXTWXM (),https://bigota.d.miui.com/V12.5.9.0.RKXTWXM/miui_NABUTWGlobal_V12.5.9.0.RKXTWXM_9c6207e98b_11.0.zip,2.6G
@@ -257,7 +258,7 @@ Redmi Note 10S,Redmi Note 10S ID,stable_rom,version自定义文案 (),https://bi
 Redmi Note 10S,Redmi Note 10S IN,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.9.0.RKLINXM/miui_ROSEMARYINGlobal_V12.5.9.0.RKLINXM_9f4b7673a2_11.0.zip,2.4G
 Redmi Note 10S,Redmi Note 10S TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.4.0.RKLTRXM/miui_ROSEMARYTRGlobal_V12.5.4.0.RKLTRXM_e44201a9a7_11.0.zip,2.5G
 Redmi Note 10S,Redmi Note 10S TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.3.0.RKLTWXM/miui_ROSEMARYTWGlobal_V12.5.3.0.RKLTWXM_6859ed5f30_11.0.zip,2.4G
-Redmi Note 10S,Redmi Note 10S EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.13.0.RKLEUXM/miui_ROSEMARYEEAGlobal_V12.5.13.0.RKLEUXM_9fb5baa1b2_11.0.zip,2.5G
+Redmi Note 10S,Redmi Note 10S EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.14.0.RKLEUXM/miui_ROSEMARYEEAGlobal_V12.5.14.0.RKLEUXM_d2febe30c5_11.0.zip,2.5G
 Redmi Note 10S,Redmi Note 10S Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.14.0.RKLMIXM/miui_ROSEMARYGlobal_V12.5.14.0.RKLMIXM_5834d5ad4f_11.0.zip,2.5G
 Redmi Note10 T/5G,Redmi Note10 5G TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.1.0.RKSTRXM/miui_CAMELLIANTRGlobal_V12.5.1.0.RKSTRXM_bd2d315b6d_11.0.zip,2.3G
 Redmi Note10 T/5G,Redmi Note10 5G TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.1.0.RKSTWXM/miui_CAMELLIANTWGlobal_V12.5.1.0.RKSTWXM_d3ab05011d_11.0.zip,2.2G
@@ -298,7 +299,7 @@ Redmi Note10 Pro,Redmi Note10 Pro ID,stable_rom,version自定义文案 (),https:
 Redmi Note10 Pro,Redmi Note10 Pro RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.3.0.RKFRUXM/miui_SWEETRUGlobal_V12.5.3.0.RKFRUXM_9d0fc1ad33_11.0.zip,2.9G
 Redmi Note10 Pro,Redmi Note10 Pro IN,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.9.0.RKFINXM/miui_SWEETININGlobal_V12.5.9.0.RKFINXM_59e32b7c67_11.0.zip,2.8G
 Redmi Note10 Pro,Redmi Note10 Pro EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.6.0.RKFEUXM/miui_SWEETEEAGlobal_V12.5.6.0.RKFEUXM_8b336d066c_11.0.zip,3.0G
-Redmi Note10 Pro,Redmi Note10 Pro Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.8.0.RKFMIXM/miui_SWEETGlobal_V12.5.8.0.RKFMIXM_61c0e33df5_11.0.zip,2.8G
+Redmi Note10 Pro,Redmi Note10 Pro Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.9.0.RKFMIXM/miui_SWEETGlobal_V12.5.9.0.RKFMIXM_9a9a09a8de_11.0.zip,2.9G
 Redmi Note10 Pro,Redmi Note10 Pro TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.2.0.RKFTWXM/miui_SWEETTWGlobal_V12.5.2.0.RKFTWXM_63acf37ed2_11.0.zip,2.9G
 POCO M3/ X3 GT ,POCO M3 IN,stable_rom,V12.0.9.0.QJFINXM (MIUI12),https://bigota.d.miui.com/V12.0.9.0.QJFINXM/miui_CITRUSINGlobal_V12.0.9.0.QJFINXM_76cf2ae080_10.0.zip,2.4G
 POCO M3/ X3 GT ,POCO M3 EEA,stable_rom,V12.0.11.0.QJFEUXM (MIUI12),https://bigota.d.miui.com/V12.0.11.0.QJFEUXM/miui_CITRUSEEAGlobal_V12.0.11.0.QJFEUXM_e1d2bd84c0_10.0.zip,2.5G
