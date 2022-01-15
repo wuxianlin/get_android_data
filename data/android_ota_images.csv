@@ -7,6 +7,7 @@ Model,Version,Download,SHA-256 Checksum
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.036.A8, Nov 2021, Verizon)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.036.a8-41f0de82.zip,41f0de8282beac2f3a71e0f6522b570d5f94b40fda10aea34dec347a6502d5a5
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.037, Nov 2021)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.037-933c0db2.zip,933c0db24a2434eebbaaea0a77f07f3096e0c55c18cb42d9d05e06cb85c97b1a
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.037.A1, Nov 2021, Verizon)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.037.a1-13ffb191.zip,13ffb1911a02dd16149f421bc63cf146fdf126124e7d1e73f53a5bea657ad564
+"""oriole"" for Pixel 6","12.0.0 (SQ1D.220105.007, Jan 2022)",https://dl.google.com/dl/android/aosp/oriole-ota-sq1d.220105.007-0e8d793c.zip,0e8d793cb52b350772c48db20705fead678cf1bc9af6ccb43f88860a440917e4
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.015.A4, Oct 2021)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip,83028e9cbd809931361575c7d6b3186bff95f113b10044bd384a552a919075b3
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.019.B1, Oct 2021, ATT)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip,9e27b8e6a8b3f0e1057312cd9e30977527c22dbf57a2fe79744b5bc36dd240ab
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.019.C2, Oct 2021, T-Mobile (US), USCC, Google Fi, CA, & TW carriers)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.c2-fd22bee6.zip,fd22bee650526982b2f38a9abbf9f2cd2107bfe7be2a37523d44c6721de8b532
@@ -15,6 +16,7 @@ Model,Version,Download,SHA-256 Checksum
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.036.A8, Nov 2021, Verizon)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.036.a8-b21a7e4f.zip,b21a7e4f609d07a4cec139a4714af5a116a712bcf2f18ad71dea8f27b6e08163
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.037, Nov 2021)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.037-1543ec70.zip,1543ec70cdd0cbca70f47335c305625d97b00b0a819fc84bd21d9300ea765e14
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.037.A1, Nov 2021, Verizon)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.037.a1-9436a359.zip,9436a359659e5f42bd7cff4d98c913ffddc4680938ca91a1b1bde7c51ea3990c
+"""raven"" for Pixel 6 Pro","12.0.0 (SQ1D.220105.007, Jan 2022)",https://dl.google.com/dl/android/aosp/raven-ota-sq1d.220105.007-3a7aafbf.zip,3a7aafbfb10172692e34195b776139b7b96030753d6cb7a393b6e3a591cc3de2
 """barbet"" for Pixel 5a","11.0.0 (RD2A.210605.006, Jun 2021, JP carriers)",https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip,e56baaf5834db85310193adbf91bcf2b4e170fe763717a31d705ca1c68f5d039
 """barbet"" for Pixel 5a","11.0.0 (RD2A.210605.007, Jun 2021)",https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip,c77517142e22425397230c87d20c1ef740d27c5b78ee90e9e5edfeacd231782c
 """barbet"" for Pixel 5a","11.0.0 (RD2A.210905.002, Sep 2021)",https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210905.002-bbb8c72e.zip,bbb8c72eeecdcc648a5bf87b661b25f53827eabaa24c17d1a8f2943de03dfd8e
