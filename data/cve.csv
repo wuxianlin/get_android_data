@@ -4066,7 +4066,6 @@ CVE-2021-1024,2021-12-01,[A-191283525](https://android.googlesource.com/platform
 CVE-2021-0978,2021-12-01,[A-192587406](https://android.googlesource.com/platform/frameworks/base/+/52a8de79e7fc6820707850b69afef35c11ae8d67),ID,Moderate,12,framework,N/A,
 CVE-2021-0979,2021-12-01,[A-191772737](https://android.googlesource.com/platform/frameworks/base/+/19a655d70c100253b5874f3d9b751877b348e5c4),ID,Moderate,12,framework,N/A,
 CVE-2021-0982,2021-12-01,[A-192368508](https://android.googlesource.com/platform/frameworks/base/+/efae78ed2b46bb7807765c21fdea857b648ad130),ID,Moderate,12,framework,N/A,
-CVE-2021-0983,2021-12-01,[A-192245204](https://android.googlesource.com/platform/frameworks/base/+/1a847ee7cbbb9166c01277430ba67e41280aa898) [2](https://android.googlesource.com/platform/packages/apps/Settings/+/49d20fa68e9f716de126f146c446f36c0d7105f3),ID,Moderate,12,framework,N/A,
 CVE-2021-0986,2021-12-01,[A-192247339](https://android.googlesource.com/platform/frameworks/base/+/251176e7748794928132121ac4f4390a55f34320),ID,Moderate,12,framework,N/A,
 CVE-2021-0988,2021-12-01,[A-191954233](https://android.googlesource.com/platform/frameworks/base/+/bc817f1eff9889292bd2b3cad4d4eed56a9a4830) [2](https://android.googlesource.com/platform/frameworks/base/+/1d6bc4e1874ae4fbe2695d08464cc2b0f659f997),ID,Moderate,12,framework,N/A,
 CVE-2021-1009,2021-12-01,[A-189858128](https://android.googlesource.com/platform/frameworks/base/+/3d79d7e4e40c779b83a9c8b610e8232226c05c2c),ID,Moderate,12,framework,N/A,
