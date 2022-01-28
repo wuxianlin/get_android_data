@@ -27,7 +27,7 @@ Redmi 9/9A/9C/9C NFC/9T,Redmi 9C NFC RU,stable_rom,V12.0.11.0.QCSRUXM (MIUI12),h
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9C NFC Global,stable_rom,V12.0.10.0.QCSMIXM (MIUI11),https://bigota.d.miui.com/V12.0.10.0.QCSMIXM/miui_ANGELICANGlobal_V12.0.10.0.QCSMIXM_ba9a16c429_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9 ID,stable_rom,V12.5.2.0.RJCIDXM (MIUI12),https://bigota.d.miui.com/V12.5.2.0.RJCIDXM/miui_LANCELOTIDGlobal_V12.5.2.0.RJCIDXM_546f6ab778_11.0.zip,2.2G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9C ID,stable_rom,V12.0.10.0.QCRIDXM (MIUI2),https://bigota.d.miui.com/V12.0.10.0.QCRIDXM/miui_ANGELICAIDGlobal_V12.0.10.0.QCRIDXM_52ffef3514_10.0.zip,1.7G
-Redmi 9/9A/9C/9C NFC/9T,Redmi 9C EEA,stable_rom,V12.0.10.0.QCREUXM (MIUI12),https://bigota.d.miui.com/V12.0.10.0.QCREUXM/miui_ANGELICAEEAGlobal_V12.0.10.0.QCREUXM_d2c458055e_10.0.zip,1.7G
+Redmi 9/9A/9C/9C NFC/9T,Redmi 9C EEA,stable_rom,V12.0.11.0.QCREUXM (MIUI12),https://bigota.d.miui.com/V12.0.11.0.QCREUXM/miui_ANGELICAEEAGlobal_V12.0.11.0.QCREUXM_0c5d54a69c_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9A EEA,stable_rom,V12.0.16.0.QCDEUXM (MIUI12),https://bigota.d.miui.com/V12.0.16.0.QCDEUXM/miui_DANDELIONEEAGlobal_V12.0.16.0.QCDEUXM_6390febd77_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9A RU,stable_rom,V12.0.13.0.QCDRUXM (MIUI12),https://bigota.d.miui.com/V12.0.13.0.QCDRUXM/miui_DANDELIONRUGlobal_V12.0.13.0.QCDRUXM_65c942df1e_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9A Global,stable_rom,V12.0.17.0.QCDMIXM (MIUI12),https://bigota.d.miui.com/V12.0.17.0.QCDMIXM/miui_DANDELIONGlobal_V12.0.17.0.QCDMIXM_b405a40c3b_10.0.zip,1.7G
@@ -101,7 +101,7 @@ Redmi Note 8/Pro/8T,Redmi Note 8T RU,stable_rom,V12.5.1.0.RCXRUXM (MIUI11),https
 Redmi Note 8/Pro/8T,Redmi Note 8 RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.2.0.RCORUXM/miui_GINKGORUGlobal_V12.5.2.0.RCORUXM_b9d97eaca2_11.0.zip,2.4G
 Redmi Note 8/Pro/8T,Redmi Note 8T EEA,stable_rom,V12.5.2.0.RCXEUXM (MIUI11),https://bigota.d.miui.com/V12.5.2.0.RCXEUXM/miui_WILLOWEEAGlobal_V12.5.2.0.RCXEUXM_266b2f3bf2_11.0.zip,2.4G
 Redmi Note 8/Pro/8T,Redmi Note 8 Pro RU,stable_rom,V12.5.3.0.RGGRUXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RGGRUXM/miui_BEGONIARUGlobal_V12.5.3.0.RGGRUXM_6104b1dfb0_11.0.zip,2.2G
-Redmi Note 8/Pro/8T,Redmi Note 8 Pro EEA,stable_rom,V12.5.4.0.RGGEUXM (MIUI12),https://bigota.d.miui.com/V12.5.4.0.RGGEUXM/miui_BEGONIAEEAGlobal_V12.5.4.0.RGGEUXM_e3824d960a_11.0.zip,2.2G
+Redmi Note 8/Pro/8T,Redmi Note 8 Pro EEA,stable_rom,V12.5.6.0.RGGEUXM (MIUI12),https://bigota.d.miui.com/V12.5.6.0.RGGEUXM/miui_BEGONIAEEAGlobal_V12.5.6.0.RGGEUXM_409c7d7a55_11.0.zip,2.2G
 Redmi Note 8/Pro/8T,Redmi Note 8 Pro Global,stable_rom,V12.5.7.0.RGGMIXM (MIUI12),https://bigota.d.miui.com/V12.5.7.0.RGGMIXM/miui_BEGONIAGlobal_V12.5.7.0.RGGMIXM_2623803216_11.0.zip,2.2G
 Redmi Note 8/Pro/8T,Redmi Note 8 Global,stable_rom,V12.5.1.0.RCOMIXM (MIUI11),https://bigota.d.miui.com/V12.5.1.0.RCOMIXM/miui_GINKGOGlobal_V12.5.1.0.RCOMIXM_81b1a8eb10_11.0.zip,2.4G
 Redmi Note 8/Pro/8T,Redmi Note 8 EEA,stable_rom,V12.5.2.0.RCOEUXM (),https://bigota.d.miui.com/V12.5.2.0.RCOEUXM/miui_GINKGOEEAGlobal_V12.5.2.0.RCOEUXM_7a6b9b172c_11.0.zip,2.4G
