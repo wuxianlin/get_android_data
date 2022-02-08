@@ -8,6 +8,7 @@ Model,Version,Download,SHA-256 Checksum
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.037, Nov 2021)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.037-933c0db2.zip,933c0db24a2434eebbaaea0a77f07f3096e0c55c18cb42d9d05e06cb85c97b1a
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.037.A1, Nov 2021, Verizon)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.037.a1-13ffb191.zip,13ffb1911a02dd16149f421bc63cf146fdf126124e7d1e73f53a5bea657ad564
 """oriole"" for Pixel 6","12.0.0 (SQ1D.220105.007, Jan 2022)",https://dl.google.com/dl/android/aosp/oriole-ota-sq1d.220105.007-0e8d793c.zip,0e8d793cb52b350772c48db20705fead678cf1bc9af6ccb43f88860a440917e4
+"""oriole"" for Pixel 6","12.0.0 (SQ1D.220205.003, Feb 2022)",https://dl.google.com/dl/android/aosp/oriole-ota-sq1d.220205.003-22e71d3d.zip,22e71d3db5ba46d43ac16b18501f7a587a1b526e8ecd49539160419b5c8ec4f2
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.015.A4, Oct 2021)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip,83028e9cbd809931361575c7d6b3186bff95f113b10044bd384a552a919075b3
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.019.B1, Oct 2021, ATT)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip,9e27b8e6a8b3f0e1057312cd9e30977527c22dbf57a2fe79744b5bc36dd240ab
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.019.C2, Oct 2021, T-Mobile (US), USCC, Google Fi, CA, & TW carriers)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.c2-fd22bee6.zip,fd22bee650526982b2f38a9abbf9f2cd2107bfe7be2a37523d44c6721de8b532
@@ -17,6 +18,7 @@ Model,Version,Download,SHA-256 Checksum
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.037, Nov 2021)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.037-1543ec70.zip,1543ec70cdd0cbca70f47335c305625d97b00b0a819fc84bd21d9300ea765e14
 """raven"" for Pixel 6 Pro","12.0.0 (SD1A.210817.037.A1, Nov 2021, Verizon)",https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.037.a1-9436a359.zip,9436a359659e5f42bd7cff4d98c913ffddc4680938ca91a1b1bde7c51ea3990c
 """raven"" for Pixel 6 Pro","12.0.0 (SQ1D.220105.007, Jan 2022)",https://dl.google.com/dl/android/aosp/raven-ota-sq1d.220105.007-3a7aafbf.zip,3a7aafbfb10172692e34195b776139b7b96030753d6cb7a393b6e3a591cc3de2
+"""raven"" for Pixel 6 Pro","12.0.0 (SQ1D.220205.003, Feb 2022)",https://dl.google.com/dl/android/aosp/raven-ota-sq1d.220205.003-605ccc9e.zip,605ccc9e66c22b4a6c280075b67bdd16647b211675d0d752a1519016a82a9372
 """barbet"" for Pixel 5a","11.0.0 (RD2A.210605.006, Jun 2021, JP carriers)",https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip,e56baaf5834db85310193adbf91bcf2b4e170fe763717a31d705ca1c68f5d039
 """barbet"" for Pixel 5a","11.0.0 (RD2A.210605.007, Jun 2021)",https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip,c77517142e22425397230c87d20c1ef740d27c5b78ee90e9e5edfeacd231782c
 """barbet"" for Pixel 5a","11.0.0 (RD2A.210905.002, Sep 2021)",https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210905.002-bbb8c72e.zip,bbb8c72eeecdcc648a5bf87b661b25f53827eabaa24c17d1a8f2943de03dfd8e
@@ -29,6 +31,7 @@ Model,Version,Download,SHA-256 Checksum
 """barbet"" for Pixel 5a","12.0.0 (SP1A.211105.003, Nov 2021)",https://dl.google.com/dl/android/aosp/barbet-ota-sp1a.211105.003-3348a750.zip,3348a750ceefb4c4e0222ef550f55baa561327003439d135edc758fddf2a67ab
 """barbet"" for Pixel 5a","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/barbet-ota-sq1a.211205.008-b4b48cf4.zip,b4b48cf4ae0a590b7342b7efb8c353d987a50472b2463003ed782d4ff07e7b50
 """barbet"" for Pixel 5a","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/barbet-ota-sq1a.220105.002-74dc0676.zip,74dc067694f58d7414394b30938c8a3a53d1667c9d8bb4a4a146b8cb0d23f78e
+"""barbet"" for Pixel 5a","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/barbet-ota-sq1a.220205.002-18cf7fdf.zip,18cf7fdfd5a43cfbf8e17a7a7f5e4d9be9a9cf16ec906a4c8eb931737b87ab92
 """redfin"" for Pixel 5","11.0.0 (RD1A.200810.020, Oct 2020, AU & JP carriers)",https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.020-7b6b7070.zip,7b6b70702d50d747a3301d6b36b4d2df984d6453af08c7bfef682b5c1413fee4
 """redfin"" for Pixel 5","11.0.0 (RD1A.200810.020.A1, Oct 2020, KDDI only)",https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.020.a1-dd3e34bf.zip,dd3e34bfa39eda10748bf9c9bebb39e809f91aa48d358d5ade01636c25cad6df
 """redfin"" for Pixel 5","11.0.0 (RD1A.200810.021.A1, Oct 2020, EU carriers)",https://dl.google.com/dl/android/aosp/redfin-ota-rd1a.200810.021.a1-924eb0a7.zip,924eb0a77802e6f550b6ba79dcc4a37ebac4a0a19293841e7341eba99bc85292
@@ -63,6 +66,7 @@ Model,Version,Download,SHA-256 Checksum
 """redfin"" for Pixel 5","12.0.0 (SP1A.211105.004, Nov 2021, Telstra, Optus, Vodafone AU)",https://dl.google.com/dl/android/aosp/redfin-ota-sp1a.211105.004-0d568fbe.zip,0d568fbebacb49f688f9d40f8705ee6b24a1587d1b7dd74e48fcc9f3125998b5
 """redfin"" for Pixel 5","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/redfin-ota-sq1a.211205.008-79fb7aec.zip,79fb7aec3576b73fc93b3393a3f4cc8952b5dbf19fded33d6f225de09f5c9f4d
 """redfin"" for Pixel 5","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/redfin-ota-sq1a.220105.002-fe260f71.zip,fe260f71ef7a580034d53683933ca6c2bfcdeccf952737f7d92a3ceb2dc89cfd
+"""redfin"" for Pixel 5","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/redfin-ota-sq1a.220205.002-84ba2421.zip,84ba2421780145c02aec5ba1602544852df25e151090103d0806f5e6de8bace3
 """bramble"" for Pixel 4a (5G)","11.0.0 (RD1A.200810.020, Oct 2020, AU & JP carriers)",https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.020-b52f870c.zip,b52f870cef4b0c1bf3d5b64d95feb69aa93a405011db2a9331a6519e2b9c003c
 """bramble"" for Pixel 4a (5G)","11.0.0 (RD1A.200810.021.A1, Oct 2020, EU carriers)",https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.021.a1-2d832c1e.zip,2d832c1ec98066f510c4cc0f45648bc06950249ef90adb72a4f561ad16ad3976
 """bramble"" for Pixel 4a (5G)","11.0.0 (RD1A.200810.021.B3, Oct 2020, Verizon)",https://dl.google.com/dl/android/aosp/bramble-ota-rd1a.200810.021.b3-3a708167.zip,3a7081670926a7589025a73c8a82f0175da371f2057781bbeec069e24119fb46
@@ -96,6 +100,7 @@ Model,Version,Download,SHA-256 Checksum
 """bramble"" for Pixel 4a (5G)","12.0.0 (SP1A.211105.004, Nov 2021, Telstra, Optus, Vodafone AU)",https://dl.google.com/dl/android/aosp/bramble-ota-sp1a.211105.004-a058cd71.zip,a058cd711dfd28ba7cd649a3244184e9ac92b6a118a0c5955dc5b500f6c005ab
 """bramble"" for Pixel 4a (5G)","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/bramble-ota-sq1a.211205.008-edde2e3c.zip,edde2e3cda148487fcc963f7d634d2c70c7b4f09ef6b927840740c6bd546b417
 """bramble"" for Pixel 4a (5G)","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/bramble-ota-sq1a.220105.002-f9dff78e.zip,f9dff78ee2d24f58102ad356c32e6d54d6ed856c6f2aea35fc6c7fae06cfa303
+"""bramble"" for Pixel 4a (5G)","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/bramble-ota-sq1a.220205.002-4a5e41c5.zip,4a5e41c59154f691bfb8fa9767fdd836611efaf03ffcf69ff4e4290b00487bb8
 """sunfish"" for Pixel 4a","10.0.0 (QD4A.200317.024.A1, May 2020, JP carriers and Verizon)",https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.024.a1-19a394ae.zip,19a394ae23a51a03f4971afd34b7367c95f9ef27c625f64aa0fca6a27b5f405f
 """sunfish"" for Pixel 4a","10.0.0 (QD4A.200317.027, Aug 2020)",https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200317.027-6c6c95d0.zip,6c6c95d063ac06d58ece57b24570efb9342b00485fc00bbf2931d28e084c806b
 """sunfish"" for Pixel 4a","10.0.0 (QD4A.200805.001, Aug 2020, JP carriers and Verizon)",https://dl.google.com/dl/android/aosp/sunfish-ota-qd4a.200805.001-a1256d7f.zip,a1256d7f36effa1327c4a3ba2c05b28f5763f6871fce8b6e16464d13c1cc2d25
@@ -123,6 +128,7 @@ Model,Version,Download,SHA-256 Checksum
 """sunfish"" for Pixel 4a","12.0.0 (SP1A.211105.004, Nov 2021, Telstra, Optus, Vodafone AU)",https://dl.google.com/dl/android/aosp/sunfish-ota-sp1a.211105.004-6733d4dd.zip,6733d4ddbbc0557963ce20249e744d4f05f11207214410d4804c2ed9deca274e
 """sunfish"" for Pixel 4a","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/sunfish-ota-sq1a.211205.008-a28fc82f.zip,a28fc82f7352df0c2ab98cd2d857469439dceae4a1c241257e7f5d3a6a4172c1
 """sunfish"" for Pixel 4a","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/sunfish-ota-sq1a.220105.002-66cfb70f.zip,66cfb70f0e2e11506d199d36110e0bcf78914298629a9b427eb1920ab95f6239
+"""sunfish"" for Pixel 4a","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/sunfish-ota-sq1a.220205.002-8aab41d8.zip,8aab41d8ad4ab723633f9b23ea115e65a8d8462f9ee02c2468b8d830d5149d4f
 """coral"" for Pixel 4 XL","10.0.0 (QD1A.190821.007, Oct 2019)",https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.007-a80cd76e.zip,a80cd76e97a854b6306d8dac18bb7d8635d4d33e1140f90bbf254ef22348c5bf
 """coral"" for Pixel 4 XL","10.0.0 (QD1A.190821.011, Oct 2019)",https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.011-f47dde8c.zip,f47dde8c9f79571abcc6bec8b023a623135351f37e0a7be6d6aa89673a142082
 """coral"" for Pixel 4 XL","10.0.0 (QD1A.190821.011.C4, Oct 2019)",https://dl.google.com/dl/android/aosp/coral-ota-qd1a.190821.011.c4-2d2325db.zip,2d2325dbbbd60f90b79c46397e2201e6f0980d5d896962689031a64ac3ac5270
@@ -169,6 +175,7 @@ Model,Version,Download,SHA-256 Checksum
 """coral"" for Pixel 4 XL","12.0.0 (SP1A.211105.004, Nov 2021, Telstra, Optus, Vodafone AU)",https://dl.google.com/dl/android/aosp/coral-ota-sp1a.211105.004-9578c81b.zip,9578c81b1c75da7858b061b7f53ec0cf86171846f7045a56a5b028ef35f080c9
 """coral"" for Pixel 4 XL","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/coral-ota-sq1a.211205.008-75829399.zip,75829399995cab62ad45ca3dc6e310457303b64c9284defdd779cd2ef7f442cb
 """coral"" for Pixel 4 XL","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/coral-ota-sq1a.220105.002-9bc7001d.zip,9bc7001dc4623bc32de326778001f68086c13350df552fa199c9ad572c84525b
+"""coral"" for Pixel 4 XL","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/coral-ota-sq1a.220205.002-4f449397.zip,4f4493974eaa144b4cb60e31e076b7c194faa671f2f717685ac50e00e2669be2
 """flame"" for Pixel 4","10.0.0 (QD1A.190821.007, Oct 2019)",https://dl.google.com/dl/android/aosp/flame-ota-qd1a.190821.007-88cad89f.zip,88cad89f459fdeb2d5a0ec13fe2b4ce1ba29a827a83fe9152ae8edebb7d935d4
 """flame"" for Pixel 4","10.0.0 (QD1A.190821.011, Oct 2019)",https://dl.google.com/dl/android/aosp/flame-ota-qd1a.190821.011-63183d81.zip,63183d817de803e49edbe21cd6087c8c4dd81af33d0ab6ece16761d1ff29d2b5
 """flame"" for Pixel 4","10.0.0 (QD1A.190821.011.C4, Oct 2019)",https://dl.google.com/dl/android/aosp/flame-ota-qd1a.190821.011.c4-e67422bd.zip,e67422bdf73737a7b19967c1de02f39780d7ebcf5ba77260966a522238e5fd5e
@@ -215,6 +222,7 @@ Model,Version,Download,SHA-256 Checksum
 """flame"" for Pixel 4","12.0.0 (SP1A.211105.004, Nov 2021, Telstra, Optus, Vodafone AU)",https://dl.google.com/dl/android/aosp/flame-ota-sp1a.211105.004-18a3c773.zip,18a3c77369a241767c1ad8856682d585e57d1f3c0a823f6f759a20342c9e8ffe
 """flame"" for Pixel 4","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/flame-ota-sq1a.211205.008-6a18ec22.zip,6a18ec22ff07d0c02f001946ed67864826fe93442fb0e75e385fcd794e4d80c9
 """flame"" for Pixel 4","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/flame-ota-sq1a.220105.002-aec4fc6e.zip,aec4fc6eb79b2e011bc7f97736e30dfb5770a8fef099b1f6e174888cde51dd1c
+"""flame"" for Pixel 4","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/flame-ota-sq1a.220205.002-bfbef0b4.zip,bfbef0b4026b30948e9c56a7080284b5fca9662aaa6eaee544c9b2a4302bcbed
 """bonito"" for Pixel 3a XL","9.0.0 (PD2A.190115.029, Mar 2019)",https://dl.google.com/dl/android/aosp/bonito-ota-pd2a.190115.029-c6fe430d.zip,c6fe430da3e87b194201a36f86a7d6b52d46fe667143faa9e69c96938540b665
 """bonito"" for Pixel 3a XL","9.0.0 (PD2A.190115.032, Mar 2019)",https://dl.google.com/dl/android/aosp/bonito-ota-pd2a.190115.032-fc8c7aa1.zip,fc8c7aa13db1c54fe71210ae9259761d49a89493c9c5a4bb616f902c1fe3e643
 """bonito"" for Pixel 3a XL","9.0.0 (PQ3B.190605.006, Jun 2019)",https://dl.google.com/dl/android/aosp/bonito-ota-pq3b.190605.006-63b72728.zip,63b7272885db5cd4ad36ac4388983f436df4a9236dda211d6467a1d0f2478cbd
@@ -256,6 +264,7 @@ Model,Version,Download,SHA-256 Checksum
 """bonito"" for Pixel 3a XL","12.0.0 (SP1A.211105.002.A1, Nov 2021, Verizon, Verizon MVNOs)",https://dl.google.com/dl/android/aosp/bonito-ota-sp1a.211105.002.a1-4a3577f5.zip,4a3577f521227d5a1930068613ce657590ff30b9bd80d0bce998042d40ffd525
 """bonito"" for Pixel 3a XL","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/bonito-ota-sq1a.211205.008-b14d98e3.zip,b14d98e399165f2966c23d5a21cb48836a291daa608cc22ec92271e6a62af304
 """bonito"" for Pixel 3a XL","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/bonito-ota-sq1a.220105.002-79fd8383.zip,79fd83830df6340f3185c54adb74341add89580f0bba60127ee98067082aecc8
+"""bonito"" for Pixel 3a XL","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/bonito-ota-sq1a.220205.002-254447a0.zip,254447a0725762ba0d75d062fec47bd68e3d04277ee8429d48ca09507e3cdf43
 """sargo"" for Pixel 3a","9.0.0 (PD2A.190115.029, Mar 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.029-8673a81e.zip,8673a81e7d6a9ff5617103df10c9d685937fe4f13ef3a4e298d15feabe045229
 """sargo"" for Pixel 3a","9.0.0 (PD2A.190115.032, Mar 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.032-ee012043.zip,ee012043172d77a8fe772da70e8ef65d17efcd6abb2b373f4ed1e09f72f094e7
 """sargo"" for Pixel 3a","9.0.0 (PQ3B.190605.006, Jun 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pq3b.190605.006-45ff7e3e.zip,45ff7e3ef8c01b61c250445e1f994fd91778eaed29035f294778cd13e06b6b51
@@ -297,6 +306,7 @@ Model,Version,Download,SHA-256 Checksum
 """sargo"" for Pixel 3a","12.0.0 (SP1A.211105.002.A1, Nov 2021, Verizon, Verizon MVNOs)",https://dl.google.com/dl/android/aosp/sargo-ota-sp1a.211105.002.a1-e912fad0.zip,e912fad08903fed40307bcc0605b2b3703d8cb7f391298e3f6463abf2ed64bed
 """sargo"" for Pixel 3a","12.0.0 (SQ1A.211205.008, Dec 2021)",https://dl.google.com/dl/android/aosp/sargo-ota-sq1a.211205.008-aba2bb35.zip,aba2bb35e02a1ff34506ed8322e2d5e9d85e1d16c48417b604b26fae52cad362
 """sargo"" for Pixel 3a","12.0.0 (SQ1A.220105.002, Jan 2022)",https://dl.google.com/dl/android/aosp/sargo-ota-sq1a.220105.002-6c59f2a9.zip,6c59f2a91af78fa5b4f56b6928eb6f190e6363de585a411d400cc00c38e554e7
+"""sargo"" for Pixel 3a","12.0.0 (SQ1A.220205.002, Feb 2022)",https://dl.google.com/dl/android/aosp/sargo-ota-sq1a.220205.002-e3707c91.zip,e3707c916e76b40d79eca057a8aaf0ed2a99a25d08c8df7424448d0fcaa1db8e
 """crosshatch"" for Pixel 3 XL","9.0.0 (PD1A.180720.030, Sep 2018)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.030-21ac68ff.zip,21ac68ff9e6aacefec2be4c4dde1cfa0b45e0b4aefe412dc741c4f096cbc6af5
 """crosshatch"" for Pixel 3 XL","9.0.0 (PD1A.180720.031, Sep 2018, Verizon)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.031-e5f99be0.zip,e5f99be08947d7cb75d86d3c2c837d4d9b225a9d35f44be36728cc57402c62c4
 """crosshatch"" for Pixel 3 XL","9.0.0 (PQ1A.181105.017.A1, Nov 2018)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181105.017.a1-feb712c3.zip,feb712c3ca8b5b58a13543969dde22702ecb62d051cd38958a40cfa444f03e6c
@@ -349,6 +359,8 @@ Model,Version,Download,SHA-256 Checksum
 """crosshatch"" for Pixel 3 XL","12.0.0 (SP1A.210812.015, Oct 2021)",https://dl.google.com/dl/android/aosp/crosshatch-ota-sp1a.210812.015-3f7cc066.zip,3f7cc066ac58e8d99bade37fd5d44bbdea6df562077752b47c673d795a2f3b69
 """crosshatch"" for Pixel 3 XL","12.0.0 (SP1A.210812.016.A1, Oct 2021, Verizon)",https://dl.google.com/dl/android/aosp/crosshatch-ota-sp1a.210812.016.a1-a2d9b0d3.zip,a2d9b0d35425fceff966a1c3702353b987709a176ecf1f1609fe8bacb617b473
 """crosshatch"" for Pixel 3 XL","12.0.0 (SP1A.210812.016.A2, Oct 2021)",https://dl.google.com/dl/android/aosp/crosshatch-ota-sp1a.210812.016.a2-a843fa3f.zip,a843fa3fb88fc0b17413d488b9fefb296e362c6e4c286560685cda7d604e9e98
+"""crosshatch"" for Pixel 3 XL","12.0.0 (SP1A.210812.016.B1, Feb 2022, Telstra, Optus, Vodafone AU)",https://dl.google.com/dl/android/aosp/crosshatch-ota-sp1a.210812.016.b1-fefe0ed6.zip,fefe0ed616612a1a615763c4909e051a2a8c36c05e04ce3b55463068cdc08c2f
+"""crosshatch"" for Pixel 3 XL","12.0.0 (SP1A.210812.016.C1, Feb 2022)",https://dl.google.com/dl/android/aosp/crosshatch-ota-sp1a.210812.016.c1-d3a532dd.zip,d3a532dd7e61bd1c038ccbf3de1a3063b210b7677c4814e63e5b2070688799a5
 """blueline"" for Pixel 3","9.0.0 (PD1A.180720.030, Sep 2018)",https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.030-1d5a4f8d.zip,1d5a4f8dc5b91a1a78e9b44357e62a49dbc1d64965d743f01da563d4d534092b
 """blueline"" for Pixel 3","9.0.0 (PD1A.180720.031, Sep 2018, Verizon)",https://dl.google.com/dl/android/aosp/blueline-ota-pd1a.180720.031-60fa3eba.zip,60fa3ebaf1ddc6bbd93e20c261014f85329c37acd9d389e98351452372b287d7
 """blueline"" for Pixel 3","9.0.0 (PQ1A.181105.017.A1, Nov 2018)",https://dl.google.com/dl/android/aosp/blueline-ota-pq1a.181105.017.a1-7f2186c3.zip,7f2186c3905eafcaee2dc9b965633963224e54361015d3e371bb66bf3419b4fe
@@ -401,6 +413,8 @@ Model,Version,Download,SHA-256 Checksum
 """blueline"" for Pixel 3","12.0.0 (SP1A.210812.015, Oct 2021)",https://dl.google.com/dl/android/aosp/blueline-ota-sp1a.210812.015-cee465f5.zip,cee465f51c930684b8b2b0354eba2ba83e5001b92c03a74036ccc9ceebd972fb
 """blueline"" for Pixel 3","12.0.0 (SP1A.210812.016.A1, Oct 2021, Verizon)",https://dl.google.com/dl/android/aosp/blueline-ota-sp1a.210812.016.a1-c7fe690e.zip,c7fe690e6bad5904c4ca0c891cf2354a668c6295dff98293375e31d4deaef1e8
 """blueline"" for Pixel 3","12.0.0 (SP1A.210812.016.A2, Oct 2021)",https://dl.google.com/dl/android/aosp/blueline-ota-sp1a.210812.016.a2-4c10edc0.zip,4c10edc002c2485f47d418669fafe3a293d87915c9a7cae04f18214e409a9fda
+"""blueline"" for Pixel 3","12.0.0 (SP1A.210812.016.B1, Feb 2022, Telstra, Optus, Vodafone AU)",https://dl.google.com/dl/android/aosp/blueline-ota-sp1a.210812.016.b1-af9ec0e3.zip,af9ec0e3d1e05491d843524bf1711ac3dd470de9901ae61d85e2b5d0a9a8ee5d
+"""blueline"" for Pixel 3","12.0.0 (SP1A.210812.016.C1, Feb 2022)",https://dl.google.com/dl/android/aosp/blueline-ota-sp1a.210812.016.c1-e72a1a2b.zip,e72a1a2be3a2fbe211a430776c66810fc48ab222e9441bb48d27d6a8f3cf07c2
 """taimen"" for Pixel 2 XL","8.0.0 (OPD1.170816.010, Sep 2017)",https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.010-825664c4.zip,825664c4b581bae9af8231ad323ad5fc63105785d868bdd53b3c9dfb75bdcca1
 """taimen"" for Pixel 2 XL","8.0.0 (OPD1.170816.011, Sep 2017, Telstra)",https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.011-797ba455.zip,797ba455bb5e6a3c8d7be5a4f0800983bbcb4495d1be0bcf2bc1407c53e7c9b9
 """taimen"" for Pixel 2 XL","8.0.0 (OPD1.170816.012, Sep 2017, Rogers, Fido)",https://dl.google.com/dl/android/aosp/taimen-ota-opd1.170816.012-c726c936.zip,c726c936cab143b4c99ed71463bfbbab7af841374942f0f06a8945da4197dae9
