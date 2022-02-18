@@ -1,6 +1,5 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
 CVE-2021-39619,2022-02-01,[A-197399948](https://android.googlesource.com/platform/frameworks/base/+/a70c46b8a5ac697c87017f9c3fdebb03d3cc0292),EoP,High,"11, 12",framework-01,N/A,
-CVE-2021-39662,2022-02-01,[A-197302116](https://android.googlesource.com/platform/packages/providers/MediaProvider/+/e5375cb6e5350563b041288cfd8a0fe1f2c51b49),EoP,High,"11, 12",framework-01,N/A,
 CVE-2021-39663,2022-02-01,A-200682135 [*](#asterisk),EoP,High,10,framework-01,N/A,
 CVE-2021-39676,2022-02-01,A-197228210 [*](#asterisk),EoP,High,11,framework-01,N/A,
 CVE-2021-39664,2022-02-01,[A-203938029](https://android.googlesource.com/platform/frameworks/base/+/18c66d8fee0e0dd8681182a59b59119a21e09c0c),ID,High,12,framework-01,N/A,
@@ -14,7 +13,6 @@ CVE-2021-39669,2022-02-01,[A-196969991](https://android.googlesource.com/platfor
 CVE-2021-39671,2022-02-01,[A-206718630](https://android.googlesource.com/platform/system/tools/aidl/+/dd0d78f0ead984881caee291751226001f92587e) [2](https://android.googlesource.com/platform/system/tools/aidl/+/3f4f24f1fc01aabae8253eb041c6cb236e54402b),EoP,High,12,system-01,N/A,
 CVE-2021-39674,2022-02-01,[A-201083442](https://android.googlesource.com/platform/system/bt/+/eeefcc7c75af2f41caba0de0175d3d843c4e882f),EoP,High,"10, 11, 12",system-01,N/A,
 CVE-2021-0706,2022-02-01,A-193444889 [*](#asterisk),DoS,High,"10, 11",system-01,N/A,
-"CVE-2021-39662, CVE-2021-39663",2022-02-01,N/A,N/A,N/A,N/A,google-play-system-updates,MediaProvider,
 CVE-2021-39631,2022-02-05,[A-193890833](https://android.googlesource.com/platform/packages/apps/Settings/+/a36d55e8f83e8bf6e50254cda04632e233598f42) [2](https://android.googlesource.com/platform/packages/apps/Settings/+/d2d3da3850d1eefd2a49dc93e1b6f953711a8902),ID,High,"10, 11, 12",system-05,N/A,
 CVE-2021-39672,2022-02-05,A-202018701 [*](#asterisk),N/A,High,N/A,amlogic-components,Fastboot,
 CVE-2022-20024,2022-02-05,A-209705228 [*](#asterisk),N/A,High,N/A,mediatek-05,System service,
