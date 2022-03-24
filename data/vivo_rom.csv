@@ -1,7 +1,7 @@
 系列,机型,地址,大小,时间
 S系列,S12,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2162_A_1.9.5-update-full_1644564267.zip,5324.8 MB,2022-03-08
 S系列,S12 Pro,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2163_A_1.10.15-update-full_1640874039.zip,5324.8 MB,2022-01-11
-S系列,S10e,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2130_A_1.8.6-update-full_1645429203.zip,4608 MB,2022-03-08
+S系列,S10e,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2130_A_1.8.9-update-full_1646918014.zip,4608 MB,2022-03-24
 S系列,S10 Pro/S10,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2121_A_1.14.6-update-full_1637829844.zip,4812.8 MB,2021-11-29
 S系列,S7t,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2080_A_1.12.6-update-full_1643096340.zip,4403.2 MB,2022-02-16
 S系列,S9,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2072_A_1.18.15-update-full_1643096384.zip,4812.8 MB,2022-02-16
@@ -17,7 +17,7 @@ S系列,S5,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD1932_A
 S系列,S7,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2020_A_5.12.0-update-full_1641894159.zip,4812.8 MB,2022-02-16
 T系列,T1x,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2123_A_1.12.18-update-full_1637840837.zip,4505.6 MB,2021-11-29
 T系列,T1,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2115_A_1.4.40-update-full_1643096290.zip,4198.4 MB,2022-02-16
-iQOO,iQOO U5,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2165_A_12.0.13.9.W10.V000L1-update-full_1645444477.zip,4812.8 MB,2022-03-08
+iQOO,iQOO U5,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2165_A_12.0.13.13.W10.V000L1-update-full_1647394843.zip,4812.8 MB,2022-03-24
 iQOO,iQOO Neo5S,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2154_A_2.9.6-update-full_1645539522.zip,5734.4 MB,2022-03-08
 iQOO,iQOO Z5x,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2131_A_1.7.30-update-full_1640573542.zip,4505.6 MB,2021-12-31
 iQOO,iQOO Z5,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2148_A_1.7.25-update-full_1634737741.zip,4096 MB,2021-11-02
@@ -119,16 +119,16 @@ X系列,X9Plus,http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD161
 X系列,X9s,http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD1616B_A_8.20.30-update-full_1620374585.zip,2252.8 MB,2021-06-05
 Y系列,Y10 (t1版),https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2168_A_11.0.6.4.W10.V000L1-update-full_1644464061.zip,3993.6 MB,2022-02-21
 Y系列,Y10,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2140_A_1.9.2-update-full_1643184071.zip,3584 MB,2022-01-29
-Y系列,Y33s,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2166_A_1.8.12-update-full_1643332810.zip,4300.8 MB,2022-01-29
+Y系列,Y33s,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2166_A_1.10.7-update-full_1647398876.zip,4403.2 MB,2022-03-24
 Y系列,Y32,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2158_A_11.0.7.11.W10.V000L1-update-full_1644393192.zip,3993.6 MB,2022-02-16
-Y系列,Y55s,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2164_A_1.6.10-update-full_1643074998.zip,4096 MB,2022-01-29
+Y系列,Y55s,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2164_A_1.6.18-update-full_1646918079.zip,4096 MB,2022-03-24
 Y系列,Y76s/Y74s,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2156_A_1.8.6-update-full_1640918101.zip,4198.4 MB,2022-01-17
 Y系列,Y54s,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2068_A_1.19.13-update-full_1635908130.zip,3686.4 MB,2021-11-29
 Y系列,Y50t,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2023E_A_2.8.9-update-full_1641907698.zip,3891.2 MB,2022-01-17
-Y系列,Y71t,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2102_A_1.8.3-update-full_1644809656.zip,3993.6 MB,2022-02-21
+Y系列,Y71t,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2102_A_1.9.2-update-full_1646902192.zip,3993.6 MB,2022-03-24
 Y系列,Y31s (t2版),https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2092_A_1.6.0-update-full_1641452239.zip,3891.2 MB,2022-02-21
 Y系列,Y53s(t2版),https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2123_A_1.12.18-update-full_1637840837.zip,4505.6 MB,2021-11-29
-Y系列,Y53s(t1版),https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2069_A_1.13.0-update-full_1639038894.zip,3993.6 MB,2022-01-11
+Y系列,Y53s(t1版),https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2069_A_1.13.6-update-full_1647510555.zip,3993.6 MB,2022-03-24
 Y系列,Y53s,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2111_A_1.19.16-update-full_1643096320.zip,4198.4 MB,2022-02-16
 Y系列,Y70t,http://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2019_A_1.14.7-update-full_1625539182.zip,3788.8 MB,2021-07-12
 Y系列,Y31s标准版,https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2068_A_1.19.28-update-full_1643096360.zip,3686.4 MB,2022-02-16
