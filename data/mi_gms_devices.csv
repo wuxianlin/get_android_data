@@ -25,12 +25,15 @@ POCO,POCO M3,citrus,M2010J19CI
 POCO,POCO M3 Pro 5G,camellia,M2103K19PI
 POCO,POCO M3 Pro 5G,camellian,M2103K19PG
 POCO,POCO M4 Pro,fleur,2201117PG
+POCO,POCO M4 Pro,miel,2201117PI
 POCO,POCO M4 Pro 5G,evergreen,21091116AG
 POCO,POCO X2,phoenixin,POCO X2
 POCO,POCO X3,karna,M2007J20CI
 POCO,POCO X3 NFC,surya,M2007J20CG
 POCO,POCO X3 Pro,bhima,M2102J20SI
 POCO,POCO X3 Pro,vayu,M2102J20SG
+POCO,POCO X4 Pro 5G,peux,2201116PI
+POCO,POCO X4 Pro 5G,veux,2201116PG
 Redmi,K30 PRO,lmi,Lmi
 Redmi,K30 PRO,lmi,Redmi K30 Pro
 Redmi,Mi  9T  Pro,raphaelin,Redmi K20 Pro
@@ -41,12 +44,14 @@ Redmi,Redmi  7A,pine,pine
 Redmi,Redmi  Note  7,lavender,Redmi Note 7
 Redmi,Redmi 10,eos,21061119DG
 Redmi,Redmi 10,eos,22011119UY
+Redmi,Redmi 10,fog,220333QBI
 Redmi,Redmi 10 2022,eos,21061119DG
 Redmi,Redmi 10 2022,eos,22011119UY
 Redmi,Redmi 10 2022,selene,21061119AG
 Redmi,Redmi 10 2022,selene,21061119AL
 Redmi,Redmi 10 2022,selene,21121119SG
 Redmi,Redmi 10 2022,selene,21121119VL
+Redmi,Redmi 10C,fog,220333QAG
 Redmi,Redmi 10X,apricot,M2004J7AC
 Redmi,Redmi 10X,atom,M2004J7AC
 Redmi,Redmi 10X,atom,atom
@@ -122,16 +127,20 @@ Redmi,Redmi Note 11,spes,2201117TG
 Redmi,Redmi Note 11,spes,2201117TI
 Redmi,Redmi Note 11,spes,2201117TL
 Redmi,Redmi Note 11,spesn,2201117TY
+Redmi,Redmi Note 11 4G,selene,21121119SC
 Redmi,Redmi Note 11 5G,evergo,21091116AC
 Redmi,Redmi Note 11 Pro,pissarro,21091116C
 Redmi,Redmi Note 11 Pro,viva,2201116TG
 Redmi,Redmi Note 11 Pro 5G,veux,2201116SG
 Redmi,Redmi Note 11 Pro 5G,veux,2201116SR
 Redmi,Redmi Note 11 Pro+,pissarropro,21091116UC
+Redmi,Redmi Note 11 Pro+ 5G,peux,2201116SI
 Redmi,Redmi Note 11 Pro+ 5G,pissarropro,21091116UG
+Redmi,Redmi Note 11E,light,22041219C
 Redmi,Redmi Note 11E Pro,veux,2201116SC
 Redmi,Redmi Note 11S,fleur,2201117SY
 Redmi,Redmi Note 11S,miel,2201117SG
+Redmi,Redmi Note 11S,miel,2201117SI
 Redmi,Redmi Note 11S,miel,2201117SL
 Redmi,Redmi Note 11T 5G,evergo,21091116AI
 Redmi,Redmi Note 7,lavender,Redmi Note 7
