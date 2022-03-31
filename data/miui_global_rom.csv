@@ -17,12 +17,12 @@ Redmi 9/9A/9C/9C NFC/9T,Redmi 9C Global,stable_rom,V12.0.21.0.QCRMIXM (MIUI12),h
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9T EEA,stable_rom,V12.5.5.0.RJQEUXM (),https://bigota.d.miui.com/V12.5.5.0.RJQEUXM/miui_LIMEEEAGlobal_V12.5.5.0.RJQEUXM_5cb72377c9_11.0.zip,2.6G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9 TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.3.0.RJCTRXM/miui_LANCELOTTRGlobal_V12.5.3.0.RJCTRXM_9b55e2a503_11.0.zip,2.3G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9A TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.0.7.0.QCDTRXM/miui_DANDELIONTRGlobal_V12.0.7.0.QCDTRXM_ad8a53cefe_10.0.zip,1.7G
-Redmi 9/9A/9C/9C NFC/9T,Redmi 9C TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.0.10.0.QCRTRXM/miui_ANGELICATRGlobal_V12.0.10.0.QCRTRXM_1abf178919_10.0.zip,1.7G
+Redmi 9/9A/9C/9C NFC/9T,Redmi 9C TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.0.11.0.QCRTRXM/miui_ANGELICATRGlobal_V12.0.11.0.QCRTRXM_c7ae365324_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9T TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.3.0.RJQTRXM/miui_LIMETRGlobal_V12.5.3.0.RJQTRXM_d98ee499ce_11.0.zip,2.6G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9T RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.4.0.RJQRUXM/miui_LIMERUGlobal_V12.5.4.0.RJQRUXM_56f8372150_11.0.zip,2.6G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9T TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.3.0.RJQTWXM/miui_LIMETWGlobal_V12.5.3.0.RJQTWXM_17bb724daf_11.0.zip,2.5G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9 India,stable_rom,MIUI11 (MIUI11),https://bigota.d.miui.com/V12.0.16.0.QCTINXM/miui_CATTAILINGlobal_V12.0.16.0.QCTINXM_0f8922a4aa_10.0.zip,1.7G
-Redmi 9/9A/9C/9C NFC/9T,Redmi 9C NFC EEA,stable_rom,V12.0.11.0.QCSEUXM (MIUI12),https://bigota.d.miui.com/V12.0.11.0.QCSEUXM/miui_ANGELICANEEAGlobal_V12.0.11.0.QCSEUXM_bed722f66e_10.0.zip,1.7G
+Redmi 9/9A/9C/9C NFC/9T,Redmi 9C NFC EEA,stable_rom,V12.0.12.0.QCSEUXM (MIUI12),https://bigota.d.miui.com/V12.0.12.0.QCSEUXM/miui_ANGELICANEEAGlobal_V12.0.12.0.QCSEUXM_f362ef2cce_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9C NFC RU,stable_rom,V12.0.13.0.QCSRUXM (MIUI12),https://bigota.d.miui.com/V12.0.13.0.QCSRUXM/miui_ANGELICANRUGlobal_V12.0.13.0.QCSRUXM_d03b1a7549_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9C NFC Global,stable_rom,V12.0.12.0.QCSMIXM (MIUI11),https://bigota.d.miui.com/V12.0.12.0.QCSMIXM/miui_ANGELICANGlobal_V12.0.12.0.QCSMIXM_fe40256a31_10.0.zip,1.7G
 Redmi 9/9A/9C/9C NFC/9T,Redmi 9 ID,stable_rom,V12.5.3.0.RJCIDXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RJCIDXM/miui_LANCELOTIDGlobal_V12.5.3.0.RJCIDXM_c2ff163918_11.0.zip,2.3G
@@ -225,6 +225,7 @@ Xiaomi 12 Series,Xiaomi 12 ID,stable_rom,V13.0.1.0.SLCIDXM (),https://bigota.d.m
 Xiaomi 12 Series,Xiaomi 12 TW,stable_rom,V13.0.2.0.SLCTWXM (),https://bigota.d.miui.com/V13.0.2.0.SLCTWXM/miui_CUPIDTWGlobal_V13.0.2.0.SLCTWXM_9b54667612_12.0.zip,3.7G
 Xiaomi 12 Series,Xiaomi 12 EEA,stable_rom,V13.0.14.0.SLCEUXM (),https://bigota.d.miui.com/V13.0.14.0.SLCEUXM/miui_CUPIDEEAGlobal_V13.0.14.0.SLCEUXM_39da571424_12.0.zip,3.9G
 Xiaomi 12 Series,Xiaomi 12 Global,stable_rom,V13.0.4.0.SLCMIXM (),https://bigota.d.miui.com/V13.0.4.0.SLCMIXM/miui_CUPIDGlobal_V13.0.4.0.SLCMIXM_2b4b27e370_12.0.zip,3.7G
+Xiaomi 12 Series,Xiaomi 12 Pro EEA,stable_rom,V13.0.14.0.SLBEUXM (),https://bigota.d.miui.com/V13.0.14.0.SLBEUXM/miui_ZEUSEEAGlobal_V13.0.14.0.SLBEUXM_ac7a931bbd_12.0.zip,4.0G
 POCO M4/ Pro,POCO M4 Pro Global,stable_rom,V13.0.5.0.RKEMIXM (),https://bigota.d.miui.com/V13.0.5.0.RKEMIXM/miui_FLEURGlobal_V13.0.5.0.RKEMIXM_ba53853969_11.0.zip,2.5G
 POCO M4/ Pro,POCO M4 Pro IN,stable_rom,V13.0.3.0.RKEINXM (),https://bigota.d.miui.com/V13.0.3.0.RKEINXM/miui_FLEURINGlobal_V13.0.3.0.RKEINXM_965c6abe20_11.0.zip,2.6G
 POCO M4/ Pro,POCO M4 Pro RU,stable_rom,V13.0.2.0.RKERUXM (),https://bigota.d.miui.com/V13.0.2.0.RKERUXM/miui_FLEURRUGlobal_V13.0.2.0.RKERUXM_4fc0a92376_11.0.zip,2.6G
