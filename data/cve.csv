@@ -1,5 +1,5 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
-CVE-2021-0694,2022-04-01,A-183147114,EoP,High,11,framework,N/A,
+CVE-2021-0694,2022-04-01,[A-183147114](https://android.googlesource.com/platform/frameworks/base/+/5d30b701587920280c12210af22f3457b802da6e),EoP,High,11,framework,N/A,
 CVE-2021-39794,2022-04-01,[A-205836329](https://android.googlesource.com/platform/frameworks/base/+/f2387994151fb5c22c9e645647945e1471fe8ac1),EoP,High,"11, 12, 12L",framework,N/A,
 CVE-2021-39795,2022-04-01,[A-201667614](https://android.googlesource.com/platform/packages/providers/MediaProvider/+/cc72a7edde71d1dae05aafb31dc922cbfa1b6c82),EoP,High,"11, 12, 12L",framework,N/A,
 CVE-2021-39796,2022-04-01,[A-205595291](https://android.googlesource.com/platform/frameworks/base/+/e74a2a320bf896bc30618ce486203bafe453c469),EoP,High,"10, 11, 12, 12L",framework,N/A,
