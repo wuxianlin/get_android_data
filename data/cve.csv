@@ -59,7 +59,6 @@ CVE-2021-39704,2022-03-01,[A-209965481](https://android.googlesource.com/platfor
 CVE-2021-39706,2022-03-01,[A-200164168](https://android.googlesource.com/platform/packages/apps/Settings/+/6407b20ab3ab49318ba5cbfc0d6b59c675df67b4) [2](https://android.googlesource.com/platform/packages/apps/Car/Settings/+/6a6489935d203715a755b21b374e1e3b3085aa3f),EoP,High,"10, 11, 12",system,N/A,
 CVE-2021-39707,2022-03-01,[A-200688991](https://android.googlesource.com/platform/packages/apps/Settings/+/4fb753d22e6a2505b1667950d153bc03ad8ae422),EoP,High,"10, 11, 12",system,N/A,
 CVE-2021-39709,2022-03-01,[A-208817618](https://android.googlesource.com/platform/packages/services/Telephony/+/7c9b65a4de4540a50a16781e9f55857544453bc2),EoP,High,12,system,N/A,
-CVE-2021-39705,2022-03-01,[A-186026746](https://android.googlesource.com/platform/packages/apps/Dialer/+/a38caf0ff62e0b3c8a7710c44277607244149fed) [2](https://android.googlesource.com/platform/packages/apps/Dialer/+/02e1666deb3f1f638a0ca5510e75b126c13ddbf1) [3](https://android.googlesource.com/platform/packages/apps/Dialer/+/f7944b6c2d690bc27660124f4bd11593eee5bd05),ID,High,"10, 11, 12",system,N/A,
 CVE-2021-39667,2022-03-01,N/A,N/A,N/A,N/A,google-play-system-updates,Media Codecs,
 CVE-2021-39694,2022-03-05,A-202312327,EoP,High,12,framework-05,N/A,
 CVE-2020-29368,2022-03-05,A-174738029 [Upstream kernel](https://android.googlesource.com/kernel/common/+/c444eb564fb16645c172d550359cb3d75fe8a040),EoP,High,N/A,kernel-components-05,Kernel Memory Management,
