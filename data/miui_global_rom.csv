@@ -217,6 +217,7 @@ Xiaomi Mi 4,Mi 4 3G/4G China,stable_rom,V10.1.1.0.MXDCNFI (MIUI9),https://bigota
 Mi A2 Lite,Mi A2 Lite,stable_rom,V11.0.4.0.QDLMIXM (Android Q),https://bigota.d.miui.com/V11.0.4.0.QDLMIXM/miui_DAISYGlobal_V11.0.4.0.QDLMIXM_43d1799e9a_10.0.zip,1.1G
 Xiaomi Mi Note 2,Mi Note 2 Global,stable_rom,V11.0.2.0.OADMIXM (MIUI11),https://bigota.d.miui.com/V11.0.2.0.OADMIXM/miui_MINote2Global_V11.0.2.0.OADMIXM_6353b7fa7e_8.0.zip,1.5G
 POCO F4 GT,POCO F4 GT Global,stable_rom,V13.0.3.0.SLJMIXM (),https://bigota.d.miui.com/V13.0.3.0.SLJMIXM/miui_INGRESGlobal_V13.0.3.0.SLJMIXM_877a440af3_12.0.zip,3.8G
+POCO F4 GT,POCO F4 GT TW,stable_rom,V13.0.1.0.SLJTWXM (),https://bigota.d.miui.com/V13.0.1.0.SLJTWXM/miui_INGRESTWGlobal_V13.0.1.0.SLJTWXM_f911fa12ff_12.0.zip,3.7G
 Redmi note 11s 5G,Redmi note 11s 5G EEA,stable_rom,V13.0.5.0.RGLEUXM (),https://bigota.d.miui.com/V13.0.5.0.RGLEUXM/miui_OPALEEAGlobal_V13.0.5.0.RGLEUXM_5c88254c5b_11.0.zip,2.5G
 Redmi note 11s 5G,Redmi note 11s 5G Global,stable_rom,V13.0.5.0.RGLMIXM (),https://bigota.d.miui.com/V13.0.5.0.RGLMIXM/miui_OPALGlobal_V13.0.5.0.RGLMIXM_f773f0348d_11.0.zip,2.5G
 POCO X4,POCO X4 Pro 5G Global,stable_rom,V13.0.13.0.RKCMIXM (),https://bigota.d.miui.com/V13.0.13.0.RKCMIXM/miui_VEUXGlobal_V13.0.13.0.RKCMIXM_e6653894a7_11.0.zip,2.9G
@@ -227,11 +228,11 @@ Xiaomi 12 Series,Xiaomi 12 Pro TW,stable_rom,V13.0.3.0.SLBTWXM (),https://bigota
 Xiaomi 12 Series,Xiaomi 12 RU,stable_rom,V13.0.2.0.SLCRUXM (),https://bigota.d.miui.com/V13.0.2.0.SLCRUXM/miui_CUPIDRUGlobal_V13.0.2.0.SLCRUXM_e687da3a9a_12.0.zip,3.8G
 Xiaomi 12 Series,Xiaomi 12 ID,stable_rom,V13.0.2.0.SLCIDXM (),https://bigota.d.miui.com/V13.0.2.0.SLCIDXM/miui_CUPIDIDGlobal_V13.0.2.0.SLCIDXM_1fc78a2c1e_12.0.zip,3.8G
 Xiaomi 12 Series,Xiaomi 12 TW,stable_rom,V13.0.3.0.SLCTWXM (),https://bigota.d.miui.com/V13.0.3.0.SLCTWXM/miui_CUPIDTWGlobal_V13.0.3.0.SLCTWXM_aa2db81c78_12.0.zip,3.7G
-Xiaomi 12 Series,Xiaomi 12 EEA,stable_rom,V13.0.16.0.SLCEUXM (),https://bigota.d.miui.com/V13.0.16.0.SLCEUXM/miui_CUPIDEEAGlobal_V13.0.16.0.SLCEUXM_9b162cbd6f_12.0.zip,3.9G
+Xiaomi 12 Series,Xiaomi 12 EEA,stable_rom,V13.0.17.0.SLCEUXM (),https://bigota.d.miui.com/V13.0.17.0.SLCEUXM/miui_CUPIDEEAGlobal_V13.0.17.0.SLCEUXM_ff1bab369c_12.0.zip,3.9G
 Xiaomi 12 Series,Xiaomi 12 Global,stable_rom,V13.0.7.0.SLCMIXM (),https://bigota.d.miui.com/V13.0.7.0.SLCMIXM/miui_CUPIDGlobal_V13.0.7.0.SLCMIXM_7dc17b4278_12.0.zip,3.7G
-Xiaomi 12 Series,Xiaomi 12 Pro EEA,stable_rom,V13.0.16.0.SLBEUXM (),https://bigota.d.miui.com/V13.0.16.0.SLBEUXM/miui_ZEUSEEAGlobal_V13.0.16.0.SLBEUXM_db2b379891_12.0.zip,4.0G
-Xiaomi 12 Series,Xiaomi 12X TW,stable_rom,V13.0.2.0.RLDTWXM (),https://bigota.d.miui.com/V13.0.2.0.RLDTWXM/miui_PSYCHETWGlobal_V13.0.2.0.RLDTWXM_6a5742d479_11.0.zip,2.9G
-Xiaomi 12 Series,Xiaomi 12X RU,stable_rom,V13.0.1.0.RLDRUXM (),https://bigota.d.miui.com/V13.0.1.0.RLDRUXM/miui_PSYCHERUGlobal_V13.0.1.0.RLDRUXM_cfc53f74bd_11.0.zip,2.9G
+Xiaomi 12 Series,Xiaomi 12 Pro EEA,stable_rom,V13.0.17.0.SLBEUXM (),https://bigota.d.miui.com/V13.0.17.0.SLBEUXM/miui_ZEUSEEAGlobal_V13.0.17.0.SLBEUXM_ddb8257ea4_12.0.zip,4.0G
+Xiaomi 12 Series,Xiaomi 12X TW,stable_rom,V13.0.1.0.SLDTWXM (),https://bigota.d.miui.com/V13.0.1.0.SLDTWXM/miui_PSYCHETWGlobal_V13.0.1.0.SLDTWXM_3c4831e18e_12.0.zip,3.0G
+Xiaomi 12 Series,Xiaomi 12X RU,stable_rom,V13.0.1.0.SLDRUXM (),https://bigota.d.miui.com/V13.0.1.0.SLDRUXM/miui_PSYCHERUGlobal_V13.0.1.0.SLDRUXM_5505dcca4d_12.0.zip,3.1G
 Xiaomi 12 Series,Xiaomi 12X EEA,stable_rom,V13.0.2.0.SLDEUXM (),https://bigota.d.miui.com/V13.0.2.0.SLDEUXM/miui_PSYCHEEEAGlobal_V13.0.2.0.SLDEUXM_149a7b39a9_12.0.zip,3.1G
 Xiaomi 12 Series,Xiaomi 12X Global,stable_rom,V13.0.5.0.RLDMIXM (),https://bigota.d.miui.com/V13.0.5.0.RLDMIXM/miui_PSYCHEGlobal_V13.0.5.0.RLDMIXM_e3fec00afd_11.0.zip,2.9G
 POCO M4/ Pro,POCO M4 Pro Global,stable_rom,V13.0.7.0.RKEMIXM (),https://bigota.d.miui.com/V13.0.7.0.RKEMIXM/miui_FLEURGlobal_V13.0.7.0.RKEMIXM_30020f3ca0_11.0.zip,2.5G
@@ -291,7 +292,7 @@ Redmi 10,Redmi 10 TW,stable_rom,V12.5.5.0.RKUTWXM (),https://bigota.d.miui.com/V
 Redmi 10,Redmi 10 EEA,stable_rom,V12.5.15.0.RKUEUXM (),https://bigota.d.miui.com/V12.5.15.0.RKUEUXM/miui_SELENEEEAGlobal_V12.5.15.0.RKUEUXM_148cd43dad_11.0.zip,2.4G
 Redmi 10,Redmi 10C Global,stable_rom,V13.0.7.0.RGEMIXM (),https://bigota.d.miui.com/V13.0.7.0.RGEMIXM/miui_FOGGlobal_V13.0.7.0.RGEMIXM_432dc3edb4_11.0.zip,2.4G
 Redmi 10,Redmi 10C IN,stable_rom,V13.0.5.0.RGEINXM (),https://bigota.d.miui.com/V13.0.5.0.RGEINXM/miui_FOGINGlobal_V13.0.5.0.RGEINXM_413dad608e_11.0.zip,2.4G
-Redmi 10,Redmi 10A TW,stable_rom,V12.5.1.0.RCZTWXM (),https://bigota.d.miui.com/V12.5.1.0.RCZTWXM/miui_DANDELIONC3L2TWGlobal_V12.5.1.0.RCZTWXM_ffbef68ff3_11.0.zip,2.0G
+Redmi 10,Redmi 10A TW,stable_rom,V12.5.2.0.RCZTWXM (),https://bigota.d.miui.com/V12.5.2.0.RCZTWXM/miui_DANDELIONC3L2TWGlobal_V12.5.2.0.RCZTWXM_860bc34d42_11.0.zip,1.9G
 Redmi 10,Redmi 10C TW,stable_rom,V13.0.3.0.RGETWXM (),https://bigota.d.miui.com/V13.0.3.0.RGETWXM/miui_FOGTWGlobal_V13.0.3.0.RGETWXM_f321cb2081_11.0.zip,2.3G
 Redmi 10,Redmi 10 TR,stable_rom,V12.5.5.0.RKUTRXM (),https://bigota.d.miui.com/V12.5.5.0.RKUTRXM/miui_SELENETRGlobal_V12.5.5.0.RKUTRXM_47caa33760_11.0.zip,2.4G
 Redmi 10,Redmi 10C RU,stable_rom,V13.0.4.0.RGERUXM (),https://bigota.d.miui.com/V13.0.4.0.RGERUXM/miui_FOGRUGlobal_V13.0.4.0.RGERUXM_9a31c72ac2_11.0.zip,2.4G
@@ -358,7 +359,7 @@ Redmi Note10 Pro,Redmi Note10 Pro TW,stable_rom,version自定义文案 (),https:
 POCO M3/ X3 GT ,POCO M3 IN,stable_rom,V12.5.3.0.RJFINXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RJFINXM/miui_CITRUSINGlobal_V12.5.3.0.RJFINXM_1e91485f70_11.0.zip,2.6G
 POCO M3/ X3 GT ,POCO M3 EEA,stable_rom,V12.5.6.0.RJFEUXM (MIUI12),https://bigota.d.miui.com/V12.5.6.0.RJFEUXM/miui_CITRUSEEAGlobal_V12.5.6.0.RJFEUXM_ffe13f9ac2_11.0.zip,2.7G
 POCO M3/ X3 GT ,POCO M3 RU,stable_rom,V12.5.6.0.RJFRUXM (MIUI12),https://bigota.d.miui.com/V12.5.6.0.RJFRUXM/miui_CITRUSRUGlobal_V12.5.6.0.RJFRUXM_a7368f6a28_11.0.zip,2.7G
-POCO M3/ X3 GT ,POCO M3 ID,stable_rom,V12.5.6.0.RJFIDXM (MIUI12),https://bigota.d.miui.com/V12.5.6.0.RJFIDXM/miui_CITRUSIDGlobal_V12.5.6.0.RJFIDXM_74116160b9_11.0.zip,2.6G
+POCO M3/ X3 GT ,POCO M3 ID,stable_rom,V12.5.7.0.RJFIDXM (MIUI12),https://bigota.d.miui.com/V12.5.7.0.RJFIDXM/miui_CITRUSIDGlobal_V12.5.7.0.RJFIDXM_3afb4dd0a4_11.0.zip,2.6G
 POCO M3/ X3 GT ,POCO M3 Global,stable_rom,V12.5.8.0.RJFMIXM (MIUI12),https://bigota.d.miui.com/V12.5.8.0.RJFMIXM/miui_CITRUSGlobal_V12.5.8.0.RJFMIXM_9839760691_11.0.zip,2.6G
 POCO M3/ X3 GT ,POCO M3 TR,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V12.5.6.0.RJFTRXM/miui_CITRUSTRGlobal_V12.5.6.0.RJFTRXM_868e68e6f1_11.0.zip,2.7G
 POCO M3/ X3 GT ,POCO M3 pro EEA,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RKSEUXM/miui_CAMELLIANEEAGlobal_V12.5.5.0.RKSEUXM_a90f37af9b_11.0.zip,2.5G
