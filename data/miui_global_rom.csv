@@ -3,7 +3,7 @@ Mi 10T/Pro/Lite,Mi 10T/Pro RU,stable_rom,V13.0.1.0.SJDRUXM (MIUI12),https://bigo
 Mi 10T/Pro/Lite,Mi 10T/Pro EEA,stable_rom,V13.0.6.0.SJDEUXM (MIUI12),https://bigota.d.miui.com/V13.0.6.0.SJDEUXM/miui_APOLLOEEAGlobal_V13.0.6.0.SJDEUXM_7571b40647_12.0.zip,3.3G
 Mi 10T/Pro/Lite,Mi 10T/Pro India,stable_rom,V13.0.4.0.SJDINXM (MIUI12),https://bigota.d.miui.com/V13.0.4.0.SJDINXM/miui_APOLLOINGlobal_V13.0.4.0.SJDINXM_7fa4f171f8_12.0.zip,3.2G
 Mi 10T/Pro/Lite,Mi 10T/Pro Global,stable_rom,V13.0.3.0.SJDMIXM (MIUI12),https://bigota.d.miui.com/V13.0.3.0.SJDMIXM/miui_APOLLOGlobal_V13.0.3.0.SJDMIXM_6eb864dfa0_12.0.zip,3.2G
-Mi 10T/Pro/Lite,Mi 10T Lite TW,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V13.0.1.0.SJSTWXM/miui_GAUGUINTWGlobal_V13.0.1.0.SJSTWXM_1dc056f935_12.0.zip,3.0G
+Mi 10T/Pro/Lite,Mi 10T Lite TW,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SJSTWXM/miui_GAUGUINTWGlobal_V13.0.2.0.SJSTWXM_110eca6346_12.0.zip,2.9G
 Mi 10T/Pro/Lite,Mi 10T/Pro TW,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RJDTWXM/miui_APOLLOTWGlobal_V12.5.3.0.RJDTWXM_0f52901bcb_11.0.zip,3.0G
 Mi 10T/Pro/Lite,Mi 10T/Pro TR,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V13.0.1.0.SJDTRXM/miui_APOLLOTRGlobal_V13.0.1.0.SJDTRXM_52ed759f82_12.0.zip,3.3G
 POCO X3 NFC,POCO X3 NFC ID,stable_rom,V12.5.6.0.RJGIDXM (MIUI11),https://bigota.d.miui.com/V12.5.6.0.RJGIDXM/miui_SURYAIDGlobal_V12.5.6.0.RJGIDXM_91e9605102_11.0.zip,2.5G
@@ -50,7 +50,7 @@ Mi 10/Pro/Lite 5G,Mi 10 IN,stable_rom,V13.0.3.0.SJBINXM (MIUI12),https://bigota.
 Mi 10/Pro/Lite 5G,Mi 10 Pro EEA,stable_rom,V13.0.2.0.SJAEUXM (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SJAEUXM/miui_CMIEEAGlobal_V13.0.2.0.SJAEUXM_f41362a8f6_12.0.zip,3.4G
 Mi 10/Pro/Lite 5G,Mi 10 Pro Global,stable_rom,V13.0.2.0.SJAMIXM (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SJAMIXM/miui_CMIGlobal_V13.0.2.0.SJAMIXM_144a191a3d_12.0.zip,3.3G
 Mi 10/Pro/Lite 5G,Mi 10 Lite 5G Global,stable_rom,V13.0.2.0.SJIMIXM (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SJIMIXM/miui_MONETGlobal_V13.0.2.0.SJIMIXM_f2b661bdf6_12.0.zip,3.2G
-Mi 10/Pro/Lite 5G,Mi 10 Lite 5G EEA,stable_rom,V13.0.2.0.SJIEUXM (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SJIEUXM/miui_MONETEEAGlobal_V13.0.2.0.SJIEUXM_b5bf156b9b_12.0.zip,3.2G
+Mi 10/Pro/Lite 5G,Mi 10 Lite 5G EEA,stable_rom,V13.0.3.0.SJIEUXM (MIUI12),https://bigota.d.miui.com/V13.0.3.0.SJIEUXM/miui_MONETEEAGlobal_V13.0.3.0.SJIEUXM_4e384a605c_12.0.zip,3.3G
 Mi 10/Pro/Lite 5G,Mi 10 Lite 5G TW,stable_rom,version自定义文案 (MIUI11),https://bigota.d.miui.com/V13.0.1.0.SJITWXM/miui_MONETTWGlobal_V13.0.1.0.SJITWXM_d8d23da7f4_12.0.zip,3.2G
 Redmi Note 9/S/Pro/T,Redmi Note 9 India,stable_rom,V12.5.5.0.RJOINXM (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RJOINXM/miui_MERLININGlobal_V12.5.5.0.RJOINXM_d1e3228323_11.0.zip,2.2G
 Redmi Note 9/S/Pro/T,Redmi Note 9S TR,stable_rom,version自定义文案 (MIUI11),https://bigota.d.miui.com/V12.5.5.0.RJWTRXM/miui_CURTANATRGlobal_V12.5.5.0.RJWTRXM_365758c224_11.0.zip,2.5G
@@ -68,7 +68,7 @@ Redmi Note 9/S/Pro/T,Redmi Note 9 Pro ID,stable_rom,V12.5.4.0.RJZIDXM (MIUI11),h
 Redmi Note 9/S/Pro/T,Redmi Note 9 Global,stable_rom,V12.5.4.0.RJOMIXM (MIUI12),https://bigota.d.miui.com/V12.5.4.0.RJOMIXM/miui_MERLINGlobal_V12.5.4.0.RJOMIXM_a4d0f9b695_11.0.zip,2.2G
 Redmi Note 9/S/Pro/T,Redmi Note 9 RU,stable_rom,V12.5.5.0.RJORUXM (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RJORUXM/miui_MERLINRUGlobal_V12.5.5.0.RJORUXM_a6212a353e_11.0.zip,2.3G
 Redmi Note 9/S/Pro/T,Redmi Note 9 EEA,stable_rom,V12.5.5.0.RJOEUXM (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RJOEUXM/miui_MERLINEEAGlobal_V12.5.5.0.RJOEUXM_0fe75df472_11.0.zip,2.3G
-Redmi Note 9/S/Pro/T,Redmi Note 9 Pro Global,stable_rom,V12.5.5.0.RJZMIXM (MIUI11),https://bigota.d.miui.com/V12.5.5.0.RJZMIXM/miui_JOYEUSEGlobal_V12.5.5.0.RJZMIXM_609b6fc150_11.0.zip,2.5G
+Redmi Note 9/S/Pro/T,Redmi Note 9 Pro Global,stable_rom,V12.5.7.0.RJZMIXM (MIUI11),https://bigota.d.miui.com/V12.5.7.0.RJZMIXM/miui_JOYEUSEGlobal_V12.5.7.0.RJZMIXM_48f0898fc9_11.0.zip,2.5G
 Redmi Note 9/S/Pro/T,Redmi Note 9 Pro EEA,stable_rom,V12.5.8.0.RJZEUXM (MIUI11),https://bigota.d.miui.com/V12.5.8.0.RJZEUXM/miui_JOYEUSEEEAGlobal_V12.5.8.0.RJZEUXM_0d0abb3576_11.0.zip,2.6G
 Redmi Note 9/S/Pro/T,Redmi Note 9S EEA,stable_rom,V12.5.6.0.RJWEUXM (MIUI11),https://bigota.d.miui.com/V12.5.6.0.RJWEUXM/miui_CURTANAEEAGlobal_V12.5.6.0.RJWEUXM_b4868b7dac_11.0.zip,2.5G
 Redmi Note 9/S/Pro/T,Redmi Note 9S RU,stable_rom,V12.5.4.0.RJWRUXM (MIUI11),https://bigota.d.miui.com/V12.5.4.0.RJWRUXM/miui_CURTANARUGlobal_V12.5.4.0.RJWRUXM_2c904a8128_11.0.zip,2.5G
@@ -369,7 +369,7 @@ POCO M3/ X3 GT ,POCO M3 pro ID,stable_rom,version自定义文案 (MIUI12),https:
 POCO M3/ X3 GT ,POCO M3 pro RU,stable_rom,V12.5.3.0.RKSRUXM (MIUI12),https://bigota.d.miui.com/V12.5.3.0.RKSRUXM/miui_CAMELLIANRUGlobal_V12.5.3.0.RKSRUXM_fb1b3ca8a9_11.0.zip,2.3G
 POCO M3/ X3 GT ,POCO X3 GT Global TR,stable_rom,V13.0.1.0.SKPTRXM (MIUI12),https://bigota.d.miui.com/V13.0.1.0.SKPTRXM/miui_CHOPINTRGlobal_V13.0.1.0.SKPTRXM_3d2a9e0522_12.0.zip,3.2G
 POCO M3/ X3 GT ,POCO X3 GT Global ID,stable_rom,V13.0.1.0.SKPIDXM (MIUI12),https://bigota.d.miui.com/V13.0.1.0.SKPIDXM/miui_CHOPINIDGlobal_V13.0.1.0.SKPIDXM_13fccc929e_12.0.zip,3.2G
-POCO M3/ X3 GT ,POCO X3 GT Global,stable_rom,V13.0.3.0.SKPMIXM (MIUI12),https://bigota.d.miui.com/V13.0.3.0.SKPMIXM/miui_CHOPINGlobal_V13.0.3.0.SKPMIXM_bef6957efe_12.0.zip,3.2G
+POCO M3/ X3 GT ,POCO X3 GT Global,stable_rom,V13.0.4.0.SKPMIXM (MIUI12),https://bigota.d.miui.com/V13.0.4.0.SKPMIXM/miui_CHOPINGlobal_V13.0.4.0.SKPMIXM_3f4c0179b6_12.0.zip,3.1G
 POCO M3/ X3 GT ,POCO M3 pro TW,stable_rom,V12.5.4.0.RKSTWXM (MIUI12),https://bigota.d.miui.com/V12.5.4.0.RKSTWXM/miui_CAMELLIANTWGlobal_V12.5.4.0.RKSTWXM_67ddf69af0_11.0.zip,2.2G
 Xiaomi Mi 3,Mi 3 Global,stable_rom,V9.5.7.0.MXDMIFA (MIUI9),https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip,774M
 Redmi Note 5A/Prime,Redmi Note 5A Prime Global,stable_rom,V11.0.2.0.NDKMIXM (MIUI11),https://bigota.d.miui.com/V11.0.2.0.NDKMIXM/miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip,1.5G
