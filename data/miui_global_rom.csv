@@ -297,7 +297,7 @@ Xiaomi 12 Series,Xiaomi 12X EEA,stable_rom,V13.0.3.0.SLDEUXM (),https://bigota.d
 Xiaomi 12 Series,Xiaomi 12X Global,stable_rom,V13.0.2.0.SLDMIXM (),https://bigota.d.miui.com/V13.0.2.0.SLDMIXM/miui_PSYCHEGlobal_V13.0.2.0.SLDMIXM_17f0281732_12.0.zip,3.0G
 POCO X4,POCO X4 Pro 5G Global,stable_rom,V13.0.14.0.RKCMIXM (),https://bigota.d.miui.com/V13.0.14.0.RKCMIXM/miui_VEUXGlobal_V13.0.14.0.RKCMIXM_cb9ffa7184_11.0.zip,3.0G
 Redmi note 11s 5G,Redmi note 11s 5G EEA,stable_rom,V13.0.5.0.RGLEUXM (),https://bigota.d.miui.com/V13.0.5.0.RGLEUXM/miui_OPALEEAGlobal_V13.0.5.0.RGLEUXM_5c88254c5b_11.0.zip,2.5G
-Redmi note 11s 5G,Redmi note 11s 5G Global,stable_rom,V13.0.5.0.RGLMIXM (),https://bigota.d.miui.com/V13.0.5.0.RGLMIXM/miui_OPALGlobal_V13.0.5.0.RGLMIXM_f773f0348d_11.0.zip,2.5G
+Redmi note 11s 5G,Redmi note 11s 5G Global,stable_rom,V13.0.6.0.RGLMIXM (),https://bigota.d.miui.com/V13.0.6.0.RGLMIXM/miui_OPALGlobal_V13.0.6.0.RGLMIXM_9352e439a3_11.0.zip,2.5G
 Redmi note 11s 5G,Redmi note 11s 5G TW,stable_rom,V13.0.3.0.RGLTWXM (),https://bigota.d.miui.com/V13.0.3.0.RGLTWXM/miui_OPALTWGlobal_V13.0.3.0.RGLTWXM_b19e8357ac_11.0.zip,2.4G
 POCO F4 GT,POCO F4 GT Global,stable_rom,V13.0.5.0.SLJMIXM (),https://bigota.d.miui.com/V13.0.5.0.SLJMIXM/miui_INGRESGlobal_V13.0.5.0.SLJMIXM_52cd2b50fc_12.0.zip,3.8G
 POCO F4 GT,POCO F4 GT TW,stable_rom,V13.0.3.0.SLJTWXM (),https://bigota.d.miui.com/V13.0.3.0.SLJTWXM/miui_INGRESTWGlobal_V13.0.3.0.SLJTWXM_a39f924b15_12.0.zip,3.8G
@@ -314,7 +314,7 @@ Redmi Note 10S,Redmi Note 10S TW,stable_rom,version自定义文案 (),https://bi
 Redmi Note 10S,Redmi Note 10S EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.18.0.RKLEUXM/miui_ROSEMARYEEAGlobal_V12.5.18.0.RKLEUXM_35079246f6_11.0.zip,2.6G
 Redmi Note 10S,Redmi Note 10S Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.6.0.SKLMIXM/miui_ROSEMARYGlobal_V13.0.6.0.SKLMIXM_63c46433c0_12.0.zip,2.9G
 Redmi Note10 T/5G,Redmi Note10 5G TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.3.0.RKSTRXM/miui_CAMELLIANTRGlobal_V12.5.3.0.RKSTRXM_c609e07532_11.0.zip,2.3G
-Redmi Note10 T/5G,Redmi Note10 5G TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V12.5.4.0.RKSTWXM/miui_CAMELLIANTWGlobal_V12.5.4.0.RKSTWXM_67ddf69af0_11.0.zip,2.2G
+Redmi Note10 T/5G,Redmi Note10 5G TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKSTWXM/miui_CAMELLIANTWGlobal_V13.0.1.0.SKSTWXM_0c55219898_12.0.zip,2.8G
 Redmi Note10 T/5G,Redmi Note10 T RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKSRUXM/miui_CAMELLIANRUGlobal_V13.0.1.0.SKSRUXM_0b444a7ea1_12.0.zip,2.8G
 Mi 11 Ultra,Mi 11 Ultra EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.7.0.SKAEUXM/miui_STAREEAGlobal_V13.0.7.0.SKAEUXM_327992153c_12.0.zip,3.6G
 Mi 11 Ultra,Mi 11 Ultra ID,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SKAIDXM/miui_STARIDGlobal_V13.0.3.0.SKAIDXM_e3f84692a9_12.0.zip,3.6G
@@ -375,7 +375,7 @@ POCO M3/ X3 GT ,POCO M3 pro RU,stable_rom,V13.0.1.0.SKSRUXM (MIUI12),https://big
 POCO M3/ X3 GT ,POCO X3 GT Global TR,stable_rom,V13.0.2.0.SKPTRXM (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SKPTRXM/miui_CHOPINTRGlobal_V13.0.2.0.SKPTRXM_09de74af3c_12.0.zip,3.2G
 POCO M3/ X3 GT ,POCO X3 GT Global ID,stable_rom,V13.0.2.0.SKPIDXM (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SKPIDXM/miui_CHOPINIDGlobal_V13.0.2.0.SKPIDXM_958ce6e7d9_12.0.zip,3.2G
 POCO M3/ X3 GT ,POCO X3 GT Global,stable_rom,V13.0.4.0.SKPMIXM (MIUI12),https://bigota.d.miui.com/V13.0.4.0.SKPMIXM/miui_CHOPINGlobal_V13.0.4.0.SKPMIXM_3f4c0179b6_12.0.zip,3.1G
-POCO M3/ X3 GT ,POCO M3 pro TW,stable_rom,V12.5.4.0.RKSTWXM (MIUI12),https://bigota.d.miui.com/V12.5.4.0.RKSTWXM/miui_CAMELLIANTWGlobal_V12.5.4.0.RKSTWXM_67ddf69af0_11.0.zip,2.2G
+POCO M3/ X3 GT ,POCO M3 pro TW,stable_rom,V13.0.1.0.SKSTWXM (MIUI12),https://bigota.d.miui.com/V13.0.1.0.SKSTWXM/miui_CAMELLIANTWGlobal_V13.0.1.0.SKSTWXM_0c55219898_12.0.zip,2.8G
 Xiaomi Mi 3,Mi 3 Global,stable_rom,V9.5.7.0.MXDMIFA (MIUI9),https://bigota.d.miui.com/V9.5.7.0.MXDMIFA/miui_MI3WMI4WGlobal_V9.5.7.0.MXDMIFA_df826857ee_6.0.zip,774M
 Redmi Note 5A/Prime,Redmi Note 5A Prime Global,stable_rom,V11.0.2.0.NDKMIXM (MIUI11),https://bigota.d.miui.com/V11.0.2.0.NDKMIXM/miui_HMNote5AGlobal_V11.0.2.0.NDKMIXM_dd519c8e33_7.1.zip,1.5G
 Redmi Note 5A/Prime,Redmi Note 5A Global,stable_rom,V11.0.3.0.NDFMIXM (MIUI11),https://bigota.d.miui.com/V11.0.3.0.NDFMIXM/miui_HMNote5ALITEGlobal_V11.0.3.0.NDFMIXM_542160087b_7.1.zip,1.5G
