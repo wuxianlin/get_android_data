@@ -36,7 +36,6 @@ CVE-2022-20130,2022-06-01,[A-224314979](https://android.googlesource.com/platfor
 CVE-2022-20127,2022-06-01,[A-221862119](https://android.googlesource.com/platform/system/nfc/+/2fcf7d677bcebae5a00db43938460bcce267149e),RCE,Critical,"10, 11, 12, 12L",system,N/A,
 CVE-2022-20140,2022-06-01,[A-227618988](https://android.googlesource.com/platform/system/bt/+/7056e665e7d4782af9474b1645c59afbb2b76efd),EoP,Critical,"12, 12L",system,N/A,
 CVE-2022-20145,2022-06-01,A-201660636,EoP,Critical,11,system,N/A,
-CVE-2022-20124,2022-06-01,[A-170646036](https://android.googlesource.com/platform/frameworks/base/+/6c870e157994519094e9e50ddf93e57a26779e22),EoP,High,"10, 11, 12, 12L",system,N/A,
 CVE-2022-20126,2022-06-01,[A-203431023](https://android.googlesource.com/platform/packages/apps/Bluetooth/+/e49e5dc377dd39c523c287b71c0831159e2cc6ae),EoP,High,"10, 11, 12, 12L",system,N/A,
 CVE-2022-20133,2022-06-01,[A-206807679](https://android.googlesource.com/platform/packages/apps/Bluetooth/+/cc22abc0643c66e5873cbd0d15cd128816a186cf),EoP,High,"10, 11, 12, 12L",system,N/A,
 CVE-2022-20134,2022-06-01,[A-218341397](https://android.googlesource.com/platform/packages/apps/Contacts/+/af44f5ac3f3fb660c6646d62c6da9b988d767b36) [2](https://android.googlesource.com/platform/packages/apps/Dialer/+/380a088b2d03f239e37b23c051beadd7d0280dbf),EoP,High,"10, 11, 12, 12L",system,N/A,
