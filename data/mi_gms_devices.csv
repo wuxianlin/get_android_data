@@ -25,6 +25,7 @@ POCO,POCO M3,citrus,M2010J19CG
 POCO,POCO M3,citrus,M2010J19CI
 POCO,POCO M3 Pro 5G,camellia,M2103K19PI
 POCO,POCO M3 Pro 5G,camellian,M2103K19PG
+POCO,POCO M4 5G,light,22041219PI
 POCO,POCO M4 Pro,fleur,2201117PG
 POCO,POCO M4 Pro,miel,2201117PI
 POCO,POCO M4 Pro 5G,evergreen,21091116AG
@@ -52,6 +53,8 @@ Redmi,Redmi 10 2022,selene,21061119AG
 Redmi,Redmi 10 2022,selene,21061119AL
 Redmi,Redmi 10 2022,selene,21121119SG
 Redmi,Redmi 10 2022,selene,21121119VL
+Redmi,Redmi 10 5G,light,22041219G
+Redmi,Redmi 10 5G,thunder,22041219NY
 Redmi,Redmi 10 Power,fog,220333QBI
 Redmi,Redmi 10A,dandelion,220233L2C
 Redmi,Redmi 10C,fog,220333QAG
@@ -399,6 +402,7 @@ Xiaomi,Xiaomi 11T Pro,vili,2107113SR
 Xiaomi,Xiaomi 11i,pissarroin,21091116I
 Xiaomi,Xiaomi 12,cupid,2201123C
 Xiaomi,Xiaomi 12,cupid,2201123G
+Xiaomi,Xiaomi 12 Lite,taoyao,2203129G
 Xiaomi,Xiaomi 12 Pro,zeus,2201122C
 Xiaomi,Xiaomi 12 Pro,zeus,2201122G
 Xiaomi,Xiaomi 12 Pro Dimensity,daumier,2207122MC

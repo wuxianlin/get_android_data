@@ -1,4 +1,6 @@
 Model,Version,Download,SHA-256 Checksum
+"""bluejay"" for Pixel 6a","12.1.0 (SD2A.220601.001.A1, Jun 2022, JP carriers)",https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip,bacd4108518f9e6b0908030bca1f7410b71526854351c41f918078607d4b16c3
+"""bluejay"" for Pixel 6a","12.1.0 (SD2A.220601.004, Jun 2022, Verizon, Verizon MVNOs)",https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip,a53caf37f76731525ed1d809d48950d585713bb0475a027fe78b4e12fd7b0f53
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.015.A4, Oct 2021)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip,19a77b62a80732b0e20d3ac369288fc827554c1a8c109c6e9fa2a420998dd826
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.019.B1, Oct 2021, AT&T)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip,67195ca0fa1f9cfc9f331ab3e4f44fdbf819896059dcb1819c1125edef854c25
 """oriole"" for Pixel 6","12.0.0 (SD1A.210817.019.C2, Oct 2021, T-Mobile (US), USCC, Google Fi, CA, & TW carriers)",https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.c2-1f9d1cdb.zip,1f9d1cdb779320dd2809a35cf3410a1f6ec4981290fa357abb8c059b361d86c3
