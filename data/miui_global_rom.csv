@@ -75,7 +75,7 @@ Xiaomi 11 Lite 5G NE,Xiaomi 11 Lite 5G NE RU,stable_rom,V13.0.4.0.SKORUXM (),htt
 Xiaomi 11 Lite 5G NE,Xiaomi 11 Lite 5G NE EEA,stable_rom,V13.0.9.0.SKOEUXM (),https://bigota.d.miui.com/V13.0.9.0.SKOEUXM/miui_LISAEEAGlobal_V13.0.9.0.SKOEUXM_5dff9759dd_12.0.zip,3.3G
 Xiaomi 11 Lite 5G NE,Xiaomi 11 Lite 5G NE Global,stable_rom,V13.0.5.0.SKOMIXM (),https://bigota.d.miui.com/V13.0.5.0.SKOMIXM/miui_LISAGlobal_V13.0.5.0.SKOMIXM_3f2e54dd84_12.0.zip,3.3G
 Xiaomi 11T/Pro,Xiaomi 11T Global,stable_rom,V13.0.4.0.SKWMIXM (),https://bigota.d.miui.com/V13.0.4.0.SKWMIXM/miui_AGATEGlobal_V13.0.4.0.SKWMIXM_3b19924b1a_12.0.zip,3.3G
-Xiaomi 11T/Pro,Xiaomi 11T EEA,stable_rom,V13.0.5.0.SKWEUXM (),https://bigota.d.miui.com/V13.0.5.0.SKWEUXM/miui_AGATEEEAGlobal_V13.0.5.0.SKWEUXM_b039ecd5c9_12.0.zip,3.3G
+Xiaomi 11T/Pro,Xiaomi 11T EEA,stable_rom,V13.0.7.0.SKWEUXM (),https://bigota.d.miui.com/V13.0.7.0.SKWEUXM/miui_AGATEEEAGlobal_V13.0.7.0.SKWEUXM_1a664530b8_12.0.zip,3.3G
 Xiaomi 11T/Pro,Xiaomi 11T Pro TW,stable_rom,V13.0.5.0.SKDTWXM (),https://bigota.d.miui.com/V13.0.5.0.SKDTWXM/miui_VILITWGlobal_V13.0.5.0.SKDTWXM_236ca69cb8_12.0.zip,3.4G
 Xiaomi 11T/Pro,Xiaomi 11T Pro EEA,stable_rom,V13.0.10.0.SKDEUXM (),https://bigota.d.miui.com/V13.0.10.0.SKDEUXM/miui_VILIEEAGlobal_V13.0.10.0.SKDEUXM_3cc05261f2_12.0.zip,3.5G
 Xiaomi 11T/Pro,Xiaomi 11T Pro RU,stable_rom,V13.0.3.0.SKDRUXM (),https://bigota.d.miui.com/V13.0.3.0.SKDRUXM/miui_VILIRUGlobal_V13.0.3.0.SKDRUXM_3a19737552_12.0.zip,3.4G
@@ -131,7 +131,7 @@ Redmi Note 9/S/Pro/T,Redmi Note 9 TW,stable_rom,version自定义文案 (MIUI11),
 Redmi Note 9/S/Pro/T,Redmi Note 9T Global,stable_rom,version自定义文案 (MIUI12),https://bigota.d.miui.com/V13.0.2.0.SJEMIXM/miui_CANNONGGlobal_V13.0.2.0.SJEMIXM_fc32b78fc5_12.0.zip,3.0G
 Redmi Note 9/S/Pro/T,Redmi Note 9T RU,stable_rom,version自定义文案 (MIUI 12),https://bigota.d.miui.com/V12.5.3.0.RJERUXM/miui_CANNONGRUGlobal_V12.5.3.0.RJERUXM_067ee834f7_11.0.zip,2.4G
 Redmi Note 9/S/Pro/T,Redmi Note 9T EEA,stable_rom,version自定义文案 (MIUI 12),https://bigota.d.miui.com/V13.0.2.0.SJEEUXM/miui_CANNONGEEAGlobal_V13.0.2.0.SJEEUXM_237d7d0061_12.0.zip,2.9G
-Redmi Note 9/S/Pro/T,Redmi Note 9T TW,stable_rom,V12.5.3.0.RJETWXM (MIUI 12),https://bigota.d.miui.com/V12.5.3.0.RJETWXM/miui_CANNONGTWGlobal_V12.5.3.0.RJETWXM_825d551c9a_11.0.zip,2.3G
+Redmi Note 9/S/Pro/T,Redmi Note 9T TW,stable_rom,V13.0.1.0.SJETWXM (MIUI 12),https://bigota.d.miui.com/V13.0.1.0.SJETWXM/miui_CANNONGTWGlobal_V13.0.1.0.SJETWXM_3e86753946_12.0.zip,2.8G
 Redmi Note 9/S/Pro/T,Redmi Note 9 Pro Max India,stable_rom,V12.5.6.0.RJXINXM (MIUI12),https://bigota.d.miui.com/V12.5.6.0.RJXINXM/miui_EXCALIBURINGlobal_V12.5.6.0.RJXINXM_5138ddcd6e_11.0.zip,2.5G
 Redmi Note 9/S/Pro/T,Redmi Note 9 ID,stable_rom,V12.5.5.0.RJOIDXM (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RJOIDXM/miui_MERLINIDGlobal_V12.5.5.0.RJOIDXM_297ecd9390_11.0.zip,2.3G
 Redmi Note 9/S/Pro/T,Redmi Note 9S Global,stable_rom,V12.5.5.0.RJWMIXM (MIUI12),https://bigota.d.miui.com/V12.5.5.0.RJWMIXM/miui_CURTANAGlobal_V12.5.5.0.RJWMIXM_bf1b7512cd_11.0.zip,2.5G
@@ -162,7 +162,7 @@ Redmi 8/8A/8A Pro,Redmi 8 RU,stable_rom,V12.5.3.0.QCNRUXM (MIUI11),https://bigot
 Redmi 8/8A/8A Pro,Redmi 8 Global,stable_rom,V12.5.3.0.QCNMIXM (MIUI11),https://bigota.d.miui.com/V12.5.3.0.QCNMIXM/miui_OLIVEGlobal_V12.5.3.0.QCNMIXM_f5509dd40b_10.0.zip,2.2G
 Redmi 8/8A/8A Pro,Redmi 8A Pro ID,stable_rom,V12.5.2.0.QCQIDXM (MIUI11),https://bigota.d.miui.com/V12.5.2.0.QCQIDXM/miui_OLIVEWOODIDGlobal_V12.5.2.0.QCQIDXM_7e443e7dc3_10.0.zip,1.9G
 Redmi Note 8/Pro/8T,Redmi Note 8T Global,stable_rom,V12.5.6.0.RCXMIXM (MIUI11),https://bigota.d.miui.com/V12.5.6.0.RCXMIXM/miui_WILLOWGlobal_V12.5.6.0.RCXMIXM_b9c4b22e3f_11.0.zip,2.4G
-Redmi Note 8/Pro/8T,Redmi Note 8 2021 RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.2.0.SCURUXM/miui_BILOBARUGlobal_V13.0.2.0.SCURUXM_530d147f96_12.0.zip,2.6G
+Redmi Note 8/Pro/8T,Redmi Note 8 2021 RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SCURUXM/miui_BILOBARUGlobal_V13.0.3.0.SCURUXM_aa7cff24ca_12.0.zip,2.6G
 Redmi Note 8/Pro/8T,Redmi Note 8 2021 EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.5.0.SCUEUXM/miui_BILOBAEEAGlobal_V13.0.5.0.SCUEUXM_8e514fde10_12.0.zip,2.7G
 Redmi Note 8/Pro/8T,Redmi Note 8 2021 Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.6.0.SCUMIXM/miui_BILOBAGlobal_V13.0.6.0.SCUMIXM_5ea54af041_12.0.zip,2.6G
 Redmi Note 8/Pro/8T,Redmi Note 8 Pro Indonesia,stable_rom,V12.5.6.0.RGGIDXM (MIUI12),https://bigota.d.miui.com/V12.5.6.0.RGGIDXM/miui_BEGONIAIDGlobal_V12.5.6.0.RGGIDXM_e5599068e6_11.0.zip,2.2G
@@ -294,7 +294,7 @@ Redmi Note 10S,Redmi Note 10S IN,stable_rom,version自定义文案 (),https://bi
 Redmi Note 10S,Redmi Note 10S TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKLTRXM/miui_ROSEMARYTRGlobal_V13.0.1.0.SKLTRXM_876f8131a9_12.0.zip,3.0G
 Redmi Note 10S,Redmi Note 10S TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKLTWXM/miui_ROSEMARYTWGlobal_V13.0.1.0.SKLTWXM_2d9d70630f_12.0.zip,2.9G
 Redmi Note 10S,Redmi Note 10S EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKLEUXM/miui_ROSEMARYEEAGlobal_V13.0.1.0.SKLEUXM_fccd6ede4b_12.0.zip,3.0G
-Redmi Note 10S,Redmi Note 10S Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.6.0.SKLMIXM/miui_ROSEMARYGlobal_V13.0.6.0.SKLMIXM_63c46433c0_12.0.zip,2.9G
+Redmi Note 10S,Redmi Note 10S Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.8.0.SKLMIXM/miui_ROSEMARYGlobal_V13.0.8.0.SKLMIXM_3d9d6aefd1_12.0.zip,3.1G
 Mi 11i,Mi 11i IN,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SKKINXM/miui_HAYDNINGlobal_V13.0.3.0.SKKINXM_ff5e7830b8_12.0.zip,3.2G
 Mi 11i,Mi 11i EEA,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.6.0.SKKEUXM/miui_HAYDNEEAGlobal_V13.0.6.0.SKKEUXM_79741c8289_12.0.zip,3.4G
 Mi 11i,Mi 11i Global,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.2.0.SKKMIXM/miui_HAYDNGlobal_V13.0.2.0.SKKMIXM_93ba45fe41_12.0.zip,3.3G
