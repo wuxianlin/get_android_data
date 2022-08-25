@@ -19,6 +19,7 @@ POCO,POCO C31,angelicain,211033MI
 POCO,POCO F2 Pro,lmi,POCO F2 Pro
 POCO,POCO F3,alioth,M2012K11AG
 POCO,POCO F3 GT,aresin,M2104K10I
+POCO,POCO F4 GT,ingres,21121210G
 POCO,POCO M2,shiva,M2004J19PI
 POCO,POCO M2 Pro,gram,POCO M2 Pro
 POCO,POCO M3,citrus,M2010J19CG
@@ -26,6 +27,7 @@ POCO,POCO M3,citrus,M2010J19CI
 POCO,POCO M3 Pro 5G,camellia,M2103K19PI
 POCO,POCO M3 Pro 5G,camellian,M2103K19PG
 POCO,POCO M4 5G,light,22041219PI
+POCO,POCO M4 5G,thunder,22041219PG
 POCO,POCO M4 Pro,fleur,2201117PG
 POCO,POCO M4 Pro,miel,2201117PI
 POCO,POCO M4 Pro 5G,evergreen,21091116AG
@@ -34,6 +36,7 @@ POCO,POCO X3,karna,M2007J20CI
 POCO,POCO X3 NFC,surya,M2007J20CG
 POCO,POCO X3 Pro,bhima,M2102J20SI
 POCO,POCO X3 Pro,vayu,M2102J20SG
+POCO,POCO X4 GT,xaga,22041216G
 POCO,POCO X4 Pro 5G,peux,2201116PI
 POCO,POCO X4 Pro 5G,veux,2201116PG
 Redmi,K30 PRO,lmi,Lmi
@@ -57,6 +60,8 @@ Redmi,Redmi 10 5G,light,22041219G
 Redmi,Redmi 10 5G,thunder,22041219NY
 Redmi,Redmi 10 Power,fog,220333QBI
 Redmi,Redmi 10A,dandelion,220233L2C
+Redmi,Redmi 10A,dandelion,220233L2G
+Redmi,Redmi 10A Sport,dandelion,220233L2I
 Redmi,Redmi 10C,fog,220333QAG
 Redmi,Redmi 10C,rain,220333QNY
 Redmi,Redmi 10C,wind,220333QL
@@ -116,6 +121,7 @@ Redmi,Redmi K40S,munch,22021211RC
 Redmi,Redmi K50,rubens,22041211AC
 Redmi,Redmi K50 Pro,matisse,22011211C
 Redmi,Redmi K50G,ingres,21121210C
+Redmi,Redmi K50i,xagain,22041216I
 Redmi,Redmi Note 10,camellia,M2103K19C
 Redmi,Redmi Note 10,sunny,M2101K7AG
 Redmi,Redmi Note 10,sunny,M2101K7AI
@@ -400,6 +406,7 @@ Xiaomi,Xiaomi 11T Pro,vili,2107113SG
 Xiaomi,Xiaomi 11T Pro,vili,2107113SI
 Xiaomi,Xiaomi 11T Pro,vili,2107113SR
 Xiaomi,Xiaomi 11i,pissarroin,21091116I
+Xiaomi,Xiaomi 11i HyperCharge,pissarroinpro,21091116UI
 Xiaomi,Xiaomi 12,cupid,2201123C
 Xiaomi,Xiaomi 12,cupid,2201123G
 Xiaomi,Xiaomi 12 Lite,taoyao,2203129G
