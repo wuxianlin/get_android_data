@@ -2017,7 +2017,7 @@ CVE-2018-9454,2018-08-01,[A-78286118](https://android.googlesource.com/platform/
 CVE-2018-9448,2018-08-01,[A-79944113](https://android.googlesource.com/platform/system/bt/+/13294c70a66347c9e5d05b9f92f8ceb6fe38d7f6) [2](https://android.googlesource.com/platform/system/bt/+/f1f1c3e00f8d1baad0215b057e6d894517eeaddb),ID,High,"8.0, 8.1",system,N/A,
 CVE-2018-9453,2018-08-01,[A-78288378](https://android.googlesource.com/platform/system/bt/+/cb6a56b1d8cdab7c495ea8f53dcbdb3cfc9477d2),ID,High,"6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0, 8.1",system,N/A,
 CVE-2017-18249,2018-08-05,A-78283212 [Upstream kernel](http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=30a61ddf8117c26ac5b295e1233eaa9629a94ca3),EoP,High,N/A,kernel-components,F2FS,
-CVE-2018-9465,2018-08-05,A-69164715 [Upstream  kernel](https://patchwork.kernel.org/patch/10058587/),EoP,High,N/A,kernel-components,binder,
+CVE-2018-9465,2018-08-05,A-69164715 [Upstream kernel](https://android.googlesource.com/kernel/common/+/7f3dc0088b98533f17128058fac73cd8b2752ef1),EoP,High,N/A,kernel-components,binder,
 CVE-2018-5383,2018-08-05,A-79421580 [*](#asterisk),ID,High,N/A,qualcomm-components,Bluetooth,
 CVE-2017-13077,2018-08-05,A-78284758 [QC-CR#2133033](https://source.codeaurora.org/quic/la/platform/vendor/qcom-opensource/wlan/qcacld-2.0/commit/?id=edb507885fc47cf3cdf061bfba1dc77451a6a332),ID,High,N/A,qualcomm-components,WLAN,
 CVE-2017-18281,2018-08-05,A-78242172 [QC-CR#856388](https://source.codeaurora.org/quic/la/kernel/msm-3.18/commit/?id=69f0a80b8cc1333647397d7bc4f267bd3fe22be9),ID,High,N/A,qualcomm-components,Video,
