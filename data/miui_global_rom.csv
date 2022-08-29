@@ -44,7 +44,7 @@ Redmi Note 11 Series,Redmi Note 11S TR,stable_rom,V13.0.5.0.RKETRXM (),https://b
 Redmi Note 11 Series,Redmi Note 11 NFC EEA,stable_rom,V13.0.1.0.SGKEUXM (),https://bigota.d.miui.com/V13.0.1.0.SGKEUXM/miui_SPESNEEAGlobal_V13.0.1.0.SGKEUXM_b35c2350a6_12.0.zip,2.8G
 Redmi Note 11 Series,Redmi Note 11 Pro Global,stable_rom,V13.0.2.0.SGDMIXM (),https://bigota.d.miui.com/V13.0.2.0.SGDMIXM/miui_VIVAGlobal_V13.0.2.0.SGDMIXM_02e21fe2be_12.0.zip,2.8G
 Redmi Note 11 Series,Redmi Note 11 Pro 5G TW,stable_rom,V13.0.5.0.RKCTWXM (),https://bigota.d.miui.com/V13.0.5.0.RKCTWXM/miui_VEUXTWGlobal_V13.0.5.0.RKCTWXM_6202b9fd39_11.0.zip,2.8G
-Redmi Note 11 Series,Redmi Note 11 RU,stable_rom,V13.0.8.0.RGKRUXM (),https://bigota.d.miui.com/V13.0.8.0.RGKRUXM/miui_SPESNRUGlobal_V13.0.8.0.RGKRUXM_5babcf9b7f_11.0.zip,2.6G
+Redmi Note 11 Series,Redmi Note 11 RU,stable_rom,V13.0.1.0.SGKRUXM (),https://bigota.d.miui.com/V13.0.1.0.SGKRUXM/miui_SPESNRUGlobal_V13.0.1.0.SGKRUXM_b68be1c03a_12.0.zip,2.8G
 Redmi Note 11 Series,Redmi Note 11 Pro 5G RU,stable_rom,V13.0.3.0.RKCRUXM (),https://bigota.d.miui.com/V13.0.3.0.RKCRUXM/miui_VEUXRUGlobal_V13.0.3.0.RKCRUXM_cebf9fd6b6_11.0.zip,2.9G
 Redmi Note 11 Series,Redmi Note 11 Pro 5G EEA,stable_rom,V13.0.8.0.RKCEUXM (),https://bigota.d.miui.com/V13.0.8.0.RKCEUXM/miui_VEUXEEAGlobal_V13.0.8.0.RKCEUXM_18a5c18ebb_11.0.zip,3.0G
 Redmi Note 11 Series,Redmi Note 11S TW,stable_rom,V13.0.5.0.RKETWXM (),https://bigota.d.miui.com/V13.0.5.0.RKETWXM/miui_FLEURTWGlobal_V13.0.5.0.RKETWXM_7120c9f7d0_11.0.zip,2.5G
@@ -84,7 +84,7 @@ Xiaomi 11T/Pro,Xiaomi 11T Pro TR,stable_rom,V13.0.4.0.SKDTRXM (),https://bigota.
 Xiaomi 11T/Pro,Xiaomi 11T Pro Global,stable_rom,V13.0.6.0.SKDMIXM (),https://bigota.d.miui.com/V13.0.6.0.SKDMIXM/miui_VILIGlobal_V13.0.6.0.SKDMIXM_72543e6582_12.0.zip,3.5G
 Xiaomi 11T/Pro,Xiaomi 11T TW,stable_rom,V13.0.3.0.SKWTWXM (),https://bigota.d.miui.com/V13.0.3.0.SKWTWXM/miui_AGATETWGlobal_V13.0.3.0.SKWTWXM_e5d6bad3f6_12.0.zip,3.2G
 Xiaomi 11T/Pro,Xiaomi 11T Pro JP,stable_rom,V13.0.5.0.SKDJPXM (),https://bigota.d.miui.com/V13.0.5.0.SKDJPXM/miui_VILIJPGlobal_V13.0.5.0.SKDJPXM_412e0efd9c_12.0.zip,3.4G
-Xiaomi 11T/Pro,Xiaomi 11T RU,stable_rom,V13.0.2.0.SKWRUXM (),https://bigota.d.miui.com/V13.0.2.0.SKWRUXM/miui_AGATERUGlobal_V13.0.2.0.SKWRUXM_61e5fe8b6f_12.0.zip,3.2G
+Xiaomi 11T/Pro,Xiaomi 11T RU,stable_rom,V13.0.4.0.SKWRUXM (),https://bigota.d.miui.com/V13.0.4.0.SKWRUXM/miui_AGATERUGlobal_V13.0.4.0.SKWRUXM_b30dd6a248_12.0.zip,3.2G
 Mi 11,Mi 11 TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SKBTWXM/miui_VENUSTWGlobal_V13.0.3.0.SKBTWXM_c99b9ca5c1_12.0.zip,3.3G
 Mi 11,Mi 11 ID,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SKBIDXM/miui_VENUSIDGlobal_V13.0.3.0.SKBIDXM_f7bbbcfd86_12.0.zip,3.3G
 Mi 11,Mi 11 RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.2.0.SKBRUXM/miui_VENUSRUGlobal_V13.0.2.0.SKBRUXM_bca5c64430_12.0.zip,3.3G
@@ -289,7 +289,7 @@ Mi 11 Ultra,Mi 11 Ultra Global,stable_rom,version自定义文案 (),https://bigo
 Redmi Note10 T/5G,Redmi Note10 5G TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKSTRXM/miui_CAMELLIANTRGlobal_V13.0.1.0.SKSTRXM_36580adce0_12.0.zip,2.8G
 Redmi Note10 T/5G,Redmi Note10 5G TW,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKSTWXM/miui_CAMELLIANTWGlobal_V13.0.1.0.SKSTWXM_0c55219898_12.0.zip,2.8G
 Redmi Note10 T/5G,Redmi Note10 T RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKSRUXM/miui_CAMELLIANRUGlobal_V13.0.1.0.SKSRUXM_0b444a7ea1_12.0.zip,2.8G
-Redmi Note 10S,Redmi Note 10S RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKLRUXM/miui_ROSEMARYRUGlobal_V13.0.1.0.SKLRUXM_1abae6d068_12.0.zip,3.0G
+Redmi Note 10S,Redmi Note 10S RU,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.3.0.SKLRUXM/miui_ROSEMARYRUGlobal_V13.0.3.0.SKLRUXM_ef14e16ece_12.0.zip,3.1G
 Redmi Note 10S,Redmi Note 10S ID,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKLIDXM/miui_ROSEMARYIDGlobal_V13.0.1.0.SKLIDXM_6b39ba7963_12.0.zip,2.9G
 Redmi Note 10S,Redmi Note 10S IN,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.2.0.SKLINXM/miui_ROSEMARYINGlobal_V13.0.2.0.SKLINXM_1d4b080d29_12.0.zip,2.9G
 Redmi Note 10S,Redmi Note 10S TR,stable_rom,version自定义文案 (),https://bigota.d.miui.com/V13.0.1.0.SKLTRXM/miui_ROSEMARYTRGlobal_V13.0.1.0.SKLTRXM_876f8131a9_12.0.zip,3.0G
