@@ -350,6 +350,7 @@ Model,Version,Download,SHA-256 Checksum
 """bonito"" for Pixel 3a XL","12.1.0 (SP2A.220405.003, Apr 2022)",https://dl.google.com/dl/android/aosp/bonito-ota-sp2a.220405.003-509d7f74.zip,509d7f7440261c5cc520e0803fbf448eade9555a002f150621558af86df37654
 """bonito"" for Pixel 3a XL","12.1.0 (SP2A.220505.002, May 2022)",https://dl.google.com/dl/android/aosp/bonito-ota-sp2a.220505.002-e9d0609e.zip,e9d0609edb5a8ce4a2b22545a6578fb19b28f22668997206d17a49fdb3454024
 """bonito"" for Pixel 3a XL","12.1.0 (SP2A.220505.006, May 2022)",https://dl.google.com/dl/android/aosp/bonito-ota-sp2a.220505.006-a854942b.zip,a854942b648e70d3195b327fc4d34af8780ff5f6915d20e1ccdeffdfc94cb1cd
+"""bonito"" for Pixel 3a XL","12.1.0 (SP2A.220505.008, Sep 2022)",https://dl.google.com/dl/android/aosp/bonito-ota-sp2a.220505.008-37a410d5.zip,37a410d5a370771625e9c607913ab94b07e1bebdb1b0c1a931854d48b5defe53
 """sargo"" for Pixel 3a","9.0.0 (PD2A.190115.029, Mar 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.029-8673a81e.zip,8673a81e7d6a9ff5617103df10c9d685937fe4f13ef3a4e298d15feabe045229
 """sargo"" for Pixel 3a","9.0.0 (PD2A.190115.032, Mar 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pd2a.190115.032-ee012043.zip,ee012043172d77a8fe772da70e8ef65d17efcd6abb2b373f4ed1e09f72f094e7
 """sargo"" for Pixel 3a","9.0.0 (PQ3B.190605.006, Jun 2019)",https://dl.google.com/dl/android/aosp/sargo-ota-pq3b.190605.006-45ff7e3e.zip,45ff7e3ef8c01b61c250445e1f994fd91778eaed29035f294778cd13e06b6b51
@@ -396,6 +397,7 @@ Model,Version,Download,SHA-256 Checksum
 """sargo"" for Pixel 3a","12.1.0 (SP2A.220405.003, Apr 2022)",https://dl.google.com/dl/android/aosp/sargo-ota-sp2a.220405.003-2a2d9802.zip,2a2d980235ad30412d31e58f3e29bef29a0738a354f5da34985ce1cd571993fa
 """sargo"" for Pixel 3a","12.1.0 (SP2A.220505.002, May 2022)",https://dl.google.com/dl/android/aosp/sargo-ota-sp2a.220505.002-bbbac63a.zip,bbbac63a7b9a59da5d1195d91ff72df6519f2596ba02d980666c135bcadef25b
 """sargo"" for Pixel 3a","12.1.0 (SP2A.220505.006, May 2022)",https://dl.google.com/dl/android/aosp/sargo-ota-sp2a.220505.006-361c0735.zip,361c0735ea2c641c083c1cdc45f56df9721b7600b755a2b535aafe8b4ff1e605
+"""sargo"" for Pixel 3a","12.1.0 (SP2A.220505.008, Sep 2022)",https://dl.google.com/dl/android/aosp/sargo-ota-sp2a.220505.008-2037245c.zip,2037245c06c8e0912c098c347be7b49a707d7cacf9a663ad7e68c96ce75ea32b
 """crosshatch"" for Pixel 3 XL","9.0.0 (PD1A.180720.030, Sep 2018)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.030-21ac68ff.zip,21ac68ff9e6aacefec2be4c4dde1cfa0b45e0b4aefe412dc741c4f096cbc6af5
 """crosshatch"" for Pixel 3 XL","9.0.0 (PD1A.180720.031, Sep 2018, Verizon)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pd1a.180720.031-e5f99be0.zip,e5f99be08947d7cb75d86d3c2c837d4d9b225a9d35f44be36728cc57402c62c4
 """crosshatch"" for Pixel 3 XL","9.0.0 (PQ1A.181105.017.A1, Nov 2018)",https://dl.google.com/dl/android/aosp/crosshatch-ota-pq1a.181105.017.a1-feb712c3.zip,feb712c3ca8b5b58a13543969dde22702ecb62d051cd38958a40cfa444f03e6c
