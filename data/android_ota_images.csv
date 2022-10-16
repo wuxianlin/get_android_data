@@ -1,4 +1,10 @@
 Model,Version,Download,SHA-256 Checksum
+"""cheetah"" for Pixel 7 Pro","13.0.0 (TD1A.220804.009.A2, Oct 2022)",https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip,8138be7172de4b543e54deca7f024a6171d2fdaab34e6347fd1f882b00ba5efe
+"""cheetah"" for Pixel 7 Pro","13.0.0 (TD1A.220804.009.A5, Oct 2022, JP carriers)",https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a5-f0c1f917.zip,f0c1f91730cc856aecc5e5cbdc6b672424c22fe4bed6464a1e39a8060fa7b0f8
+"""cheetah"" for Pixel 7 Pro","13.0.0 (TD1A.220804.031, Oct 2022)",https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.031-cd81a567.zip,cd81a56734f58f4a6d518c856452fc45eaad3dfa59e5c9d6dbf2893e9a7ac0f6
+"""panther"" for Pixel 7","13.0.0 (TD1A.220804.009.A2, Oct 2022)",https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip,1ba82532cf20c7f71dc6f3ea3a89b3ebe13fb82b46944e6a9f2c936aed41f63c
+"""panther"" for Pixel 7","13.0.0 (TD1A.220804.009.A5, Oct 2022, JP carriers)",https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a5-44511a4b.zip,44511a4bf3b8d16c50f4510364666240ddb1c102d5b3a26130de4afef74d8706
+"""panther"" for Pixel 7","13.0.0 (TD1A.220804.031, Oct 2022)",https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.031-8236abf4.zip,8236abf41254bf5101d676eddaaa57520325357f743ab5da1b0aa2251be98cf5
 """bluejay"" for Pixel 6a","12.1.0 (SD2A.220601.001.A1, Jun 2022, JP carriers)",https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip,bacd4108518f9e6b0908030bca1f7410b71526854351c41f918078607d4b16c3
 """bluejay"" for Pixel 6a","12.1.0 (SD2A.220601.004, Jun 2022, Verizon, Verizon MVNOs)",https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip,a53caf37f76731525ed1d809d48950d585713bb0475a027fe78b4e12fd7b0f53
 """bluejay"" for Pixel 6a","12.1.0 (SD2A.220601.002, Jun 2022, AT&T, T-Mobile)",https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.002-344f1ec9.zip,344f1ec90934dd99354b5b424038be78d82de81db9df01bb2d120e758018fc36

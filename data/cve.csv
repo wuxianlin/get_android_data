@@ -4368,11 +4368,9 @@ CVE-2022-25664,2022-10-01,A-228095839 [QC-CR#3092515](https://git.codelinaro.org
 CVE-2022-25666,2022-10-01,A-228095650 [QC-CR#3097037](https://git.codelinaro.org/clo/la/kernel/msm-5.4/-/commit/da2bdbc79742a7caadea3f7c24296aea211a52e4),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Kernel
 CVE-2022-25662,2022-10-01,A-228096097 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2022-25665,2022-10-01,A-228096044 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
-CVE-2022-28388,2022-09-01,A-228694483 [Upstream kernel](https://android.googlesource.com/kernel/common/+/bb4c6c0105eccc03b6bd005b6b396e1faf995a48),EoP,Moderate,N/A,kernel-component,Kernel,
-CVE-2022-20231,2022-09-01,A-211485702 [*](#asterisk),EoP,Critical,N/A,pixel,Trusty,
-CVE-2022-20364,2022-09-01,A-233606615 [*](#asterisk),EoP,Critical,N/A,pixel,Kernel,
-CVE-2022-25654,2022-09-01,A-223230190 [QC-CR#3075470](https://source.codeaurora.org/quic/qsdk/oss/kernel/linux-msm/commit/?id=940ac530d84408d1ec308c16ac777334c722fc91),N/A,Moderate,N/A,qualcomm-components,Kernel,
-CVE-2022-25653,2022-09-01,A-223230071 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,Closed-source component,
+CVE-2022-28388,2022-09-01,A-228694483 [Upstream kernel](https://android.googlesource.com/kernel/common/+/bb4c6c0105eccc03b6bd005b6b396e1faf995a48),EoP,Moderate,N/A,kernel-components,Kernel,
+CVE-2022-25654,2022-09-01,A-223230190 [QC-CR#3075470](https://source.codeaurora.org/quic/qsdk/oss/kernel/linux-msm/commit/?id=940ac530d84408d1ec308c16ac777334c722fc91),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Kernel
+CVE-2022-25653,2022-09-01,A-223230071 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2021-3609,2022-08-01,A-223967238 [Upstream kernel](https://android.googlesource.com/kernel/common/+/b52e0cf0bfc1e),EoP,Moderate,N/A,kernel-components,Kernel,
 CVE-2021-39714,2022-08-01,A-205573273 [Upstream kernel](https://android.googlesource.com/kernel/common/+/721fb79e0eccd371a70054726dfe6931e6ed23e4) [2](https://android.googlesource.com/kernel/common/+/0d752f78b20dbe4eeb9bc76f118889f1898948ca) [3](https://android.googlesource.com/kernel/common/+/f48f8f7c3fdc21f34c45a7b3eeafb3109cf3340f) [4](https://android.googlesource.com/kernel/common/+/7f04e0c309811e762872a7ce71fba9cb359dd2c0) [5](https://android.googlesource.com/kernel/common/+/b6b3781a) [6](https://android.googlesource.com/kernel/common/+/618a931c),EoP,Moderate,N/A,kernel-components,Kernel,
 CVE-2022-0435,2022-08-01,A-228560328 [Upstream kernel](https://android.googlesource.com/kernel/common/+/3c7e594355359),EoP,Moderate,N/A,kernel-components,Kernel,
