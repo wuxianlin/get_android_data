@@ -1,4 +1,50 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2022-20502,2022-12-01,A-222166527,ID,High,13,android-runtime,N/A,
+CVE-2022-20472,2022-12-01,A-239210579,RCE,Critical,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20473,2022-12-01,A-239267173,RCE,Critical,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2021-39617,2022-12-01,A-175190844,EoP,High,"11, 12, 12L",framework,N/A,
+CVE-2021-39795,2022-12-01,A-201667614,EoP,High,"11, 12, 12L, 13",framework,N/A,
+CVE-2022-20124,2022-12-01,A-170646036,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20442,2022-12-01,A-176094367,EoP,High,"10, 11, 12, 12L",framework,N/A,
+CVE-2022-20444,2022-12-01,A-197296414,EoP,High,"11, 12",framework,N/A,
+CVE-2022-20470,2022-12-01,A-234013191,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20474,2022-12-01,A-240138294,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20475,2022-12-01,A-240663194,EoP,High,"11, 12, 12L, 13",framework,N/A,
+CVE-2022-20477,2022-12-01,A-241611867,EoP,High,13,framework,N/A,
+CVE-2022-20485,2022-12-01,A-242702935,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20486,2022-12-01,A-242703118,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20491,2022-12-01,A-242703556,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20611,2022-12-01,A-242996180,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2021-0934,2022-12-01,A-169762606,DoS,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20449,2022-12-01,A-239701237,DoS,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20476,2022-12-01,A-240936919,DoS,High,"10, 11, 12, 12L",framework,N/A,
+CVE-2022-20482,2022-12-01,A-240422263,DoS,High,"12, 12L, 13",framework,N/A,
+CVE-2022-20500,2022-12-01,A-246540168,DoS,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2022-20496,2022-12-01,A-245242273,ID,High,"12, 12L, 13",media-framework,N/A,
+CVE-2022-20411,2022-12-01,A-232023771,RCE,Critical,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20498,2022-12-01,A-246465319,ID,Critical,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20469,2022-12-01,A-230867224,RCE,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20144,2022-12-01,A-187702830,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20240,2022-12-01,A-231496105,EoP,High,"12, 12L",system,N/A,
+CVE-2022-20478,2022-12-01,A-241764135,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20479,2022-12-01,A-241764340,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20480,2022-12-01,A-241764350,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20484,2022-12-01,A-242702851,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20487,2022-12-01,A-242703202,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20488,2022-12-01,A-242703217,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20495,2022-12-01,A-243849844,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20501,2022-12-01,A-246933359,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20466,2022-12-01,A-179725730,ID,Moderate,13,system,N/A,
+CVE-2022-20466,2022-12-01,A-179725730,ID,High,"10, 11, 12, 12L",system,N/A,
+CVE-2022-20471,2022-12-01,A-238177877,ID,High,"11, 12, 12L, 13",system,N/A,
+CVE-2022-20483,2022-12-01,A-242459126,ID,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20497,2022-12-01,A-246301979,ID,High,"12, 12L, 13",system,N/A,
+CVE-2022-20499,2022-12-01,A-246539931,DoS,High,"12, 12L, 13",system,N/A,
+CVE-2022-20468,2022-12-01,A-228450451,ID,Moderate,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2021-39795,2022-12-01,N/A,N/A,N/A,N/A,google-play-protect,N/A,Subcomponent=MediaProvider
+"CVE-2021-39617, CVE-2022-20442",2022-12-01,N/A,N/A,N/A,N/A,google-play-protect,N/A,Subcomponent=Permission Controller
+CVE-2022-20499,2022-12-01,N/A,N/A,N/A,N/A,google-play-protect,N/A,Subcomponent=WiFi
+CVE-2022-23960,2022-12-05,A-215557547 [Upstream kernel](https://android.googlesource.com/kernel/common/+/cf6a46ae183aaba1b08f183e3448f8756f8d68e1) [2](https://android.googlesource.com/kernel/common/+/cae54aa2645c769ba3263b1abd1e05cbd838f4a9) [3](https://android.googlesource.com/kernel/common/+/d65dd058214689b75eaeb054647493511755db97) [4](https://android.googlesource.com/kernel/common/+/a1736e3ccd78ceb797c3bc1b99b9114c2c00f450) [5](https://android.googlesource.com/kernel/common/+/910e14e7d00119a382bb22c3c40f2fd7db3bc1e4) [6](https://android.googlesource.com/kernel/common/+/124cc54b229a637e2ff7d70e5099ae4d6187e39f) [7](https://android.googlesource.com/kernel/common/+/decde029b601e1a8b09d94f0864a1f518a140fb3) [8](https://android.googlesource.com/kernel/common/+/0777e59b105c05cb46ea877130e672223e87e0e8) [9](https://android.googlesource.com/kernel/common/+/26e71fb73c4027d77a3212c8c9eff7e955e6ec45) [10](https://android.googlesource.com/kernel/common/+/5e6ae4e3cb2b045d69ac9cee1ae282d267283799) [11](https://android.googlesource.com/kernel/common/+/df38bfac784b0659f0c5eaa2b7ab7a11dfffb47e) [12](https://android.googlesource.com/kernel/common/+/9811efebb90ce7ea684a5599da729465abadcc22) [13](https://android.googlesource.com/kernel/common/+/be161e5c6660b9c9ab1a2948a60a377e836b9685) [14](https://android.googlesource.com/kernel/common/+/a7cd57c87823bfe4c4eb88dfd045f242d6ddeeeb) [15](https://android.googlesource.com/kernel/common/+/65b1e224b17749cad53443715dbf7f080338eac3) [16](https://android.googlesource.com/kernel/common/+/96468c6085fc87f1defb2b187bd778505723e1bc) [17](https://android.googlesource.com/kernel/common/+/c5aaa5f0d57ceb3d679f2c17bf555b29585d0f0e) [18](https://android.googlesource.com/kernel/common/+/b79237c4eadebf2d40ccb55734dd86fc6cbbc803) [19](https://android.googlesource.com/kernel/common/+/150ecd86887b2571214a4d998eb8597434ebb476) [20](https://android.googlesource.com/kernel/common/+/15e43a2ac5e15c503c104831e9e2b6d5fc7d6131) [21](https://android.googlesource.com/kernel/common/+/16ddad71e36c65545bef2ab577adbc3e40fe4668) [22](https://android.googlesource.com/kernel/common/+/873dbc2b8ecc2acf2388056bfced5bf6361a4c73) [23](https://android.googlesource.com/kernel/common/+/e80db263bef5f31f0baffc5e41fcc179ae27fe22) [24](https://android.googlesource.com/kernel/common/+/6d6256ca4bf5a77a7e3a99cf7c19f64eea82c1b0) [25](https://android.googlesource.com/kernel/common/+/9d4fc09b9e77f06a45a6762b116e867c3614a39d) [26](https://android.googlesource.com/kernel/common/+/ffb8d4139dbcc245ab7013d56c637cfa04c1d4cf),ID,High,N/A,kernel,N/A,Subcomponent=Kernel
 CVE-2022-2209,2022-11-01,[A-235601882](https://android.googlesource.com/platform/frameworks/av/+/0a9d181281753f911524291ffa6d1b677e36b589),EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
 CVE-2022-20441,2022-11-01,[A-238605611](https://android.googlesource.com/platform/frameworks/base/+/54e57bbbd679cd7dd25c394d98ae399c8312a867),EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
 CVE-2022-20446,2022-11-01,[A-229793943](https://android.googlesource.com/platform/frameworks/base/+/335af8b598b3d94c537045d8207b773a56faeeae),EoP,High,"10, 11",framework,N/A,
@@ -4404,6 +4450,154 @@ CVE-2015-1541,2015-08-01,[ANDROID-19618745](https://android.googlesource.com/pla
 CVE-2015-3833,2015-08-01,[ANDROID-20034603](https://android.googlesource.com/platform/frameworks/base/+/aaa0fee0d7a8da347a0c47cef5249c70efee209e),N/A,Moderate,5.0 and 5.1,mitigation_bypass_of_restrictions_on_getrecenttasks,N/A,
 CVE-2015-3844,2015-08-01,[ANDROID-21669445](https://android.googlesource.com/platform/frameworks/base/+/e3cde784e3d99966f313fe00dcecf191f6a44a31),N/A,Moderate,5.1 and below,activitymanagerservice_getprocessrecordlocked_may_load_a_system_uid_application_into_the_wrong_process,N/A,
 CVE-2015-3826,2015-08-01,[ANDROID-20923261](https://android.googlesource.com/platform/frameworks/av/+/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1),N/A,Low,5.0 and 5.1,unbounded_buffer_read_in_libstagefright_while_parsing_3gpp_metadata,N/A,
+CVE-2022-20504,2022-12-01,A-225878553,EoP,Moderate,13,frameowkr,N/A,
+CVE-2022-20512,2022-12-01,A-238602879,EoP,Moderate,13,frameowkr,N/A,
+CVE-2022-20514,2022-12-01,A-245727875,EoP,Moderate,13,frameowkr,N/A,
+CVE-2022-20524,2022-12-01,A-228523213,EoP,Moderate,13,frameowkr,N/A,
+CVE-2022-20553,2022-12-01,A-244155265,EoP,Moderate,13,frameowkr,N/A,
+CVE-2022-20554,2022-12-01,A-245770596,EoP,Moderate,13,frameowkr,N/A,
+CVE-2022-20510,2022-12-01,A-235822336,ID,Moderate,13,frameowkr,N/A,
+CVE-2022-20511,2022-12-01,A-235821829,ID,Moderate,13,frameowkr,N/A,
+CVE-2022-20513,2022-12-01,A-244569759,ID,Moderate,13,frameowkr,N/A,
+CVE-2022-20523,2022-12-01,A-228222508,ID,Moderate,13,frameowkr,N/A,
+CVE-2022-20530,2022-12-01,A-231585645,ID,Moderate,13,frameowkr,N/A,
+CVE-2022-20538,2022-12-01,A-235601770,ID,Moderate,13,frameowkr,N/A,
+CVE-2022-20559,2022-12-01,A-219739967,ID,Moderate,13,frameowkr,N/A,
+CVE-2022-20543,2022-12-01,A-238178261,DoS,Moderate,13,frameowkr,N/A,
+CVE-2022-20526,2022-12-01,A-229742774,EoP,Low,13,frameowkr,N/A,
+CVE-2022-20548,2022-12-01,A-240919398,EoP,Moderate,13,media-framework,N/A,
+CVE-2022-20528,2022-12-01,A-230172711,ID,Moderate,13,media-framework,N/A,
+CVE-2021-39771,2022-12-01,A-224545390,EoP,Moderate,13,system,N/A,
+CVE-2022-20503,2022-12-01,A-224772890,EoP,Moderate,13,system,N/A,
+CVE-2022-20505,2022-12-01,A-225981754,EoP,Moderate,13,system,N/A,
+CVE-2022-20506,2022-12-01,A-226133034,EoP,Moderate,13,system,N/A,
+CVE-2022-20507,2022-12-01,A-246649179,EoP,Moderate,13,system,N/A,
+CVE-2022-20508,2022-12-01,A-218679614,EoP,Moderate,13,system,N/A,
+CVE-2022-20509,2022-12-01,A-244713317,EoP,Moderate,13,system,N/A,
+CVE-2022-20519,2022-12-01,A-224772678,EoP,Moderate,13,system,N/A,
+CVE-2022-20520,2022-12-01,A-227203202,EoP,Moderate,13,system,N/A,
+CVE-2022-20522,2022-12-01,A-227470877,EoP,Moderate,13,system,N/A,
+CVE-2022-20525,2022-12-01,A-229742768,EoP,Moderate,13,system,N/A,
+CVE-2022-20529,2022-12-01,A-231583603,EoP,Moderate,13,system,N/A,
+CVE-2022-20533,2022-12-01,A-232798363,EoP,Moderate,13,system,N/A,
+CVE-2022-20536,2022-12-01,A-235100180,EoP,Moderate,13,system,N/A,
+CVE-2022-20537,2022-12-01,A-235601169,EoP,Moderate,13,system,N/A,
+CVE-2022-20539,2022-12-01,A-237291425,EoP,Moderate,13,system,N/A,
+CVE-2022-20540,2022-12-01,A-237291506,EoP,Moderate,13,system,N/A,
+CVE-2022-20544,2022-12-01,A-238745070,EoP,Moderate,13,system,N/A,
+CVE-2022-20546,2022-12-01,A-240266798,EoP,Moderate,13,system,N/A,
+CVE-2022-20547,2022-12-01,A-240301753,EoP,Moderate,13,system,N/A,
+CVE-2022-20549,2022-12-01,A-242702451,EoP,Moderate,13,system,N/A,
+CVE-2022-20550,2022-12-01,A-242845514,EoP,Moderate,13,system,N/A,
+CVE-2022-20556,2022-12-01,A-246301667,EoP,Moderate,13,system,N/A,
+CVE-2022-20557,2022-12-01,A-247092734,EoP,Moderate,13,system,N/A,
+CVE-2022-20558,2022-12-01,A-236264289,EoP,Moderate,13,system,N/A,
+CVE-2022-42542,2022-12-01,A-231445184,EoP,Moderate,13,system,N/A,
+CVE-2022-20199,2022-12-01,A-199291025,ID,Moderate,13,system,N/A,
+CVE-2022-20515,2022-12-01,A-220733496,ID,Moderate,13,system,N/A,
+CVE-2022-20516,2022-12-01,A-224002331,ID,Moderate,13,system,N/A,
+CVE-2022-20517,2022-12-01,A-224769956,ID,Moderate,13,system,N/A,
+CVE-2022-20518,2022-12-01,A-224770203,ID,Moderate,13,system,N/A,
+CVE-2022-20527,2022-12-01,A-229994861,ID,Moderate,13,system,N/A,
+CVE-2022-20531,2022-12-01,A-231988638,ID,Moderate,13,system,N/A,
+CVE-2022-20535,2022-12-01,A-233605242,ID,Moderate,13,system,N/A,
+CVE-2022-20541,2022-12-01,A-238083126,ID,Moderate,13,system,N/A,
+CVE-2022-20552,2022-12-01,A-243922806,ID,Moderate,13,system,N/A,
+CVE-2022-20555,2022-12-01,A-246194233,ID,Moderate,13,system,N/A,
+CVE-2022-42535,2022-12-01,A-224770183,ID,Moderate,13,system,N/A,
+CVE-2022-20521,2022-12-01,A-227203684,DoS,Moderate,13,system,N/A,
+CVE-2022-20545,2022-12-01,A-239368697,DoS,Moderate,13,system,N/A,
+CVE-2022-0500,2022-12-01,A-228560539 [Upstream kernel](https://android.googlesource.com/kernel/common/+/34d3a78c681e8),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-1116,2022-12-01,A-234020136 [Upstream kernel](https://android.googlesource.com/kernel/common/+/1a623d361ffe5),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-1419,2022-12-01,A-235540888 [Upstream kernel](https://android.googlesource.com/kernel/common/+/df2c1f38939aa),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-20565,2022-12-01,A-160818461 [Upstream kernel](https://android.googlesource.com/kernel/common/+/bce1305c0ece3),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-20566,2022-12-01,A-165329981 [Upstream kernel](https://android.googlesource.com/kernel/common/+/cacbff013baa586c63dd779e67d13238bf46c28e) [2](https://android.googlesource.com/kernel/common/+/2f9fed9ce805cf4d97cffb2f59d57b41b8e7fca8),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Bluetooth L2CAP
+CVE-2022-20567,2022-12-01,A-186777253 [Upstream kernel](https://android.googlesource.com/kernel/common/+/d02ba2a6110c5),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-20568,2022-12-01,A-220738351 [Upstream kernel](https://android.googlesource.com/kernel/common/+/bc80ea8a4296c4d75f7e3e27b65718cae09f20f1),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=io_uring
+CVE-2022-20571,2022-12-01,A-234030265 [Upstream kernel](https://android.googlesource.com/kernel/common/+/668e043112528306813bde9213eba6171ce48223),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=dm-verity
+CVE-2022-20572,2022-12-01,A-234475629 [Upstream kernel](https://android.googlesource.com/kernel/common/+/678d7a09525c2edb6b2436c1d5a9a0b9292e31d7) [2](https://android.googlesource.com/kernel/common/+/952141fb9237ec54cda66e04622725daae29d273),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=dm-verity
+CVE-2022-28390,2022-12-01,A-228694391 [Upstream kernel](https://android.googlesource.com/kernel/common/+/9292423a3e5fcf8b341ffbd135487f32f7e33d41),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-30594,2022-12-01,A-233438137 [Upstream kernel](https://android.googlesource.com/kernel/common/+/b6d75218ff65f) [2](https://android.googlesource.com/kernel/common/+/6210ced85099d) [3](https://android.googlesource.com/kernel/common/+/5a41a3033a934),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-34494,2022-12-01,A-238479990 [Upstream kernel](https://android.googlesource.com/kernel/common/+/e0440af8b26c0efa284d276cea634383033d5749),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-34495,2022-12-01,A-238480163 [Upstream kernel](https://android.googlesource.com/kernel/common/+/c82312f9b0ac1e217baec8fd55b14fe3a82400e6),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-20573,2022-12-01,A-235183128 [Upstream kernel](https://android.googlesource.com/kernel/common/+/e85a386df9c7e2ea302cb3c854dbe1b42ac9e441) [2](https://android.googlesource.com/kernel/common/+/790fa51f7bd2f9e464a845bb0caabe1bf0f7fde8),ID,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-20582,2022-12-01,A-233645166 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20583,2022-12-01,A-234859169 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20584,2022-12-01,A-238366009 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=TF-A
+CVE-2022-20585,2022-12-01,A-238716781 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20586,2022-12-01,A-238718854 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20587,2022-12-01,A-238720411 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20588,2022-12-01,A-238785915 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20597,2022-12-01,A-243480506 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20598,2022-12-01,A-242357514 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20599,2022-12-01,A-242332706 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Pixel firmware
+CVE-2022-42534,2022-12-01,A-237838301 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=TF-A
+CVE-2022-20498,2022-12-01,A-249998113 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=libfdt
+CVE-2022-20589,2022-12-01,A-238841928 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20590,2022-12-01,A-238932493 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20591,2022-12-01,A-238939706 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20592,2022-12-01,A-238976908 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20603,2022-12-01,A-219265339 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2022-20607,2022-12-01,A-238914868 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=Cellular Firmware
+CVE-2022-20610,2022-12-01,A-240462530 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=Pixel cellular modem
+CVE-2022-20561,2022-12-01,A-222162870 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Audio
+CVE-2022-20564,2022-12-01,A-243798789 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=libufdt
+CVE-2022-42531,2022-12-01,A-231500967 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=TF-A
+CVE-2022-20562,2022-12-01,A-231630423 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Audio processor
+CVE-2022-20574,2022-12-01,A-237582191 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20575,2022-12-01,A-237585040 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2022-20602,2022-12-01,A-211081867 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2022-20604,2022-12-01,A-230463606 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Exynos Firmware
+CVE-2022-20608,2022-12-01,A-239239246 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Cellular firmware
+CVE-2022-42529,2022-12-01,A-235292841 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Kernel
+CVE-2022-42530,2022-12-01,A-242331893 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Pixel firmware
+CVE-2022-42532,2022-12-01,A-242332610 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Pixel firmware
+CVE-2022-20563,2022-12-01,A-242067561 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Bootloader
+CVE-2022-20569,2022-12-01,A-229258234 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Pixel Thermal Control Driver
+CVE-2022-20576,2022-12-01,A-239701761 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Telephony
+CVE-2022-20577,2022-12-01,A-241762281 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=sitril
+CVE-2022-20578,2022-12-01,A-243509749 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-20579,2022-12-01,A-243510139 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-20580,2022-12-01,A-243629453 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=libufdt
+CVE-2022-20581,2022-12-01,A-245916120 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Pixel camera driver
+CVE-2022-20594,2022-12-01,A-239567689 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Wireless Charger
+CVE-2022-20596,2022-12-01,A-239700400 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Wireless Charger
+CVE-2022-20600,2022-12-01,A-239847859 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=LWIS
+CVE-2022-42501,2022-12-01,A-241231403 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42502,2022-12-01,A-241231970 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42503,2022-12-01,A-241231983 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42504,2022-12-01,A-241232209 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42505,2022-12-01,A-241232492 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42506,2022-12-01,A-241388399 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42507,2022-12-01,A-241388774 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42508,2022-12-01,A-241388966 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42509,2022-12-01,A-241544307 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42510,2022-12-01,A-241762656 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42511,2022-12-01,A-241762712 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42513,2022-12-01,A-241763204 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42518,2022-12-01,A-242536278 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42519,2022-12-01,A-242540694 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42520,2022-12-01,A-242994270 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42521,2022-12-01,A-243130019 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42523,2022-12-01,A-243376893 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42525,2022-12-01,A-243509750 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42526,2022-12-01,A-243509880 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-20560,2022-12-01,A-212623833 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Kernel
+CVE-2022-20570,2022-12-01,A-230660904 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2022-20593,2022-12-01,A-239415809 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=gralloc
+CVE-2022-20595,2022-12-01,A-239700137 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Wireless Charger
+CVE-2022-20601,2022-12-01,A-204541506 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2022-20605,2022-12-01,A-231722405 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2022-20606,2022-12-01,A-233230674 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2022-20609,2022-12-01,A-239240808 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Cellular firmware
+CVE-2022-42512,2022-12-01,A-241763050 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42514,2022-12-01,A-241763298 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42515,2022-12-01,A-241763503 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42516,2022-12-01,A-241763577 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42517,2022-12-01,A-241763682 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42522,2022-12-01,A-243130038 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2022-42524,2022-12-01,A-243401445 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2022-42527,2022-12-01,A-244448906 [*](#asterisk),DoS,Moderate,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2022-20427,2022-11-01,A-239555070 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Titan M
 CVE-2022-20428,2022-11-01,A-239555411 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Titan M
 CVE-2022-20459,2022-11-01,A-239556260 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Titan M
