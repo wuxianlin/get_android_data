@@ -4507,7 +4507,7 @@ CVE-2022-20545,2022-12-01,[A-239368697](https://android.googlesource.com/platfor
 CVE-2022-0500,2022-12-01,A-228560539 [Upstream kernel](https://android.googlesource.com/kernel/common/+/34d3a78c681e8),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2022-1116,2022-12-01,A-234020136 [Upstream kernel](https://android.googlesource.com/kernel/common/+/1a623d361ffe5),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2022-1419,2022-12-01,A-235540888 [Upstream kernel](https://android.googlesource.com/kernel/common/+/df2c1f38939aa),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
-CVE-2022-20565,2022-12-01,A-160818461 [Upstream kernel](https://android.googlesource.com/kernel/common/+/bce1305c0ece3),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-0465,2022-12-01,A-160818461 [Upstream kernel](https://android.googlesource.com/kernel/common/+/bce1305c0ece3),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2022-20566,2022-12-01,A-165329981 [Upstream kernel](https://android.googlesource.com/kernel/common/+/cacbff013baa586c63dd779e67d13238bf46c28e) [2](https://android.googlesource.com/kernel/common/+/2f9fed9ce805cf4d97cffb2f59d57b41b8e7fca8),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Bluetooth L2CAP
 CVE-2022-20567,2022-12-01,A-186777253 [Upstream kernel](https://android.googlesource.com/kernel/common/+/d02ba2a6110c5),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2022-20568,2022-12-01,A-220738351 [Upstream kernel](https://android.googlesource.com/kernel/common/+/bc80ea8a4296c4d75f7e3e27b65718cae09f20f1),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=io_uring
@@ -4517,7 +4517,7 @@ CVE-2022-28390,2022-12-01,A-228694391 [Upstream kernel](https://android.googleso
 CVE-2022-30594,2022-12-01,A-233438137 [Upstream kernel](https://android.googlesource.com/kernel/common/+/b6d75218ff65f) [2](https://android.googlesource.com/kernel/common/+/6210ced85099d) [3](https://android.googlesource.com/kernel/common/+/5a41a3033a934),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2022-34494,2022-12-01,A-238479990 [Upstream kernel](https://android.googlesource.com/kernel/common/+/e0440af8b26c0efa284d276cea634383033d5749),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2022-34495,2022-12-01,A-238480163 [Upstream kernel](https://android.googlesource.com/kernel/common/+/c82312f9b0ac1e217baec8fd55b14fe3a82400e6),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
-CVE-2022-20573,2022-12-01,A-235183128 [Upstream kernel](https://android.googlesource.com/kernel/common/+/e85a386df9c7e2ea302cb3c854dbe1b42ac9e441) [2](https://android.googlesource.com/kernel/common/+/790fa51f7bd2f9e464a845bb0caabe1bf0f7fde8),ID,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2022-1852,2022-12-01,A-235183128 [Upstream kernel](https://android.googlesource.com/kernel/common/+/e85a386df9c7e2ea302cb3c854dbe1b42ac9e441) [2](https://android.googlesource.com/kernel/common/+/790fa51f7bd2f9e464a845bb0caabe1bf0f7fde8),ID,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2022-20582,2022-12-01,A-233645166 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
 CVE-2022-20583,2022-12-01,A-234859169 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
 CVE-2022-20584,2022-12-01,A-238366009 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=TF-A
