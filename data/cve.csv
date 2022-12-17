@@ -4464,7 +4464,7 @@ CVE-2022-20543,2022-12-01,[A-238178261](https://android.googlesource.com/platfor
 CVE-2022-20526,2022-12-01,[A-229742774](https://android.googlesource.com/platform/frameworks/base/+/5d28aee1b1ac76e73db174535802bd2cc6069909),EoP,Low,13,frameowkr,N/A,
 CVE-2022-20548,2022-12-01,A-240919398,EoP,Moderate,13,media-framework,N/A,
 CVE-2022-20528,2022-12-01,[A-230172711](https://android.googlesource.com/platform/frameworks/av/+/aff26637aae9ad9bb635b78a44d8afad27bb7f03),ID,Moderate,13,media-framework,N/A,
-CVE-2021-39771,2022-12-01,[A-224545390](https://android.googlesource.com/platform/packages/apps/Settings/+/08adf4c2ede8dbad16e2a4d71d807223279b7107),EoP,Moderate,13,system,N/A,
+CVE-2022-42544,2022-12-01,[A-224545390](https://android.googlesource.com/platform/packages/apps/Settings/+/08adf4c2ede8dbad16e2a4d71d807223279b7107),EoP,Moderate,13,system,N/A,
 CVE-2022-20503,2022-12-01,[A-224772890](https://android.googlesource.com/platform/packages/apps/Settings/+/a8ccc3456cce30fc9820463b8eadf3bc904a111b),EoP,Moderate,13,system,N/A,
 CVE-2022-20505,2022-12-01,[A-225981754](https://android.googlesource.com/platform/packages/providers/ContactsProvider/+/c5da1394740292b036fa0d0b7ad9b96f0851b799),EoP,Moderate,13,system,N/A,
 CVE-2022-20506,2022-12-01,[A-226133034](https://android.googlesource.com/platform/packages/apps/Settings/+/a09c33f49c2d8025b475f31f97684b0919cd189a),EoP,Moderate,13,system,N/A,
@@ -4529,7 +4529,7 @@ CVE-2022-20597,2022-12-01,A-243480506 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,
 CVE-2022-20598,2022-12-01,A-242357514 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=LDFW
 CVE-2022-20599,2022-12-01,A-242332706 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Pixel firmware
 CVE-2022-42534,2022-12-01,A-237838301 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=TF-A
-CVE-2022-20498,2022-12-01,A-249998113 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=libfdt
+CVE-2022-42543,2022-12-01,A-249998113 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=libfdt
 CVE-2022-20589,2022-12-01,A-238841928 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=LDFW
 CVE-2022-20590,2022-12-01,A-238932493 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=LDFW
 CVE-2022-20591,2022-12-01,A-238939706 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=LDFW
