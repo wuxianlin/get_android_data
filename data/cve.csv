@@ -4496,7 +4496,6 @@ CVE-2022-20516,2022-12-01,[A-224002331](https://android.googlesource.com/platfor
 CVE-2022-20517,2022-12-01,[A-224769956](https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/6d3d099d902a3c258972e46e4bc033f46b73109f),ID,Moderate,13,system,N/A,
 CVE-2022-20518,2022-12-01,[A-224770203](https://android.googlesource.com/platform/packages/providers/TelephonyProvider/+/561e28af0c3baf6c25c42f7383411bee79139f41),ID,Moderate,13,system,N/A,
 CVE-2022-20527,2022-12-01,[A-229994861](https://android.googlesource.com/platform/hardware/st/nfc/+/bf79f190c62886e457e13b030dd67d846958b3c6),ID,Moderate,13,system,N/A,
-CVE-2022-20531,2022-12-01,[A-231988638](https://android.googlesource.com/platform/packages/services/Telecomm/+/b0339436efe6cf22063480f92f4550b9d530977b),ID,Moderate,13,system,N/A,
 CVE-2022-20535,2022-12-01,[A-233605242](https://android.googlesource.com/platform/packages/modules/Wifi/+/74520f702094fc8b9680f293fe5293db26a2c32f),ID,Moderate,13,system,N/A,
 CVE-2022-20541,2022-12-01,[A-238083126](https://android.googlesource.com/platform/hardware/nxp/nfc/+/567c0496a8e80e96c15c02cb8f063e65008943cd),ID,Moderate,13,system,N/A,
 CVE-2022-20552,2022-12-01,[A-243922806](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/9817ef5e94eca59e666b06f51726cf42ad795a8b),ID,Moderate,13,system,N/A,
