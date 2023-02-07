@@ -1,4 +1,27 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2022-20443,2023-02-01,A-194480991,EoP,High,"11, 12, 12L",framework,N/A,
+CVE-2022-20551,2023-02-01,A-243376549,EoP,High,"12, 12L, 13",framework,N/A,
+CVE-2023-20934,2023-02-01,A-258672042,EoP,High,"12, 12L, 13",framework,N/A,
+CVE-2023-20942,2023-02-01,A-258021433,EoP,High,"12, 12L, 13",framework,N/A,
+CVE-2023-20943,2023-02-01,A-240267890,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2023-20944,2023-02-01,A-244154558,EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
+CVE-2023-20948,2023-02-01,A-230630526,ID,High,"12, 12L, 13",framework,N/A,
+CVE-2023-20933,2023-02-01,A-245860753,EoP,High,"10, 11, 12, 12L, 13",media-framework,N/A,
+CVE-2022-43680,2023-02-01,A-255449293,EoP,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2023-20939,2023-02-01,A-243362981,EoP,High,"12, 12L, 13",system,N/A,
+CVE-2023-20940,2023-02-01,A-256237041,EoP,High,13,system,N/A,
+CVE-2023-20945,2023-02-01,A-246932269,EoP,High,10,system,N/A,
+CVE-2023-20946,2023-02-01,A-244423101,EoP,High,"11, 12, 12L, 13",system,N/A,
+CVE-2022-20481,2023-02-01,A-241927115,ID,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2023-20932,2023-02-01,A-248251018,ID,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20455,2023-02-01,A-242537431,DoS,High,"10, 11, 12, 12L, 13",system,N/A,
+CVE-2022-20481,2023-02-01,N/A,N/A,N/A,N/A,google-play-updates,N/A,Subcomponent=WiFi
+CVE-2022-39189,2023-02-05,A-245869446 [Upstream kernel](https://android.googlesource.com/kernel/common/+/0be362f248a062b0c57b24bd16250e48aca1258b),EoP,High,N/A,kernel,N/A,Subcomponent=KVM
+CVE-2022-39842,2023-02-05,A-245928838 [Upstream kernel](https://android.googlesource.com/kernel/common/+/d75ef462c3dbd5bb52313e32d545c8be7f79049d),EoP,High,N/A,kernel,N/A,Subcomponent=Video
+CVE-2022-41222,2023-02-05,A-248354871 [Upstream kernel](https://android.googlesource.com/kernel/common/+/482efd771f45b37a7da107bd8289b52164574aaa),EoP,High,N/A,kernel,N/A,Subcomponent=Kernel memory subsystem
+CVE-2023-20937,2023-02-05,A-257443051 [Upstream kernel](https://android.googlesource.com/kernel/common/+/50d2b75b860a6495aac6127a27f75b309e91b689) [2](https://android.googlesource.com/kernel/common/+/5844c8e7aaa946341f0d30441adc8f2cd97efbfc) [3](https://android.googlesource.com/kernel/common/+/4ea18cd059a4986a6a6f94a7f6d019b750bece65) [4](https://android.googlesource.com/kernel/common/+/ca96bd7bf10e62eccc583726be502f219ab02c1e) [5](https://android.googlesource.com/kernel/common/+/533a88fed7d0107eff64d723d853e9a2c4a1053c) [6](https://android.googlesource.com/kernel/common/+/a1f65b39ba08a0f24bde9f07921ff48277761132) [7](https://android.googlesource.com/kernel/common/+/3f311327f910e5c73d5bd602a80afcad371e83cd),EoP,High,N/A,kernel,N/A,Subcomponent=Memory Management
+CVE-2023-20938,2023-02-05,A-257685302 [Upstream kernel](https://android.googlesource.com/kernel/common/+/baa23246e93f) [2](https://android.googlesource.com/kernel/common/+/3d213a626d2d) [3](https://android.googlesource.com/kernel/common/+/9d1efccf5ec3) [4](https://android.googlesource.com/kernel/common/+/b83173bf86a9) [5](https://android.googlesource.com/kernel/common/+/aaf236971732) [6](https://android.googlesource.com/kernel/common/+/ecf61e4e1117),EoP,High,N/A,kernel,N/A,Subcomponent=Binder
+CVE-2022-0850,2023-02-05,A-245406696 [Upstream kernel](https://android.googlesource.com/kernel/common/+/ce3aba43599f0),ID,High,N/A,kernel,N/A,Subcomponent=ext4
 CVE-2022-20456,2023-01-01,[A-242703780](https://android.googlesource.com/platform/frameworks/base/+/de172ba0d434c940be9e2aad8685719731ab7da2),EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
 CVE-2022-20489,2023-01-01,[A-242703460](https://android.googlesource.com/platform/frameworks/base/+/de172ba0d434c940be9e2aad8685719731ab7da2),EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
 CVE-2022-20490,2023-01-01,[A-242703505](https://android.googlesource.com/platform/frameworks/base/+/de172ba0d434c940be9e2aad8685719731ab7da2),EoP,High,"10, 11, 12, 12L, 13",framework,N/A,
@@ -4471,6 +4494,7 @@ CVE-2015-1541,2015-08-01,[ANDROID-19618745](https://android.googlesource.com/pla
 CVE-2015-3833,2015-08-01,[ANDROID-20034603](https://android.googlesource.com/platform/frameworks/base/+/aaa0fee0d7a8da347a0c47cef5249c70efee209e),N/A,Moderate,5.0 and 5.1,mitigation_bypass_of_restrictions_on_getrecenttasks,N/A,
 CVE-2015-3844,2015-08-01,[ANDROID-21669445](https://android.googlesource.com/platform/frameworks/base/+/e3cde784e3d99966f313fe00dcecf191f6a44a31),N/A,Moderate,5.1 and below,activitymanagerservice_getprocessrecordlocked_may_load_a_system_uid_application_into_the_wrong_process,N/A,
 CVE-2015-3826,2015-08-01,[ANDROID-20923261](https://android.googlesource.com/platform/frameworks/av/+/f4f7e0c102819f039ebb1972b3dba1d3186bc1d1),N/A,Low,5.0 and 5.1,unbounded_buffer_read_in_libstagefright_while_parsing_3gpp_metadata,N/A,
+CVE-2023-20949,2023-02-01,A-259323133 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=regulator
 CVE-2023-20924,2023-01-01,A-240428519 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Pixel 6a Fingerprint Scanner
 CVE-2023-20925,2023-01-01,A-236674672 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Pixel Power service
 CVE-2023-20923,2023-01-01,A-246933910 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=ShannonRcs
