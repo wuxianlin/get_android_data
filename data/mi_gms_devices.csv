@@ -34,6 +34,8 @@ POCO,POCO M4 5G,thunder,22041219PG
 POCO,POCO M4 Pro,fleur,2201117PG
 POCO,POCO M4 Pro,miel,2201117PI
 POCO,POCO M4 Pro 5G,evergreen,21091116AG
+POCO,POCO M5,rock,22071219CI
+POCO,POCO M5,stone,22071219CG
 POCO,POCO M5s,rosemary,2207117BPG
 POCO,POCO X2,phoenixin,POCO X2
 POCO,POCO X3,karna,M2007J20CI
@@ -76,6 +78,7 @@ Redmi,Redmi 10X 4G,merlin,M2003J15SC
 Redmi,Redmi 10X Pro,banana,M2004J7BC
 Redmi,Redmi 10X pro,bomb,M2004J7BC
 Redmi,Redmi 10X pro,bomb,bomb
+Redmi,Redmi 11 Prime,rock,22071219AI
 Redmi,Redmi 11 Prime 5G,light,22041219I
 Redmi,Redmi 6,cereus,Redmi 6
 Redmi,Redmi 7,onc,Redmi 7
@@ -132,6 +135,9 @@ Redmi,Redmi K50,rubens,22041211AC
 Redmi,Redmi K50 Pro,matisse,22011211C
 Redmi,Redmi K50G,ingres,21121210C
 Redmi,Redmi K50i,xagain,22041216I
+Redmi,Redmi K60,mondrian,23013RK75C
+Redmi,Redmi K60 Pro,socrates,22127RK46C
+Redmi,Redmi K60E,rembrandt,22122RK93C
 Redmi,Redmi Note 10,camellia,M2103K19C
 Redmi,Redmi Note 10,sunny,M2101K7AG
 Redmi,Redmi Note 10,sunny,M2101K7AI
@@ -174,6 +180,11 @@ Redmi,Redmi Note 11S 5G,opal,22031116BG
 Redmi,Redmi Note 11T 5G,evergo,21091116AI
 Redmi,Redmi Note 11T Pro,xaga,22041216C
 Redmi,Redmi Note 11T Pro +,xagapro,22041216UC
+Redmi,Redmi Note 12 5G,sunstone,22101317C
+Redmi,Redmi Note 12 DISCOVERY EDITION,rubyplus,22101316UC
+Redmi,Redmi Note 12 Pro,ruby,22101316C
+Redmi,Redmi Note 12 Pro Speed,redwood,22101320C
+Redmi,Redmi Note 12 Pro+,rubypro,22101316UCP
 Redmi,Redmi Note 7,lavender,Redmi Note 7
 Redmi,Redmi Note 8,biloba,M1908C3JGG
 Redmi,Redmi Note 8,ginkgo,GINKGO
@@ -439,6 +450,8 @@ Xiaomi,Xiaomi 12T,plato,22071212AG
 Xiaomi,Xiaomi 12T Pro,diting,22081212C
 Xiaomi,Xiaomi 12T Pro,diting,22081212UG
 Xiaomi,Xiaomi 12X,psyche,2112123AC
+Xiaomi,Xiaomi 13,fuxi,2211133C
+Xiaomi,Xiaomi 13 pro,nuwa,2210132C
 Xiaomi,Xiaomi Civi,mona,2109119BC
 Xiaomi,Xiaomi Civi 1S,zijin,2109119BC
 Xiaomi,Xiaomi MIX Fold,cetus,M2011J18C
@@ -449,4 +462,5 @@ Xiaomi,Xiaomi Pad 5 Pro,dagu,22081281AC
 Xiaomi,Xiaomi Pad 5 Pro,elish,M2105K81AC
 Xiaomi,Xiaomi Pad 5 Pro 5G,enuma,M2105K81C
 Xiaomi,Xiaomi TV stick 4K,soul,MiTV-AYFR0
+Xiaomi,Xiaomi civi2,ziyi,2209129SC
 Xiaomi,小米手表,baiji,Mi Watch
