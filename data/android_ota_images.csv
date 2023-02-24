@@ -903,7 +903,7 @@ Pixel C 的“ryu”,8.1.0（OPM8.190505.001，2019 年 5 月）,https://dl.goog
 Pixel C 的“ryu”,8.1.0（OPM8.190605.003，2019 年 6 月）,https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190605.003-981d8735.zip?hl=zh-cn,981d873529369a0de76ccf5c0dc6ed4d7dc71a1fd3db07ef4085ecdc84895ec1
 Pixel C 的“ryu”,8.1.0（OPM8.190605.005，2019 年 6 月）,https://dl.google.com/dl/android/aosp/ryu-ota-opm8.190605.005-079b7ec4.zip?hl=zh-cn,079b7ec489392fd0bd235db44600bfb36cab7111c88c697d334b702dafc71596
 Nexus 6P 的“angler”
-Nexus 6P 的“angler”,6.0.1 (MHC19Q),https://dl.google.com/dl/android/aosp//angler-ota-mhc19q-b9ac826b.zip?hl=zh-cn,b9ac826b083d9de0f6cfce889e5ecc5357373537f205178bd64feba49fb4be6f
+Nexus 6P 的“angler”,6.0.1 (MHC19Q),https://dl.google.com/dl/android/aosp/angler-ota-mhc19q-b9ac826b.zip?hl=zh-cn,b9ac826b083d9de0f6cfce889e5ecc5357373537f205178bd64feba49fb4be6f
 Nexus 6P 的“angler”,6.0.1 (MTC19T),https://dl.google.com/dl/android/aosp/angler-ota-mtc19t-0884ae89.zip?hl=zh-cn,0884ae89f913e3c29f1b3f0c4b740613093ce9aff8b211a3803235a2d6a43fd1
 Nexus 6P 的“angler”,6.0.1 (MTC19V),https://dl.google.com/dl/android/aosp/angler-ota-mtc19v-cb7d5b1c.zip?hl=zh-cn,cb7d5b1c24c83f22ccbdd01dfa63e22afab73e42cbce5ffd152374665960871c
 Nexus 6P 的“angler”,6.0.1 (MTC19X),https://dl.google.com/dl/android/aosp/angler-ota-mtc19x-d3368f48.zip?hl=zh-cn,d3368f48977e4220c7d679b21d1f3acd808ffbb0a8174cc5298f6e6e4b5db228
@@ -949,7 +949,7 @@ Nexus 6P 的“angler”,8.1.0（OPM7.181005.003，2018 年 10 月）,https://dl
 Nexus 6P 的“angler”,8.1.0（OPM7.181105.004，2018 年 11 月）,https://dl.google.com/dl/android/aosp/angler-ota-opm7.181105.004-81e2a4cc.zip?hl=zh-cn,81e2a4cceb46ce745ae9522c2c142323ec9a74c1b89fd17d2c1bbdaeda557a32
 Nexus 6P 的“angler”,8.1.0（OPM7.181205.001，2018 年 12 月）,https://dl.google.com/dl/android/aosp/angler-ota-opm7.181205.001-abb36a2f.zip?hl=zh-cn,abb36a2fddb08501f9a425b19e43200ac4d639bbf4e387bcfff206b28b7024fe
 Nexus 5X 专用“bullhead”
-Nexus 5X 专用“bullhead”,6.0.1 (MHC19Q),https://dl.google.com/dl/android/aosp//bullhead-ota-mhc19q-8fe67a2b.zip?hl=zh-cn,8fe67a2b9e060d4790dfa5e7a2232b1afa38a79236c391d063c6c5de178c1396
+Nexus 5X 专用“bullhead”,6.0.1 (MHC19Q),https://dl.google.com/dl/android/aosp/bullhead-ota-mhc19q-8fe67a2b.zip?hl=zh-cn,8fe67a2b9e060d4790dfa5e7a2232b1afa38a79236c391d063c6c5de178c1396
 Nexus 5X 专用“bullhead”,6.0.1 (MTC19T),https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19t-4ea6522b.zip?hl=zh-cn,4ea6522b624459855af3b19f3c9c3a1d7a2897602fcfa6f993dbf16680ffae45
 Nexus 5X 专用“bullhead”,6.0.1 (MTC19V),https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19v-821d513d.zip?hl=zh-cn,821d513dc262ac277d2ef4ed680e81938e14bd59db06e3c8d3a66ecbd4f0fd9c
 Nexus 5X 专用“bullhead”,6.0.1 (MTC19Z),https://dl.google.com/dl/android/aosp/bullhead-ota-mtc19z-b4cfce2c.zip?hl=zh-cn,b4cfce2c1096881dd209962f0affe1194aa9853aa5edd666fce758f979452239
@@ -993,7 +993,7 @@ Nexus 5X 专用“bullhead”,8.1.0（OPM7.181105.004，2018 年 11 月）,https
 Nexus 5X 专用“bullhead”,8.1.0（OPM7.181205.001，2018 年 12 月）,https://dl.google.com/dl/android/aosp/bullhead-ota-opm7.181205.001-b1af2457.zip?hl=zh-cn,b1af2457a90503c56d45019a1901480bf9218ac02c7b7768d01fdc4e2de17078
 Nexus 5 (GSM/LTE) 用“hammerhead”
 Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1 (MMB29X),https://dl.google.com/dl/android/aosp/hammerhead-ota-mmb29x-13c27a19.zip?hl=zh-cn,13c27a19d036140ef17c3d7b53b06f819258077cfdf52bc5900d9975f6b27c6f
-Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp//hammerhead-ota-mob30d-74ff57bc.zip?hl=zh-cn,74ff57bc6526cc0349b78856beed7f20bf9572198d6c7331881d952afb06ebca
+Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30d-74ff57bc.zip?hl=zh-cn,74ff57bc6526cc0349b78856beed7f20bf9572198d6c7331881d952afb06ebca
 Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1 (MOB30H),https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30h-672f59e1.zip?hl=zh-cn,672f59e1c1f441df229026ffbc42d4dc125f2548e3e258a07f18d71e1c5974f7
 Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1 (MOB30M),https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30m-1af36a17.zip?hl=zh-cn,1af36a1788360dbae08f3dd9fce905f65ca0942078acafc807600910e066ea5c
 Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1 (MOB30P),https://dl.google.com/dl/android/aosp/hammerhead-ota-mob30p-d447411d.zip?hl=zh-cn,d447411d0ecb7c4ce16a08f57750aa53708cbe2bdd5c90061255ec4ce3e431e1
@@ -1003,7 +1003,7 @@ Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1（M4B30X，2016 年 10 月）,https:
 Nexus 5 (GSM/LTE) 用“hammerhead”,6.0.1（M4B30Z，2016 年 12 月）,https://dl.google.com/dl/android/aosp/hammerhead-ota-m4b30z-752c16b1.zip?hl=zh-cn,752c16b1f819d051d1d11ebd5be001c6118abbb0e31d099c6a286dbd30342f67
 Nexus 6 专用“shamu”
 Nexus 6 专用“shamu”,6.0.1 (MMB29X),https://dl.google.com/dl/android/aosp/shamu-ota-mmb29x-27102553.zip?hl=zh-cn,271025536502b0a1357022df0fe7cc4a2f0dbf9744f088b04057c7bfd2dfb6f2
-Nexus 6 专用“shamu”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp//shamu-ota-mob30d-6505ca97.zip?hl=zh-cn,6505ca973e14c11a93f70d0a6a8c12485cac127558f64f4c10424e205b973f91
+Nexus 6 专用“shamu”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp/shamu-ota-mob30d-6505ca97.zip?hl=zh-cn,6505ca973e14c11a93f70d0a6a8c12485cac127558f64f4c10424e205b973f91
 Nexus 6 专用“shamu”,6.0.1 (MMB30G),https://dl.google.com/dl/android/aosp/shamu-ota-mmb30g-ed581061.zip?hl=zh-cn,ed58106149d75046c6b196776e9b2058529fa6e99809d20fd3736dbac7487db3
 Nexus 6 专用“shamu”,6.0.1 (MOB30I),https://dl.google.com/dl/android/aosp/shamu-ota-mob30i-c0bdba8e.zip?hl=zh-cn,c0bdba8e5b2402c3faa0c0274e7da9aa15af9ab7edbe9e90b793c3554d5797ff
 Nexus 6 专用“shamu”,6.0.1 (MMB30J),https://dl.google.com/dl/android/aosp/shamu-ota-mmb30j-d684d15c.zip?hl=zh-cn,d684d15ceeae6f074636ad5680673f32f198105f3fafd349eb21bd857557a828
@@ -1044,14 +1044,14 @@ Nexus 6 专用“shamu”,7.1.1（N6F27M，2017 年 10 月）,https://dl.google.
 Nexus 6 专用“shamu”,7.1.1（N8I11F，2017 年 10 月）,https://dl.google.com/dl/android/aosp/shamu-ota-n8i11f-b4de4046.zip?hl=zh-cn,b4de4046e9c47f16eeb54fa2f77d628253f6a88c3b0fd850dffa51d750652f01
 Nexus 6 专用“shamu”,7.1.1（NGI77B、2017 年 10 月、Verizon）,https://dl.google.com/dl/android/aosp/shamu-ota-ngi77b-0ea2ff80.zip?hl=zh-cn,0ea2ff804eb84cabbc018633f631959142bf87d8e03e8da8d8e3af3d651059f0
 Nexus 7 [2013] (Wi-Fi) 专用“razor”
-Nexus 7 [2013] (Wi-Fi) 专用“razor”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp//razor-ota-mob30d-b7239cf4.zip?hl=zh-cn,b7239cf42f860119ef27e4e54d4b72e83170cbd163435b25bd0fdef72aaf6e5b
+Nexus 7 [2013] (Wi-Fi) 专用“razor”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp/razor-ota-mob30d-b7239cf4.zip?hl=zh-cn,b7239cf42f860119ef27e4e54d4b72e83170cbd163435b25bd0fdef72aaf6e5b
 Nexus 7 [2013] (Wi-Fi) 专用“razor”,6.0.1 (MOB30J),https://dl.google.com/dl/android/aosp/razor-ota-mob30j-a1d349f7.zip?hl=zh-cn,a1d349f70a35e70f3be03795503cb554c5b24082902d4173251eedb529fc6e85
 Nexus 7 [2013] (Wi-Fi) 专用“razor”,6.0.1 (MOB30M),https://dl.google.com/dl/android/aosp/razor-ota-mob30m-084c62a1.zip?hl=zh-cn,084c62a1f5af4a90305f49f2ad3c20cefb177bf08ac123144fc78f393f05a98d
 Nexus 7 [2013] (Wi-Fi) 专用“razor”,6.0.1 (MOB30P),https://dl.google.com/dl/android/aosp/razor-ota-mob30p-b41593f4.zip?hl=zh-cn,b41593f4a128a536ae5a73fbd7d839d5885c44248751e9c80b13d761c478638f
 Nexus 7 [2013] (Wi-Fi) 专用“razor”,6.0.1 (MOB30X),https://dl.google.com/dl/android/aosp/razor-ota-mob30x-54635e45.zip?hl=zh-cn,54635e458810390fd33145fb2f162816530274510d8444aa6502c724c8e4972a
 Nexus 7 [2013]（移动设备）版“razorg”
 Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MMB29X),https://dl.google.com/dl/android/aosp/razorg-ota-mmb29x-f97b2025.zip?hl=zh-cn,f97b2025fc25363ddd69d0a132485b2ce062a0647416cbb0773f5e8193964701
-Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp//razorg-ota-mob30d-e01d8774.zip?hl=zh-cn,e01d8774929914d185e74140e71dc4587b1bc4c89bddd3a8cdd857443f423215
+Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp/razorg-ota-mob30d-e01d8774.zip?hl=zh-cn,e01d8774929914d185e74140e71dc4587b1bc4c89bddd3a8cdd857443f423215
 Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MOB30J),https://dl.google.com/dl/android/aosp/razorg-ota-mob30j-469e2683.zip?hl=zh-cn,469e2683222217982dcfaa178cf1cd93380a09f6165a5f3b5953391ec7acff0d
 Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MMB30J),https://dl.google.com/dl/android/aosp/razorg-ota-mmb30j-d8a9effa.zip?hl=zh-cn,d8a9effa1b6ce8d4dc13ace569789fa22c53665435c51dea3cf36e3d8f016f29
 Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MOB30M),https://dl.google.com/dl/android/aosp/razorg-ota-mob30m-2807dc31.zip?hl=zh-cn,2807dc31d7237c09df5968161bb645f6df731ec901f1583b35b9f92d7c47f8e4
@@ -1061,7 +1061,7 @@ Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MMB30S),https://dl.google
 Nexus 7 [2013]（移动设备）版“razorg”,6.0.1 (MOB30X),https://dl.google.com/dl/android/aosp/razorg-ota-mob30x-0b5aa9df.zip?hl=zh-cn,0b5aa9df66db710ae72f93ab8a1bcc8d7fa1fb7e8b5ffb291481afa74a84446c
 Nexus 9 (LTE) 设备“volantisg”
 Nexus 9 (LTE) 设备“volantisg”,6.0.1 (MMB29X),https://dl.google.com/dl/android/aosp/volantisg-ota-mmb29x-fa4a68a8.zip?hl=zh-cn,fa4a68a8fc782d0c0a7be218f252c34ef6bc86e7a87f04327fe638acaac98062
-Nexus 9 (LTE) 设备“volantisg”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp//volantisg-ota-mob30d-0339a6a9.zip?hl=zh-cn,0339a6a996e2e65a4e542fae2aad9eb06fbe04d9cb8b91f2cb0565b562f7a1ea
+Nexus 9 (LTE) 设备“volantisg”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp/volantisg-ota-mob30d-0339a6a9.zip?hl=zh-cn,0339a6a996e2e65a4e542fae2aad9eb06fbe04d9cb8b91f2cb0565b562f7a1ea
 Nexus 9 (LTE) 设备“volantisg”,6.0.1 (MOB30G),https://dl.google.com/dl/android/aosp/volantisg-ota-mob30g-b2bcd502.zip?hl=zh-cn,b2bcd502c2ac39d929a38da8c8a7e8d917f710f154ba7ad0b3e32b2637bd5367
 Nexus 9 (LTE) 设备“volantisg”,6.0.1 (MOB30M),https://dl.google.com/dl/android/aosp/volantisg-ota-mob30m-6e8b9b5e.zip?hl=zh-cn,6e8b9b5e844c0584a693c9ea214bf63b79492204651b7425274aaa95fdb5c013
 Nexus 9 (LTE) 设备“volantisg”,6.0.1 (MOB30P),https://dl.google.com/dl/android/aosp/volantisg-ota-mob30p-9e4ca547.zip?hl=zh-cn,9e4ca5475abb6e1a52537306f2c7b3ef7987b7bc7dd1bb7bc2d8d836bd71f2c9
@@ -1080,7 +1080,7 @@ Nexus 9 (LTE) 设备“volantisg”,7.1.1（N4F27K，2017 年 8 月）,https://d
 Nexus 9 (LTE) 设备“volantisg”,7.1.1（N4F27O，2017 年 9 月）,https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27o-e7d43de7.zip?hl=zh-cn,e7d43de7f2beed7221cec63628308e0df985a97c1bf478c3fc169b52d4875d6f
 Nexus 9 (LTE) 设备“volantisg”,7.1.1（N4F27P，2017 年 10 月）,https://dl.google.com/dl/android/aosp/volantisg-ota-n4f27p-3616b6a4.zip?hl=zh-cn,3616b6a4e8187d343fbc188b35b767bf44d4f20defd6ed33a7be4867b7850f62
 Nexus 9 (Wi-Fi) 的“volantis”
-Nexus 9 (Wi-Fi) 的“volantis”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp//volantis-ota-mob30d-1da7c803.zip?hl=zh-cn,1da7c803f85c64a90369b5c90af9bc6ae440e6f19595b9f5ee938d7b5d99b9a0
+Nexus 9 (Wi-Fi) 的“volantis”,6.0.1 (MOB30D),https://dl.google.com/dl/android/aosp/volantis-ota-mob30d-1da7c803.zip?hl=zh-cn,1da7c803f85c64a90369b5c90af9bc6ae440e6f19595b9f5ee938d7b5d99b9a0
 Nexus 9 (Wi-Fi) 的“volantis”,6.0.1 (MOB30G),https://dl.google.com/dl/android/aosp/volantis-ota-mob30g-555f0865.zip?hl=zh-cn,555f0865d7521b8d1559dd32562c2236ccba685b4b5a55812b2c3671e1ff4a4d
 Nexus 9 (Wi-Fi) 的“volantis”,6.0.1 (MOB30M),https://dl.google.com/dl/android/aosp/volantis-ota-mob30m-738daf66.zip?hl=zh-cn,738daf66c98b01cf57db6bbd0c6054839ed485e93adcfdfc5bcf6ec0d41d05c5
 Nexus 9 (Wi-Fi) 的“volantis”,6.0.1 (MOB30P),https://dl.google.com/dl/android/aosp/volantis-ota-mob30p-0fa39d97.zip?hl=zh-cn,0fa39d9778c60273e02ced92373586e1c2d9d341a98ca5eb5ebd55735a820590
