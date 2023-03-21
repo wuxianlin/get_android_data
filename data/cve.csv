@@ -3,7 +3,6 @@ CVE-2023-21000,2023-03-01,[A-194783918](https://android.googlesource.com/platfor
 CVE-2022-20532,2023-03-01,[A-232242894](https://android.googlesource.com/platform/frameworks/av/+/e82db4a35f2add04c02e77ed64b792b7cf83439c),EoP,Moderate,13,framework,N/A,
 CVE-2022-20542,2023-03-01,[A-238083570](https://android.googlesource.com/platform/frameworks/av/+/1f59b3e32a06666f590042c761546dbfa80df932),EoP,Moderate,13,framework,N/A,
 CVE-2023-20971,2023-03-01,[A-225880325](https://android.googlesource.com/platform/frameworks/base/+/),EoP,Moderate,13,framework,N/A,
-CVE-2023-20993,2023-03-01,[A-261588851](https://android.googlesource.com/platform/frameworks/base/+/bffb18e8373b96532fd0f56a9937a485c7fc2328) [2](https://android.googlesource.com/platform/frameworks/base/+/5c4acdccf4e452b627eeb26780310fdb75a75d1d),EoP,Moderate,13,framework,N/A,
 CVE-2023-21017,2023-03-01,[A-236687884](https://android.googlesource.com/platform/frameworks/base/+/54a9045190c3b0b8e21581ad2a9bd485af11b360),EoP,Moderate,13,framework,N/A,
 CVE-2023-21028,2023-03-01,[A-180680572](https://android.googlesource.com/platform/packages/services/BuiltInPrintService/+/4474ae3ffa04854c4f60b17dd183b3baf5fdd831),ID,Moderate,13,framework,N/A,
 CVE-2023-21029,2023-03-01,[A-217934898](https://android.googlesource.com/platform/frameworks/base/+/4a06c40b87e953a39e3fe921d3b2750ba4530a42),ID,Moderate,13,framework,N/A,
@@ -73,6 +72,9 @@ CVE-2022-42499,2023-03-01,A-242001391 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,
 CVE-2023-21057,2023-03-01,A-244450646 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Cellular firmware
 CVE-2023-21058,2023-03-01,A-246169606 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Cellular firmware
 CVE-2023-24033,2023-03-01,A-265822830 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2023-26496,2023-03-01,A-274465028 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2023-26497,2023-03-01,A-274464337 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2023-26498,2023-03-01,A-274463883 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2023-21041,2023-03-01,A-250123688 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=GSC
 CVE-2022-42528,2023-03-01,A-242203672 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=TF-A
 CVE-2023-21054,2023-03-01,A-244556535 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=Modem
