@@ -2,19 +2,14 @@ cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,com
 CVE-2023-21000,2023-03-01,[A-194783918](https://android.googlesource.com/platform/frameworks/av/+/cf32c23098ef7410b70ffdbfe2a05146ce79ef04),RCE,Moderate,13,framework,N/A,
 CVE-2022-20532,2023-03-01,[A-232242894](https://android.googlesource.com/platform/frameworks/av/+/e82db4a35f2add04c02e77ed64b792b7cf83439c),EoP,Moderate,13,framework,N/A,
 CVE-2022-20542,2023-03-01,[A-238083570](https://android.googlesource.com/platform/frameworks/av/+/1f59b3e32a06666f590042c761546dbfa80df932),EoP,Moderate,13,framework,N/A,
-CVE-2023-20971,2023-03-01,[A-225880325](https://android.googlesource.com/platform/frameworks/base/+/),EoP,Moderate,13,framework,N/A,
 CVE-2023-21017,2023-03-01,[A-236687884](https://android.googlesource.com/platform/frameworks/base/+/54a9045190c3b0b8e21581ad2a9bd485af11b360),EoP,Moderate,13,framework,N/A,
 CVE-2023-21028,2023-03-01,[A-180680572](https://android.googlesource.com/platform/packages/services/BuiltInPrintService/+/4474ae3ffa04854c4f60b17dd183b3baf5fdd831),ID,Moderate,13,framework,N/A,
 CVE-2023-21029,2023-03-01,[A-217934898](https://android.googlesource.com/platform/frameworks/base/+/4a06c40b87e953a39e3fe921d3b2750ba4530a42),ID,Moderate,13,framework,N/A,
-CVE-2023-21031,2023-03-01,[A-242688355](https://android.googlesource.com/platform/frameworks/native/+/),ID,Moderate,13,framework,N/A,
 CVE-2023-20996,2023-03-01,[A-246749764](https://android.googlesource.com/platform/frameworks/base/+/f98c2232a8ea3312cddd202577c25c4436e1afd9),DoS,Moderate,13,framework,N/A,
 CVE-2023-20997,2023-03-01,[A-246749702](https://android.googlesource.com/platform/frameworks/base/+/f98c2232a8ea3312cddd202577c25c4436e1afd9),DoS,Moderate,13,framework,N/A,
 CVE-2023-20998,2023-03-01,[A-246749936](https://android.googlesource.com/platform/frameworks/base/+/f98c2232a8ea3312cddd202577c25c4436e1afd9),DoS,Moderate,13,framework,N/A,
 CVE-2023-20999,2023-03-01,[A-246750467](https://android.googlesource.com/platform/frameworks/base/+/f98c2232a8ea3312cddd202577c25c4436e1afd9),DoS,Moderate,13,framework,N/A,
 CVE-2023-21026,2023-03-01,[A-254681548](https://android.googlesource.com/platform/frameworks/base/+/7a418bbfd67d9367c8559b8074a42ed04f14772d),DoS,Moderate,13,framework,N/A,
-CVE-2023-20975,2023-03-01,[A-250573776](https://android.googlesource.com/platform/packages/apps/Settings/+/),EoP,Moderate,13,system,N/A,
-CVE-2023-20976,2023-03-01,[A-216117246](https://android.googlesource.com/platform/packages/apps/Settings/+/),EoP,Moderate,13,system,N/A,
-CVE-2023-20985,2023-03-01,[A-245915315](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),EoP,Moderate,13,system,N/A,
 CVE-2023-20994,2023-03-01,[A-259062118](https://android.googlesource.com/platform/system/libufdt/+/cd47b8f445d1f81aea3f21b2a87fe7f8dd6b899b),EoP,Moderate,13,system,N/A,
 CVE-2023-20995,2023-03-01,A-241910279,EoP,Moderate,13,system,N/A,
 CVE-2023-21001,2023-03-01,[A-237672190](https://android.googlesource.com/platform/packages/apps/Settings/+/dcfbccbfbc14df312f7fd60e33e50626112a80e3),EoP,Moderate,13,system,N/A,
@@ -32,26 +27,8 @@ CVE-2023-21030,2023-03-01,[A-226234140](https://android.googlesource.com/platfor
 CVE-2023-21034,2023-03-01,[A-230358834](https://android.googlesource.com/platform/frameworks/native/+/0d4ac562fbf70ea385de91a3e56bd4183f00052e),EoP,Moderate,13,system,N/A,
 CVE-2023-21035,2023-03-01,[A-184847040](https://android.googlesource.com/platform/packages/modules/Permission/+/20b5c4deea740e1be5b83694e174c101e33bb9ad),EoP,Moderate,13,system,N/A,
 CVE-2022-40303,2023-03-01,[A-260709824](https://android.googlesource.com/platform/external/libxml2/+/b83e2ff798a116f50bf012a74432217c7d14743c),ID,Moderate,13,system,N/A,
-CVE-2023-20968,2023-03-01,[A-262235935](https://android.googlesource.com/platform/external/wpa_supplicant_8/+/),ID,Moderate,13,system,N/A,
 CVE-2023-20969,2023-03-01,[A-262236313](https://android.googlesource.com/platform/external/wpa_supplicant_8/+/73b889335132164fdb87c5d8ebccad1bd5620b33),ID,Moderate,13,system,N/A,
 CVE-2023-20970,2023-03-01,[A-262236005](https://android.googlesource.com/platform/external/wpa_supplicant_8/+/73b889335132164fdb87c5d8ebccad1bd5620b33),ID,Moderate,13,system,N/A,
-CVE-2023-20972,2023-03-01,[A-255304665](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20973,2023-03-01,[A-260568245](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20974,2023-03-01,[A-260078907](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/) [2](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20977,2023-03-01,[A-254445952](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20979,2023-03-01,[A-259939364](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20980,2023-03-01,[A-260230274](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20981,2023-03-01,[A-256165737](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20982,2023-03-01,[A-260568083](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20983,2023-03-01,[A-260569449](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20984,2023-03-01,[A-242993878](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20986,2023-03-01,[A-255304475](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/) [2](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/) [3](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20987,2023-03-01,[A-260569414](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20988,2023-03-01,[A-260569232](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20989,2023-03-01,[A-260568367](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20990,2023-03-01,[A-260568354](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20991,2023-03-01,[A-255305114](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
-CVE-2023-20992,2023-03-01,[A-260568750](https://android.googlesource.com/platform/packages/modules/Bluetooth/+/),ID,Moderate,13,system,N/A,
 CVE-2023-21006,2023-03-01,[A-257030027](https://android.googlesource.com/platform/external/wpa_supplicant_8/+/73b889335132164fdb87c5d8ebccad1bd5620b33),ID,Moderate,13,system,N/A,
 CVE-2023-21007,2023-03-01,[A-257029965](https://android.googlesource.com/platform/external/wpa_supplicant_8/+/73b889335132164fdb87c5d8ebccad1bd5620b33),ID,Moderate,13,system,N/A,
 CVE-2023-21008,2023-03-01,[A-257030100](https://android.googlesource.com/platform/external/wpa_supplicant_8/+/73b889335132164fdb87c5d8ebccad1bd5620b33),ID,Moderate,13,system,N/A,
@@ -63,7 +40,6 @@ CVE-2023-21013,2023-03-01,[A-256818945](https://android.googlesource.com/platfor
 CVE-2023-21014,2023-03-01,[A-257029326](https://android.googlesource.com/platform/external/wpa_supplicant_8/+/73b889335132164fdb87c5d8ebccad1bd5620b33),ID,Moderate,13,system,N/A,
 CVE-2023-21019,2023-03-01,[A-242379731](https://android.googlesource.com/platform/external/libavc/+/b483f22a2116159176fd03ed7a568f9e302f203f),ID,Moderate,13,system,N/A,
 CVE-2023-21025,2023-03-01,[A-254929746](https://android.googlesource.com/platform/system/libufdt/+/46493e9936878b033ca4056486054ca8432a806e),ID,Moderate,13,system,N/A,
-CVE-2023-21027,2023-03-01,[A-216854451](https://android.googlesource.com/platform/packages/modules/Wifi/+/),ID,Moderate,13,system,N/A,
 CVE-2023-21032,2023-03-01,[A-248085351](https://android.googlesource.com/platform/system/libufdt/+/14f8b87308455fce6ab72cf86adccb335a28abeb),ID,Moderate,13,system,N/A,
 CVE-2023-21016,2023-03-01,[A-213905884](https://android.googlesource.com/platform/packages/apps/Settings/+/a52ba15823678bc6f387b20374c6a37ad5cde5c3),DoS,Moderate,13,system,N/A,
 CVE-2023-21033,2023-03-01,[A-244713323](https://android.googlesource.com/platform/packages/modules/Wifi/+/efc2010dfb0301b787bab7e2651163b750c14039),DoS,Moderate,13,system,N/A,
@@ -116,6 +92,11 @@ CVE-2023-21053,2023-03-01,A-251805610 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,S
 CVE-2023-21059,2023-03-01,A-247564044 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Cellular firmware
 CVE-2023-21060,2023-03-01,A-253770924 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=SMS
 CVE-2023-21061,2023-03-01,A-229255400 [*](#asterisk),DoS,Moderate,N/A,pixel,N/A,Subcomponent=Wifi
+CVE-2022-25712,2023-03-01,A-235113793 [QC-CR#3142221](https://git.codelinaro.org/clo/la/kernel/msm-4.14/-/commit/c2a6be3561cf99587a4297aea72cf1c955c57713) [2](https://git.codelinaro.org/clo/la/platform/vendor/opensource/camera-kernel/-/commit/e561ca2a21c48d2d452e114c5bf4867cd0599857),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Camera
+CVE-2022-33245,2023-03-01,A-245611633 [QC-CR#2580147](https://git.codelinaro.org/clo/la/platform/vendor/qcom-opensource/wlan/qcacld-3.0/-/commit/0f49c6f6e278948d638b8139f5be808bd5d2b14e),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=WLAN
+CVE-2022-33260,2023-03-01,A-245612876 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2022-40518,2023-03-01,A-261492744 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2022-40519,2023-03-01,A-261492623 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2023-20949,2023-02-01,A-259323133 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=regulator
 CVE-2023-20924,2023-01-01,A-240428519 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Pixel 6a Fingerprint Scanner
 CVE-2023-20925,2023-01-01,A-236674672 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Pixel Power service
