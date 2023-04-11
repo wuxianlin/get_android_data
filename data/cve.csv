@@ -1,4 +1,22 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2023-0266,2023-04-01,A-265303544 [Upstream kernel](https://android.googlesource.com/kernel/common/+/cc6c5c7fa237f65b08b9618188efe4b24b9cd886),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
+CVE-2023-28613,2023-04-01,A-269655868 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29085,2023-04-01,A-269657006 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29086,2023-04-01,A-269657344 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29087,2023-04-01,A-269657253 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29088,2023-04-01,A-269657041 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29089,2023-04-01,A-269657452 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29090,2023-04-01,A-269656827 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29091,2023-04-01,A-269655866 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-29092,2023-04-01,A-269657712 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=wfc-pkt-router
+CVE-2023-26072,2023-04-01,A-269655871 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-26073,2023-04-01,A-269656813 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-26074,2023-04-01,A-269656636 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-26075,2023-04-01,A-269656722 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-26076,2023-04-01,A-269656642 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=modem
+CVE-2022-33301,2023-04-01,A-250649259 [QC-CR#3230723](https://git.codelinaro.org/clo/la/platform/vendor/qcom/opensource/agm/-/commit/aa17df5153a33c5536e035b524208f61596b0e9c) [2](https://git.codelinaro.org/clo/la/platform/vendor/qcom/opensource/agm/-/commit/6f8c0c65089a1cc332e1a1d5b7c6d8cfc8ebf812),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
+CVE-2022-33296,2023-04-01,A-250649587 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2022-33298,2023-04-01,A-232251946 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2023-21000,2023-03-01,[A-194783918](https://android.googlesource.com/platform/frameworks/av/+/cf32c23098ef7410b70ffdbfe2a05146ce79ef04),RCE,Moderate,13,framework,N/A,
 CVE-2022-20532,2023-03-01,[A-232242894](https://android.googlesource.com/platform/frameworks/av/+/e82db4a35f2add04c02e77ed64b792b7cf83439c),EoP,Moderate,13,framework,N/A,
 CVE-2022-20542,2023-03-01,[A-238083570](https://android.googlesource.com/platform/frameworks/av/+/1f59b3e32a06666f590042c761546dbfa80df932),EoP,Moderate,13,framework,N/A,
