@@ -13,10 +13,6 @@ Vivo,I2127,I2127,I2127
 Vivo,I2202,I2202,I2202
 Vivo,NEX A,PD1806B,vivo NEX A
 Vivo,PA2170,DPD2106,PA2170
-Vivo,PD1304DL,PD1304DL,vivo Y13iL
-Vivo,PD1419V,PD1419V,vivo Y923
-Vivo,PD1612,PD1612,vivo PD1612
-Vivo,PD1612,PD1612,vivo Y67
 Vivo,PD1731D,PD1731D,vivo Y71A
 Vivo,T1,V2154,V2153
 Vivo,T1,V2154,V2154
@@ -259,35 +255,14 @@ Vivo,V27,V2231,V2246
 Vivo,V27 Pro,V2230,V2230
 Vivo,V27e,V2237,V2237
 Vivo,V29 Lite 5G,V2244,V2244
-Vivo,V3,PD1524,vivo V3
 Vivo,V3,V3,vivo V3
-Vivo,V3Lite,V3Lite,vivo V3Lite
-Vivo,V3M A,PD1524B,vivo PD1524B
 Vivo,V3Max,V3Max,vivo V3Max
-Vivo,V3Max + A,PD1523B,vivo V3Max+ A
-Vivo,V3Max A,PD1523,vivo PD1523A
-Vivo,V5Plus,V5Plus,vivo V5Plus
 Vivo,V9,1727ID,vivo 1727
 Vivo,V9 6GB,1723CF,vivo 1723
 Vivo,V9 Pro,1851,vivo 1851
-Vivo,X5,X5,vivo X5
 Vivo,X50,2004,vivo 2004
 Vivo,X50 Pro,2006,vivo 2006
-Vivo,X5M,PD1401CL,vivo X5M
-Vivo,X5Max,X5Max,vivo X5Max
-Vivo,X5Max S,bbk6752_lwt_kk,vivo X5Max S
-Vivo,X5MaxV,msm8916_32,vivo X5MaxV
 Vivo,X5Pro,X5Pro,vivo X5Pro
-Vivo,X5Pro D,bbk6752_lwt_l,vivo X5Pro D
-Vivo,X5Pro V,PD1421V,vivo X5Pro V
-Vivo,X6A,PD1415A,vivo PD1415A
-Vivo,X6D,PD1415D,vivo X6D
-Vivo,X6Plus A,PD1515A,vivo PD1515A
-Vivo,X6Plus D,PD1501D,vivo PD1501D
-Vivo,X6S A,PD1415BA,vivo X6S A
-Vivo,X6SPlusA,PD1515BA,vivo PD1515BA
-Vivo,X7,PD1602,vivo X7
-Vivo,X7Plus,PD1603,vivo X7Plus
 Vivo,X80,V2144,V2144
 Vivo,X80 Lite  5G,V2202,V2208
 Vivo,X80 Pro,V2145,V2145
@@ -295,8 +270,6 @@ Vivo,X9,PD1616,vivo X9
 Vivo,X90,V2218,V2218
 Vivo,X90 Pro,V2219,V2219
 Vivo,X9i,PD1624,vivo X9i
-Vivo,Xplay5A,PD1522A,vivo PD1522A
-Vivo,Xplay5A,PD1522A,vivo Xplay5A
 Vivo,Xplay6,PD1610,vivo Xplay6
 Vivo,Y01A,2120,V2166
 Vivo,Y02,V2217,V2217
@@ -309,7 +282,6 @@ Vivo,Y02s,V2204,V2229
 Vivo,Y100,V2239,V2239
 Vivo,Y100A,V2222,V2222
 Vivo,Y11,PD2236,V2236A
-Vivo,Y11,Y11,vivo Y11
 Vivo,Y15,Y15,vivo Y15
 Vivo,Y15C,2120,V2212
 Vivo,Y15S,Y15S,vivo Y15S
@@ -320,26 +292,18 @@ Vivo,Y17,1902D,vivo 1902
 Vivo,Y21,Y21,vivo Y21
 Vivo,Y21A,2149,V2149
 Vivo,Y21L,Y21L,vivo Y21L
-Vivo,Y22,Y22,vivo Y22
 Vivo,Y22s,V2206,V2206
-Vivo,Y27,Y27,vivo Y27
-Vivo,Y28,Y28,vivo Y28
 Vivo,Y30 5G,2160,V2160
-Vivo,Y31,PD1505,vivo Y31
 Vivo,Y31,Y31,vivo Y31
 Vivo,Y31L,Y31L,vivo Y31L
 Vivo,Y31i,Y31i,vivo 1707
 Vivo,Y31i,Y31i,vivo Y31
 Vivo,Y31i,Y31i,vivo Y31i
-Vivo,Y33,bbk6735_65c_l,vivo Y33
 Vivo,Y33t,PD2236,V2236A
-Vivo,Y35,PD1502L,vivo Y35
 Vivo,Y35,PD2230,V2230A
 Vivo,Y35,V2205,V2205
-Vivo,Y35A,PD1502A,vivo Y35A
 Vivo,Y35m,PD2230,V2230A
 Vivo,Y51,Y51,vivo Y51
-Vivo,Y51A,PD1510,vivo Y51A
 Vivo,Y53,1606,vivo 1606
 Vivo,Y53L,PD1628,vivo PD1628
 Vivo,Y53t,PD2230,V2230A
@@ -356,11 +320,8 @@ Vivo,Y78,PD2278,V2278A
 Vivo,Y78 5G,V2244,V2244
 Vivo,Y78+,PD2271,V2271A
 Vivo,Y78m,PD2278,V2278A
-Vivo,Y79A,PD1708,vivo PD1708
 Vivo,Y79A,PD1708,vivo Y79A
-Vivo,Y937,PD1503,vivo Y937
 Vivo,Y93s,PD1818C,V1818CA
-Vivo,Y93标准版 64G,PD1818B,V1818BA
 Vivo,Y93标准版 64G,PD1818B,V1818CA
 Vivo,Y97,PD1813,V1813A
 Vivo,Z1,PD1730C,vivo Z1
@@ -475,12 +436,10 @@ Vivo,vivo T2,PD2199,V2199GA
 Vivo,vivo X Flip,PD2256,V2256A
 Vivo,vivo X Fold,PD2178,V2178A
 Vivo,vivo X Fold+,PD2229,V2229A
+Vivo,vivo X Fold2,PD2266,V2266A
 Vivo,vivo X Note,PD2170,V2170A
-Vivo,vivo X20,PD1709,vivo PD1709
 Vivo,vivo X20,PD1709,vivo X20A
-Vivo,vivo X20Plus,PD1710,vivo PD1710
 Vivo,vivo X20Plus,PD1710,vivo X20Plus A
-Vivo,vivo X20Plus UD,PD1721,vivo PD1721
 Vivo,vivo X20Plus UD,PD1721,vivo X20Plus UD
 Vivo,vivo X21A,PD1728,vivo X21A
 Vivo,vivo X21UD A,PD1728UD,vivo X21UD A
@@ -492,9 +451,7 @@ Vivo,vivo X90,PD2241,V2241A
 Vivo,vivo X90 Pro,PD2242,V2242A
 Vivo,vivo X90 Pro+,PD2227,V2227A
 Vivo,vivo X9Plus,PD1619,vivo X9Plus
-Vivo,vivo X9s,PD1616B,vivo PD1616B
 Vivo,vivo X9s,PD1616B,vivo X9s
-Vivo,vivo X9s Plus,PD1635,vivo PD1635
 Vivo,vivo X9s Plus,PD1635,vivo X9s Plus
 Vivo,vivo Y11,Y11,vivo Y11
 Vivo,vivo Y22,V2207,V2207
@@ -509,6 +466,5 @@ Vivo,vivo Y75A,PD1718,vivo Y75A
 Vivo,vivo Y75s,PD2069,V2069BA
 Vivo,vivo Y77,PD2219,V2219A
 Vivo,vivo Y83A,PD1803,vivo Y83A
-Vivo,vivo Z1i,PD1730D,vivo Y89
 Vivo,vivo Z1i,PD1730D,vivo Z1i
 Vivo,vivo Z3x,PD1730G,vivo Z3x
