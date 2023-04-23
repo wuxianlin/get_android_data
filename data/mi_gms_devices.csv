@@ -227,7 +227,31 @@ Redmi,Redmi Note 9T,cannong,A001XM
 Redmi,Redmi Note 9T,cannong,M2007J22G
 Redmi,Redmi Pad,yunluo,22081283G
 Redmi,Smart TV,tarzan,MiTV-MOOQ3
+Xiaomi,China,braveheart,MiTV
 Xiaomi,Formovie Laser TV 4K Cinema,angleeUHD,MiProjL1
+Xiaomi,HM 1SC,armani,HM 1AC
+Xiaomi,HM 1SC,armani,HM 1S
+Xiaomi,HM 1SC,armani,HM 1SC
+Xiaomi,HM 1SC,armani,HM 1SW
+Xiaomi,HM 1SLTETD,HM2014501,2014501
+Xiaomi,HM 1STD,HM2014011,2014011
+Xiaomi,HM 2A,lte26007,2014502
+Xiaomi,HM 2A,lte26007,HM 2A
+Xiaomi,HM 2LTE-BR,HM2014819,2014819
+Xiaomi,HM 2LTE-CMCC,HM2014813,2014813
+Xiaomi,HM 2LTE-CT,HM2014812,2014812
+Xiaomi,HM 2LTE-CU,HM2014811,2014811
+Xiaomi,HM 2LTE-IN,HM2014818,2014818
+Xiaomi,HM 2LTE-SA,HM2014817,2014817
+Xiaomi,HM NOTE 1LTETD,dior,HM NOTE 1LTE
+Xiaomi,HM NOTE 1LTETD,dior,HM NOTE 1LTETD
+Xiaomi,HM NOTE 1LTETD,dior,HM NOTE 1LTEW
+Xiaomi,HM NOTE 1S CT,gucci,HM NOTE 1S
+Xiaomi,HM NOTE 1S CT,gucci,gucci
+Xiaomi,HM NOTE 1TD,lcsh92_wet_tdd,HM NOTE 1TD
+Xiaomi,HM NOTE 1W,lcsh92_wet_jb9,HM NOTE 1W
+Xiaomi,HM Note 2,hermes,Redmi Note 2
+Xiaomi,Hong Mi,HM2013022,2013022
 Xiaomi,K30 PRO,lmiinpro,Redmi K30 Pro 5G Zoom Edition
 Xiaomi,K30 pro,lmiin,Redmi K30 Pro 5G
 Xiaomi,MI  8  Explorer  Edition,ursa,MI 8 Explorer Edition
@@ -235,16 +259,30 @@ Xiaomi,MI  8  Pro,equuleus,MI 8 Pro
 Xiaomi,MI  8  Pro,equuleus,MI 8 UD
 Xiaomi,MI  MAX  3,nitrogen,MI MAX 3
 Xiaomi,MI  PLAY,lotus,MI PLAY
+Xiaomi,MI  PLAY,lotus,lotus
 Xiaomi,MI 10,umi,Mi 10
+Xiaomi,MI 2,aries,MI 2
+Xiaomi,MI 2,aries,MI 2S
+Xiaomi,MI 2A,taurus,MI 2A
+Xiaomi,MI 3W,cancro,MI 3W
+Xiaomi,MI 4LTE,cancro,MI 4C
+Xiaomi,MI 4LTE,cancro,MI 4LTE
+Xiaomi,MI 4LTE,cancro,MI 4W
+Xiaomi,MI 4LTE-CT,cancro,MI 4LTE
+Xiaomi,MI 4s,aqua,MI 4S
 Xiaomi,MI 5C,meri,MI 5C
+Xiaomi,MI 5C,meri,Meri
 Xiaomi,MI 5X,tiffany,MI 5X
 Xiaomi,MI 5s Plus,natrium,MI 5s Plus
 Xiaomi,MI 6X,wayne,MI 6X
 Xiaomi,MI 8,dipper,MI 8
 Xiaomi,MI 8 Lite,platina,MI 8 Lite
+Xiaomi,MI 8 Lite,platina,Platina
 Xiaomi,MI 8 SE,sirius,MI 8 SE
+Xiaomi,MI 8 SE,sirius,sirius
 Xiaomi,MI 8 UD,equuleus,MI 8 Pro
 Xiaomi,MI 8 UD,equuleus,MI 8 UD
+Xiaomi,MI 8 UD,equuleus,equuleus
 Xiaomi,MI 9,cepheus,MI 9
 Xiaomi,MI 9 SE,grus,MI 9 SE
 Xiaomi,MI 9 SE,grus,Mi 9 SE
@@ -260,11 +298,21 @@ Xiaomi,MI MAX,hydrogen,MI MAX
 Xiaomi,MI MAX 2,oxygen,MI MAX 2
 Xiaomi,MI MAX 3,nitrogen,MI MAX 3
 Xiaomi,MI MIX 2S,polaris,Mi MIX 2S
+Xiaomi,MI NOTE LTE,virgo,MI NOTE LTE
+Xiaomi,MI NOTE Pro,leo,MI NOTE Pro
 Xiaomi,MI Note 3,jason,Mi Note 3
+Xiaomi,MI PAD,mocha,MI PAD
+Xiaomi,MI PAD 3,cappu,MI PAD 3
 Xiaomi,MI PAD 4,clover,MI PAD 4
 Xiaomi,MI PLAY,lotus,MI PLAY
 Xiaomi,MI6,sagit,MI 6
+Xiaomi,MIBOXPRO,kungfupanda,MiBOX_PRO
+Xiaomi,MIPAD2,latte,MI PAD 2
+Xiaomi,MITV3S,missionimpossible,MiTV3S
+Xiaomi,MITV3S-55/60,pulpfiction,MiTV3S
+Xiaomi,MITV3S-55/60,pulpfiction,MiTV4
 Xiaomi,MIX,lithium,MIX
+Xiaomi,MIX,lithium,lithium
 Xiaomi,MIX 2,chiron,MIX 2
 Xiaomi,MIX 2,chiron,Mi MIX 2
 Xiaomi,MIX 2S,polaris,MIX 2S
@@ -301,6 +349,9 @@ Xiaomi,Mi 11 Ultra,star,M2102K1C
 Xiaomi,Mi 11 Ultra,star,M2102K1G
 Xiaomi,Mi 11X Pro,haydnin,M2012K11I
 Xiaomi,Mi 11i,haydn,M2012K11G
+Xiaomi,Mi 3,pisces,MI 3
+Xiaomi,Mi 4c,libra,Mi-4c
+Xiaomi,Mi 4i,ferrari,Mi 4i
 Xiaomi,Mi 5,gemini,MI 5
 Xiaomi,Mi 5s,capricorn,MI 5s
 Xiaomi,Mi 9 Lite,pyxis,Mi 9 Lite
@@ -308,6 +359,7 @@ Xiaomi,Mi 9 SE,grus,MI 9 SE
 Xiaomi,Mi 9 SE,grus,Mi 9 SE
 Xiaomi,Mi 9T,davinci,Mi 9T
 Xiaomi,Mi 9T Pro,raphael,Mi 9T Pro
+Xiaomi,Mi A1,tissot_sprout,MI A1
 Xiaomi,Mi A1,tissot_sprout,Mi A1
 Xiaomi,Mi A2,jasmine_sprout,Mi A2
 Xiaomi,Mi A2 Lite,daisy_sprout,Mi A2 Lite
@@ -316,6 +368,7 @@ Xiaomi,Mi Box,once,MIBOX3
 Xiaomi,"Mi Laser Projector 150""",anglee,MiProjA1
 Xiaomi,Mi Laser Projector 4K,angleeUHD,MiProjL1
 Xiaomi,Mi MIX 3 5G,andromeda,Mi MIX 3 5G
+Xiaomi,Mi Note,virgo,MI NOTE LTE
 Xiaomi,Mi Note 10,tucana,Mi Note 10
 Xiaomi,Mi Note 10 Lite,toco,Mi Note 10 Lite
 Xiaomi,Mi Note 10 Lite,toco,toco
@@ -323,6 +376,10 @@ Xiaomi,Mi Note2,scorpio,Mi Note 2
 Xiaomi,Mi TV Stick,aquaman,MiTV-AESP0
 Xiaomi,Mi smart projector,eva,MiProjM05
 Xiaomi,Mi9 Pro 5G,crux,Mi9 Pro 5G
+Xiaomi,MiBOX1S,casablanca,MiBOX1S
+Xiaomi,MiBOX2,dredd,MiBOX2
+Xiaomi,MiBOX3S,queenchristina,MiBOX3S
+Xiaomi,MiBOX_mini,forrestgump,MiBOX_mini
 Xiaomi,MiBox S,oneday,MIBOX4
 Xiaomi,MiTV,amelie,MiTV-MSSP0
 Xiaomi,MiTV,croods,MiTV-MOOQ0
@@ -340,17 +397,23 @@ Xiaomi,MiTV,rango,MiTV-AXFR1
 Xiaomi,MiTV,tarzan,MiTV-MOOQ1
 Xiaomi,MiTV,venom,MiTV-MOOR0
 Xiaomi,MiTV,volver,MiTV-MSSP2
+Xiaomi,MiTV2,entrapment,MiTV2
+Xiaomi,MiTV4C,matrix,MiTV4C
 Xiaomi,POCO F1,beryllium,POCOPHONE F1
 Xiaomi,POCO M5s,rosemary,2207117BPG
+Xiaomi,Redmi,HM2013023,2013023
 Xiaomi,Redmi  Go,tiare,Redmi Go
 Xiaomi,Redmi  Note  6  Pro,tulip,Redmi Note 6 Pro
 Xiaomi,Redmi  Note  7 Pro,violet,Redmi Note 7 Pro
 Xiaomi,Redmi  S2,ysl,Redmi S2
+Xiaomi,Redmi 3,ido,Redmi 3
+Xiaomi,Redmi 3,ido,ido
 Xiaomi,Redmi 3S,land,Redmi 3S
 Xiaomi,Redmi 4,prada,Redmi 4
 Xiaomi,Redmi 4 Pro,markw,Redmi 4
 Xiaomi,Redmi 4A,rolex,Redmi 4A
 Xiaomi,Redmi 4X,santoni,Redmi 4X
+Xiaomi,Redmi 4X,santoni,santoni
 Xiaomi,Redmi 5,rosy,Redmi 5
 Xiaomi,Redmi 5 Plus,vince,Redmi 5 Plus
 Xiaomi,Redmi 5 Plus,vince,Redmi Note 5
@@ -365,6 +428,7 @@ Xiaomi,Redmi 7A,pine,Redmi 7A
 Xiaomi,Redmi 8,olive,Redmi 8
 Xiaomi,Redmi Go,tiare,Redmi Go
 Xiaomi,Redmi K30 Pro Zoom Edition,lmipro,Redmi K30 Pro Zoom Edition
+Xiaomi,Redmi Note 3,hennessy,Redmi Note 3
 Xiaomi,Redmi Note 3,kate,Redmi Note 3
 Xiaomi,Redmi Note 3,kenzo,Redmi Note 3
 Xiaomi,Redmi Note 4,mido,Redmi Note 4
@@ -372,10 +436,12 @@ Xiaomi,Redmi Note 4,mido,Redmi Note 4X
 Xiaomi,Redmi Note 4,nikel,Redmi Note 4
 Xiaomi,Redmi Note 5,whyred,Redmi Note 5
 Xiaomi,Redmi Note 5 Pro,whyred,Redmi Note 5
+Xiaomi,Redmi Note 5 Pro,whyred,Redmi Note 5 Pro
 Xiaomi,Redmi Note 5A,ugg,Redmi Note 5A
 Xiaomi,Redmi Note 5A,ugg,Redmi Y1
 Xiaomi,Redmi Note 5A,ugglite,Redmi Note 5A
 Xiaomi,Redmi Note 8,ginkgo,Redmi Note 8
+Xiaomi,Redmi Pro,omega,Redmi Pro
 Xiaomi,Redmi S2,ysl,Redmi S2
 Xiaomi,TELEBEE,once,MIBOX3
 Xiaomi,Xiaomi 11 Lite 5G NE,lisa,2109119DG
