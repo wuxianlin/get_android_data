@@ -1,4 +1,5 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2023-21119,2023-05-01,A-270965644 [*](#asterisk),DoS,Moderate,N/A,pixel,N/A,Subcomponent=Hardware composer service
 CVE-2023-0266,2023-04-01,A-265303544 [Upstream kernel](https://android.googlesource.com/kernel/common/+/cc6c5c7fa237f65b08b9618188efe4b24b9cd886),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2023-28613,2023-04-01,A-269655868 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
 CVE-2023-29085,2023-04-01,A-269657006 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
