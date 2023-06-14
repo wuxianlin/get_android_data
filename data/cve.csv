@@ -1,4 +1,103 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2023-20971,2023-06-01,A-225880325,EoP,Moderate,13,framework,N/A,
+CVE-2023-21171,2023-06-01,A-261085213,EoP,Moderate,13,framework,N/A,
+CVE-2023-21189,2023-06-01,A-213942596,EoP,Moderate,13,framework,N/A,
+CVE-2023-21192,2023-06-01,A-227207653,EoP,Moderate,13,framework,N/A,
+CVE-2023-21168,2023-06-01,A-253270285,ID,Moderate,13,framework,N/A,
+CVE-2023-21177,2023-06-01,A-273906410,ID,Moderate,13,framework,N/A,
+CVE-2023-21178,2023-06-01,A-140762419,ID,Moderate,13,framework,N/A,
+CVE-2023-21193,2023-06-01,A-233006499,ID,Moderate,13,framework,N/A,
+CVE-2023-21237,2023-06-01,A-251586912,ID,Moderate,13,framework,N/A,
+CVE-2023-21167,2023-06-01,A-259942964,DoS,Moderate,13,framework,N/A,
+CVE-2023-20975,2023-06-01,A-250573776,EoP,Moderate,13,system,N/A,
+CVE-2023-20976,2023-06-01,A-216117246,EoP,Moderate,13,system,N/A,
+CVE-2023-20985,2023-06-01,A-245915315,EoP,Moderate,13,system,N/A,
+CVE-2023-21172,2023-06-01,A-262243015,EoP,Moderate,13,system,N/A,
+CVE-2023-21174,2023-06-01,A-235822222,EoP,Moderate,13,system,N/A,
+CVE-2023-21175,2023-06-01,A-262243574,EoP,Moderate,13,system,N/A,
+CVE-2023-21179,2023-06-01,A-272755865,EoP,Moderate,13,system,N/A,
+CVE-2023-21183,2023-06-01,A-235863754,EoP,Moderate,13,system,N/A,
+CVE-2023-21184,2023-06-01,A-267809568,EoP,Moderate,13,system,N/A,
+CVE-2023-21185,2023-06-01,A-266700762,EoP,Moderate,13,system,N/A,
+CVE-2023-21187,2023-06-01,A-246542917,EoP,Moderate,13,system,N/A,
+CVE-2023-21191,2023-06-01,A-269738057,EoP,Moderate,13,system,N/A,
+CVE-2023-21203,2023-06-01,A-262246082,EoP,Moderate,13,system,N/A,
+CVE-2023-21207,2023-06-01,A-262236670,EoP,Moderate,13,system,N/A,
+CVE-2023-21209,2023-06-01,A-262236273,EoP,Moderate,13,system,N/A,
+CVE-2023-20968,2023-06-01,A-262235935,ID,Moderate,13,system,N/A,
+CVE-2023-20972,2023-06-01,A-255304665,ID,Moderate,13,system,N/A,
+CVE-2023-20973,2023-06-01,A-260568245,ID,Moderate,13,system,N/A,
+CVE-2023-20974,2023-06-01,A-260078907,ID,Moderate,13,system,N/A,
+CVE-2023-20977,2023-06-01,A-254445952,ID,Moderate,13,system,N/A,
+CVE-2023-20979,2023-06-01,A-259939364,ID,Moderate,13,system,N/A,
+CVE-2023-20980,2023-06-01,A-260230274,ID,Moderate,13,system,N/A,
+CVE-2023-20981,2023-06-01,A-256165737,ID,Moderate,13,system,N/A,
+CVE-2023-20982,2023-06-01,A-260568083,ID,Moderate,13,system,N/A,
+CVE-2023-20983,2023-06-01,A-260569449,ID,Moderate,13,system,N/A,
+CVE-2023-20984,2023-06-01,A-242993878,ID,Moderate,13,system,N/A,
+CVE-2023-20986,2023-06-01,A-255304475,ID,Moderate,13,system,N/A,
+CVE-2023-20987,2023-06-01,A-260569414,ID,Moderate,13,system,N/A,
+CVE-2023-20988,2023-06-01,A-260569232,ID,Moderate,13,system,N/A,
+CVE-2023-20989,2023-06-01,A-260568367,ID,Moderate,13,system,N/A,
+CVE-2023-20990,2023-06-01,A-260568354,ID,Moderate,13,system,N/A,
+CVE-2023-20991,2023-06-01,A-255305114,ID,Moderate,13,system,N/A,
+CVE-2023-20992,2023-06-01,A-260568750,ID,Moderate,13,system,N/A,
+CVE-2023-21027,2023-06-01,A-216854451,ID,Moderate,13,system,N/A,
+CVE-2023-21031,2023-06-01,A-242688355,ID,Moderate,13,system,N/A,
+CVE-2023-21169,2023-06-01,A-274443441,ID,Moderate,13,system,N/A,
+CVE-2023-21170,2023-06-01,A-252764410,ID,Moderate,13,system,N/A,
+CVE-2023-21173,2023-06-01,A-262741858,ID,Moderate,13,system,N/A,
+CVE-2023-21180,2023-06-01,A-261365944,ID,Moderate,13,system,N/A,
+CVE-2023-21181,2023-06-01,A-264880969,ID,Moderate,13,system,N/A,
+CVE-2023-21182,2023-06-01,A-252764175,ID,Moderate,13,system,N/A,
+CVE-2023-21188,2023-06-01,A-264624283,ID,Moderate,13,system,N/A,
+CVE-2023-21190,2023-06-01,A-251436534,ID,Moderate,13,system,N/A,
+CVE-2023-21194,2023-06-01,A-260079141,ID,Moderate,13,system,N/A,
+CVE-2023-21195,2023-06-01,A-233879420,ID,Moderate,13,system,N/A,
+CVE-2023-21196,2023-06-01,A-261857395,ID,Moderate,13,system,N/A,
+CVE-2023-21197,2023-06-01,A-251427561,ID,Moderate,13,system,N/A,
+CVE-2023-21198,2023-06-01,A-245517503,ID,Moderate,13,system,N/A,
+CVE-2023-21199,2023-06-01,A-254445961,ID,Moderate,13,system,N/A,
+CVE-2023-21200,2023-06-01,A-236688764,ID,Moderate,13,system,N/A,
+CVE-2023-21202,2023-06-01,A-260568359,ID,Moderate,13,system,N/A,
+CVE-2023-21204,2023-06-01,A-262246231,ID,Moderate,13,system,N/A,
+CVE-2023-21205,2023-06-01,A-262245376,ID,Moderate,13,system,N/A,
+CVE-2023-21206,2023-06-01,A-262245630,ID,Moderate,13,system,N/A,
+CVE-2023-21208,2023-06-01,A-262245254,ID,Moderate,13,system,N/A,
+CVE-2023-21210,2023-06-01,A-262236331,ID,Moderate,13,system,N/A,
+CVE-2023-21211,2023-06-01,A-262235998,ID,Moderate,13,system,N/A,
+CVE-2023-21212,2023-06-01,A-262236031,ID,Moderate,13,system,N/A,
+CVE-2023-21213,2023-06-01,A-262235951,ID,Moderate,13,system,N/A,
+CVE-2023-21214,2023-06-01,A-262235736,ID,Moderate,13,system,N/A,
+CVE-2023-21176,2023-06-01,A-222287335,DoS,Moderate,13,system,N/A,
+CVE-2023-21186,2023-06-01,A-261079188,DoS,Moderate,13,system,N/A,
+CVE-2023-21201,2023-06-01,A-263545186,DoS,Moderate,13,system,N/A,
+CVE-2023-21066,2023-06-01,A-250100597 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=exynos-slsi
+CVE-2023-21225,2023-06-01,A-270403821 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Protected Confirmation
+CVE-2022-39901,2023-06-01,A-263783333 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Lassen Baseband
+CVE-2023-21219,2023-06-01,A-264698379 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=TBD
+CVE-2023-21220,2023-06-01,A-264590585 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=TBD
+CVE-2023-21226,2023-06-01,A-240728187 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=modem
+CVE-2023-21146,2023-06-01,A-239867994 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=LWIS
+CVE-2023-21147,2023-06-01,A-269661912 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Pixel camera driver
+CVE-2023-21149,2023-06-01,A-270050709 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=ShannonRcs
+CVE-2023-21151,2023-06-01,A-265149414 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Google BMS Module
+CVE-2023-21153,2023-06-01,A-264259730 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2023-21157,2023-06-01,A-263783137 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=exynos-ril
+CVE-2023-21159,2023-06-01,A-263783565 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=exynos-ril
+CVE-2023-21161,2023-06-01,A-263783702 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=exynos-ril
+CVE-2023-21222,2023-06-01,A-266977723 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=libdmc
+CVE-2023-21236,2023-06-01,A-270148537 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=aoc_core device driver
+CVE-2023-21148,2023-06-01,A-263783657 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=exynos RIL
+CVE-2023-21150,2023-06-01,A-267312009 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=audio service
+CVE-2023-21152,2023-06-01,A-269174022 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=android.hardware.camera.provider
+CVE-2023-21154,2023-06-01,A-263783910 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2023-21155,2023-06-01,A-264540700 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=libsitril
+CVE-2023-21156,2023-06-01,A-264540759 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=rild_exynos
+CVE-2023-21158,2023-06-01,A-263783635 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=exynos-ril
+CVE-2023-21160,2023-06-01,A-263784118 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=exynos-ril
+CVE-2023-21223,2023-06-01,A-256047000 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Exynos SLSI
+CVE-2023-21224,2023-06-01,A-265276966 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=exynos-slsi
 CVE-2023-21119,2023-05-01,A-270965644 [*](#asterisk),DoS,Moderate,N/A,pixel,N/A,Subcomponent=Hardware composer service
 CVE-2023-0266,2023-04-01,A-265303544 [Upstream kernel](https://android.googlesource.com/kernel/common/+/cc6c5c7fa237f65b08b9618188efe4b24b9cd886),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel
 CVE-2023-28613,2023-04-01,A-269655868 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=modem
