@@ -1,10 +1,14 @@
 Model,Version,Download,SHA-256 Checksum
+Pixel 平板电脑专用“tangorpro”
+Pixel 平板电脑专用“tangorpro”,13.0.0（TD2A.230203.028，2023 年 6 月）,https://dl.google.com/dl/android/aosp/tangorpro-ota-td2a.230203.028-62304a0f.zip?hl=zh-cn,62304a0f1555abf279d6ecfdae6e08051240833565877f97a24d4b2aecc349d7
+Pixel 平板电脑专用“tangorpro”,13.0.0（TQ3A.230605.009.A1，2023 年 6 月）,https://dl.google.com/dl/android/aosp/tangorpro-ota-tq3a.230605.009.a1-19ab82f9.zip?hl=zh-cn,19ab82f9b22d4632b03394d6454f40002294c2821216e9bf9bd1bc4f4c1d7da5
 Pixel 7a 专用“lynx”
 Pixel 7a 专用“lynx”,13.0.0（TD4A.221205.042，2023 年 5 月）,https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042-622d0e17.zip?hl=zh-cn,622d0e17339aa403fd701f5ff13a9d6f707577fc8f6973604f0fed4da107320c
 Pixel 7a 专用“lynx”,13.0.0（TD4A.221205.042.A1，2023 年 5 月，欧洲、中东和非洲地区）,https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042.a1-1e8b7f7f.zip?hl=zh-cn,1e8b7f7fd8e8a79ed5a03c0effe95c4cd4188f94783d7c23b50f2acda613d284
 Pixel 7a 专用“lynx”,13.0.0（TD4A.221205.042.B1，2023 年 5 月，Verizon）,https://dl.google.com/dl/android/aosp/lynx-ota-td4a.221205.042.b1-c44be940.zip?hl=zh-cn,c44be940481b097df4bb60d61a1b869144eeb44329e4f7b9b6ce2648a8c6d8af
 Pixel 7a 专用“lynx”,13.0.0（TQ2B.230505.005.A1，2023 年 5 月）,https://dl.google.com/dl/android/aosp/lynx-ota-tq2b.230505.005.a1-766dbd16.zip?hl=zh-cn,766dbd165309a3d90bd367dd73fd98a7b00799a1f7ff9834bca4f31b7a0869b6
 Pixel 7a 专用“lynx”,13.0.0（TQ3A.230605.012，2023 年 6 月）,https://dl.google.com/dl/android/aosp/lynx-ota-tq3a.230605.012-e19c0797.zip?hl=zh-cn,e19c079729d43d6beda740c5bd13e4f0a399bfa439af5df3f8cc3163c17a8542
+Pixel 7a 专用“lynx”,13.0.0（TQ3A.230605.012.A1，2023 年 6 月，Verizon，Verizon MVNO）,https://dl.google.com/dl/android/aosp/lynx-ota-tq3a.230605.012.a1-ce8c3f46.zip?hl=zh-cn,ce8c3f46dd84ee047cf47e26c49c63800fe28e09253f756e7e5de104901a1adf
 Pixel 7 Pro 专用“猎豹”
 Pixel 7 Pro 专用“猎豹”,13.0.0（TD1A.220804.009.A2，2022 年 10 月）,https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip?hl=zh-cn,8138be7172de4b543e54deca7f024a6171d2fdaab34e6347fd1f882b00ba5efe
 Pixel 7 Pro 专用“猎豹”,13.0.0（TD1A.220804.009.A5，2022 年 10 月，日本运营商）,https://dl.google.com/dl/android/aosp/cheetah-ota-td1a.220804.009.a5-f0c1f917.zip?hl=zh-cn,f0c1f91730cc856aecc5e5cbdc6b672424c22fe4bed6464a1e39a8060fa7b0f8
@@ -24,6 +28,7 @@ Pixel 7 Pro 专用“猎豹”,13.0.0（TQ2A.230305.008.C1，2023 年 3 月）,h
 Pixel 7 Pro 专用“猎豹”,13.0.0（TQ2A.230405.003.E1，2023 年 4 月）,https://dl.google.com/dl/android/aosp/cheetah-ota-tq2a.230405.003.e1-b4cde6a1.zip?hl=zh-cn,b4cde6a1d253d6abadf40179a2693414d558aef37495da19a2335d74e40f53f7
 Pixel 7 Pro 专用“猎豹”,13.0.0（TQ2A.230505.002，2023 年 5 月）,https://dl.google.com/dl/android/aosp/cheetah-ota-tq2a.230505.002-5b5e4a9c.zip?hl=zh-cn,5b5e4a9c4ce9c9b5c62a0961b8c9eda98eaec1fcf0f4e14fc4642efb7a4a3fd4
 Pixel 7 Pro 专用“猎豹”,13.0.0（TQ3A.230605.012，2023 年 6 月）,https://dl.google.com/dl/android/aosp/cheetah-ota-tq3a.230605.012-f32168af.zip?hl=zh-cn,f32168af721ceb8ebab741b94a486dea7bff8a990a694eb290cffe3439617b05
+Pixel 7 Pro 专用“猎豹”,13.0.0（TQ3A.230605.012.A1，2023 年 6 月，Verizon，Verizon MVNO）,https://dl.google.com/dl/android/aosp/cheetah-ota-tq3a.230605.012.a1-95be1733.zip?hl=zh-cn,95be17331b2c2649a622da9bd7c2630198823bd978c37840b693f5bacf0423e2
 Pixel 7 专用“美洲豹”
 Pixel 7 专用“美洲豹”,13.0.0（TD1A.220804.009.A2，2022 年 10 月）,https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip?hl=zh-cn,1ba82532cf20c7f71dc6f3ea3a89b3ebe13fb82b46944e6a9f2c936aed41f63c
 Pixel 7 专用“美洲豹”,13.0.0（TD1A.220804.009.A5，2022 年 10 月，日本运营商）,https://dl.google.com/dl/android/aosp/panther-ota-td1a.220804.009.a5-44511a4b.zip?hl=zh-cn,44511a4bf3b8d16c50f4510364666240ddb1c102d5b3a26130de4afef74d8706
@@ -43,6 +48,7 @@ Pixel 7 专用“美洲豹”,13.0.0（TQ2A.230305.008.A1，2023 年 3 月，WIN
 Pixel 7 专用“美洲豹”,13.0.0（TQ2A.230405.003.E1，2023 年 4 月）,https://dl.google.com/dl/android/aosp/panther-ota-tq2a.230405.003.e1-d596b051.zip?hl=zh-cn,d596b051918c538963d96847a1a702df4c885889011fd434c8c011251357f9a0
 Pixel 7 专用“美洲豹”,13.0.0（TQ2A.230505.002，2023 年 5 月）,https://dl.google.com/dl/android/aosp/panther-ota-tq2a.230505.002-c3d87694.zip?hl=zh-cn,c3d87694866555cd9c638b4bb0ced0193b9007f1cdf4f444a18c21e87a691600
 Pixel 7 专用“美洲豹”,13.0.0（TQ3A.230605.012，2023 年 6 月）,https://dl.google.com/dl/android/aosp/panther-ota-tq3a.230605.012-9bd4b51f.zip?hl=zh-cn,9bd4b51f1adaebe52d251e1ff34221196c5bdc82c4d4f1015f48fa3a99ce3b34
+Pixel 7 专用“美洲豹”,13.0.0（TQ3A.230605.012.A1，2023 年 6 月，Verizon，Verizon MVNO）,https://dl.google.com/dl/android/aosp/panther-ota-tq3a.230605.012.a1-05a274f5.zip?hl=zh-cn,05a274f58609496f59c4d4094bd27bbc077fed96c619654fed44f37f09f0ea7c
 Pixel 6a 专用“bluejay”
 Pixel 6a 专用“bluejay”,12.1.0（SD2A.220601.001.A1，2022 年 6 月，日本运营商）,https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip?hl=zh-cn,bacd4108518f9e6b0908030bca1f7410b71526854351c41f918078607d4b16c3
 Pixel 6a 专用“bluejay”,12.1.0（SD2A.220601.004，2022 年 6 月、Verizon、Verizon MVNO）,https://dl.google.com/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip?hl=zh-cn,a53caf37f76731525ed1d809d48950d585713bb0475a027fe78b4e12fd7b0f53
@@ -68,6 +74,7 @@ Pixel 6a 专用“bluejay”,13.0.0（TQ2A.230405.003.G1，2023 年 4 月，Veri
 Pixel 6a 专用“bluejay”,13.0.0（TQ2A.230505.002，2023 年 5 月）,https://dl.google.com/dl/android/aosp/bluejay-ota-tq2a.230505.002-3749a0fa.zip?hl=zh-cn,3749a0fac4b30a871d228553a77ab873778cc19b969c64c7f65c986032369ef6
 Pixel 6a 专用“bluejay”,13.0.0（TQ2A.230505.002.G1，2023 年 5 月，Verizon，Verizon MVNO）,https://dl.google.com/dl/android/aosp/bluejay-ota-tq2a.230505.002.g1-519eabf6.zip?hl=zh-cn,519eabf689dfd41a7294a0dee5a01a225aa9874e44a0f30e604ce6f5d371a1c0
 Pixel 6a 专用“bluejay”,13.0.0（TQ3A.230605.010，2023 年 6 月）,https://dl.google.com/dl/android/aosp/bluejay-ota-tq3a.230605.010-a67dbf36.zip?hl=zh-cn,a67dbf3626dd2f9fd187b83b738b7152b0200fb2bf031c469e00777b47f8b002
+Pixel 6a 专用“bluejay”,13.0.0（TQ3A.230605.010.A1，2023 年 6 月，T-Mobile，T-Mobile MVNO）,https://dl.google.com/dl/android/aosp/bluejay-ota-tq3a.230605.010.a1-9eb9836a.zip?hl=zh-cn,9eb9836a27d0cc85ec583285522fbd025e78db5188baeec51ddbba4e4116e849
 Pixel 6 的“Oriole”
 Pixel 6 的“Oriole”,12.0.0（SD1A.210817.015.A4，2021 年 10 月）,https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip?hl=zh-cn,19a77b62a80732b0e20d3ac369288fc827554c1a8c109c6e9fa2a420998dd826
 Pixel 6 的“Oriole”,12.0.0（SD1A.210817.019.B1，2021 年 10 月，AT&T）,https://dl.google.com/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip?hl=zh-cn,67195ca0fa1f9cfc9f331ab3e4f44fdbf819896059dcb1819c1125edef854c25
@@ -108,6 +115,7 @@ Pixel 6 的“Oriole”,13.0.0（TQ2A.230405.003.G1，2023 年 4 月，Verizon�
 Pixel 6 的“Oriole”,13.0.0（TQ2A.230505.002，2023 年 5 月）,https://dl.google.com/dl/android/aosp/oriole-ota-tq2a.230505.002-4efe2e6d.zip?hl=zh-cn,4efe2e6dedbc767c141bd7d91d4b523e286fb856ecdbbb2da6ffe01e660d3be6
 Pixel 6 的“Oriole”,13.0.0（TQ2A.230505.002.G1，2023 年 5 月，Verizon，Verizon MVNO）,https://dl.google.com/dl/android/aosp/oriole-ota-tq2a.230505.002.g1-b8bdef0c.zip?hl=zh-cn,b8bdef0c429834f35e349f895062a4af6045b17ed013a406447fd3fddd5dbb16
 Pixel 6 的“Oriole”,13.0.0（TQ3A.230605.010，2023 年 6 月）,https://dl.google.com/dl/android/aosp/oriole-ota-tq3a.230605.010-8652a4a5.zip?hl=zh-cn,8652a4a5862852552520b953ed62228d911484255d17e1c02cf5daeac8e137ea
+Pixel 6 的“Oriole”,13.0.0（TQ3A.230605.010.A1，2023 年 6 月，T-Mobile，T-Mobile MVNO）,https://dl.google.com/dl/android/aosp/oriole-ota-tq3a.230605.010.a1-48a477bd.zip?hl=zh-cn,48a477bd54e4d97d62cc1971d1dff2a985c62ddd43b054a3a5e61b4562571d9d
 Pixel 6 Pro 专用“渡鸦”
 Pixel 6 Pro 专用“渡鸦”,12.0.0（SD1A.210817.015.A4，2021 年 10 月）,https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip?hl=zh-cn,83028e9cbd809931361575c7d6b3186bff95f113b10044bd384a552a919075b3
 Pixel 6 Pro 专用“渡鸦”,12.0.0（SD1A.210817.019.B1，2021 年 10 月，ATT）,https://dl.google.com/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip?hl=zh-cn,9e27b8e6a8b3f0e1057312cd9e30977527c22dbf57a2fe79744b5bc36dd240ab
@@ -148,6 +156,7 @@ Pixel 6 Pro 专用“渡鸦”,13.0.0（TQ2A.230405.003.G1，2023 年 4 月，Ve
 Pixel 6 Pro 专用“渡鸦”,13.0.0（TQ2A.230505.002，2023 年 5 月）,https://dl.google.com/dl/android/aosp/raven-ota-tq2a.230505.002-95987a37.zip?hl=zh-cn,95987a37457f23c4f6d5ca8fc0e77bdb2b4d6e96c4da87aeb16c958038037e1c
 Pixel 6 Pro 专用“渡鸦”,13.0.0（TQ2A.230505.002.G1，2023 年 5 月，Verizon，Verizon MVNO）,https://dl.google.com/dl/android/aosp/raven-ota-tq2a.230505.002.g1-cfe7cf24.zip?hl=zh-cn,cfe7cf24cd8da9045e0d9fb150d98b982918b90c98518d7061fad6d0ba91be02
 Pixel 6 Pro 专用“渡鸦”,13.0.0（TQ3A.230605.010，2023 年 6 月）,https://dl.google.com/dl/android/aosp/raven-ota-tq3a.230605.010-bed12f22.zip?hl=zh-cn,bed12f2214a8ae56613db267b67826c2ccf892ac9cf951df40f95e5f1fb1721a
+Pixel 6 Pro 专用“渡鸦”,13.0.0（TQ3A.230605.010.A1，2023 年 6 月，T-Mobile，T-Mobile MVNO）,https://dl.google.com/dl/android/aosp/raven-ota-tq3a.230605.010.a1-b3f14d4b.zip?hl=zh-cn,b3f14d4bccafbcda7104cf935d8eaf7f3a326b7bb1205fa90eabdf7568b32fb0
 Pixel 5a 的“barbet”
 Pixel 5a 的“barbet”,11.0.0（RD2A.210605.006，2021 年 6 月，日本运营商）,https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip?hl=zh-cn,e56baaf5834db85310193adbf91bcf2b4e170fe763717a31d705ca1c68f5d039
 Pixel 5a 的“barbet”,11.0.0（RD2A.210605.007，2021 年 6 月）,https://dl.google.com/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip?hl=zh-cn,c77517142e22425397230c87d20c1ef740d27c5b78ee90e9e5edfeacd231782c
