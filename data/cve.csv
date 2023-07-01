@@ -75,8 +75,8 @@ CVE-2023-21201,2023-06-01,A-263545186,DoS,Moderate,13,system,N/A,
 CVE-2023-21066,2023-06-01,A-250100597 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=exynos-slsi
 CVE-2023-21225,2023-06-01,A-270403821 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Protected Confirmation
 CVE-2022-39901,2023-06-01,A-263783333 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Lassen Baseband
-CVE-2023-21219,2023-06-01,A-264698379 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=TBD
-CVE-2023-21220,2023-06-01,A-264590585 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=TBD
+CVE-2023-21219,2023-06-01,A-264698379 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=exynos-slsi
+CVE-2023-21220,2023-06-01,A-264590585 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=exynos-slsi
 CVE-2023-21226,2023-06-01,A-240728187 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=modem
 CVE-2023-21146,2023-06-01,A-239867994 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=LWIS
 CVE-2023-21147,2023-06-01,A-269661912 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Pixel camera driver
