@@ -1,4 +1,10 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2023-21400,2023-07-01,A-264663832 [*](#asterisk),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Kernel io_uring
+CVE-2023-35693,2023-07-01,A-274172774 [Upstream kernel](https://android.googlesource.com/kernel/common/+/8ff940b3513cb),EoP,Moderate,N/A,kernel-components,N/A,Subcomponent=Incremental File System (IncFS)
+CVE-2023-21399,2023-07-01,A-275462898 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=GSC
+CVE-2023-35691,2023-07-01,A-273851762 [*](#asterisk),DoS,Critical,N/A,pixel,N/A,Subcomponent=Titan M
+CVE-2023-35692,2023-07-01,A-275950631 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Telephony
+CVE-2023-35694,2023-07-01,A-267619655 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=samsung_slsi
 CVE-2023-20971,2023-06-01,A-225880325,EoP,Moderate,13,framework,N/A,
 CVE-2023-21171,2023-06-01,A-261085213,EoP,Moderate,13,framework,N/A,
 CVE-2023-21189,2023-06-01,A-213942596,EoP,Moderate,13,framework,N/A,
