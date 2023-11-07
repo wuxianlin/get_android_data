@@ -1,4 +1,12 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2023-28553,2023-11-01,A-280447263 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=WLAN
+CVE-2023-28554,2023-11-01,A-280446988 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Kernel
+CVE-2023-28572,2023-11-01,A-280447210 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=WLAN
+CVE-2023-28563,2023-11-01,A-280447381 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2023-28566,2023-11-01,A-280447148 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2023-28568,2023-11-01,A-280447462 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2023-28569,2023-11-01,A-280447322 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2023-28570,2023-11-01,A-240696623 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2023-3781,2023-10-01,A-289470723 [*](#asterisk),EoP,High,N/A,kernel-components,N/A,Subcomponent=kernel
 CVE-2023-35646,2023-10-01,A-276972140 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Shannon baseband
 CVE-2023-35662,2023-10-01,A-276971805 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Shannon baseband
