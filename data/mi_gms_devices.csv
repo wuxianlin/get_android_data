@@ -20,6 +20,7 @@ POCO,POCO C50,snow,220733SPI
 POCO,POCO C51,water,2302EPCC4H
 POCO,POCO C51,water,2305EPCC4G
 POCO,POCO C55,earth,22127PC95I
+POCO,POCO C65,gust,2310FPCA4G
 POCO,POCO F2 Pro,lmi,POCO F2 Pro
 POCO,POCO F3,alioth,M2012K11AG
 POCO,POCO F3 GT,aresin,M2104K10I
@@ -97,6 +98,8 @@ Redmi,Redmi 12C,aether,22126RN91Y
 Redmi,Redmi 12C,earth,22120RN86G
 Redmi,Redmi 12C,earth,22120RN86I
 Redmi,Redmi 12C,earth,2212ARNC4L
+Redmi,Redmi 13C,gale,23100RN82L
+Redmi,Redmi 13C,gale,23106RN0DA
 Redmi,Redmi 6,cereus,Redmi 6
 Redmi,Redmi 7,onc,Redmi 7
 Redmi,Redmi 7,onc,Redmi Y3
