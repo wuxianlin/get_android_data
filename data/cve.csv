@@ -1,4 +1,7 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2023-33111,2024-01-01,A-303107435 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
+CVE-2023-28583,2024-01-01,A-290063847 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2023-33038,2024-01-01,A-290064136 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2023-48421,2023-12-01,A-300681900 [*](#asterisk),EoP,High,N/A,kernel-components,N/A,Subcomponent=mali_kbase
 CVE-2023-41111,2023-12-01,A-292004859 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=ShannonRcs
 CVE-2023-48423,2023-12-01,A-294560448 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Exynos
