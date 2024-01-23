@@ -44,6 +44,7 @@ POCO,POCO M4 Pro 5G,evergreen,21091116AG
 POCO,POCO M5,rock,22071219CI
 POCO,POCO M5,stone,22071219CG
 POCO,POCO M5s,rosemary,2207117BPG
+POCO,POCO M6 Pro,emerald,2312FPCA6G
 POCO,POCO M6 Pro 5G,sky,23076PC4BI
 POCO,POCO X2,phoenixin,POCO X2
 POCO,POCO X3,karna,M2007J20CI
@@ -53,6 +54,8 @@ POCO,POCO X3 Pro,vayu,M2102J20SG
 POCO,POCO X4 GT,xaga,22041216G
 POCO,POCO X4 Pro 5G,peux,2201116PI
 POCO,POCO X4 Pro 5G,veux,2201116PG
+POCO,POCO X6 5G,garnet,23122PCD1G
+POCO,POCO X6 5G,garnet,23122PCD1I
 Redmi,K30 PRO,lmi,Lmi
 Redmi,K30 PRO,lmi,Redmi K30 Pro
 Redmi,Mi  9T  Pro,raphaelin,Redmi K20 Pro
@@ -234,9 +237,14 @@ Redmi,Redmi Note 13,sapphiren,23124RA7EO
 Redmi,Redmi Note 13 5G,gold,2312DRAABC
 Redmi,Redmi Note 13 5G,gold,2312DRAABI
 Redmi,Redmi Note 13 5G,iron,2312DRAABG
+Redmi,Redmi Note 13 Pro,emerald,23117RA68G
 Redmi,Redmi Note 13 Pro 5G,garnet,2312CRAD3C
 Redmi,Redmi Note 13 Pro 5G,garnet,2312DRA50C
+Redmi,Redmi Note 13 Pro 5G,garnet,2312DRA50G
+Redmi,Redmi Note 13 Pro 5G,garnet,2312DRA50I
 Redmi,Redmi Note 13 Pro+,zircon,23090RA98C
+Redmi,Redmi Note 13 Pro+ 5G,zircon,23090RA98G
+Redmi,Redmi Note 13 Pro+ 5G,zircon,23090RA98I
 Redmi,Redmi Note 7,lavender,Redmi Note 7
 Redmi,Redmi Note 8,biloba,M1908C3JGG
 Redmi,Redmi Note 8,ginkgo,GINKGO
@@ -530,6 +538,7 @@ Xiaomi,Xiaomi 13T Pro,corot,23088PND5R
 Xiaomi,Xiaomi 13T Pro,corot,A301XM
 Xiaomi,Xiaomi 14,houji,23127PN0CC
 Xiaomi,Xiaomi 14 Pro,shennong,23116PN5BC
+Xiaomi,Xiaomi 14 Pro,shennong,2311BPN23C
 Xiaomi,Xiaomi Civi,mona,2109119BC
 Xiaomi,Xiaomi Civi 1S,zijin,2109119BC
 Xiaomi,Xiaomi MIX Fold,cetus,M2011J18C
