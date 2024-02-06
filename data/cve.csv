@@ -1,4 +1,11 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2024-22012,2024-02-01,A-309407679 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Bootloader
+CVE-2023-33064,2024-02-01,A-295052332 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
+CVE-2023-33065,2024-02-01,A-295052084 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
+CVE-2023-33067,2024-02-01,A-295051886 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
+CVE-2023-33068,2024-02-01,A-295051806 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
+CVE-2023-33069,2024-02-01,A-295052588 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
+CVE-2023-33077,2024-02-01,A-270158436 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source-components,N/A,Subcomponent=Closed-source component
 CVE-2023-33111,2024-01-01,A-303107435 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
 CVE-2023-28583,2024-01-01,A-290063847 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
 CVE-2023-33038,2024-01-01,A-290064136 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
