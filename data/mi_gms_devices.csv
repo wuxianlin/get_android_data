@@ -20,6 +20,7 @@ POCO,POCO C50,snow,220733SPI
 POCO,POCO C51,water,2302EPCC4H
 POCO,POCO C51,water,2305EPCC4G
 POCO,POCO C55,earth,22127PC95I
+POCO,POCO C61,blue,2312BPC51H
 POCO,POCO C65,gale,2310FPCA4I
 POCO,POCO C65,gust,2310FPCA4G
 POCO,POCO F2 Pro,lmi,POCO F2 Pro
@@ -147,6 +148,9 @@ Redmi,Redmi A1+,snow,220743FI
 Redmi,Redmi A2,cloud,23026RN54G
 Redmi,Redmi A2,cloud,23028RN4DG
 Redmi,Redmi A2+,water,23028RNCAG
+Redmi,Redmi A3,blue,23129RN51H
+Redmi,Redmi A3,blue,23129RN51X
+Redmi,Redmi A3,blue,2312CRNCCL
 Redmi,Redmi K20,davinci,Mi 9T
 Redmi,Redmi K20,davinci,Redmi K20
 Redmi,Redmi K20,davinciin,Redmi K20
@@ -540,6 +544,7 @@ Xiaomi,Xiaomi 13T Pro,corot,A301XM
 Xiaomi,Xiaomi 14,houji,23127PN0CC
 Xiaomi,Xiaomi 14 Pro,shennong,23116PN5BC
 Xiaomi,Xiaomi 14 Pro,shennong,2311BPN23C
+Xiaomi,Xiaomi 14 Ultra,aurora,Xiaomi for arm64
 Xiaomi,Xiaomi Civi,mona,2109119BC
 Xiaomi,Xiaomi Civi 1S,zijin,2109119BC
 Xiaomi,Xiaomi MIX Fold,cetus,M2011J18C
