@@ -47,6 +47,7 @@ POCO,POCO M4 Pro 5G,evergreen,21091116AG
 POCO,POCO M5,rock,22071219CI
 POCO,POCO M5,stone,22071219CG
 POCO,POCO M5s,rosemary,2207117BPG
+POCO,POCO M6,moon,2404APC5FG
 POCO,POCO M6 Plus 5G,breeze,24066PC95I
 POCO,POCO M6 Pro,emerald,2312FPCA6G
 POCO,POCO M6 Pro 5G,sky,23076PC4BI
@@ -62,6 +63,7 @@ POCO,POCO X5 Pro 5G,redwood,22101320G
 POCO,POCO X5 Pro 5G	,redwoodin,22101320I
 POCO,POCO X6 5G,garnet,23122PCD1G
 POCO,POCO X6 5G,garnet,23122PCD1I
+POCO,POCO X6 Pro 5G,duchamp,2311DRK48G
 POCO,POCO X6 Pro 5G,duchamp,2311DRK48I
 Redmi,K30 PRO,lmi,Lmi
 Redmi,K30 PRO,lmi,Redmi K30 Pro
@@ -111,6 +113,7 @@ Redmi,Redmi 12C,aether,22126RN91Y
 Redmi,Redmi 12C,earth,22120RN86G
 Redmi,Redmi 12C,earth,22120RN86I
 Redmi,Redmi 12C,earth,2212ARNC4L
+Redmi,Redmi 13,moon,24040RN64Y
 Redmi,Redmi 13 5G,breeze,2406ERN9CI
 Redmi,Redmi 13C,gale,23100RN82L
 Redmi,Redmi 13C,gale,23106RN0DA
@@ -186,6 +189,7 @@ Redmi,Redmi K60,mondrian,23013RK75C
 Redmi,Redmi K60 Pro,socrates,22127RK46C
 Redmi,Redmi K60 Ultra,corot,23078RKD5C
 Redmi,Redmi K60E,rembrandt,22122RK93C
+Redmi,Redmi K70E,duchamp,2311DRK48C
 Redmi,Redmi Note 10,camellia,M2103K19C
 Redmi,Redmi Note 10,sunny,M2101K7AG
 Redmi,Redmi Note 10,sunny,M2101K7AI
