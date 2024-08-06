@@ -48,6 +48,7 @@ CVE-2024-32915,2024-06-01,A-319145450 [*](#asterisk),ID,Moderate,N/A,Pixel,N/A,S
 CVE-2024-32926,2024-06-01,A-315167037 [*](#asterisk),ID,Moderate,N/A,Pixel,N/A,Subcomponent=Fingerprint Sensor
 CVE-2024-32912,2024-06-01,A-319099367 [*](#asterisk),DoS,Moderate,N/A,Pixel,N/A,Subcomponent=Telephony
 CVE-2024-32924,2024-06-01,A-313798746 [*](#asterisk),DoS,Moderate,N/A,Pixel,N/A,Subcomponent=Modem
+CVE-2023-49928,2024-06-01,A-308436769 [*](#asterisk),ID,Moderate,N/A,Pixel,N/A,Subcomponent=Modem
 CVE-2023-43537,2024-06-01,A-314786192 [*](#asterisk) [*](#asterisk) [*](#asterisk),N/A,Moderate,N/A,Qualcomm-components,N/A,Subcomponent=WLAN
 CVE-2023-43543,2024-06-01,A-314786138 [*](#asterisk),N/A,Moderate,N/A,Qualcomm-components,N/A,Subcomponent=Audio
 CVE-2023-43544,2024-06-01,A-314786525 [*](#asterisk),N/A,Moderate,N/A,Qualcomm-components,N/A,Subcomponent=Audio
