@@ -13,6 +13,7 @@ Model,Version,Download,SHA-256 Checksum
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240705.005，2024 年 7 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-ap2a.240705.005-fbd833f2.zip,fbd833f292ff08e0ca173644a11181f5395082729f5ae2730e47ba85778c811a
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240705.005.A1，2024 年 7 月，Telus）,https://googledownloads.cn/dl/android/aosp/akita-ota-ap2a.240705.005.a1-a5de9a3e.zip,a5de9a3ebedd53f0e64115eb4baa643941916adac7235378b63e49aed7aee642
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240805.005.A1，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-ap2a.240805.005.a1-f6667708.zip,f66677082c40a755463542ac1ed0ce658f08f8433962e98d44c4365e0cb5e22f
+"""秋田""适用于 Pixel 8a",14.0.0（AP2A.240805.005.C1，2024 年 8 月，Verizon）,https://googledownloads.cn/dl/android/aosp/akita-ota-ap2a.240805.005.c1-8f333bff.zip,8f333bff665411e809f13ba69cad28175a1e29197d370ec8d63f9ae70a58de69
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240805.005.E1，2024 年 8 月，Telus）,https://googledownloads.cn/dl/android/aosp/akita-ota-ap2a.240805.005.e1-fedc2007.zip,fedc2007a1888d79485f40878d7b5c0dc7ec8caa2ac5e3280512d932b011b876
 “哈士奇”适用于 Pixel 8 Pro
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（UD1A.230803.022，2023 年 9 月，AT&T/欧洲、中东和非洲地区/日本/印度）,https://googledownloads.cn/dl/android/aosp/husky-ota-ud1a.230803.022-102b3fd3.zip,102b3fd35b565a18ae653d5c0e5386f818a54dd1a04e1e8deb120e0118d90423
@@ -40,6 +41,7 @@ Model,Version,Download,SHA-256 Checksum
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240705.005，2024 年 7 月）,https://googledownloads.cn/dl/android/aosp/husky-ota-ap2a.240705.005-53506844.zip,5350684479678128191ffc5e79e7effff5b8913f3e7291b407f5adbdd16de011
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240705.005.A1，2024 年 7 月，Telus）,https://googledownloads.cn/dl/android/aosp/husky-ota-ap2a.240705.005.a1-76ad44dd.zip,76ad44dd97e820c8c7ec45f80cbd36dde5ee597240fbd608cdc2addc8b8929da
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240805.005，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/husky-ota-ap2a.240805.005-0cbc4d6a.zip,0cbc4d6a62694b0eb7e24ad3d9f7d64a2c93f651175b8e8b13a712fd49b8be04
+“哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240805.005.B1，2024 年 8 月，Verizon）,https://googledownloads.cn/dl/android/aosp/husky-ota-ap2a.240805.005.b1-01a0c105.zip,01a0c10527fac5e7cc67c61b7606057803619029b7157205380dfd698339df6c
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240805.005.D1，2024 年 8 月，Telus）,https://googledownloads.cn/dl/android/aosp/husky-ota-ap2a.240805.005.d1-ec20c85d.zip,ec20c85d722870f450be3b6b5600cc5fb5e275bfe72dd4b1017651a8c2809f02
 """柴""适用于 Pixel 8"
 """柴""适用于 Pixel 8",14.0.0（UD1A.230803.022.A5，2023 年 9 月，美国非 Verizon/AT&T/T-Mobile 运营商/CA/TW）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ud1a.230803.022.a5-415253a6.zip,415253a6a0965e71be565f3ddfbc42a2acf4fe35871a2210d10f109119cdb23c
@@ -67,6 +69,7 @@ Model,Version,Download,SHA-256 Checksum
 """柴""适用于 Pixel 8",14.0.0（AP2A.240705.005，2024 年 7 月）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ap2a.240705.005-3376b945.zip,3376b945e3769c3b90b8a5715b66b5a12be7bbd68151b7b1c303079ce8f3e719
 """柴""适用于 Pixel 8",14.0.0（AP2A.240705.005.A1，2024 年 7 月，Telus）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ap2a.240705.005.a1-acefa238.zip,acefa23837721b0879b8cf5b519bbf6f6f28915c2a9c283642ad180aa5875f57
 """柴""适用于 Pixel 8",14.0.0（AP2A.240805.005，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ap2a.240805.005-bcd0cb98.zip,bcd0cb98b4f51d823c7b515f7c2eea5bd864872653c36b30dde99701bc7343fb
+"""柴""适用于 Pixel 8",14.0.0（AP2A.240805.005.B1，2024 年 8 月，Verizon）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ap2a.240805.005.b1-58833eca.zip,58833eca93d31acb546268450ef5732fc7be912791d6715acc077dc3678ec20b
 """柴""适用于 Pixel 8",14.0.0（AP2A.240805.005.D1，2024 年 8 月，Telus）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ap2a.240805.005.d1-3cde38bd.zip,3cde38bda582a62ac509e3180c0a148588e2aab668b049ae05275cc50682d221
 “felix”适用于 Pixel Fold
 “felix”适用于 Pixel Fold,13.0.0（TD3A.230203.070.A1，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/felix-ota-td3a.230203.070.a1-125de0f9.zip,125de0f9dfad46393199e6c8e9a5f0fe6b6f32809bee2a7209220c2a30ac28b9

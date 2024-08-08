@@ -13,6 +13,7 @@ Model,Version,Download,SHA-256 Checksum
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240705.005，2024 年 7 月）,https://flash.android.com/build/11942872?target=akita-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/akita-ap2a.240705.005-factory-df5f07ce.zip,df5f07ce1bb72f1c3802178aa367c5d21cedbbc46fd34adbc9d9a09baf4bd1e0
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240705.005.A1，2024 年 7 月，Telus）,https://flash.android.com/build/11944170?target=akita-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/akita-ap2a.240705.005.a1-factory-039e4fd8.zip,039e4fd86fb075fccae5ab5145eb6655369dab01091c18466ff827c3864f6a19
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240805.005.A1，2024 年 8 月）,https://flash.android.com/build/12030693?target=akita-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/akita-ap2a.240805.005.a1-factory-c57ea37c.zip,c57ea37c0e8ddbe12da9e6ea97e27640bd18394df1645d228c99705fdfc01626
+"""秋田""适用于 Pixel 8a",14.0.0（AP2A.240805.005.C1，2024 年 8 月，Verizon）,https://flash.android.com/build/12033016?target=akita-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/akita-ap2a.240805.005.c1-factory-b2608cfe.zip,b2608cfebc8076cc9d56c508b87ef71e3379440bd2fcfaa89b2c5ba419b2e082
 """秋田""适用于 Pixel 8a",14.0.0（AP2A.240805.005.E1，2024 年 8 月，Telus）,https://flash.android.com/build/12033023?target=akita-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/akita-ap2a.240805.005.e1-factory-9f81474f.zip,9f81474f5a62a2ec1ed77dfd4cbd1155f4a1018ae84c159f84515641f8f241d0
 “哈士奇”适用于 Pixel 8 Pro
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（UD1A.230803.022.A3，2023 年 9 月，Verizon）,https://flash.android.com/build/10714844?target=husky-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/husky-ud1a.230803.022.a3-factory-a95417f6.zip,a95417f6ace90bb3ed39f86966bf9f32aad0505c29d5698dc19dddb9739f37bc
@@ -40,6 +41,7 @@ Model,Version,Download,SHA-256 Checksum
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240705.005，2024 年 7 月）,https://flash.android.com/build/11942872?target=husky-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/husky-ap2a.240705.005-factory-5cd8df1e.zip,5cd8df1e27039b3af10e38247666839af30fb5eb598f4fb8730beb563c44d108
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240705.005.A1，2024 年 7 月，Telus）,https://flash.android.com/build/11944170?target=husky-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/husky-ap2a.240705.005.a1-factory-5ff9d4b9.zip,5ff9d4b947d2c39e8ebed62e81aa4af59c0ea684ba1573d9e7c885f58f5478af
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240805.005，2024 年 8 月）,https://flash.android.com/build/12025142?target=husky-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/husky-ap2a.240805.005-factory-06d11dac.zip,06d11dac76a73c42b81a3b143f663ecc65b405b3ca45c35a6d1a18d98e7e0a6d
+“哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240805.005.B1，2024 年 8 月，Verizon）,https://flash.android.com/build/12026104?target=husky-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/husky-ap2a.240805.005.b1-factory-dd171ccd.zip,dd171ccdeb7beca9a665f5522f2185acbe900c8e69e12138f5bba8edb276d2b3
 “哈士奇”适用于 Pixel 8 Pro,14.0.0（AP2A.240805.005.D1，2024 年 8 月，Telus）,https://flash.android.com/build/12026590?target=husky-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/husky-ap2a.240805.005.d1-factory-0c13edae.zip,0c13edae79511a5025a05bf1404e686310c11664f49bfc449ea65533d03e6d41
 """柴""适用于 Pixel 8"
 """柴""适用于 Pixel 8",14.0.0（UD1A.230803.022.A5，2023 年 9 月，美国非 Verizon/AT&T/T-Mobile 运营商/CA/TW）,https://flash.android.com/build/10741305?target=shiba-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/shiba-ud1a.230803.022.a5-factory-85c06d1d.zip,85c06d1dd95b2e157ea1ba3c78fc2df8dabeb42dcd58c9cdb6f015e2c0c7b455
@@ -67,6 +69,7 @@ Model,Version,Download,SHA-256 Checksum
 """柴""适用于 Pixel 8",14.0.0（AP2A.240705.005，2024 年 7 月）,https://flash.android.com/build/11942872?target=shiba-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/shiba-ap2a.240705.005-factory-461aa7c8.zip,461aa7c8a7834b429a73d50154ee194e7c22a2bdfa5fde417dc9c8b6c18dd91d
 """柴""适用于 Pixel 8",14.0.0（AP2A.240705.005.A1，2024 年 7 月，Telus）,https://flash.android.com/build/11944170?target=shiba-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/shiba-ap2a.240705.005.a1-factory-dc678be5.zip,dc678be5c08ab85bcb720971e2db34f7a6c9f009301d9981eb17143ac757b0d5
 """柴""适用于 Pixel 8",14.0.0（AP2A.240805.005，2024 年 8 月）,https://flash.android.com/build/12025142?target=shiba-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/shiba-ap2a.240805.005-factory-47c02ead.zip,47c02ead914cca59832a20bc477e88fc969127e277eec1f34fe9edd1cee293a3
+"""柴""适用于 Pixel 8",14.0.0（AP2A.240805.005.B1，2024 年 8 月，Verizon）,https://flash.android.com/build/12026104?target=shiba-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/shiba-ap2a.240805.005.b1-factory-ebe3bd22.zip,ebe3bd22f4cc2d057843f5433595d162ca4129f5c4f5386be677ffd7026b0c87
 """柴""适用于 Pixel 8",14.0.0（AP2A.240805.005.D1，2024 年 8 月，Telus）,https://flash.android.com/build/12026590?target=shiba-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/shiba-ap2a.240805.005.d1-factory-c7e4f284.zip,c7e4f284d125489ea936386dc51a94d1778eaf14b3b8d71f1cb19a756ed87b85
 “felix”适用于 Pixel Fold
 “felix”适用于 Pixel Fold,13.0.0（TD3A.230203.070.A1，2023 年 6 月）,https://flash.android.com/build/10075871?target=felix-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/felix-td3a.230203.070.a1-factory-d935f019.zip,d935f0196d7959c916e4f42e25d92e05cd7d2ca0c01080ee46fc35fa996e302b
@@ -1564,34 +1567,34 @@ Model,Version,Download,SHA-256 Checksum
 """volantis""适用于 Nexus 9 (WLAN)",7.1.1（N9F27H，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/volantis-n9f27h-factory-d2ad51d6.zip,d2ad51d621a60f903e3080a3ea648e6eb53a1eab5c26662c0bf2970eacb002c3
 """volantis""适用于 Nexus 9 (WLAN)",7.1.1（N9F27L，2017 年 9 月）,https://googledownloads.cn/dl/android/aosp/volantis-n9f27l-factory-f8ffc0da.zip,f8ffc0dabae79a8ac7608c57973b4ba148152fa9e0c6820b81e6376087847f75
 """volantis""适用于 Nexus 9 (WLAN)",7.1.1（N9F27M，2017 年 10 月）,https://googledownloads.cn/dl/android/aosp/volantis-n9f27m-factory-a0d47736.zip,a0d4773612f987fbff27b8eb0b4d94f17912e42e50ad7f6230d7b55f760ece8e
-“hammerhead”适用于 Nexus 5 (GSM/LTE)
-“hammerhead”适用于 Nexus 5 (GSM/LTE),4.4 (KRT16M),https://googledownloads.cn/dl/android/aosp/hammerhead-krt16m-factory-fb4041cc.zip,fb4041cc77a51c2f8c93afcc06df4c50e029fef6441e1b794be495be9cf29efc
-“hammerhead”适用于 Nexus 5 (GSM/LTE),4.4.2 (KOT49H),https://googledownloads.cn/dl/android/aosp/hammerhead-kot49h-factory-3c5d358b.zip,3c5d358ba25ee32afc1b2fc9d7d7abbc8515f241f073a292da28e668c9ef6efb
-“hammerhead”适用于 Nexus 5 (GSM/LTE),4.4.3 (KTU84M),https://googledownloads.cn/dl/android/aosp/hammerhead-ktu84m-factory-9c4610fb.zip,9c4610fb1964618685c099934784057bc13de4d3c1c34d70881b5fe7cd786382
-“hammerhead”适用于 Nexus 5 (GSM/LTE),4.4.4 (KTU84P),https://googledownloads.cn/dl/android/aosp/hammerhead-ktu84p-factory-1f5f26b1.zip,1f5f26b17be1bb63874d82cdb03a8dea70fcff5dd971f07e6aa6669123e4f8ce
-“hammerhead”适用于 Nexus 5 (GSM/LTE),4.4.4 版本 2（仅适用于 2Degrees/NZ、Telstra/AUS 和印度）(KTU84Q),https://googledownloads.cn/dl/android/aosp/hammerhead-ktu84q-factory-654c5471.zip,654c5471bbb866193e571b9ac74da25bf436e21a8ee1f0f4af8fd06ad01e2f61
-“hammerhead”适用于 Nexus 5 (GSM/LTE),5.0 (LRX21O),https://googledownloads.cn/dl/android/aosp/hammerhead-lrx21o-factory-56a09d43.zip,56a09d43d0dcc808d9dd9e2ed4c424af29bec2b5f343632d6ad0386b2dfcf854
-“hammerhead”适用于 Nexus 5 (GSM/LTE),5.0.1 (LRX22C),https://googledownloads.cn/dl/android/aosp/hammerhead-lrx22c-factory-3b22f481.zip,3b22f4819d718818a65582c5c904073847b66227608f7485719935105a7e5b69
-“hammerhead”适用于 Nexus 5 (GSM/LTE),5.1.0 (LMY47D),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy47d-factory-7df990ed.zip,7df990ed37728f44f4c77d1c42c306df802f61497799bde73168b17d89c6b6fc
-“hammerhead”适用于 Nexus 5 (GSM/LTE),5.1.0 (LMY47I),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy47i-factory-f1734da1.zip,f1734da163304f57b23f43d79755abec60e286ddfecacb95419ff5d642bcc7a1
-“hammerhead”适用于 Nexus 5 (GSM/LTE),5.1.1 (LMY48B),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy48b-factory-e90640d2.zip,e90640d2c2b53f9cad26addbefa42ef54d48002f0a0f95bec3bc92b161d2ffe3
-“hammerhead”适用于 Nexus 5 (GSM/LTE),5.1.1 (LMY48I),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy48i-factory-67766277.zip,67766277bfc9db722d8d7837ef205bda492476101d45160a37525b0b27af4352
-“hammerhead”适用于 Nexus 5 (GSM/LTE),5.1.1（LMY48M）,https://googledownloads.cn/dl/android/aosp/hammerhead-lmy48m-factory-e01ca3b7.zip,e01ca3b73688ee06e83d6a133369f8e254b3a64ce6fe85a491534d937b9848df
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.0 (MRA58K),https://googledownloads.cn/dl/android/aosp/hammerhead-mra58k-factory-ccbc4611.zip,ccbc4611deaa6e35a77b700843f7ad0e74a72fd197d3a974d51058d4bb0d31e3
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.0 (MRA58N),https://googledownloads.cn/dl/android/aosp/hammerhead-mra58n-factory-30da525d.zip,30da525dd8aa256a796aebd0aafb030cbef584ed90cb64fb383f8ce4b79054e6
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（MMB29K）,https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29k-factory-e5796b14.zip,e5796b1407d0c3ee6b8c01468bed0f01ddaa6204db60cbce1a6c55ebd77434c4
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29S),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29s-factory-82c3474f.zip,82c3474fc87298f160e0e512c6d32458568a3057c28caa333a97dbb773d6a6cf
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29Q),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29q-factory-27d8a4a5.zip,27d8a4a55de5613b98985f71eeb85384d0a78aaf2ac372f56a2d08eef92fd8f5
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29V),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29v-factory-7f1b9c7e.zip,7f1b9c7ed1df6124b935ae1fd2543f814b182349e1852506e5bd5bdb417ecee7
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29x-factory-9ebfbf54.zip,9ebfbf5473e00a25ec832b4e67c210f087aefe16b97b9b0f9d780e6d3131ab35
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/hammerhead-mob30d-factory-43d1482d.zip,43d1482d8771f5b5d97f54b19e84481651357b6e8f98a719a9b3d56a0026a5db
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30H),https://googledownloads.cn/dl/android/aosp/hammerhead-mob30h-factory-2c178ff7.zip,2c178ff79014fd5703d423020d22df4618b192a9af9283c60105e88300c5aeb2
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（3000 万 MOB）,https://googledownloads.cn/dl/android/aosp/hammerhead-mob30m-factory-af019693.zip,af019693798dceac03879feb3f46ee5b63802081c649d8bee821277d204c1810
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/hammerhead-mob30p-factory-8d36be0c.zip,8d36be0cfcc28da4986da0a211403b2586ab90078f995891eaea608891d98ddc
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（MOB30Y）,https://googledownloads.cn/dl/android/aosp/hammerhead-mob30y-factory-5bea6457.zip,5bea645798a9584f6b06419537befbbb41d0578a96b5c889f7a6d8c02e9d0962
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB31E),https://googledownloads.cn/dl/android/aosp/hammerhead-mob31e-factory-90504514.zip,9050451400a69d8cd6e2b559e87c052bb7e8d7482640da18c39f25f30dba7d7d
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30X，2016 年 10 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-m4b30x-factory-10cfaa5c.zip,10cfaa5c8ff1753af20283f5e5f938ddebbad094c4e22aadbd925ecdc806e8b3
-“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30Z，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-m4b30z-factory-625c027b.zip,625c027b21afe6de7c3d0de66e3a42000269dd00c2ef9a5347007734537f3ea2
+“锤子”适用于 Nexus 5 (GSM/LTE)
+“锤子”适用于 Nexus 5 (GSM/LTE),4.4 (KRT16M),https://googledownloads.cn/dl/android/aosp/hammerhead-krt16m-factory-fb4041cc.zip,fb4041cc77a51c2f8c93afcc06df4c50e029fef6441e1b794be495be9cf29efc
+“锤子”适用于 Nexus 5 (GSM/LTE),4.4.2 (KOT49H),https://googledownloads.cn/dl/android/aosp/hammerhead-kot49h-factory-3c5d358b.zip,3c5d358ba25ee32afc1b2fc9d7d7abbc8515f241f073a292da28e668c9ef6efb
+“锤子”适用于 Nexus 5 (GSM/LTE),4.4.3 (KTU84M),https://googledownloads.cn/dl/android/aosp/hammerhead-ktu84m-factory-9c4610fb.zip,9c4610fb1964618685c099934784057bc13de4d3c1c34d70881b5fe7cd786382
+“锤子”适用于 Nexus 5 (GSM/LTE),4.4.4 (KTU84P),https://googledownloads.cn/dl/android/aosp/hammerhead-ktu84p-factory-1f5f26b1.zip,1f5f26b17be1bb63874d82cdb03a8dea70fcff5dd971f07e6aa6669123e4f8ce
+“锤子”适用于 Nexus 5 (GSM/LTE),4.4.4 版本 2（仅适用于 2Degrees/NZ、Telstra/AUS 和印度）(KTU84Q),https://googledownloads.cn/dl/android/aosp/hammerhead-ktu84q-factory-654c5471.zip,654c5471bbb866193e571b9ac74da25bf436e21a8ee1f0f4af8fd06ad01e2f61
+“锤子”适用于 Nexus 5 (GSM/LTE),5.0 (LRX21O),https://googledownloads.cn/dl/android/aosp/hammerhead-lrx21o-factory-56a09d43.zip,56a09d43d0dcc808d9dd9e2ed4c424af29bec2b5f343632d6ad0386b2dfcf854
+“锤子”适用于 Nexus 5 (GSM/LTE),5.0.1 (LRX22C),https://googledownloads.cn/dl/android/aosp/hammerhead-lrx22c-factory-3b22f481.zip,3b22f4819d718818a65582c5c904073847b66227608f7485719935105a7e5b69
+“锤子”适用于 Nexus 5 (GSM/LTE),5.1.0 (LMY47D),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy47d-factory-7df990ed.zip,7df990ed37728f44f4c77d1c42c306df802f61497799bde73168b17d89c6b6fc
+“锤子”适用于 Nexus 5 (GSM/LTE),5.1.0 (LMY47I),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy47i-factory-f1734da1.zip,f1734da163304f57b23f43d79755abec60e286ddfecacb95419ff5d642bcc7a1
+“锤子”适用于 Nexus 5 (GSM/LTE),5.1.1 (LMY48B),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy48b-factory-e90640d2.zip,e90640d2c2b53f9cad26addbefa42ef54d48002f0a0f95bec3bc92b161d2ffe3
+“锤子”适用于 Nexus 5 (GSM/LTE),5.1.1 (LMY48I),https://googledownloads.cn/dl/android/aosp/hammerhead-lmy48i-factory-67766277.zip,67766277bfc9db722d8d7837ef205bda492476101d45160a37525b0b27af4352
+“锤子”适用于 Nexus 5 (GSM/LTE),5.1.1（LMY48M）,https://googledownloads.cn/dl/android/aosp/hammerhead-lmy48m-factory-e01ca3b7.zip,e01ca3b73688ee06e83d6a133369f8e254b3a64ce6fe85a491534d937b9848df
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.0 (MRA58K),https://googledownloads.cn/dl/android/aosp/hammerhead-mra58k-factory-ccbc4611.zip,ccbc4611deaa6e35a77b700843f7ad0e74a72fd197d3a974d51058d4bb0d31e3
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.0 (MRA58N),https://googledownloads.cn/dl/android/aosp/hammerhead-mra58n-factory-30da525d.zip,30da525dd8aa256a796aebd0aafb030cbef584ed90cb64fb383f8ce4b79054e6
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（MMB29K）,https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29k-factory-e5796b14.zip,e5796b1407d0c3ee6b8c01468bed0f01ddaa6204db60cbce1a6c55ebd77434c4
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29S),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29s-factory-82c3474f.zip,82c3474fc87298f160e0e512c6d32458568a3057c28caa333a97dbb773d6a6cf
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29Q),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29q-factory-27d8a4a5.zip,27d8a4a55de5613b98985f71eeb85384d0a78aaf2ac372f56a2d08eef92fd8f5
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29V),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29v-factory-7f1b9c7e.zip,7f1b9c7ed1df6124b935ae1fd2543f814b182349e1852506e5bd5bdb417ecee7
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/hammerhead-mmb29x-factory-9ebfbf54.zip,9ebfbf5473e00a25ec832b4e67c210f087aefe16b97b9b0f9d780e6d3131ab35
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/hammerhead-mob30d-factory-43d1482d.zip,43d1482d8771f5b5d97f54b19e84481651357b6e8f98a719a9b3d56a0026a5db
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30H),https://googledownloads.cn/dl/android/aosp/hammerhead-mob30h-factory-2c178ff7.zip,2c178ff79014fd5703d423020d22df4618b192a9af9283c60105e88300c5aeb2
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（3000 万 MOB）,https://googledownloads.cn/dl/android/aosp/hammerhead-mob30m-factory-af019693.zip,af019693798dceac03879feb3f46ee5b63802081c649d8bee821277d204c1810
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/hammerhead-mob30p-factory-8d36be0c.zip,8d36be0cfcc28da4986da0a211403b2586ab90078f995891eaea608891d98ddc
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（MOB30Y）,https://googledownloads.cn/dl/android/aosp/hammerhead-mob30y-factory-5bea6457.zip,5bea645798a9584f6b06419537befbbb41d0578a96b5c889f7a6d8c02e9d0962
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB31E),https://googledownloads.cn/dl/android/aosp/hammerhead-mob31e-factory-90504514.zip,9050451400a69d8cd6e2b559e87c052bb7e8d7482640da18c39f25f30dba7d7d
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30X，2016 年 10 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-m4b30x-factory-10cfaa5c.zip,10cfaa5c8ff1753af20283f5e5f938ddebbad094c4e22aadbd925ecdc806e8b3
+“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30Z，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-m4b30z-factory-625c027b.zip,625c027b21afe6de7c3d0de66e3a42000269dd00c2ef9a5347007734537f3ea2
 “剃须刀”适用于 Nexus 7 [2013] (WLAN)
 “剃须刀”适用于 Nexus 7 [2013] (WLAN),4.3（JSS15Q）,https://googledownloads.cn/dl/android/aosp/razor-jss15q-factory-e5793513.zip,e5793513cac2602f5943b162a3693ea44f3a793187943edbcd94a6474894c308
 “剃须刀”适用于 Nexus 7 [2013] (WLAN),4.3 (JSS15R),https://googledownloads.cn/dl/android/aosp/razor-jss15r-factory-10bb907c.zip,10bb907c4f7f465d0bcd7910b63485835f673d891b28c12629dd15db6d37d962
@@ -1690,7 +1693,7 @@ Model,Version,Download,SHA-256 Checksum
 “occam”Nexus 4 专用,5.1.1 (LMY48T),https://googledownloads.cn/dl/android/aosp/occam-lmy48t-factory-c43c7cfd.zip,c43c7cfd7e77ae97dad0c2e0f3810f84bc5e2ca3b4dc74256eb7e13012ec1131
 """nakasi""适用于 Nexus 7 (WLAN)"
 """nakasi""适用于 Nexus 7 (WLAN)",4.1.2 (JZO54K),https://googledownloads.cn/dl/android/aosp/nakasi-jzo54k-factory-25cab35c.zip,25cab35cfc81a7d92679deece485590dd62070882124149295ded95463a1eb4f
-"""nakasi""适用于 Nexus 7 (WLAN)",4.2.2 (JDQ39),https://googledownloads.cn/dl/android/aosp/nakasi-jdq39-factory-1ed5719b.zip,1ed5719bbf2a709f090f8d1da5c3afc62d6fcb381ee2559f130639873e1d7283
+"""nakasi""适用于 Nexus 7 (WLAN)",4.2.2（JDQ39）,https://googledownloads.cn/dl/android/aosp/nakasi-jdq39-factory-1ed5719b.zip,1ed5719bbf2a709f090f8d1da5c3afc62d6fcb381ee2559f130639873e1d7283
 """nakasi""适用于 Nexus 7 (WLAN)",4.3 (JWR66Y),https://googledownloads.cn/dl/android/aosp/nakasi-jwr66y-factory-201de0b2.zip,201de0b22cac0d5c8d51b249bf85dbe803b9a63b3eb1a7ceea0a4379b81b132c
 """nakasi""适用于 Nexus 7 (WLAN)",4.4 (KRT16S),https://googledownloads.cn/dl/android/aosp/nakasi-krt16s-factory-7e5a4463.zip,7e5a44631d7f7df7312c52fedd5fdd5ec4a2d94a99d173c8e67865bb267b6cba
 """nakasi""适用于 Nexus 7 (WLAN)",4.4.2 (KOT49H),https://googledownloads.cn/dl/android/aosp/nakasi-kot49h-factory-f0e49b7a.zip,f0e49b7a6a4bbe82019a60b919a75c9c18425c869e5de95c8b78fe13c2e00795
@@ -1720,12 +1723,12 @@ Model,Version,Download,SHA-256 Checksum
 "“yakju”适用于 Galaxy Nexus ""maguro""（GSM/HSPA+）"
 "“yakju”适用于 Galaxy Nexus ""maguro""（GSM/HSPA+）",4.0.4 (IMM76I),https://googledownloads.cn/dl/android/aosp/yakju-imm76i-factory-7e04639e.zip,7e04639eee9459a94ee4ae7d1675e5a857bbf89ce36f4140db8dc68e4b00c3fa
 "“yakju”适用于 Galaxy Nexus ""maguro""（GSM/HSPA+）",4.1.2 (JZO54K),https://googledownloads.cn/dl/android/aosp/yakju-jzo54k-factory-d75228cf.zip,d75228cffdc9d0f88d6ed9c63f79c35123269a1ed860df305fcbb00f03b438b6
-"“yakju”适用于 Galaxy Nexus ""maguro""（GSM/HSPA+）",4.2.2 (JDQ39),https://googledownloads.cn/dl/android/aosp/yakju-jdq39-factory-6f07b069.zip,6f07b0690a3853fb7bd9915be2ea38525486c9fa0c474daca70de713c9671485
+"“yakju”适用于 Galaxy Nexus ""maguro""（GSM/HSPA+）",4.2.2（JDQ39）,https://googledownloads.cn/dl/android/aosp/yakju-jdq39-factory-6f07b069.zip,6f07b0690a3853fb7bd9915be2ea38525486c9fa0c474daca70de713c9671485
 "“yakju”适用于 Galaxy Nexus ""maguro""（GSM/HSPA+）",4.3 (JWR66Y),https://googledownloads.cn/dl/android/aosp/yakju-jwr66y-factory-4cadea65.zip,4cadea65393c1cc6f2a61232001fc34a37d4a8c95c2439ada3573682a18b139c
 "“mysid”适用于 Galaxy Nexus ""toro""（Verizon CDMA/LTE）"
 "“mysid”适用于 Galaxy Nexus ""toro""（Verizon CDMA/LTE）",4.0.4 (IMM76K),https://googledownloads.cn/dl/android/aosp/mysid-imm76k-factory-09d74d64.zip,09d74d643fd37411efeb66050883de389142788c8eccbd36360dd5c0127babb7
 "“mysid”适用于 Galaxy Nexus ""toro""（Verizon CDMA/LTE）",4.1.1 (JRO03O),https://googledownloads.cn/dl/android/aosp/mysid-jro03o-factory-1cc98d31.zip,1cc98d314f94cc873853831936d00f9cab9be774f8b78fc5fd0d791e79e4bdaa
-"“mysid”适用于 Galaxy Nexus ""toro""（Verizon CDMA/LTE）",4.2.2 (JDQ39),https://googledownloads.cn/dl/android/aosp/mysid-jdq39-factory-335d5931.zip,335d5931c3860e37748e26d719e9d18e5baf9e9f0bd2af9ad716113caac1d1c7
+"“mysid”适用于 Galaxy Nexus ""toro""（Verizon CDMA/LTE）",4.2.2（JDQ39）,https://googledownloads.cn/dl/android/aosp/mysid-jdq39-factory-335d5931.zip,335d5931c3860e37748e26d719e9d18e5baf9e9f0bd2af9ad716113caac1d1c7
 “mysidspr”适用于 Galaxy Nexus“toroplus”（Sprint CDMA/LTE）
 “mysidspr”适用于 Galaxy Nexus“toroplus”（Sprint CDMA/LTE）,4.1.1 (FH05),https://googledownloads.cn/dl/android/aosp/mysidspr-fh05-factory-ff03148b.zip,ff03148b27757fb7e83dc6a545f51ddc8b808e612406cf92b2f0516104cb8bc5
 “mysidspr”适用于 Galaxy Nexus“toroplus”（Sprint CDMA/LTE）,4.2.1 (GA02),https://googledownloads.cn/dl/android/aosp/mysidspr-ga02-factory-063123bd.zip,063123bd699b1dfaef38591ad44bba453df1765051e7eedbc0ab5adba35fa04b
