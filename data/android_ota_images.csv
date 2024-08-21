@@ -1,4 +1,20 @@
 Model,Version,Download,SHA-256 Checksum
+"""开曼""适用于 Pixel 9 Pro"
+"""开曼""适用于 Pixel 9 Pro",14.0.0（AD1A.240530.030，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/caiman-ota-ad1a.240530.030-0fc923fd.zip,0fc923fd7946a73296ab7d1f3740667f6c53dad22b8cb84332badf905aeb4ea4
+"""开曼""适用于 Pixel 9 Pro",14.0.0（AD1A.240530.030.A1，2024 年 8 月，仅限印度）,https://googledownloads.cn/dl/android/aosp/caiman-ota-ad1a.240530.030.a1-9d217d6c.zip,9d217d6c9f563d061900b17a2f41459049990030efca58762952067b30693b69
+"""开曼""适用于 Pixel 9 Pro",14.0.0（AD1A.240530.030.A2，2024 年 8 月，VZW/美国新兴运营商 + gStore）,https://googledownloads.cn/dl/android/aosp/caiman-ota-ad1a.240530.030.a2-33df5025.zip,33df50258726eb51728abae75ff5be0bb0c5e50775d9aafd077f05b155e88d56
+"""开曼""适用于 Pixel 9 Pro",14.0.0（AD1A.240530.047，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/caiman-ota-ad1a.240530.047-eb7765ef.zip,eb7765ef229d6ae4ec612f0e96afeeeca6947d64468dd73e4e55c21f1ebe6926
+“科莫多”适用于 Pixel 9 Pro XL
+“科莫多”适用于 Pixel 9 Pro XL,14.0.0（AD1A.240530.030，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/komodo-ota-ad1a.240530.030-d76aa699.zip,d76aa69933b62cdc029efffd7c1b51442ba725f4aa6f088870acc529666b0138
+“科莫多”适用于 Pixel 9 Pro XL,14.0.0（AD1A.240530.030.A1，2024 年 8 月，仅限印度）,https://googledownloads.cn/dl/android/aosp/komodo-ota-ad1a.240530.030.a1-911531c4.zip,911531c434e916d1cfede4dc358b23bde72cb67f213815b25a87d9a6815e545d
+“科莫多”适用于 Pixel 9 Pro XL,14.0.0（AD1A.240530.030.A2，2024 年 8 月，VZW/美国新兴运营商 + gStore）,https://googledownloads.cn/dl/android/aosp/komodo-ota-ad1a.240530.030.a2-05bc8513.zip,05bc85139d21ac44a681c89893fc704f9220ceaae78fbcacba3de09836f606ad
+“科莫多”适用于 Pixel 9 Pro XL,14.0.0（AD1A.240530.047，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/komodo-ota-ad1a.240530.047-01e062a6.zip,01e062a698e968e6671aa633fc23b76a01db9861bde054ca37c0d20010db74b5
+“tokay”适用于 Pixel 9
+“tokay”适用于 Pixel 9,14.0.0（AD1A.240530.030，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/tokay-ota-ad1a.240530.030-5077f537.zip,5077f537a0fa4fb4af65a575f2541683e98a3be1c92c063555b32f8a5ec143de
+“tokay”适用于 Pixel 9,14.0.0（AD1A.240530.030.A1，2024 年 8 月，仅限印度）,https://googledownloads.cn/dl/android/aosp/tokay-ota-ad1a.240530.030.a1-d2b8e63a.zip,d2b8e63ad7c05f472ee87f6f65db1dc2793c6419f86443988e3713d93251f2ae
+“tokay”适用于 Pixel 9,14.0.0（AD1A.240530.030.A2，2024 年 8 月，VZW/美国新兴运营商 + gStore）,https://googledownloads.cn/dl/android/aosp/tokay-ota-ad1a.240530.030.a2-33964b07.zip,33964b07cbf71c872445e7a3a0ff7d3bf704c95f2c3ec0214324b097bb665101
+“tokay”适用于 Pixel 9,14.0.0（AD1A.240530.030.B1，2024 年 8 月，欧洲、中东和非洲地区 + 台湾 + 新加坡 + 澳大利亚 + 加拿大）,https://googledownloads.cn/dl/android/aosp/tokay-ota-ad1a.240530.030.b1-8d51f080.zip,8d51f0809c38c2cee282f6f1b8eaafa572ad6d37b6f34577083fbd015d3d491a
+“tokay”适用于 Pixel 9,14.0.0（AD1A.240530.047，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/tokay-ota-ad1a.240530.047-711b7179.zip,711b7179a1bb24023c8ca4bd9e143a888c3863eda0dcdaae70af1862695b91b7
 """秋田""适用于 Pixel 8a"
 """秋田""适用于 Pixel 8a",14.0.0（UD2A.231203.054，2024 年 5 月，欧洲、中东和非洲地区、亚太地区、日本）,https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.231203.054-6b2d9ff8.zip,6b2d9ff8f43675113fbd78bc7f2f5334304cfb90551cd15cdcd1f03a4e34f635
 """秋田""适用于 Pixel 8a",14.0.0（UD2A.231203.057，2024 年 5 月，AT&T、T-Mobile）,https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.231203.057-2c479937.zip,2c4799370320fd7fb84643550cc0103652f1f119131d864c3f315ba0a30b2e98
@@ -251,53 +267,53 @@ Model,Version,Download,SHA-256 Checksum
 “美洲豹”适用于 Pixel 7,14.0.0（AP2A.240605.024，2024 年 6 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-ap2a.240605.024-e6aff00e.zip,e6aff00ee8ad6b40b4474a8242c91bdea07f894d321cf897512e9ff0967ce7d8
 “美洲豹”适用于 Pixel 7,14.0.0（AP2A.240705.004，2024 年 7 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-ap2a.240705.004-5ce14c35.zip,5ce14c350d8eabe92e844d25473446a01f39688c0d14001fff10ef3631e1a8ab
 “美洲豹”适用于 Pixel 7,14.0.0（AP2A.240805.005，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-ap2a.240805.005-6c5543a9.zip,6c5543a9e282f37838b005b00d7011fdb6891bdb8cb9d1e874cd9c9bb9577d8c
-"""bluejay""适用于 Pixel 6a"
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.001.A1，2022 年 6 月，日本运营商）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip,bacd4108518f9e6b0908030bca1f7410b71526854351c41f918078607d4b16c3
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.004，2022 年 6 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip,a53caf37f76731525ed1d809d48950d585713bb0475a027fe78b4e12fd7b0f53
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.002，2022 年 6 月，AT&T、T-Mobile）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.002-344f1ec9.zip,344f1ec90934dd99354b5b424038be78d82de81db9df01bb2d120e758018fc36
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.003，2022 年 6 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.003-ddfde1f7.zip,ddfde1f7edcdbb2b3de41d24f6c3f31587f836f387cab4cc6d16adee32bcab8a
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.002.B1，2022 年 7 月，T-Mobile）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.002.b1-4af4ae37.zip,4af4ae37491c9349af5500a272dd3d1b256d738cc8dbc39411ea098c10f4b10d
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.001.B1，2022 年 7 月，日本运营商）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.001.b1-e51cd08a.zip,e51cd08a966bbf90b3b8eabd5cddd08cfb3a2b6e59f91f6cc0b19a71b9412c44
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.003.B1，2022 年 7 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.003.b1-8b8a81b7.zip,8b8a81b7496152c6c02e7f79f7eae60be0843785b042963a3fb9e329f517c1b8
-"""bluejay""适用于 Pixel 6a",12.1.0（SD2A.220601.004.B2，2022 年 7 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.004.b2-0fe6dde8.zip,0fe6dde8e0c6242bfad21b364a11fdf231a745eb918fb79b59b2ca627370c3b4
-"""bluejay""适用于 Pixel 6a",13.0.0（TP1A.220624.021.A1，2022 年 8 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.220624.021.a1-10f43b8b.zip,10f43b8bf31a3674756305c21d62e767fde23d278a3f19559fd2d6fba47a6509
-"""bluejay""适用于 Pixel 6a",13.0.0（TP1A.220905.004.A2，2022 年 9 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.220905.004.a2-1e3ce69c.zip,1e3ce69cc51d96bc25a61e204735e6d669e729c2866354a8ac31a8a3810fc8a4
-"""bluejay""适用于 Pixel 6a",13.0.0（TP1A.221005.003，2022 年 10 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.221005.003-574bf4cf.zip,574bf4cf0ad1f1cb563592a9dfa76876a70f9e5aa4c3e0afea4dcbbfe55d7320
-"""bluejay""适用于 Pixel 6a",13.0.0（TP1A.221105.002，2022 年 11 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.221105.002-1bd63cb3.zip,1bd63cb33d23288224f4a14891fc75e72d6483fb952f58ca095a8308765a0cb8
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ1A.221205.011，2022 年 12 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.221205.011-7a7b0700.zip,7a7b07000a677ab5654e70ea157f8eb6462214f95ba26585ffebf857f51f97a6
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ1A.221205.012，2022 年 12 月，O2 UK）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.221205.012-82b18cc0.zip,82b18cc0f3c4e0960adb7cb2b2f704ac75f78ce4bfae7a58692a7802ff292904
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ1A.230105.001.A2，2023 年 1 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.230105.001.a2-deb3f832.zip,deb3f8324f57a9e605fdac3500710c7efa38997532d930289fe89837d50497f6
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ1A.230205.001.D2，2023 年 2 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.230205.001.d2-df8c54e5.zip,df8c54e54403ae4c25f64fa93cda4e540e325b22c2f96d468119c55fd42083ec
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ1A.230205.002，2023 年 2 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.230205.002-1ec64b58.zip,1ec64b589cba8d9687ea8f85cf6c2e5d09c9e4fbdae15417aa06d5ba976fbe79
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ2A.230305.008.E1，2023 年 3 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230305.008.e1-915f9087.zip,915f9087b627b6961be9bb447dc63a7a1083b536753a78715e98641eaeb9c9d1
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ2A.230305.008.F1，2023 年 3 月，WINDTRE/加拿大）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230305.008.f1-295d6274.zip,295d6274dc3fa0f0087b749dfde65154970d5a68d2f271b71896dae176a3a735
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ2A.230405.003.E1，2023 年 4 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230405.003.e1-160f9d40.zip,160f9d40cfa18252c53d08e40476bbdd8788037ab1174ec1b70cff1acc9f000b
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ2A.230405.003.G1，2023 年 4 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230405.003.g1-295da789.zip,295da789cdb79d5628f05962f5a17554c2c510973b74e955d6ef922b34861b35
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ2A.230505.002，2023 年 5 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230505.002-3749a0fa.zip,3749a0fac4b30a871d228553a77ab873778cc19b969c64c7f65c986032369ef6
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ2A.230505.002.G1，2023 年 5 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230505.002.g1-519eabf6.zip,519eabf689dfd41a7294a0dee5a01a225aa9874e44a0f30e604ce6f5d371a1c0
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230605.010，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230605.010-a67dbf36.zip,a67dbf3626dd2f9fd187b83b738b7152b0200fb2bf031c469e00777b47f8b002
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230605.010.A1，2023 年 6 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230605.010.a1-9eb9836a.zip,9eb9836a27d0cc85ec583285522fbd025e78db5188baeec51ddbba4e4116e849
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230705.001，2023 年 7 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230705.001-1c9bce8d.zip,1c9bce8ded42b6cf1a133436ef902d2fda3f4c0c78a127f4611ab1067613d6fe
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230705.001.A1，2023 年 7 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230705.001.a1-27fe6ebc.zip,27fe6ebc5de2df260d6a249653ac18e0e0880dbd6e694475e852492031074347
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230805.001，2023 年 8 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230805.001-fb877f31.zip,fb877f31360713e433d608b47f52a9beadec67407269b4e3b60b35d2c19597b7
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230805.001.A1，2023 年 8 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230805.001.a1-037b273f.zip,037b273fac5b995c3126cc83b348f0b9bd71364746ce23fdfaf5526b334a4c2b
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230805.001.A2，2023 年 8 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230805.001.a2-c5deea95.zip,c5deea95435856c65c4e01e4135faf12b80ea9aa3858e599349a4868abdbdc5b
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230901.001，2023 年 9 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230901.001-1f1f0abe.zip,1f1f0abe67a6f6f47287be6dafec2c12628de6a715b82ca7beddaf67ad22aca5
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230901.001.C1，2023 年 9 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230901.001.c1-ec730797.zip,ec7307977edc55250e07bf5c6c18420758cd752ac2df9d0c14c16fdac5359bfd
-"""bluejay""适用于 Pixel 6a",13.0.0（TQ3A.230901.001.C2，2023 年 9 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230901.001.c2-5d128166.zip,5d128166c9af400b1df33fb104666df660452ba68177994cf166be38f64709f6
-"""bluejay""适用于 Pixel 6a",14.0.0（UP1A.231005.007，2023 年 10 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231005.007-b0c46acf.zip,b0c46acfbd5aaaf93cba51944be86cce17ee30323c38af3c9a3bbfffbe535cb6
-"""bluejay""适用于 Pixel 6a",14.0.0（UP1A.231005.007.A1，2023 年 10 月，AT&T）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231005.007.a1-1d3f9743.zip,1d3f9743ce70f6eba63e39e2a36b58c28eba0ab21526e3596c9ae91e75810350
-"""bluejay""适用于 Pixel 6a",14.0.0（UP1A.231105.003，2023 年 11 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231105.003-8f9f1dcd.zip,8f9f1dcd832bd1ed117b2375eb078aa3cae466d41ce9bb48584429c16e9c6d0b
-"""bluejay""适用于 Pixel 6a",14.0.0（UP1A.231105.003.A1，2023 年 11 月，AT&T）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231105.003.a1-0e8dfe02.zip,0e8dfe024c9aefea4de9b691c68f3c0493eda1932d0870f0f06173d1917c9004
-"""bluejay""适用于 Pixel 6a",14.0.0（UQ1A.231205.015，2023 年 12 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-uq1a.231205.015-2503078c.zip,2503078c241b1edb8df6a14481b8a7fc29792bc4b00c240336e334c335c5581
-"""bluejay""适用于 Pixel 6a",14.0.0（UQ1A.240105.002，2024 年 1 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-uq1a.240105.002-6e3cf627.zip,6e3cf627f60d1c005569196291ce7ed53fd2dd64872d623c160fc019eb9596c7
-"""bluejay""适用于 Pixel 6a",14.0.0（UQ1A.240205.002，2024 年 2 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-uq1a.240205.002-3eb29a13.zip,3eb29a13b4b1e9507b6e4074bf9325837de72bc1dd7fd45e84d5c4670a09e84d
-"""bluejay""适用于 Pixel 6a",14.0.0（AP1A.240305.019.A1，2024 年 3 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap1a.240305.019.a1-fd58dc50.zip,fd58dc50aa0ab8c992e211fd161fe1490938c952ea312b37f86a9d2eff2522c0
-"""bluejay""适用于 Pixel 6a",14.0.0（AP1A.240405.002，2024 年 4 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap1a.240405.002-6114363c.zip,6114363cea4102798bd7d27f3ec59ed04f45eec1901ce0c5247777a0e7b5912c
-"""bluejay""适用于 Pixel 6a",14.0.0（AP1A.240505.004，2024 年 5 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap1a.240505.004-1170ac40.zip,1170ac408f05351cc64a749b6a5dc6063f83323ed704e33845fc5297979ba035
-"""bluejay""适用于 Pixel 6a",14.0.0（AP2A.240605.024，2024 年 6 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap2a.240605.024-f8a734a3.zip,f8a734a35362604436aa42106343acf1c6441cb6ca60d85cf351f0ad79ddacd9
-"""bluejay""适用于 Pixel 6a",14.0.0（AP2A.240705.004，2024 年 7 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap2a.240705.004-0b2bc993.zip,0b2bc993977cc222071cdf8f01be037fdfa106064b53225ec1c9d96692c04c91
-"""bluejay""适用于 Pixel 6a",14.0.0（AP2A.240805.005.F1，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap2a.240805.005.f1-cfb82605.zip,cfb8260531c0b7aaea31d2820bd9ef16054791b8b9c82f790714abf45ef14aec
+&quot;bluejay&quot;适用于 Pixel 6a
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.001.A1，2022 年 6 月，日本运营商）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip,bacd4108518f9e6b0908030bca1f7410b71526854351c41f918078607d4b16c3
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.004，2022 年 6 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip,a53caf37f76731525ed1d809d48950d585713bb0475a027fe78b4e12fd7b0f53
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.002，2022 年 6 月，AT&T、T-Mobile）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.002-344f1ec9.zip,344f1ec90934dd99354b5b424038be78d82de81db9df01bb2d120e758018fc36
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.003，2022 年 6 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.003-ddfde1f7.zip,ddfde1f7edcdbb2b3de41d24f6c3f31587f836f387cab4cc6d16adee32bcab8a
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.002.B1，2022 年 7 月，T-Mobile）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.002.b1-4af4ae37.zip,4af4ae37491c9349af5500a272dd3d1b256d738cc8dbc39411ea098c10f4b10d
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.001.B1，2022 年 7 月，日本运营商）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.001.b1-e51cd08a.zip,e51cd08a966bbf90b3b8eabd5cddd08cfb3a2b6e59f91f6cc0b19a71b9412c44
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.003.B1，2022 年 7 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.003.b1-8b8a81b7.zip,8b8a81b7496152c6c02e7f79f7eae60be0843785b042963a3fb9e329f517c1b8
+&quot;bluejay&quot;适用于 Pixel 6a,12.1.0（SD2A.220601.004.B2，2022 年 7 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.004.b2-0fe6dde8.zip,0fe6dde8e0c6242bfad21b364a11fdf231a745eb918fb79b59b2ca627370c3b4
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TP1A.220624.021.A1，2022 年 8 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.220624.021.a1-10f43b8b.zip,10f43b8bf31a3674756305c21d62e767fde23d278a3f19559fd2d6fba47a6509
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TP1A.220905.004.A2，2022 年 9 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.220905.004.a2-1e3ce69c.zip,1e3ce69cc51d96bc25a61e204735e6d669e729c2866354a8ac31a8a3810fc8a4
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TP1A.221005.003，2022 年 10 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.221005.003-574bf4cf.zip,574bf4cf0ad1f1cb563592a9dfa76876a70f9e5aa4c3e0afea4dcbbfe55d7320
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TP1A.221105.002，2022 年 11 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tp1a.221105.002-1bd63cb3.zip,1bd63cb33d23288224f4a14891fc75e72d6483fb952f58ca095a8308765a0cb8
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ1A.221205.011，2022 年 12 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.221205.011-7a7b0700.zip,7a7b07000a677ab5654e70ea157f8eb6462214f95ba26585ffebf857f51f97a6
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ1A.221205.012，2022 年 12 月，O2 UK）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.221205.012-82b18cc0.zip,82b18cc0f3c4e0960adb7cb2b2f704ac75f78ce4bfae7a58692a7802ff292904
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ1A.230105.001.A2，2023 年 1 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.230105.001.a2-deb3f832.zip,deb3f8324f57a9e605fdac3500710c7efa38997532d930289fe89837d50497f6
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ1A.230205.001.D2，2023 年 2 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.230205.001.d2-df8c54e5.zip,df8c54e54403ae4c25f64fa93cda4e540e325b22c2f96d468119c55fd42083ec
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ1A.230205.002，2023 年 2 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq1a.230205.002-1ec64b58.zip,1ec64b589cba8d9687ea8f85cf6c2e5d09c9e4fbdae15417aa06d5ba976fbe79
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ2A.230305.008.E1，2023 年 3 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230305.008.e1-915f9087.zip,915f9087b627b6961be9bb447dc63a7a1083b536753a78715e98641eaeb9c9d1
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ2A.230305.008.F1，2023 年 3 月，WINDTRE/加拿大）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230305.008.f1-295d6274.zip,295d6274dc3fa0f0087b749dfde65154970d5a68d2f271b71896dae176a3a735
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ2A.230405.003.E1，2023 年 4 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230405.003.e1-160f9d40.zip,160f9d40cfa18252c53d08e40476bbdd8788037ab1174ec1b70cff1acc9f000b
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ2A.230405.003.G1，2023 年 4 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230405.003.g1-295da789.zip,295da789cdb79d5628f05962f5a17554c2c510973b74e955d6ef922b34861b35
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ2A.230505.002，2023 年 5 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230505.002-3749a0fa.zip,3749a0fac4b30a871d228553a77ab873778cc19b969c64c7f65c986032369ef6
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ2A.230505.002.G1，2023 年 5 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq2a.230505.002.g1-519eabf6.zip,519eabf689dfd41a7294a0dee5a01a225aa9874e44a0f30e604ce6f5d371a1c0
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230605.010，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230605.010-a67dbf36.zip,a67dbf3626dd2f9fd187b83b738b7152b0200fb2bf031c469e00777b47f8b002
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230605.010.A1，2023 年 6 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230605.010.a1-9eb9836a.zip,9eb9836a27d0cc85ec583285522fbd025e78db5188baeec51ddbba4e4116e849
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230705.001，2023 年 7 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230705.001-1c9bce8d.zip,1c9bce8ded42b6cf1a133436ef902d2fda3f4c0c78a127f4611ab1067613d6fe
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230705.001.A1，2023 年 7 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230705.001.a1-27fe6ebc.zip,27fe6ebc5de2df260d6a249653ac18e0e0880dbd6e694475e852492031074347
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230805.001，2023 年 8 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230805.001-fb877f31.zip,fb877f31360713e433d608b47f52a9beadec67407269b4e3b60b35d2c19597b7
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230805.001.A1，2023 年 8 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230805.001.a1-037b273f.zip,037b273fac5b995c3126cc83b348f0b9bd71364746ce23fdfaf5526b334a4c2b
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230805.001.A2，2023 年 8 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230805.001.a2-c5deea95.zip,c5deea95435856c65c4e01e4135faf12b80ea9aa3858e599349a4868abdbdc5b
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230901.001，2023 年 9 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230901.001-1f1f0abe.zip,1f1f0abe67a6f6f47287be6dafec2c12628de6a715b82ca7beddaf67ad22aca5
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230901.001.C1，2023 年 9 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230901.001.c1-ec730797.zip,ec7307977edc55250e07bf5c6c18420758cd752ac2df9d0c14c16fdac5359bfd
+&quot;bluejay&quot;适用于 Pixel 6a,13.0.0（TQ3A.230901.001.C2，2023 年 9 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-tq3a.230901.001.c2-5d128166.zip,5d128166c9af400b1df33fb104666df660452ba68177994cf166be38f64709f6
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（UP1A.231005.007，2023 年 10 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231005.007-b0c46acf.zip,b0c46acfbd5aaaf93cba51944be86cce17ee30323c38af3c9a3bbfffbe535cb6
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（UP1A.231005.007.A1，2023 年 10 月，AT&T）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231005.007.a1-1d3f9743.zip,1d3f9743ce70f6eba63e39e2a36b58c28eba0ab21526e3596c9ae91e75810350
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（UP1A.231105.003，2023 年 11 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231105.003-8f9f1dcd.zip,8f9f1dcd832bd1ed117b2375eb078aa3cae466d41ce9bb48584429c16e9c6d0b
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（UP1A.231105.003.A1，2023 年 11 月，AT&T）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-up1a.231105.003.a1-0e8dfe02.zip,0e8dfe024c9aefea4de9b691c68f3c0493eda1932d0870f0f06173d1917c9004
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（UQ1A.231205.015，2023 年 12 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-uq1a.231205.015-2503078c.zip,2503078c241b1edb8df6a14481b8a7fc29792bc4b00c240336e334c335c5581
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（UQ1A.240105.002，2024 年 1 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-uq1a.240105.002-6e3cf627.zip,6e3cf627f60d1c005569196291ce7ed53fd2dd64872d623c160fc019eb9596c7
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（UQ1A.240205.002，2024 年 2 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-uq1a.240205.002-3eb29a13.zip,3eb29a13b4b1e9507b6e4074bf9325837de72bc1dd7fd45e84d5c4670a09e84d
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（AP1A.240305.019.A1，2024 年 3 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap1a.240305.019.a1-fd58dc50.zip,fd58dc50aa0ab8c992e211fd161fe1490938c952ea312b37f86a9d2eff2522c0
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（AP1A.240405.002，2024 年 4 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap1a.240405.002-6114363c.zip,6114363cea4102798bd7d27f3ec59ed04f45eec1901ce0c5247777a0e7b5912c
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（AP1A.240505.004，2024 年 5 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap1a.240505.004-1170ac40.zip,1170ac408f05351cc64a749b6a5dc6063f83323ed704e33845fc5297979ba035
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（AP2A.240605.024，2024 年 6 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap2a.240605.024-f8a734a3.zip,f8a734a35362604436aa42106343acf1c6441cb6ca60d85cf351f0ad79ddacd9
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（AP2A.240705.004，2024 年 7 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap2a.240705.004-0b2bc993.zip,0b2bc993977cc222071cdf8f01be037fdfa106064b53225ec1c9d96692c04c91
+&quot;bluejay&quot;适用于 Pixel 6a,14.0.0（AP2A.240805.005.F1，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-ap2a.240805.005.f1-cfb82605.zip,cfb8260531c0b7aaea31d2820bd9ef16054791b8b9c82f790714abf45ef14aec
 """oriole""适用于 Pixel 6"
 """oriole""适用于 Pixel 6",12.0.0（SD1A.210817.015.A4，2021 年 10 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip,19a77b62a80732b0e20d3ac369288fc827554c1a8c109c6e9fa2a420998dd826
 """oriole""适用于 Pixel 6",12.0.0（SD1A.210817.019.B1，2021 年 10 月，AT&T）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip,67195ca0fa1f9cfc9f331ab3e4f44fdbf819896059dcb1819c1125edef854c25
@@ -1367,16 +1383,16 @@ Model,Version,Download,SHA-256 Checksum
 “bullhead”Nexus 5X 专用,8.1.0（OPM7.181005.003，2018 年 10 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opm7.181005.003-94150a78.zip,94150a7894a98768c251156d0f50d7a08b2246867e4044c2c4523af0cefa6d32
 “bullhead”Nexus 5X 专用,8.1.0（OPM7.181105.004，2018 年 11 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opm7.181105.004-1520cb0b.zip,1520cb0bbdf9229cb0acc95760d132053802fc28f442678c42a3b1864d60eb64
 “bullhead”Nexus 5X 专用,8.1.0（OPM7.181205.001，2018 年 12 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opm7.181205.001-b1af2457.zip,b1af2457a90503c56d45019a1901480bf9218ac02c7b7768d01fdc4e2de17078
-“锤子”适用于 Nexus 5 (GSM/LTE)
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mmb29x-13c27a19.zip,13c27a19d036140ef17c3d7b53b06f819258077cfdf52bc5900d9975f6b27c6f
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30d-74ff57bc.zip,74ff57bc6526cc0349b78856beed7f20bf9572198d6c7331881d952afb06ebca
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30H),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30h-672f59e1.zip,672f59e1c1f441df229026ffbc42d4dc125f2548e3e258a07f18d71e1c5974f7
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（3000 万 MOB）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30m-1af36a17.zip,1af36a1788360dbae08f3dd9fce905f65ca0942078acafc807600910e066ea5c
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30p-d447411d.zip,d447411d0ecb7c4ce16a08f57750aa53708cbe2bdd5c90061255ec4ce3e431e1
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（MOB30Y）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30y-308025d1.zip,308025d1faacb235fc7a07f1e1612b0be5c1d5d326d7a39af3d0ed42a0851e7f
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB31E),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob31e-284a96a5.zip,284a96a504593216c61d2460ce899d34a4d3699f09039d6e54cd9c540aa217b2
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30X，2016 年 10 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30x-f2eb90a8.zip,f2eb90a8da6bb28731dbcd72b47b2e228720cb815954614f707d421751c02881
-“锤子”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30Z，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30z-752c16b1.zip,752c16b1f819d051d1d11ebd5be001c6118abbb0e31d099c6a286dbd30342f67
+“hammerhead”适用于 Nexus 5 (GSM/LTE)
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mmb29x-13c27a19.zip,13c27a19d036140ef17c3d7b53b06f819258077cfdf52bc5900d9975f6b27c6f
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30d-74ff57bc.zip,74ff57bc6526cc0349b78856beed7f20bf9572198d6c7331881d952afb06ebca
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30H),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30h-672f59e1.zip,672f59e1c1f441df229026ffbc42d4dc125f2548e3e258a07f18d71e1c5974f7
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（3000 万 MOB）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30m-1af36a17.zip,1af36a1788360dbae08f3dd9fce905f65ca0942078acafc807600910e066ea5c
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30p-d447411d.zip,d447411d0ecb7c4ce16a08f57750aa53708cbe2bdd5c90061255ec4ce3e431e1
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（MOB30Y）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30y-308025d1.zip,308025d1faacb235fc7a07f1e1612b0be5c1d5d326d7a39af3d0ed42a0851e7f
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1 (MOB31E),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob31e-284a96a5.zip,284a96a504593216c61d2460ce899d34a4d3699f09039d6e54cd9c540aa217b2
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30X，2016 年 10 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30x-f2eb90a8.zip,f2eb90a8da6bb28731dbcd72b47b2e228720cb815954614f707d421751c02881
+“hammerhead”适用于 Nexus 5 (GSM/LTE),6.0.1（M4B30Z，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30z-752c16b1.zip,752c16b1f819d051d1d11ebd5be001c6118abbb0e31d099c6a286dbd30342f67
 “shamu”Nexus 6 适用
 “shamu”Nexus 6 适用,6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/shamu-ota-mmb29x-27102553.zip,271025536502b0a1357022df0fe7cc4a2f0dbf9744f088b04057c7bfd2dfb6f2
 “shamu”Nexus 6 适用,6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/shamu-ota-mob30d-6505ca97.zip,6505ca973e14c11a93f70d0a6a8c12485cac127558f64f4c10424e205b973f91
