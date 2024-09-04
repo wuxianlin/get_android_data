@@ -1,4 +1,10 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2024-44092,2024-09-01,A-345848543 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=LCS
+CVE-2024-44093,2024-09-01,A-330446276 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=LDFW
+CVE-2024-44094,2024-09-01,A-331986883 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=LDFW
+CVE-2024-44095,2024-09-01,A-332758377 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=LDFW
+CVE-2024-29779,2024-09-01,A-336862373 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=Pre-install App
+CVE-2024-44096,2024-09-01,A-342511931 [*](#asterisk),ID,High,N/A,Pixel,N/A,Subcomponent=S2MPU
 CVE-2024-32927,2024-08-01,A-312268456 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=RIL
 CVE-2023-28577,2024-08-01,A-283319714 [*](#asterisk),N/A,Moderate,N/A,Qualcomm-components,N/A,Subcomponent=Camera
 CVE-2024-21459,2024-08-01,A-323926776 [*](#asterisk),N/A,Moderate,N/A,Qualcomm-components,N/A,Subcomponent=WLAN
