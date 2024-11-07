@@ -1,4 +1,7 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2024-47038,2024-11-01,A-350472698 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Kernel
+CVE-2024-47040,2024-11-01,A-353493525 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=ISap
+CVE-2024-47039,2024-11-01,A-353516777 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=bootctrl
 CVE-2024-47012,2024-10-01,A-322820753 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=Pixel Modem
 CVE-2024-47016,2024-10-01,A-328221525 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=ACPM
 CVE-2024-47024,2024-10-01,A-340720879 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=Trusty
