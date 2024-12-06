@@ -1,4 +1,18 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2024-39343,2024-12-01,A-353868438 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
+CVE-2024-53842,2024-12-01,A-353868441 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
+CVE-2024-8257,2024-12-01,A-319068397 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=eSIM
+CVE-2024-11624,2024-12-01,A-285589809 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=VPN
+CVE-2024-53835,2024-12-01,A-360158501 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=FPS
+CVE-2024-53840,2024-12-01,A-360158666 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=FPS
+CVE-2024-47032,2024-12-01,A-350685433 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,Subcomponent=lwis
+CVE-2024-53833,2024-12-01,A-334777015 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,Subcomponent=LWIS
+CVE-2024-53836,2024-12-01,A-353960559 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,Subcomponent=WLAN
+CVE-2024-53837,2024-12-01,A-334780143 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,Subcomponent=lwis
+CVE-2024-53838,2024-12-01,A-349130926 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,Subcomponent=HWC HAL
+CVE-2024-53841,2024-12-01,A-335213696 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,Subcomponent=ConnectivityThermalPowerManager
+CVE-2024-53834,2024-12-01,A-315649952 [*](#asterisk),ID,Moderate,N/A,Pixel,N/A,Subcomponent=Modem
+CVE-2024-53839,2024-12-01,A-355817499 [*](#asterisk),ID,Moderate,N/A,Pixel,N/A,Subcomponent=Exynos RIL
 CVE-2024-47038,2024-11-01,A-350472698 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Kernel
 CVE-2024-47040,2024-11-01,A-353493525 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=ISap
 CVE-2024-47039,2024-11-01,A-353516777 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=bootctrl
