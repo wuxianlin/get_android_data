@@ -54,6 +54,7 @@ POCO,POCO M6,moon,2404APC5FG
 POCO,POCO M6 Plus 5G,breeze,24066PC95I
 POCO,POCO M6 Pro,emerald,2312FPCA6G
 POCO,POCO M6 Pro 5G,sky,23076PC4BI
+POCO,POCO M7 Pro 5G,beryl,2409FPCC4I
 POCO,POCO X2,phoenixin,POCO X2
 POCO,POCO X3,karna,M2007J20CI
 POCO,POCO X3 NFC,surya,M2007J20CG
@@ -171,6 +172,7 @@ Redmi,Redmi A3,blue,2312CRNCCL
 Redmi,Redmi A3x,klein,24044RN32L
 Redmi,Redmi A3x,klein,24048RN6CG
 Redmi,Redmi A3x,klein,24048RN6CI
+Redmi,Redmi A4 5G,warm,24116RNC1I
 Redmi,Redmi K20,davinci,Mi 9T
 Redmi,Redmi K20,davinci,Redmi K20
 Redmi,Redmi K20,davinciin,Redmi K20
@@ -280,6 +282,7 @@ Redmi,Redmi Note 13 Pro+ 5G,zircon,23090RA98I
 Redmi,Redmi Note 13 Pro+ 5G,zircon,24040RA98R
 Redmi,Redmi Note 13R,breeze,2406ERN9CC
 Redmi,Redmi Note 14 5G,beryl,24094RAD4C
+Redmi,Redmi Note 14 5G,beryl,24094RAD4I
 Redmi,Redmi Note 14 Pro,malachite,24090RA29C
 Redmi,Redmi Note 14 Pro+,amethyst,24115RA8EC
 Redmi,Redmi Note 7,lavender,Redmi Note 7
@@ -592,8 +595,11 @@ Xiaomi,Xiaomi 14 Pro,shennong,2311BPN23C
 Xiaomi,Xiaomi 14 Ultra,aurora,24030PN60G
 Xiaomi,Xiaomi 14 Ultra,aurora,24031PN0DC
 Xiaomi,Xiaomi 14 Ultra,aurora,Xiaomi for arm64
+Xiaomi,Xiaomi 14T,XIG07,XIG07
 Xiaomi,Xiaomi 14T,degas,2406APNFAG
 Xiaomi,Xiaomi 14T Pro,rothko,2407FPN8EG
+Xiaomi,Xiaomi 15,dada,24129PN74C
+Xiaomi,Xiaomi 15 Pro,haotian,2410DPN6CC
 Xiaomi,Xiaomi Civi,mona,2109119BC
 Xiaomi,Xiaomi Civi 1S,zijin,2109119BC
 Xiaomi,Xiaomi Civi 4,chenfeng,24053PY09C
