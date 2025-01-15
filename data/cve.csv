@@ -1,7 +1,5 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
-CVE-2023-33111,2024-01-01,A-303107435 [*](#asterisk),N/A,Moderate,N/A,qualcomm-components,N/A,Subcomponent=Audio
-CVE-2023-28583,2024-01-01,A-290063847 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
-CVE-2023-33038,2024-01-01,A-290064136 [*](#asterisk),N/A,Moderate,N/A,qualcomm-closed-source,N/A,Subcomponent=Closed-source component
+CVE-2024-53842,2025-01-01,A-353868441 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Baseband
 CVE-2024-39343,2024-12-01,A-353868438 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
 CVE-2024-53842,2024-12-01,A-353868441 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
 CVE-2024-8257,2024-12-01,A-319068397 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=eSIM
