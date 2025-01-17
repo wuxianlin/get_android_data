@@ -2,7 +2,6 @@ cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,com
 CVE-2024-53842,2025-01-01,A-353868441 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Baseband
 CVE-2024-39343,2024-12-01,A-353868438 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
 CVE-2024-53842,2024-12-01,A-353868441 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
-CVE-2024-8257,2024-12-01,A-319068397 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=eSIM
 CVE-2024-11624,2024-12-01,A-285589809 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=VPN
 CVE-2024-53835,2024-12-01,A-360158501 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=FPS
 CVE-2024-53840,2024-12-01,A-360158666 [*](#asterisk),EoP,High,N/A,Pixel,N/A,Subcomponent=FPS
