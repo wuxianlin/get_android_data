@@ -72,8 +72,11 @@ POCO,POCO X6 5G,garnet,23122PCD1G
 POCO,POCO X6 5G,garnet,23122PCD1I
 POCO,POCO X6 Pro 5G,duchamp,2311DRK48G
 POCO,POCO X6 Pro 5G,duchamp,2311DRK48I
+POCO,POCO X7,malachite,24095PCADG
+POCO,POCO X7,malachite,24095PCADI
 POCO,POCO X7 Pro,rodin,2412DPC0AG
 POCO,POCO X7 Pro,rodin,2412DPC0AI
+POCO,Poco M7 Pro 5G,citrine,2409FPCC4G
 Redmi,K30 PRO,lmi,Lmi
 Redmi,K30 PRO,lmi,Redmi K30 Pro
 Redmi,Mi  9T  Pro,raphaelin,Redmi K20 Pro
@@ -295,10 +298,13 @@ Redmi,Redmi Note 14,tanzanite,24117RN76L
 Redmi,Redmi Note 14,tanzanite,24117RN76O
 Redmi,Redmi Note 14 5G,beryl,24094RAD4C
 Redmi,Redmi Note 14 5G,beryl,24094RAD4I
+Redmi,Redmi Note 14 5G,citrine,24094RAD4G
 Redmi,Redmi Note 14 Pro,malachite,24090RA29C
 Redmi,Redmi Note 14 Pro,obsidian,24116RACCG
+Redmi,Redmi Note 14 Pro 5G,malachite,24090RA29G
 Redmi,Redmi Note 14 Pro 5G,malachite,24090RA29I
 Redmi,Redmi Note 14 Pro+,amethyst,24115RA8EC
+Redmi,Redmi Note 14 Pro+ 5G,amethyst,24115RA8EG
 Redmi,Redmi Note 14 Pro+ 5G,amethyst,24115RA8EI
 Redmi,Redmi Note 7,lavender,Redmi Note 7
 Redmi,Redmi Note 8,biloba,M1908C3JGG
@@ -636,6 +642,7 @@ Xiaomi,Xiaomi Pad 6,pipa,23043RP34I
 Xiaomi,Xiaomi Pad 6 Max 14,yudi,2307BRPDCC
 Xiaomi,Xiaomi Pad 6S Pro 12.4,sheng,24018RPACG
 Xiaomi,Xiaomi Pad 7,uke,2410CRP4CC
+Xiaomi,Xiaomi Pad 7,uke,2410CRP4CI
 Xiaomi,Xiaomi Pad 7 Pro,muyu,24091RPADC
 Xiaomi,Xiaomi TV Box S (2nd Gen),jaws,MiTV-AFKR0
 Xiaomi,Xiaomi TV stick 4K,soul,MiTV-AYFR0
