@@ -1,4 +1,11 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2025-22377,2025-03-01,A-383333278 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Pixel Modem
+CVE-2024-56187,2025-03-01,A-306032268 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=LDFW
+CVE-2024-56188,2025-03-01,A-303771271 [*](#asterisk),DoS,High,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2024-56184,2025-03-01,A-359861209 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Trusty
+CVE-2024-56185,2025-03-01,A-364794723 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Exynos RIL
+CVE-2024-56186,2025-03-01,A-353680998 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2024-20003,2025-03-01,A-365755647 [*](#asterisk),DoS,Moderate,N/A,pixel,N/A,Subcomponent=Pixel Modem
 CVE-2024-53842,2025-01-01,A-353868441 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Baseband
 CVE-2024-39343,2024-12-01,A-353868438 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
 CVE-2024-53842,2024-12-01,A-353868441 [*](#asterisk),RCE,Critical,N/A,Pixel,N/A,Subcomponent=Cellular baseband
