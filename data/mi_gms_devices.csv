@@ -25,6 +25,7 @@ POCO,POCO C61,blue,2312BPC51H
 POCO,POCO C61,blue,2312BPC51X
 POCO,POCO C65,gale,2310FPCA4I
 POCO,POCO C65,gust,2310FPCA4G
+POCO,POCO C71,serenity,25028PC03G
 POCO,POCO C75,lake,2410FPCC5G
 POCO,POCO C75 5G,warm,24116PCC1I
 POCO,POCO F2 Pro,lmi,POCO F2 Pro
@@ -184,6 +185,9 @@ Redmi,Redmi A3x,klein,24044RN32L
 Redmi,Redmi A3x,klein,24048RN6CG
 Redmi,Redmi A3x,klein,24048RN6CI
 Redmi,Redmi A4 5G,warm,24116RNC1I
+Redmi,Redmi A5,serenity,25028RN03A
+Redmi,Redmi A5,serenity,25028RN03L
+Redmi,Redmi A5,serenity,25028RN03Y
 Redmi,Redmi K20,davinci,Mi 9T
 Redmi,Redmi K20,davinci,Redmi K20
 Redmi,Redmi K20,davinciin,Redmi K20
@@ -630,6 +634,7 @@ Xiaomi,Xiaomi 15,dada,24129PN74I
 Xiaomi,Xiaomi 15 Pro,haotian,2410DPN6CC
 Xiaomi,Xiaomi 15 Ultra,xuanyuan,25010PN30C
 Xiaomi,Xiaomi 15 Ultra,xuanyuan,25010PN30G
+Xiaomi,Xiaomi 15 Ultra,xuanyuan,25010PN30I
 Xiaomi,Xiaomi 15 Ultra,xuanyuan,25019PNF3C
 Xiaomi,Xiaomi Civi,mona,2109119BC
 Xiaomi,Xiaomi Civi 1S,zijin,2109119BC
