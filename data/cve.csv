@@ -1,4 +1,7 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2025-26415,2025-04-01,A-385736329 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Google Assistant
+CVE-2024-56190,2025-04-01,A-376740254 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Broadcom WLAN driver
+CVE-2024-56189,2025-04-01,A-364795059 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-22377,2025-03-01,A-383333278 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Pixel Modem
 CVE-2024-56187,2025-03-01,A-306032268 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=LDFW
 CVE-2024-56188,2025-03-01,A-303771271 [*](#asterisk),DoS,High,N/A,pixel,N/A,Subcomponent=Modem
