@@ -1,4 +1,7 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2025-27700,2025-05-01,A-330507809 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=oobconfig
+CVE-2024-56193,2025-05-01,A-238299155 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Bluetooth
+CVE-2025-27701,2025-05-01,A-384814655 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Kernel
 CVE-2025-26415,2025-04-01,A-385736329 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Google Assistant
 CVE-2024-56190,2025-04-01,A-376740254 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Broadcom WLAN driver
 CVE-2024-56189,2025-04-01,A-364795059 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Modem
