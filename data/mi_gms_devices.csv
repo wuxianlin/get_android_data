@@ -40,6 +40,7 @@ POCO,POCO F5,marble,23049PCD8I
 POCO,POCO F6,peridot,24069PC21G
 POCO,POCO F6,peridot,24069PC21I
 POCO,POCO F6 Pro,vermeer,23113RKC6G
+POCO,POCO F7 Pro,zorn,24117RK2CG
 POCO,POCO F7 Ultra,miro,24122RKC7G
 POCO,POCO M2,shiva,M2004J19PI
 POCO,POCO M2 Pro,gram,POCO M2 Pro
@@ -86,6 +87,8 @@ Redmi,Mi  9T  Pro,raphaelin,Redmi K20 Pro
 Redmi,Mi 9T,davinci,Mi 9T
 Redmi,MiTV,rango,MiTV-AXFR0
 Redmi,POCO F5,marblein,23049PCD8I
+Redmi,REDMI K80,zorn,24117RK2CC
+Redmi,REDMI K80 Pro,miro,24122RKC7C
 Redmi,REDMI Turbo 4,rodin,24129RT7CC
 Redmi,REDMI Turbo 4 Pro,onyx,25053RT47C
 Redmi,Redmi  7A,pine,Redmi 7A
@@ -542,6 +545,7 @@ Xiaomi,MiTV,watchmen,MiTV-AXFR2
 Xiaomi,MiTV2,entrapment,MiTV2
 Xiaomi,MiTV4C,matrix,MiTV4C
 Xiaomi,POCO F1,beryllium,POCOPHONE F1
+Xiaomi,POCO F7 Pro,zorn,24117RK2CG
 Xiaomi,POCO M5s,rosemary,2207117BPG
 Xiaomi,Redmi,HM2013023,2013023
 Xiaomi,Redmi  Go,tiare,Redmi Go
