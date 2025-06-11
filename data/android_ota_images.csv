@@ -3,6 +3,7 @@ Model,Version,Download,SHA-256 Checksum
 “tegu”适用于 Pixel 9a,"15.0.0 (BD4A.240925.111, 2025 年 4 月)",https://googledownloads.cn/dl/android/aosp/tegu-ota-bd4a.240925.111-2e1b0f30.zip,2e1b0f30cfc79bc1125aed9cf4eacc84e38a2a288e511e0e5129ae20a335f2fe
 “tegu”适用于 Pixel 9a,15.0.0（BD4A.250405.003，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/tegu-ota-bd4a.250405.003-9387d8f0.zip,9387d8f01bd877da9a78f2890c6e58b4014e1a3c12105b73590a80e00aba649e
 “tegu”适用于 Pixel 9a,"15.0.0 (BD4A.250505.003, 2025 年 5 月)",https://googledownloads.cn/dl/android/aosp/tegu-ota-bd4a.250505.003-06eb56e8.zip,06eb56e8bbaf4c593e730b74285519a82bcc5727ea309d1815c944e5f259d18d
+“tegu”适用于 Pixel 9a,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/tegu-ota-bp2a.250605.031.a2-ec03acfb.zip,ec03acfb955eaa7ee4fea409a4a7a28b01c93647f60e34bc75a28ecf196319b4
 “comet”(适用于 Pixel 9 Pro Fold)
 “comet”(适用于 Pixel 9 Pro Fold),14.0.0（AD1A.240530.030，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/comet-ota-ad1a.240530.030-98066022.zip,98066022ebf9482a956b7135f831b7bf1c66f43667193fcb1ddd2adf681f1383
 “comet”(适用于 Pixel 9 Pro Fold),14.0.0（AD1A.240530.030.A1，2024 年 8 月，仅限印度）,https://googledownloads.cn/dl/android/aosp/comet-ota-ad1a.240530.030.a1-1d0d3c25.zip,1d0d3c2590130b636f3ab7a015b84eb1db7d4eb82b4b0266f5097ae1efa3bc3c
@@ -23,13 +24,14 @@ Model,Version,Download,SHA-256 Checksum
 “comet”(适用于 Pixel 9 Pro Fold),15.0.0（BP1A.250305.020，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250305.020-04e1162a.zip,04e1162afd6c7ae41b5e09bb0697b78bf28858766f6d19ad17cfc9ffab9dafaa
 “comet”(适用于 Pixel 9 Pro Fold),15.0.0（BP1A.250305.020.A2，2025 年 3 月，欧洲、中东和非洲地区 + 台湾）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250305.020.a2-f0ed7a81.zip,f0ed7a8167f52c64d29cd52beda7341d2ca68bc7be491a9270184110c6007d6f
 “comet”(适用于 Pixel 9 Pro Fold),15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250405.007-3b5a62aa.zip,3b5a62aab3c6d61f455025b40f166e8146339061b54bacc51cdc277a923cfc0a
-“comet”(适用于 Pixel 9 Pro Fold),"15.0.0 (BP1A.250405.007.A1, 2025 年 4 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250405.007.a1-f490c392.zip,f490c3923f1d5ec59dda166c105befbea5cb7b6b5b5290d5a5bda50a3897feaf
+“comet”(适用于 Pixel 9 Pro Fold),"15.0.0 (BP1A.250405.007.A1, Apr 2025, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250405.007.a1-f490c392.zip,f490c3923f1d5ec59dda166c105befbea5cb7b6b5b5290d5a5bda50a3897feaf
 “comet”(适用于 Pixel 9 Pro Fold),15.0.0（BP1A.250405.007.C1，2025 年 4 月，DTAG）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250405.007.c1-f19674e7.zip,f19674e7f2495c08207bc2b3805d0e2cc7e4a9bcbc80ffb31c619bb98acacfe4
 “comet”(适用于 Pixel 9 Pro Fold),"15.0.0 (BP1A.250405.007.D1, 2025 年 4 月, Verizon)",https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250405.007.d1-a7cffabb.zip,a7cffabbeb2aca24fd5728a3d55e8cd30e17e40b0ac20b19cff487b798bc7b37
 “comet”(适用于 Pixel 9 Pro Fold),15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250505.005-d344e885.zip,d344e8857143f34c9d16429f9de945a3db91ce01b2534654ad4c220fe4ed2630
 “comet”(适用于 Pixel 9 Pro Fold),"15.0.0 (BP1A.250505.005.A1, 2025 年 5 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250505.005.a1-5110b65d.zip,5110b65dfab075a89c6728efb3c736182cc932e0b968535a88ad71c71167ca44
 “comet”(适用于 Pixel 9 Pro Fold),15.0.0（BP1A.250505.005.C1，2025 年 5 月，DTAG）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250505.005.c1-53a0d07f.zip,53a0d07f7fddab55d45132306774a6b1a3282882b02ccfa2617003235e5830a8
 “comet”(适用于 Pixel 9 Pro Fold),15.0.0（BP1A.250505.005.D1，2025 年 5 月，Verizon）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp1a.250505.005.d1-da324037.zip,da324037c643b2048df1b26e222f56101f4404e33fb1d77515de26fd8a7df88f
+“comet”(适用于 Pixel 9 Pro Fold),16.0.0（BP2A.250605.031.A3，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/comet-ota-bp2a.250605.031.a3-b6c67e0a.zip,b6c67e0a96df3ef2bf75ac8eba49cc50c5aae500f84583221881a665b429a0ec
 “caiman”(适用于 Pixel 9 Pro)
 “caiman”(适用于 Pixel 9 Pro),14.0.0（AD1A.240530.030，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/caiman-ota-ad1a.240530.030-0fc923fd.zip,0fc923fd7946a73296ab7d1f3740667f6c53dad22b8cb84332badf905aeb4ea4
 “caiman”(适用于 Pixel 9 Pro),14.0.0（AD1A.240530.030.A1，2024 年 8 月，仅限印度）,https://googledownloads.cn/dl/android/aosp/caiman-ota-ad1a.240530.030.a1-9d217d6c.zip,9d217d6c9f563d061900b17a2f41459049990030efca58762952067b30693b69
@@ -51,13 +53,14 @@ Model,Version,Download,SHA-256 Checksum
 “caiman”(适用于 Pixel 9 Pro),15.0.0（BP1A.250305.020，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250305.020-d387782c.zip,d387782c7a8e8d1663cc1f8c4b03b88ff00b6fff0aea9456a8eb66f628e631eb
 “caiman”(适用于 Pixel 9 Pro),15.0.0（BP1A.250305.020.A2，2025 年 3 月，欧洲、中东和非洲地区 + 台湾）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250305.020.a2-44165d9d.zip,44165d9d45658aa910e232e3e6dd45aa6076e8e002fb9715680062bbb67d45e4
 “caiman”(适用于 Pixel 9 Pro),15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250405.007-7b8bf880.zip,7b8bf880f0f6a0ab7edb87427728cdd7e1819083b642388bc92dbdf5bff939ec
-“caiman”(适用于 Pixel 9 Pro),"15.0.0 (BP1A.250405.007.A1, 2025 年 4 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250405.007.a1-4548eaa3.zip,4548eaa3d11694670d3829be59ee131a8c6a2667dced8bc442aaa6443d114c9c
+“caiman”(适用于 Pixel 9 Pro),"15.0.0 (BP1A.250405.007.A1, Apr 2025, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250405.007.a1-4548eaa3.zip,4548eaa3d11694670d3829be59ee131a8c6a2667dced8bc442aaa6443d114c9c
 “caiman”(适用于 Pixel 9 Pro),15.0.0（BP1A.250405.007.C1，2025 年 4 月，DTAG）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250405.007.c1-9597c6fa.zip,9597c6faf6f3385ee6fbf2b66223f483817472b0205e91d9a2cbf379d1265149
 “caiman”(适用于 Pixel 9 Pro),"15.0.0 (BP1A.250405.007.D1, 2025 年 4 月, Verizon)",https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250405.007.d1-45e3e887.zip,45e3e8872d497d47fe2d0af26b17581203117b0d0433b7a37c7902908e04295a
 “caiman”(适用于 Pixel 9 Pro),15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250505.005-fa38a01c.zip,fa38a01c7f3eb8a96b6f9891a5db2b5b7d0492b10087981c0dae4ab3e313b7cd
 “caiman”(适用于 Pixel 9 Pro),"15.0.0 (BP1A.250505.005.A1, 2025 年 5 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250505.005.a1-1511de24.zip,1511de2494832c44e070f2a2e6e2729ca82933eca8652c3899246977a29c36de
 “caiman”(适用于 Pixel 9 Pro),15.0.0（BP1A.250505.005.C1，2025 年 5 月，DTAG）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250505.005.c1-812c95d9.zip,812c95d956c314e8ae781999a4c9db110825e18a720d03bfee3c5467357592b2
 “caiman”(适用于 Pixel 9 Pro),15.0.0（BP1A.250505.005.D1，2025 年 5 月，Verizon）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp1a.250505.005.d1-dffcae8d.zip,dffcae8d260d8fc84be4b7491c73c1c11cbef3ffb279e79ed1ea554eb9b90c34
+“caiman”(适用于 Pixel 9 Pro),16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/caiman-ota-bp2a.250605.031.a2-3748a4e1.zip,3748a4e149c9691eec8c0a2cdb16b99c2cc252d967878c9c354ed805ca072a1c
 适用于 Pixel 9 Pro XL 的“komodo”
 适用于 Pixel 9 Pro XL 的“komodo”,14.0.0（AD1A.240530.030，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/komodo-ota-ad1a.240530.030-d76aa699.zip,d76aa69933b62cdc029efffd7c1b51442ba725f4aa6f088870acc529666b0138
 适用于 Pixel 9 Pro XL 的“komodo”,14.0.0（AD1A.240530.030.A1，2024 年 8 月，仅限印度）,https://googledownloads.cn/dl/android/aosp/komodo-ota-ad1a.240530.030.a1-911531c4.zip,911531c434e916d1cfede4dc358b23bde72cb67f213815b25a87d9a6815e545d
@@ -79,13 +82,14 @@ Model,Version,Download,SHA-256 Checksum
 适用于 Pixel 9 Pro XL 的“komodo”,15.0.0（BP1A.250305.020，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250305.020-20c1d368.zip,20c1d36846fa1d7e7df6e2566baceadb88f4430ec3b230ef13236fbd7d256b91
 适用于 Pixel 9 Pro XL 的“komodo”,15.0.0（BP1A.250305.020.A2，2025 年 3 月，欧洲、中东和非洲地区 + 台湾）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250305.020.a2-23f6c550.zip,23f6c5509b53f52d76cef5545cfb55159c8bceb699872501f6388ab3fc074528
 适用于 Pixel 9 Pro XL 的“komodo”,15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250405.007-9cdf83da.zip,9cdf83dab94da9c40c7a4ba5c4f67c6fe11cb98882c7acbf71919b41b7ada470
-适用于 Pixel 9 Pro XL 的“komodo”,"15.0.0 (BP1A.250405.007.A1, 2025 年 4 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250405.007.a1-50182a5d.zip,50182a5d61b24bbbefe9bdd112d9cabe8680352f6c0c82ac5ea37413fc187eae
+适用于 Pixel 9 Pro XL 的“komodo”,"15.0.0 (BP1A.250405.007.A1, Apr 2025, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250405.007.a1-50182a5d.zip,50182a5d61b24bbbefe9bdd112d9cabe8680352f6c0c82ac5ea37413fc187eae
 适用于 Pixel 9 Pro XL 的“komodo”,15.0.0（BP1A.250405.007.C1，2025 年 4 月，DTAG）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250405.007.c1-b94c84bf.zip,b94c84bfdad08cae5a6ecfc65507c07830fc0da3381d3e98db45d062b14782be
 适用于 Pixel 9 Pro XL 的“komodo”,"15.0.0 (BP1A.250405.007.D1, 2025 年 4 月, Verizon)",https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250405.007.d1-d0cbe69e.zip,d0cbe69e920c5b0e3e554263c2130dedb5b4702f24bfc87406419570dd6381ac
 适用于 Pixel 9 Pro XL 的“komodo”,15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250505.005-8997fae7.zip,8997fae7ef176ff6cd7ee35bf1c6435fb3ec30ce2b69b28e572f283e7443e266
 适用于 Pixel 9 Pro XL 的“komodo”,"15.0.0 (BP1A.250505.005.A1, 2025 年 5 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250505.005.a1-8b524ed6.zip,8b524ed65542ba94c8e04ff0f36cbda245e45431d8afc044f967942b96a8ab66
 适用于 Pixel 9 Pro XL 的“komodo”,15.0.0（BP1A.250505.005.C1，2025 年 5 月，DTAG）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250505.005.c1-12e1008d.zip,12e1008dc96659c3062a211dcad129271e34a74a261536d164461ecc847caa7c
 适用于 Pixel 9 Pro XL 的“komodo”,15.0.0（BP1A.250505.005.D1，2025 年 5 月，Verizon）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp1a.250505.005.d1-d36a9f38.zip,d36a9f38440896ba6719f4c8d349f3bac7cb97fc8116bd39cad0ebf4b5c03d13
+适用于 Pixel 9 Pro XL 的“komodo”,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/komodo-ota-bp2a.250605.031.a2-60eaa0ed.zip,60eaa0edceab3cf39868b58c291f13b1027b10a04c06186b6782cf39b278850f
 “tokay”适用于 Pixel 9
 “tokay”适用于 Pixel 9,14.0.0（AD1A.240530.030，2024 年 8 月）,https://googledownloads.cn/dl/android/aosp/tokay-ota-ad1a.240530.030-5077f537.zip,5077f537a0fa4fb4af65a575f2541683e98a3be1c92c063555b32f8a5ec143de
 “tokay”适用于 Pixel 9,14.0.0（AD1A.240530.030.A1，2024 年 8 月，仅限印度）,https://googledownloads.cn/dl/android/aosp/tokay-ota-ad1a.240530.030.a1-d2b8e63a.zip,d2b8e63ad7c05f472ee87f6f65db1dc2793c6419f86443988e3713d93251f2ae
@@ -108,21 +112,22 @@ Model,Version,Download,SHA-256 Checksum
 “tokay”适用于 Pixel 9,15.0.0（BP1A.250305.020，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250305.020-b9e71d08.zip,b9e71d0833afee1b5b8ff84dbce4d335376925b9db6c4c8e1b1d29b447c2e4a7
 “tokay”适用于 Pixel 9,15.0.0（BP1A.250305.020.A2，2025 年 3 月，欧洲、中东和非洲地区 + 台湾）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250305.020.a2-17353a44.zip,17353a44cc1e6d8e91a902415215ff0cc922d74aadefab61267eb30225cde163
 “tokay”适用于 Pixel 9,15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250405.007-2eebf294.zip,2eebf294075a6ac08520b14b3eb3f85eaf4dcd592ee02dd837752dcf2fd53154
-“tokay”适用于 Pixel 9,"15.0.0 (BP1A.250405.007.A1, 2025 年 4 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250405.007.a1-905abbda.zip,905abbda6ce4c345323a64a8f5a0342a25c132377d5179809778437934821309
+“tokay”适用于 Pixel 9,"15.0.0 (BP1A.250405.007.A1, Apr 2025, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250405.007.a1-905abbda.zip,905abbda6ce4c345323a64a8f5a0342a25c132377d5179809778437934821309
 “tokay”适用于 Pixel 9,15.0.0（BP1A.250405.007.C1，2025 年 4 月，DTAG）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250405.007.c1-2828c7e1.zip,2828c7e1b6eb3df09139c31495620bb5351cec09c5ab8bfef621b396aa4ad21f
 “tokay”适用于 Pixel 9,"15.0.0 (BP1A.250405.007.D1, 2025 年 4 月, Verizon)",https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250405.007.d1-dbcfe787.zip,dbcfe787b0d00929a066e9901e9c15966470fa9acd46cb786bbd7cfa06bc65b7
 “tokay”适用于 Pixel 9,15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250505.005-6c165ea5.zip,6c165ea5f9a99e1effffb31924ad65067b99ac74c9741720546633eeff607148
 “tokay”适用于 Pixel 9,"15.0.0 (BP1A.250505.005.A1, 2025 年 5 月, TW, EMEA)",https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250505.005.a1-b249ceff.zip,b249ceff9b6afd1474a7e9b82425b7007f9c37d53b9cd8899800098a4cde6f41
 “tokay”适用于 Pixel 9,15.0.0（BP1A.250505.005.C1，2025 年 5 月，DTAG）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250505.005.c1-ffad71ed.zip,ffad71ed66bd0b59590d730b9fce17f6bfebcdc8dead20686e663bf9b1079d1b
 “tokay”适用于 Pixel 9,15.0.0（BP1A.250505.005.D1，2025 年 5 月，Verizon）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp1a.250505.005.d1-96017d49.zip,96017d49b2b43d420a69eea0dedd7b59b2208c7b18ed76030dc05cb9bd3b71a2
+“tokay”适用于 Pixel 9,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/tokay-ota-bp2a.250605.031.a2-7cccc3b7.zip,7cccc3b7c2354bf1c5943ebda78ecb7beedf5f5bdf9fd0c5e1e9f75752313f61
 适用于 Pixel 8a 的“akita”
-适用于 Pixel 8a 的“akita”,"14.0.0 (UD2A.231203.054, 2024 年 5 月, EMEA、亚太地区、日本)",https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.231203.054-6b2d9ff8.zip,6b2d9ff8f43675113fbd78bc7f2f5334304cfb90551cd15cdcd1f03a4e34f635
+适用于 Pixel 8a 的“akita”,14.0.0（UD2A.231203.054，2024 年 5 月，欧洲、中东和非洲地区、亚太地区、日本）,https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.231203.054-6b2d9ff8.zip,6b2d9ff8f43675113fbd78bc7f2f5334304cfb90551cd15cdcd1f03a4e34f635
 适用于 Pixel 8a 的“akita”,"14.0.0 (UD2A.231203.057, 2024 年 5 月, AT&T、T-Mobile)",https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.231203.057-2c479937.zip,2c4799370320fd7fb84643550cc0103652f1f119131d864c3f315ba0a30b2e98
 适用于 Pixel 8a 的“akita”,14.0.0（UD2A.231203.057.A1，2024 年 5 月，Verizon、gStore、加利福尼亚州、美国）,https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.231203.057.a1-c7c08a9b.zip,c7c08a9b6b76ced0f3f81665d739c89833b751800980088dcace485fb01ee374
 适用于 Pixel 8a 的“akita”,14.0.0（UD2A.240505.001，2024 年 5 月，欧洲、中东和非洲地区、亚太地区、日本）,https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.240505.001-47cad50f.zip,47cad50fd12e845986fd32507fbb608cf889d9950f44017242d86094089d1c65
 适用于 Pixel 8a 的“akita”,"14.0.0 (UD2A.240505.001.A1, 2024 年 5 月, AT&T、T-Mobile)",https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.240505.001.a1-6a8d79b1.zip,6a8d79b1ad0b3cc412f56328a12282d6308dae20c59f914db74ae0d5b240b0b2
 适用于 Pixel 8a 的“akita”,"14.0.0 (UD2A.240505.001.B1, 2024 年 5 月, Verizon, gStore, CA, USC)",https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.240505.001.b1-d2400454.zip,d240045460cc763779e97f5f9ba3e7ee522c331e5c545392a9ed7ed47f201f69
-适用于 Pixel 8a 的“akita”,"14.0.0 (UD2A.240505.001.D1, 2024 年 5 月, KDDI)",https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.240505.001.d1-0fe4a910.zip,0fe4a9102bdf6a0511c93b89ff3d58c15b50ba8a8e1f11fe7ef3685773cfdda6
+适用于 Pixel 8a 的“akita”,14.0.0（UD2A.240505.001.D1，2024 年 5 月，KDDI）,https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.240505.001.d1-0fe4a910.zip,0fe4a9102bdf6a0511c93b89ff3d58c15b50ba8a8e1f11fe7ef3685773cfdda6
 适用于 Pixel 8a 的“akita”,14.0.0（UD2A.240505.001.W1，2024 年 5 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-ud2a.240505.001.w1-1d2e032d.zip,1d2e032d4ad7aef9b0918809a4edc8f48188783cfd55a0bae39979babacbc149
 适用于 Pixel 8a 的“akita”,14.0.0（AP2A.240605.024，2024 年 6 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-ap2a.240605.024-2bc858b1.zip,2bc858b188c12e33ff30ac0fa8a7dd83918a88aab0eaf42b72631f2e2fd07ef1
 适用于 Pixel 8a 的“akita”,"14.0.0 (AP2A.240605.024.A1, 2024 年 6 月, Telus)",https://googledownloads.cn/dl/android/aosp/akita-ota-ap2a.240605.024.a1-0f48432f.zip,0f48432fbc243a43756d58da5ba2b2ad68e1bfd1cb1d78d5b4451d869ab34cce
@@ -147,6 +152,7 @@ Model,Version,Download,SHA-256 Checksum
 适用于 Pixel 8a 的“akita”,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-bp1a.250305.019-04de80f4.zip,04de80f4002ed32d73e57c717f3e2d7282d4560d37690243284cbb3bd0bd3208
 适用于 Pixel 8a 的“akita”,15.0.0（BP1A.250405.007.B1，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-bp1a.250405.007.b1-41104100.zip,41104100f4a8cec4d929312344da9ca618d43ce35ab1c9b04d612c417bd9fc21
 适用于 Pixel 8a 的“akita”,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-bp1a.250505.005.b1-405428be.zip,405428be3836aba30e4ba6a001c790c9ff15154beafaa5d03e8c4abff5f663f1
+适用于 Pixel 8a 的“akita”,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/akita-ota-bp2a.250605.031.a2-608042aa.zip,608042aae37cda79dec6bf0efe299da0ca015aeb69384d1da8190cc37b7f6a48
 Pixel 8 Pro 的“husky”
 Pixel 8 Pro 的“husky”,14.0.0（UD1A.230803.022，2023 年 9 月，AT&T/EMEA/JP/IN）,https://googledownloads.cn/dl/android/aosp/husky-ota-ud1a.230803.022-102b3fd3.zip,102b3fd35b565a18ae653d5c0e5386f818a54dd1a04e1e8deb120e0118d90423
 Pixel 8 Pro 的“husky”,"14.0.0 (UD1A.230803.022.A3, 2023 年 9 月, Verizon)",https://googledownloads.cn/dl/android/aosp/husky-ota-ud1a.230803.022.a3-d9351256.zip,d93512561608343757f3de3708eececb981aa04d4b4f40106c099ab1756eed21.zip
@@ -191,6 +197,7 @@ Pixel 8 Pro 的“husky”,15.0.0（AP4A.250205.002.B2，2025 年 2 月，Telstr
 Pixel 8 Pro 的“husky”,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/husky-ota-bp1a.250305.019-b4977f37.zip,b4977f37cd8e58d791aecfe28fa8018c9688ae3d0cd7871c5ff37b0ff27368cc
 Pixel 8 Pro 的“husky”,15.0.0（BP1A.250405.007.B1，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/husky-ota-bp1a.250405.007.b1-d034f12f.zip,d034f12f0fb47528232dbd61445d92773a9bfc2d82e5d5063e2c5b0b893147aa
 Pixel 8 Pro 的“husky”,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/husky-ota-bp1a.250505.005.b1-5f2620d8.zip,5f2620d8b704c6ebd5bcc4077fdc7faa412552c6e2b9a56f8c3304ce4d4b8177
+Pixel 8 Pro 的“husky”,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/husky-ota-bp2a.250605.031.a2-73a4023f.zip,73a4023f1dd2814dc75f9db8959face06b59d475832d8a09a42a8fd526a30ad1
 “shiba”适用于 Pixel 8
 “shiba”适用于 Pixel 8,14.0.0（UD1A.230803.022.A5，2023 年 9 月，美国非 Verizon/AT&T/T-Mobile 运营商/加拿大/台湾）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ud1a.230803.022.a5-415253a6.zip,415253a6a0965e71be565f3ddfbc42a2acf4fe35871a2210d10f109119cdb23c
 “shiba”适用于 Pixel 8,14.0.0（UD1A.230803.022.B2，2023 年 9 月，T-Mobile）,https://googledownloads.cn/dl/android/aosp/shiba-ota-ud1a.230803.022.b2-8813e2e5.zip,8813e2e5b944b313fe7d2935265f8577130bd9d56131f57ba5adfea4b2098f83
@@ -235,6 +242,7 @@ Pixel 8 Pro 的“husky”,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https
 “shiba”适用于 Pixel 8,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/shiba-ota-bp1a.250305.019-1f4e6c4d.zip,1f4e6c4da9ee3419d8547848a13021badad86a7f249fb5a0983df04b47fe92ae
 “shiba”适用于 Pixel 8,15.0.0（BP1A.250405.007.B1，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/shiba-ota-bp1a.250405.007.b1-1e0873e1.zip,1e0873e13caf6c9413971299223ae9420b284339eb468852032c7c0258d0fb17
 “shiba”适用于 Pixel 8,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/shiba-ota-bp1a.250505.005.b1-6214dfec.zip,6214dfec838ae04545749778c194bc16420c313e854392d1e6ae17a06d2f9e26
+“shiba”适用于 Pixel 8,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/shiba-ota-bp2a.250605.031.a2-410a5c37.zip,410a5c373b4c4552663db2634c96d857f91b4522ad4d8d9d395f024d341da6f7
 “felix”适用于 Pixel Fold
 “felix”适用于 Pixel Fold,"13.0.0 (TD3A.230203.070.A1, 2023 年 6 月)",https://googledownloads.cn/dl/android/aosp/felix-ota-td3a.230203.070.a1-125de0f9.zip,125de0f9dfad46393199e6c8e9a5f0fe6b6f32809bee2a7209220c2a30ac28b9
 “felix”适用于 Pixel Fold,13.0.0（TQ3C.230605.010.C1，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/felix-ota-tq3c.230605.010.c1-4f136d8d.zip,4f136d8d3667928c35240cbef5fe78d68f5469e420b7befc47647626a0af501e
@@ -284,6 +292,7 @@ Pixel 8 Pro 的“husky”,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https
 “felix”适用于 Pixel Fold,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/felix-ota-bp1a.250305.019-d192005d.zip,d192005dd50d1b8cd4e5fe1a8cf5b13fc2a615aa0009747f3eab5a67a81a5fc2
 “felix”适用于 Pixel Fold,15.0.0（BP1A.250405.007.B1，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/felix-ota-bp1a.250405.007.b1-47a063fc.zip,47a063fcdd6fc3b9806e88198c5ae2af209e128644f980ddf9e49a03bdc56cf8
 “felix”适用于 Pixel Fold,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/felix-ota-bp1a.250505.005.b1-1685cbb9.zip,1685cbb9451047059a04a5441635885ef899f186ae42a4e768e260ff5935c5cc
+“felix”适用于 Pixel Fold,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/felix-ota-bp2a.250605.031.a2-7988b295.zip,7988b295cfa8bd1cda6f7158245e6771776c7c553f3c85f7046196753d14ccb2
 Pixel Tablet 的“tangorpro”
 Pixel Tablet 的“tangorpro”,"13.0.0 (TD2A.230203.028, 2023 年 6 月)",https://googledownloads.cn/dl/android/aosp/tangorpro-ota-td2a.230203.028-62304a0f.zip,62304a0f1555abf279d6ecfdae6e08051240833565877f97a24d4b2aecc349d7
 Pixel Tablet 的“tangorpro”,13.0.0（TQ3A.230605.009.A1，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/tangorpro-ota-tq3a.230605.009.a1-19ab82f9.zip,19ab82f9b22d4632b03394d6454f40002294c2821216e9bf9bd1bc4f4c1d7da5
@@ -310,8 +319,9 @@ Pixel Tablet 的“tangorpro”,15.0.0（AP4A.250205.002，2025 年 2 月）,htt
 Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250305.020.T2，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/tangorpro-ota-bp1a.250305.020.t2-da00f6f9.zip,da00f6f91942ec878fb102af3fc033491109cf9856bbfb50f8f9436dfb45378d
 Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/tangorpro-ota-bp1a.250405.007-1f45c9ae.zip,1f45c9ae13a234fae62c23a2dd16ca6c7548419f2113cdadd1db640cf41af347
 Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/tangorpro-ota-bp1a.250505.005-a5bf2935.zip,a5bf29350aaf1c958a724e07052d089b34d3a38536d2076058f2b1c5abc0c401
+Pixel Tablet 的“tangorpro”,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/tangorpro-ota-bp2a.250605.031.a2-f2142d82.zip,f2142d82d447ef2014027ac004a5ec7aa01363579194b249a9d01d19e619bd33
 “lynx”适用于 Pixel 7a
-“lynx”适用于 Pixel 7a,"13.0.0 (TD4A.221205.042, 2023 年 5 月)",https://googledownloads.cn/dl/android/aosp/lynx-ota-td4a.221205.042-622d0e17.zip,622d0e17339aa403fd701f5ff13a9d6f707577fc8f6973604f0fed4da107320c
+“lynx”适用于 Pixel 7a,13.0.0 (TD4A.221205.042，2023 年 5 月),https://googledownloads.cn/dl/android/aosp/lynx-ota-td4a.221205.042-622d0e17.zip,622d0e17339aa403fd701f5ff13a9d6f707577fc8f6973604f0fed4da107320c
 “lynx”适用于 Pixel 7a,"13.0.0 (TD4A.221205.042.A1, 2023 年 5 月, EMEA)",https://googledownloads.cn/dl/android/aosp/lynx-ota-td4a.221205.042.a1-1e8b7f7f.zip,1e8b7f7fd8e8a79ed5a03c0effe95c4cd4188f94783d7c23b50f2acda613d284
 “lynx”适用于 Pixel 7a,"13.0.0 (TD4A.221205.042.B1, 2023 年 5 月, Verizon)",https://googledownloads.cn/dl/android/aosp/lynx-ota-td4a.221205.042.b1-c44be940.zip,c44be940481b097df4bb60d61a1b869144eeb44329e4f7b9b6ce2648a8c6d8af
 “lynx”适用于 Pixel 7a,13.0.0（TQ2B.230505.005.A1，2023 年 5 月）,https://googledownloads.cn/dl/android/aosp/lynx-ota-tq2b.230505.005.a1-766dbd16.zip,766dbd165309a3d90bd367dd73fd98a7b00799a1f7ff9834bca4f31b7a0869b6
@@ -358,8 +368,9 @@ Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250505.005，2025 年 5 月）,htt
 “lynx”适用于 Pixel 7a,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/lynx-ota-bp1a.250305.019-36e763c0.zip,36e763c070fd69a75df099c88321c7968c167ec3b73542176db76c61c4585852
 “lynx”适用于 Pixel 7a,15.0.0（BP1A.250405.007.B1，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/lynx-ota-bp1a.250405.007.b1-6cb487eb.zip,6cb487eb3c138334a1095e16ed80e92855da5779d9d853c327bcbf874c5d24f2
 “lynx”适用于 Pixel 7a,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/lynx-ota-bp1a.250505.005.b1-db24813f.zip,db24813f3c561f792a19c4015dabe2220e8ee2497ee435f8e6ace7a0a229f815
+“lynx”适用于 Pixel 7a,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/lynx-ota-bp2a.250605.031.a2-8c4a66d1.zip,8c4a66d1b4c2516a87763090d39221b2479f39b2f603be5f1cab7dd6eb779087
 “cheetah”（适用于 Pixel 7 Pro）
-“cheetah”（适用于 Pixel 7 Pro）,13.0.0（TD1A.220804.009.A2，2022 年 10 月）,https://googledownloads.cn/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip,8138be7172de4b543e54deca7f024a6171d2fdaab34e6347fd1f882b00ba5efe
+“cheetah”（适用于 Pixel 7 Pro）,"13.0.0 (TD1A.220804.009.A2, 2022 年 10 月)",https://googledownloads.cn/dl/android/aosp/cheetah-ota-td1a.220804.009.a2-8138be71.zip,8138be7172de4b543e54deca7f024a6171d2fdaab34e6347fd1f882b00ba5efe
 “cheetah”（适用于 Pixel 7 Pro）,"13.0.0 (TD1A.220804.009.A5, 2022 年 10 月, 日本运营商)",https://googledownloads.cn/dl/android/aosp/cheetah-ota-td1a.220804.009.a5-f0c1f917.zip,f0c1f91730cc856aecc5e5cbdc6b672424c22fe4bed6464a1e39a8060fa7b0f8
 “cheetah”（适用于 Pixel 7 Pro）,13.0.0（TD1A.220804.031，2022 年 10 月）,https://googledownloads.cn/dl/android/aosp/cheetah-ota-td1a.220804.031-cd81a567.zip,cd81a56734f58f4a6d518c856452fc45eaad3dfa59e5c9d6dbf2893e9a7ac0f6
 “cheetah”（适用于 Pixel 7 Pro）,"13.0.0 (TD1A.221105.001, 2022 年 11 月)",https://googledownloads.cn/dl/android/aosp/cheetah-ota-td1a.221105.001-aaa230a5.zip,aaa230a5d38b8a8af4eb2e024e4b4c58d4e1d187efb3ebacb972f5f812203420
@@ -419,8 +430,9 @@ Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250505.005，2025 年 5 月）,htt
 “cheetah”（适用于 Pixel 7 Pro）,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/cheetah-ota-bp1a.250305.019-9ab4e432.zip,9ab4e432abec5e6c8e279c39034a508855dcad397e1ee310fbdf0dc16d564e3d
 “cheetah”（适用于 Pixel 7 Pro）,15.0.0（BP1A.250405.007.B1，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/cheetah-ota-bp1a.250405.007.b1-b8f8c3a3.zip,b8f8c3a358182a95ac22b66cc9d986236bf40c4d636566448be29666fafb9c39
 “cheetah”（适用于 Pixel 7 Pro）,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/cheetah-ota-bp1a.250505.005.b1-29966098.zip,29966098f2f60bf571673a589d32ce6f516440f466830e926ca90e13211eade0
+“cheetah”（适用于 Pixel 7 Pro）,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/cheetah-ota-bp2a.250605.031.a2-0662933e.zip,0662933e3e2e52701eaa4844646336fc79fa3dd0df1a078b297ec97cfea824fe
 “panther”表示 Pixel 7
-“panther”表示 Pixel 7,13.0.0（TD1A.220804.009.A2，2022 年 10 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip,1ba82532cf20c7f71dc6f3ea3a89b3ebe13fb82b46944e6a9f2c936aed41f63c
+“panther”表示 Pixel 7,"13.0.0 (TD1A.220804.009.A2, 2022 年 10 月)",https://googledownloads.cn/dl/android/aosp/panther-ota-td1a.220804.009.a2-1ba82532.zip,1ba82532cf20c7f71dc6f3ea3a89b3ebe13fb82b46944e6a9f2c936aed41f63c
 “panther”表示 Pixel 7,"13.0.0 (TD1A.220804.009.A5, 2022 年 10 月, 日本运营商)",https://googledownloads.cn/dl/android/aosp/panther-ota-td1a.220804.009.a5-44511a4b.zip,44511a4bf3b8d16c50f4510364666240ddb1c102d5b3a26130de4afef74d8706
 “panther”表示 Pixel 7,13.0.0（TD1A.220804.031，2022 年 10 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-td1a.220804.031-8236abf4.zip,8236abf41254bf5101d676eddaaa57520325357f743ab5da1b0aa2251be98cf5
 “panther”表示 Pixel 7,"13.0.0 (TD1A.221105.001, 2022 年 11 月)",https://googledownloads.cn/dl/android/aosp/panther-ota-td1a.221105.001-6f05b2cf.zip,6f05b2cfeb68cf4f88561989f422310211a619d3e39638309894cbc548ebbd38
@@ -436,7 +448,7 @@ Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250505.005，2025 年 5 月）,htt
 “panther”表示 Pixel 7,13.0.0（TQ2A.230305.008，2023 年 3 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-tq2a.230305.008-d573ab70.zip,d573ab70c513c6d7a28b5c2df03e82d45325f14867122bd0eb692da3d965d44b
 “panther”表示 Pixel 7,13.0.0（TQ2A.230305.008.A1，2023 年 3 月，WINDTRE/加拿大）,https://googledownloads.cn/dl/android/aosp/panther-ota-tq2a.230305.008.a1-afc434be.zip,afc434bed2af99f7f07c9d5b12429215872594815d1dc2a15f0244f56746d4a8
 “panther”表示 Pixel 7,13.0.0（TQ2A.230405.003.E1，2023 年 4 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-tq2a.230405.003.e1-d596b051.zip,d596b051918c538963d96847a1a702df4c885889011fd434c8c011251357f9a0
-“panther”表示 Pixel 7,13.0.0 (TQ2A.230505.002，2023 年 5 月),https://googledownloads.cn/dl/android/aosp/panther-ota-tq2a.230505.002-c3d87694.zip,c3d87694866555cd9c638b4bb0ced0193b9007f1cdf4f444a18c21e87a691600
+“panther”表示 Pixel 7,"13.0.0 (TQ2A.230505.002, 2023 年 5 月)",https://googledownloads.cn/dl/android/aosp/panther-ota-tq2a.230505.002-c3d87694.zip,c3d87694866555cd9c638b4bb0ced0193b9007f1cdf4f444a18c21e87a691600
 “panther”表示 Pixel 7,13.0.0（TQ3A.230605.012，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-tq3a.230605.012-9bd4b51f.zip,9bd4b51f1adaebe52d251e1ff34221196c5bdc82c4d4f1015f48fa3a99ce3b34
 “panther”表示 Pixel 7,"13.0.0 (TQ3A.230605.012.A1, 2023 年 6 月, Verizon、Verizon MVNO)",https://googledownloads.cn/dl/android/aosp/panther-ota-tq3a.230605.012.a1-05a274f5.zip,05a274f58609496f59c4d4094bd27bbc077fed96c619654fed44f37f09f0ea7c
 “panther”表示 Pixel 7,13.0.0（TQ3A.230705.001，2023 年 7 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-tq3a.230705.001-1467c429.zip,1467c42957c634b1dae3d7662208c425f109fdcc69b9247014a522e131067105
@@ -480,6 +492,7 @@ Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250505.005，2025 年 5 月）,htt
 “panther”表示 Pixel 7,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-bp1a.250305.019-a16052a5.zip,a16052a5a86d6ee2b54ab63c9dab7555f43e8e943b111d3656b02dfa3cb368e0
 “panther”表示 Pixel 7,15.0.0（BP1A.250405.007.B1，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-bp1a.250405.007.b1-32410308.zip,32410308e4adbe94c95c379b5c76a9d622f94b01d4bf189da8508c67b1ad5484
 “panther”表示 Pixel 7,15.0.0（BP1A.250505.005.B1，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-bp1a.250505.005.b1-cf5588e6.zip,cf5588e661121815a18522a4b56578254791f4fd8bec380fb1032be5921171ad
+“panther”表示 Pixel 7,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/panther-ota-bp2a.250605.031.a2-e04c4c91.zip,e04c4c91ce0606a260e07415e0b0de97d60f07672df4084e89e9ea27b545cbcd
 “bluejay”(适用于 Pixel 6a)
 “bluejay”(适用于 Pixel 6a),12.1.0（SD2A.220601.001.A1，2022 年 6 月，日本运营商）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.001.a1-bacd4108.zip,bacd4108518f9e6b0908030bca1f7410b71526854351c41f918078607d4b16c3
 “bluejay”(适用于 Pixel 6a),"12.1.0 (SD2A.220601.004, 2022 年 6 月, Verizon、Verizon MVNO)",https://googledownloads.cn/dl/android/aosp/bluejay-ota-sd2a.220601.004-a53caf37.zip,a53caf37f76731525ed1d809d48950d585713bb0475a027fe78b4e12fd7b0f53
@@ -540,13 +553,14 @@ Pixel Tablet 的“tangorpro”,15.0.0（BP1A.250505.005，2025 年 5 月）,htt
 “bluejay”(适用于 Pixel 6a),15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-bp1a.250305.019-4204a881.zip,4204a8816afc7503df7ec1d461c4303bb6d4f6b9089a0d22c3309874a8efebdc
 “bluejay”(适用于 Pixel 6a),15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-bp1a.250405.007-e5d6863a.zip,e5d6863abed61b0247413c2797d4546585ba343d77e8e1001d14021ff81e4cda
 “bluejay”(适用于 Pixel 6a),15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-bp1a.250505.005-728eab10.zip,728eab10ee8393a04503e2f79cfe441f7f287a6dda4ba207d0550632009f6904
+“bluejay”(适用于 Pixel 6a),16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/bluejay-ota-bp2a.250605.031.a2-71681dcb.zip,71681dcb1b6a9492aab6b463986297a08cda2e68a3de026c53c954e75092d045
 Pixel 6 的“oriole”
 Pixel 6 的“oriole”,12.0.0（SD1A.210817.015.A4，2021 年 10 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.015.a4-19a77b62.zip,19a77b62a80732b0e20d3ac369288fc827554c1a8c109c6e9fa2a420998dd826
 Pixel 6 的“oriole”,12.0.0（SD1A.210817.019.B1，2021 年 10 月，AT&T）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.019.b1-67195ca0.zip,67195ca0fa1f9cfc9f331ab3e4f44fdbf819896059dcb1819c1125edef854c25
 Pixel 6 的“oriole”,12.0.0（SD1A.210817.019.C2，2021 年 10 月，T-Mobile [美国]、USCC、Google Fi、加拿大和台湾运营商）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.019.c2-1f9d1cdb.zip,1f9d1cdb779320dd2809a35cf3410a1f6ec4981290fa357abb8c059b361d86c3
 Pixel 6 的“oriole”,12.0.0（SD1A.210817.019.C4，2021 年 10 月，Verizon）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.019.c4-47bc43d7.zip,47bc43d71a8a9a2fcbf0fcf7fd4327ede221a85966820cfed91bbcfc6909e86e
 Pixel 6 的“oriole”,12.0.0（SD1A.210817.036，2021 年 11 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.036-fac7e678.zip,fac7e67859e10838950af963d5e196e94ae3bf72317e505e71a87ea6160cca38
-Pixel 6 的“oriole”,"12.0.0 (SD1A.210817.036.A8, 2021 年 11 月, Verizon)",https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.036.a8-41f0de82.zip,41f0de8282beac2f3a71e0f6522b570d5f94b40fda10aea34dec347a6502d5a5
+Pixel 6 的“oriole”,12.0.0（SD1A.210817.036.A8，2021 年 11 月，Verizon）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.036.a8-41f0de82.zip,41f0de8282beac2f3a71e0f6522b570d5f94b40fda10aea34dec347a6502d5a5
 Pixel 6 的“oriole”,"12.0.0 (SD1A.210817.037, 2021 年 11 月)",https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.037-933c0db2.zip,933c0db24a2434eebbaaea0a77f07f3096e0c55c18cb42d9d05e06cb85c97b1a
 Pixel 6 的“oriole”,12.0.0（SD1A.210817.037.A1，2021 年 11 月，Verizon）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sd1a.210817.037.a1-13ffb191.zip,13ffb1911a02dd16149f421bc63cf146fdf126124e7d1e73f53a5bea657ad564
 Pixel 6 的“oriole”,12.0.0（SQ1D.220105.007，2022 年 1 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-sq1d.220105.007-0e8d793c.zip,0e8d793cb52b350772c48db20705fead678cf1bc9af6ccb43f88860a440917e4
@@ -577,7 +591,7 @@ Pixel 6 的“oriole”,13.0.0（TQ2A.230305.008.E1，2023 年 3 月）,https://
 Pixel 6 的“oriole”,13.0.0（TQ2A.230305.008.F1，2023 年 3 月，WINDTRE/加拿大）,https://googledownloads.cn/dl/android/aosp/oriole-ota-tq2a.230305.008.f1-43d2dc22.zip,43d2dc22befc051278116bef7e1f43bab1e7a3a0af4adaf9d05f2ba8d6e0d477
 Pixel 6 的“oriole”,13.0.0（TQ2A.230405.003.E1，2023 年 4 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-tq2a.230405.003.e1-f392292d.zip,f392292d4c6697216cdd28cc2a453c4abeb7fefc9e1eb3362e460c36b5f57c3c
 Pixel 6 的“oriole”,13.0.0 (TQ2A.230405.003.G1，2023 年 4 月，Verizon、Verizon MVNO),https://googledownloads.cn/dl/android/aosp/oriole-ota-tq2a.230405.003.g1-ff938f0b.zip,ff938f0bf1bc60d334e18e96bf9b2bec3c0646bc66de9df9eb5a9ea93314892e
-Pixel 6 的“oriole”,13.0.0 (TQ2A.230505.002，2023 年 5 月),https://googledownloads.cn/dl/android/aosp/oriole-ota-tq2a.230505.002-4efe2e6d.zip,4efe2e6dedbc767c141bd7d91d4b523e286fb856ecdbbb2da6ffe01e660d3be6
+Pixel 6 的“oriole”,"13.0.0 (TQ2A.230505.002, 2023 年 5 月)",https://googledownloads.cn/dl/android/aosp/oriole-ota-tq2a.230505.002-4efe2e6d.zip,4efe2e6dedbc767c141bd7d91d4b523e286fb856ecdbbb2da6ffe01e660d3be6
 Pixel 6 的“oriole”,13.0.0（TQ2A.230505.002.G1，2023 年 5 月，Verizon、Verizon MVNO）,https://googledownloads.cn/dl/android/aosp/oriole-ota-tq2a.230505.002.g1-b8bdef0c.zip,b8bdef0c429834f35e349f895062a4af6045b17ed013a406447fd3fddd5dbb16
 Pixel 6 的“oriole”,13.0.0（TQ3A.230605.010，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-tq3a.230605.010-8652a4a5.zip,8652a4a5862852552520b953ed62228d911484255d17e1c02cf5daeac8e137ea
 Pixel 6 的“oriole”,13.0.0（TQ3A.230605.010.A1，2023 年 6 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/oriole-ota-tq3a.230605.010.a1-48a477bd.zip,48a477bd54e4d97d62cc1971d1dff2a985c62ddd43b054a3a5e61b4562571d9d
@@ -590,7 +604,7 @@ Pixel 6 的“oriole”,"13.0.0 (TQ3A.230901.001, 2023 年 9 月)",https://googl
 Pixel 6 的“oriole”,13.0.0（TQ3A.230901.001.C1，2023 年 9 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/oriole-ota-tq3a.230901.001.c1-7025407b.zip,7025407bf92fdbf652ad038abf955af21afe9f44f6b99a3b58424e3eb99af4df
 Pixel 6 的“oriole”,"13.0.0 (TQ3A.230901.001.C2, 2023 年 9 月, Verizon、Verizon MVNO)",https://googledownloads.cn/dl/android/aosp/oriole-ota-tq3a.230901.001.c2-af57c77f.zip,af57c77f8325c85937af57ac7327bd9c2cec4dfe950b0be0bd5fffd0923de819
 Pixel 6 的“oriole”,"14.0.0 (UP1A.231005.007, 2023 年 10 月)",https://googledownloads.cn/dl/android/aosp/oriole-ota-up1a.231005.007-b69a2c1b.zip,b69a2c1bf439a6b292a9e2db401ad0e89497d147142255b2daf53f83be79ff34
-Pixel 6 的“oriole”,14.0.0（UP1A.231005.007.A1，2023 年 10 月，AT&T）,https://googledownloads.cn/dl/android/aosp/oriole-ota-up1a.231005.007.a1-4f415808.zip,4f415808f910cc1eb1f36c834c6c60b656daac383e0eae64b0d6bc616ccb416c
+Pixel 6 的“oriole”,"14.0.0 (UP1A.231005.007.A1, 2023 年 10 月, AT&T)",https://googledownloads.cn/dl/android/aosp/oriole-ota-up1a.231005.007.a1-4f415808.zip,4f415808f910cc1eb1f36c834c6c60b656daac383e0eae64b0d6bc616ccb416c
 Pixel 6 的“oriole”,"14.0.0 (UP1A.231105.003, 2023 年 11 月)",https://googledownloads.cn/dl/android/aosp/oriole-ota-up1a.231105.003-bb84d181.zip,bb84d181a5d601884d316e71e8941f998d8eee084760821a55c47e5e3a0fcea2
 Pixel 6 的“oriole”,"14.0.0 (UP1A.231105.003.A1, 2023 年 11 月, AT&T)",https://googledownloads.cn/dl/android/aosp/oriole-ota-up1a.231105.003.a1-b7136f15.zip,b7136f156af50d2eaba551a6175d926a97cdfe9d443830604e7c5235064fe522
 Pixel 6 的“oriole”,14.0.0（UQ1A.231205.015，2023 年 12 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-uq1a.231205.015-7729bb7e.zip,7729bb7e4f9358178ca8b0457d4b0db5f78e2ec6b46d548d04c3f4fd864accd4
@@ -615,13 +629,14 @@ Pixel 6 的“oriole”,15.0.0（AP4A.250205.002.A1，2025 年 2 月，欧洲、
 Pixel 6 的“oriole”,15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-bp1a.250305.019-34e04bed.zip,34e04bed74a71493ea8d30737d972278464cad36a5dc6761bf2723fc25969196
 Pixel 6 的“oriole”,15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-bp1a.250405.007-2c7a83a9.zip,2c7a83a95f62efab8b525f2c2246b9657e965fd8ca2f0c87428e77ba0404b161
 Pixel 6 的“oriole”,15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-bp1a.250505.005-0ac3ca61.zip,0ac3ca6175db1b86ed666aa2079a1f8ad41ea67a52e5a9b834c09bde6a6e5a5f
+Pixel 6 的“oriole”,16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/oriole-ota-bp2a.250605.031.a2-e6a8072b.zip,e6a8072b436ebb1d0ffd1eef9be1b45bb564550ec62f73c5e40632440d7de6c5
 “raven”(Pixel 6 Pro)
 “raven”(Pixel 6 Pro),12.0.0（SD1A.210817.015.A4，2021 年 10 月）,https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.015.a4-83028e9c.zip,83028e9cbd809931361575c7d6b3186bff95f113b10044bd384a552a919075b3
 “raven”(Pixel 6 Pro),12.0.0（SD1A.210817.019.B1，2021 年 10 月，ATT）,https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.019.b1-9e27b8e6.zip,9e27b8e6a8b3f0e1057312cd9e30977527c22dbf57a2fe79744b5bc36dd240ab
 “raven”(Pixel 6 Pro),12.0.0（SD1A.210817.019.C2，2021 年 10 月，T-Mobile [美国]、USCC、Google Fi、加拿大和台湾运营商）,https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.019.c2-fd22bee6.zip,fd22bee650526982b2f38a9abbf9f2cd2107bfe7be2a37523d44c6721de8b532
 “raven”(Pixel 6 Pro),12.0.0（SD1A.210817.019.C4，2021 年 10 月，Verizon）,https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.019.c4-e0ff1e8a.zip,e0ff1e8af383361de21d5dea4d19d867a41e17f26fb3e3fe4bf65685d600599f
 “raven”(Pixel 6 Pro),12.0.0（SD1A.210817.036，2021 年 11 月）,https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.036-fa8e25b8.zip,fa8e25b834c6ed58e9a83c90851bd2e21e98b913344b5030758f23c2df597d8f
-“raven”(Pixel 6 Pro),"12.0.0 (SD1A.210817.036.A8, 2021 年 11 月, Verizon)",https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.036.a8-b21a7e4f.zip,b21a7e4f609d07a4cec139a4714af5a116a712bcf2f18ad71dea8f27b6e08163
+“raven”(Pixel 6 Pro),12.0.0（SD1A.210817.036.A8，2021 年 11 月，Verizon）,https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.036.a8-b21a7e4f.zip,b21a7e4f609d07a4cec139a4714af5a116a712bcf2f18ad71dea8f27b6e08163
 “raven”(Pixel 6 Pro),"12.0.0 (SD1A.210817.037, 2021 年 11 月)",https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.037-1543ec70.zip,1543ec70cdd0cbca70f47335c305625d97b00b0a819fc84bd21d9300ea765e14
 “raven”(Pixel 6 Pro),12.0.0（SD1A.210817.037.A1，2021 年 11 月，Verizon）,https://googledownloads.cn/dl/android/aosp/raven-ota-sd1a.210817.037.a1-9436a359.zip,9436a359659e5f42bd7cff4d98c913ffddc4680938ca91a1b1bde7c51ea3990c
 “raven”(Pixel 6 Pro),12.0.0（SQ1D.220105.007，2022 年 1 月）,https://googledownloads.cn/dl/android/aosp/raven-ota-sq1d.220105.007-3a7aafbf.zip,3a7aafbfb10172692e34195b776139b7b96030753d6cb7a393b6e3a591cc3de2
@@ -690,13 +705,14 @@ Pixel 6 的“oriole”,15.0.0（BP1A.250505.005，2025 年 5 月）,https://goo
 “raven”(Pixel 6 Pro),15.0.0（BP1A.250305.019，2025 年 3 月）,https://googledownloads.cn/dl/android/aosp/raven-ota-bp1a.250305.019-2c923d08.zip,2c923d08026d4a37bc76ebf3c184d84028204216c328ff907fbf9b4ff2c0d712
 “raven”(Pixel 6 Pro),15.0.0（BP1A.250405.007，2025 年 4 月）,https://googledownloads.cn/dl/android/aosp/raven-ota-bp1a.250405.007-5a4948f7.zip,5a4948f71317c8b48211d82fe5d6de204ceb5d517ba31e5732f1cbb41945628b
 “raven”(Pixel 6 Pro),15.0.0（BP1A.250505.005，2025 年 5 月）,https://googledownloads.cn/dl/android/aosp/raven-ota-bp1a.250505.005-5793e41b.zip,5793e41b178a28f1d4f114cf9d345b50e0b8e73f542ad522bbda1b18c1f0f32a
+“raven”(Pixel 6 Pro),16.0.0（BP2A.250605.031.A2，2025 年 6 月）,https://googledownloads.cn/dl/android/aosp/raven-ota-bp2a.250605.031.a2-0410530d.zip,0410530d19fd8cc9c9dc7af70e552a628f8a6d94dc2358932289496ee3ba6a48
 Pixel 5a 的“barbet”
 Pixel 5a 的“barbet”,"11.0.0 (RD2A.210605.006, 2021 年 6 月, 日本运营商)",https://googledownloads.cn/dl/android/aosp/barbet-ota-rd2a.210605.006-e56baaf5.zip,e56baaf5834db85310193adbf91bcf2b4e170fe763717a31d705ca1c68f5d039
 Pixel 5a 的“barbet”,11.0.0（RD2A.210605.007，2021 年 6 月）,https://googledownloads.cn/dl/android/aosp/barbet-ota-rd2a.210605.007-c7751714.zip,c77517142e22425397230c87d20c1ef740d27c5b78ee90e9e5edfeacd231782c
 Pixel 5a 的“barbet”,"11.0.0 (RD2A.210905.002, 2021 年 9 月)",https://googledownloads.cn/dl/android/aosp/barbet-ota-rd2a.210905.002-bbb8c72e.zip,bbb8c72eeecdcc648a5bf87b661b25f53827eabaa24c17d1a8f2943de03dfd8e
 Pixel 5a 的“barbet”,"11.0.0 (RD2A.210905.003, 2021 年 9 月, Softbank、KDDI、Rakuten)",https://googledownloads.cn/dl/android/aosp/barbet-ota-rd2a.210905.003-08c81282.zip,08c812829aac76bfd78f9894673f1c20c4cd833b6699b4ec935e13bf6fba8a13
 Pixel 5a 的“barbet”,"11.0.0 (RD2A.211001.001, 2021 年 10 月, Softbank、KDDI、Rakuten)",https://googledownloads.cn/dl/android/aosp/barbet-ota-rd2a.211001.001-1be8edf6.zip,1be8edf66eb2fe3bced0773eba809fcf63265de19579b8743ba4ca6081647dea
-Pixel 5a 的“barbet”,"11.0.0 (RD2A.211001.002, 10 月 2021 年)",https://googledownloads.cn/dl/android/aosp/barbet-ota-rd2a.211001.002-61797eca.zip,61797eca4d74ff32578ee43d3fda4ebba01907e6c7a3f2cd6831de9e047013bd
+Pixel 5a 的“barbet”,"11.0.0 (RD2A.211001.002, 2021 年 10 月)",https://googledownloads.cn/dl/android/aosp/barbet-ota-rd2a.211001.002-61797eca.zip,61797eca4d74ff32578ee43d3fda4ebba01907e6c7a3f2cd6831de9e047013bd
 Pixel 5a 的“barbet”,12.0.0（SP1A.210812.015，2021 年 10 月）,https://googledownloads.cn/dl/android/aosp/barbet-ota-sp1a.210812.015-762938a3.zip,762938a386c12fff9b8358e8d1ef10ead17de234fbf31e65e20fad29317e23b6
 Pixel 5a 的“barbet”,12.0.0（SP1A.210812.016.A1，2021 年 10 月，Verizon）,https://googledownloads.cn/dl/android/aosp/barbet-ota-sp1a.210812.016.a1-7f512ba7.zip,7f512ba73e84dc1dfd16ef1732aca1658e329eefeafa3f24ade6299f2e06c1cc
 Pixel 5a 的“barbet”,"12.0.0 (SP1A.211105.002.A1, 2021 年 11 月, Verizon、Verizon MVNO)",https://googledownloads.cn/dl/android/aosp/barbet-ota-sp1a.211105.002.a1-5510dd44.zip,5510dd44e547fc6bf08d4f1ed1e1266916e7e011056c8caa537a7b290c601c39
@@ -764,7 +780,7 @@ Pixel 5a 的“barbet”,14.0.0（AP2A.240805.005.S4，2024 年 11 月）,https:
 “redfin”表示 Pixel 5,11.0.0（RQ2A.210305.006，2021 年 3 月）,https://googledownloads.cn/dl/android/aosp/redfin-ota-rq2a.210305.006-46949c28.zip,46949c28f40f3e90d60f9d601e9d4d66412657333c0b0836eb45a5fd0f00921e
 “redfin”表示 Pixel 5,11.0.0（RQ2A.210305.007，2021 年 3 月，仅限 Virgin/英国）,https://googledownloads.cn/dl/android/aosp/redfin-ota-rq2a.210305.007-07b679d8.zip,07b679d82f08f8ef98c5477985d31b727f4768f942ba06b0974f699cc9d7e62f
 “redfin”表示 Pixel 5,11.0.0（RQ2A.210405.005，2021 年 4 月）,https://googledownloads.cn/dl/android/aosp/redfin-ota-rq2a.210405.005-bb19e670.zip,bb19e670b62393d0b239503a6ab5f011fc8a11b92b46a71e08117f0f5410039f
-“redfin”表示 Pixel 5,11.0.0（RQ2A.210505.003，2021 年 5 月）,https://googledownloads.cn/dl/android/aosp/redfin-ota-rq2a.210505.003-53ce6883.zip,53ce6883c98da0ab262c72e29cc027769f92a3178e0774afd08781b53e140494
+“redfin”表示 Pixel 5,"11.0.0 (RQ2A.210505.003, 2021 年 5 月)",https://googledownloads.cn/dl/android/aosp/redfin-ota-rq2a.210505.003-53ce6883.zip,53ce6883c98da0ab262c72e29cc027769f92a3178e0774afd08781b53e140494
 “redfin”表示 Pixel 5,11.0.0（RQ3A.210605.005，2021 年 6 月）,https://googledownloads.cn/dl/android/aosp/redfin-ota-rq3a.210605.005-0fd92331.zip,0fd923313cbed3defecc7e455c4b86e98d9f79d4258d511879fd346106140405
 “redfin”表示 Pixel 5,"11.0.0 (RQ3A.210705.001, 2021 年 7 月)",https://googledownloads.cn/dl/android/aosp/redfin-ota-rq3a.210705.001-b7ac9f79.zip,b7ac9f7903bb108d1473729e929ff03586142bffb19cea8d255a65b4d209c03e
 “redfin”表示 Pixel 5,11.0.0（RQ3A.210805.001.A1，2021 年 8 月）,https://googledownloads.cn/dl/android/aosp/redfin-ota-rq3a.210805.001.a1-7e1d3f8d.zip,7e1d3f8dce300f73a2d146e5ddfb473ea495f846b16a31473cecea5560d8bf82
@@ -828,7 +844,7 @@ Pixel 4a (5G) 的“bramble”,"11.0.0 (RQ1D.210205.004, 2021 年 2 月, Verizon
 Pixel 4a (5G) 的“bramble”,11.0.0（RQ2A.210305.006，2021 年 3 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-rq2a.210305.006-4240a2e6.zip,4240a2e6c7be78faa5f6de83ff88cc21b5fcbf8095322d9e0eec4426b0e3c8e9
 Pixel 4a (5G) 的“bramble”,11.0.0（RQ2A.210305.007，2021 年 3 月，仅限 Virgin/英国）,https://googledownloads.cn/dl/android/aosp/bramble-ota-rq2a.210305.007-65030b12.zip,65030b12b3dac7d86675be40c105d3859117db052790581f6141e1155b331dc5
 Pixel 4a (5G) 的“bramble”,11.0.0（RQ2A.210405.005，2021 年 4 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-rq2a.210405.005-fd20960f.zip,fd20960f1ca44cfd52148dae946f9c6931771185827393fc2aef692776d4ed33
-Pixel 4a (5G) 的“bramble”,11.0.0（RQ2A.210505.003，2021 年 5 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-rq2a.210505.003-d081f512.zip,d081f512ef8c41b7fe8095252a5c4dced7bda26ede2c480388d4da125c3f4bd5
+Pixel 4a (5G) 的“bramble”,"11.0.0 (RQ2A.210505.003, 2021 年 5 月)",https://googledownloads.cn/dl/android/aosp/bramble-ota-rq2a.210505.003-d081f512.zip,d081f512ef8c41b7fe8095252a5c4dced7bda26ede2c480388d4da125c3f4bd5
 Pixel 4a (5G) 的“bramble”,11.0.0（RQ3A.210605.005，2021 年 6 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-rq3a.210605.005-dde0a52c.zip,dde0a52c22d49fe25b8e36a81114fdd8843926cd7fbf9d94dfd15342931cc82c
 Pixel 4a (5G) 的“bramble”,"11.0.0 (RQ3A.210705.001, 2021 年 7 月)",https://googledownloads.cn/dl/android/aosp/bramble-ota-rq3a.210705.001-d0a79868.zip,d0a798683d5af52356ce0fe71464f5b5ddd4f3233a21892b635ef3449730ef85
 Pixel 4a (5G) 的“bramble”,11.0.0（RQ3A.210805.001.A1，2021 年 8 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-rq3a.210805.001.a1-372f0a0a.zip,372f0a0aabcad3496257aab6ffcd07c31e4bf4f0615f72578854c50e64811e72
@@ -860,7 +876,7 @@ Pixel 4a (5G) 的“bramble”,13.0.0（TQ2A.230305.008.C1，2023 年 3 月）,h
 Pixel 4a (5G) 的“bramble”,13.0.0（TQ2A.230405.003，2023 年 4 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-tq2a.230405.003-222842df.zip,222842dfa10fa3470e14eb6e26dc277be84bb66ddf6103451a466bec1d0081dd
 Pixel 4a (5G) 的“bramble”,13.0.0（TQ2A.230405.003.A2，2023 年 4 月，T-Mobile、T-Mobile MVNO）,https://googledownloads.cn/dl/android/aosp/bramble-ota-tq2a.230405.003.a2-b44ae13e.zip,b44ae13e810b5e6465367b87d13cf03cb21616979339b5df7a0b58c17e888930
 Pixel 4a (5G) 的“bramble”,13.0.0（TQ2A.230405.003.B2，2023 年 4 月，Telus）,https://googledownloads.cn/dl/android/aosp/bramble-ota-tq2a.230405.003.b2-51976e93.zip,51976e932bb7f17af9cfefeb2d9c57760540899ca5385057f65ca799c17c1be2
-Pixel 4a (5G) 的“bramble”,"13.0.0 (TQ2A.230505.002, 2023 年 5 月)",https://googledownloads.cn/dl/android/aosp/bramble-ota-tq2a.230505.002-11bb2014.zip,11bb2014e60f6e5a65d52369da6a3582adeccb1e130da3c36ab3d26cae948971
+Pixel 4a (5G) 的“bramble”,13.0.0 (TQ2A.230505.002，2023 年 5 月),https://googledownloads.cn/dl/android/aosp/bramble-ota-tq2a.230505.002-11bb2014.zip,11bb2014e60f6e5a65d52369da6a3582adeccb1e130da3c36ab3d26cae948971
 Pixel 4a (5G) 的“bramble”,"13.0.0 (TQ2A.230505.002.A1, 2023 年 5 月, T-Mobile、T-Mobile MVNO)",https://googledownloads.cn/dl/android/aosp/bramble-ota-tq2a.230505.002.a1-8ca3c446.zip,8ca3c44653ab636926205b82b6f940911a289148058ab370100f67905386fbcd
 Pixel 4a (5G) 的“bramble”,13.0.0（TQ3A.230605.011，2023 年 6 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-tq3a.230605.011-ec75e422.zip,ec75e422d2f26a4d692551cc52440e65122ef1739d1aea3be36f8e4aeb61ba1a
 Pixel 4a (5G) 的“bramble”,13.0.0（TQ3A.230705.001，2023 年 7 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-tq3a.230705.001-bb18bfec.zip,bb18bfecca6fc79994d76d24f644512316f5784cccd12f3595105cf5eac472e1
@@ -871,8 +887,8 @@ Pixel 4a (5G) 的“bramble”,"13.0.0 (TQ3A.230901.001.C2, 2023 年 9 月, Veri
 Pixel 4a (5G) 的“bramble”,"14.0.0 (UP1A.231005.007, 2023 年 10 月)",https://googledownloads.cn/dl/android/aosp/bramble-ota-up1a.231005.007-231386fe.zip,231386fedfa64b0456bf0287b485d89bb3cc96955075737d36a64a5d8fc9e5f3
 Pixel 4a (5G) 的“bramble”,"14.0.0 (UP1A.231105.001, 2023 年 11 月)",https://googledownloads.cn/dl/android/aosp/bramble-ota-up1a.231105.001-db54d066.zip,db54d0663e2fadd098b1c11e00e98a9e7acf7e66d46316ca7350d8be66c54894
 Pixel 4a (5G) 的“bramble”,14.0.0（UP1A.231105.001.B2，2024 年 2 月）,https://googledownloads.cn/dl/android/aosp/bramble-ota-up1a.231105.001.b2-06727ba9.zip,06727ba9ba1d53b7c7ed3ae22eb5fada4af475ea5725a569d05774c753f32f48
-“sunfish”(适用于 Pixel 4a)
-“sunfish”(适用于 Pixel 4a),13.0.0（TQ3A.230805.001.S2，2025 年 1 月）,https://googledownloads.cn/dl/android/aosp/sunfish-ota-tq3a.230805.001.s2-26ab5a81.zip,26ab5a81c0f5bc26211a415f96d95c97a8698afdda4cdf34ee60745da27259bb
+“sunfish”（适用于 Pixel 4a）
+“sunfish”（适用于 Pixel 4a）,13.0.0（TQ3A.230805.001.S2，2025 年 1 月）,https://googledownloads.cn/dl/android/aosp/sunfish-ota-tq3a.230805.001.s2-26ab5a81.zip,26ab5a81c0f5bc26211a415f96d95c97a8698afdda4cdf34ee60745da27259bb
 Pixel 4 XL 的“珊瑚红”
 Pixel 4 XL 的“珊瑚红”,"10.0.0 (QD1A.190821.007, 2019 年 10 月)",https://googledownloads.cn/dl/android/aosp/coral-ota-qd1a.190821.007-a80cd76e.zip,a80cd76e97a854b6306d8dac18bb7d8635d4d33e1140f90bbf254ef22348c5bf
 Pixel 4 XL 的“珊瑚红”,"10.0.0 (QD1A.190821.011, 2019 年 10 月)",https://googledownloads.cn/dl/android/aosp/coral-ota-qd1a.190821.011-f47dde8c.zip,f47dde8c9f79571abcc6bec8b023a623135351f37e0a7be6d6aa89673a142082
@@ -888,7 +904,7 @@ Pixel 4 XL 的“珊瑚红”,10.0.0（QQ1C.200105.004，2020 年 1 月，部分
 Pixel 4 XL 的“珊瑚红”,10.0.0（QQ1D.200105.002，2020 年 1 月，NTT DOCOMO）,https://googledownloads.cn/dl/android/aosp/coral-ota-qq1d.200105.002-e780c659.zip,e780c659eee61821d3cd1393a23fca448c4a7ccd6310bbe93719e73e8cdffd36
 Pixel 4 XL 的“珊瑚红”,10.0.0（QQ1B.200205.002，2020 年 2 月）,https://googledownloads.cn/dl/android/aosp/coral-ota-qq1b.200205.002-3e07a5f3.zip,3e07a5f3c1ff0b991759fe15753a7eb4caf95dd6ae5f3a0192e9be96b35a3180
 Pixel 4 XL 的“珊瑚红”,10.0.0（QQ1C.200205.002，2020 年 2 月，部分日本和台湾运营商）,https://googledownloads.cn/dl/android/aosp/coral-ota-qq1c.200205.002-d629b4f9.zip,d629b4f97f226d08361a4c6977bc42792bc2a6ae182c3f2699f0e6d4ee4f15d1
-Pixel 4 XL 的“珊瑚红”,"10.0.0 (QQ1D.200205.002, 2020 年 2 月, NTT DOCOMO)",https://googledownloads.cn/dl/android/aosp/coral-ota-qq1d.200205.002-59b64433.zip,59b64433591512ec9e36d765d2c343cd0d4639340bea0ddd9a087fa06d3cd19e
+Pixel 4 XL 的“珊瑚红”,10.0.0（QQ1D.200205.002，2020 年 2 月，NTT DOCOMO）,https://googledownloads.cn/dl/android/aosp/coral-ota-qq1d.200205.002-59b64433.zip,59b64433591512ec9e36d765d2c343cd0d4639340bea0ddd9a087fa06d3cd19e
 Pixel 4 XL 的“珊瑚红”,10.0.0（QQ2A.200305.003，2020 年 3 月，AT&T 除外，适用于所有运营商）,https://googledownloads.cn/dl/android/aosp/coral-ota-qq2a.200305.003-3b25765d.zip,3b25765da808959a0550399fab95c4c4c9ccfa4bbfa8dedbc8b427475ee50afc
 Pixel 4 XL 的“珊瑚红”,10.0.0（QQ2A.200305.004.A1，2020 年 3 月，仅限 AT&T）,https://googledownloads.cn/dl/android/aosp/coral-ota-qq2a.200305.004.a1-3557135e.zip,3557135e48e0cabfb8044b7f386a3d7171befc871771fd4b0ce4f961819544e7
 Pixel 4 XL 的“珊瑚红”,10.0.0（QQ2A.200405.005，2020 年 4 月）,https://googledownloads.cn/dl/android/aosp/coral-ota-qq2a.200405.005-e9ad5990.zip,e9ad5990a4b17c27c1c6620a04cc8b702c8fb753ff0bba3f0b2819a3800d8f6d
@@ -945,7 +961,7 @@ Pixel 4 的“flame”,10.0.0（QQ1C.200105.004，2020 年 1 月，部分日本�
 Pixel 4 的“flame”,10.0.0（QQ1D.200105.002，2020 年 1 月，NTT DOCOMO）,https://googledownloads.cn/dl/android/aosp/flame-ota-qq1d.200105.002-84c07861.zip,84c07861816bf11b42add0b7923c35ded726c1c48830ff4203b64e58599f36eb
 Pixel 4 的“flame”,10.0.0（QQ1B.200205.002，2020 年 2 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-qq1b.200205.002-5af5767e.zip,5af5767edd1013a6a48950763d364f59570c9bb989d2bb5c4af2ffe9f50d3210
 Pixel 4 的“flame”,10.0.0（QQ1C.200205.002，2020 年 2 月，部分日本和台湾运营商）,https://googledownloads.cn/dl/android/aosp/flame-ota-qq1c.200205.002-fd53ff42.zip,fd53ff42db478ac4b9a3e7d9843104d68dfabdff2c237b12e8f57350f332fb4b
-Pixel 4 的“flame”,"10.0.0 (QQ1D.200205.002, 2020 年 2 月, NTT DOCOMO)",https://googledownloads.cn/dl/android/aosp/flame-ota-qq1d.200205.002-673c8a11.zip,673c8a11f02d5d9c639b3795a87543e0a24579d9f8acef81210f6891dd41a2e5
+Pixel 4 的“flame”,10.0.0（QQ1D.200205.002，2020 年 2 月，NTT DOCOMO）,https://googledownloads.cn/dl/android/aosp/flame-ota-qq1d.200205.002-673c8a11.zip,673c8a11f02d5d9c639b3795a87543e0a24579d9f8acef81210f6891dd41a2e5
 Pixel 4 的“flame”,10.0.0（QQ2A.200305.003，2020 年 3 月，AT&T 除外，适用于所有运营商）,https://googledownloads.cn/dl/android/aosp/flame-ota-qq2a.200305.003-1b5d6984.zip,1b5d6984d4c8680b4ea7f3ab63f48e70f5abefbfe19905ae9359b511a798f3ff
 Pixel 4 的“flame”,10.0.0（QQ2A.200305.004.A1，2020 年 3 月，仅限 AT&T）,https://googledownloads.cn/dl/android/aosp/flame-ota-qq2a.200305.004.a1-5ab5d467.zip,5ab5d467e87631986325ceeed091fa7ba18ce61f83009299b1f07a8147f9a1d3
 Pixel 4 的“flame”,10.0.0（QQ2A.200405.005，2020 年 4 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-qq2a.200405.005-2b5150a4.zip,2b5150a4c025ea6ffa20341f6c19257dbbfb9710d42de52894bc3ddb4d312b2d
@@ -979,12 +995,12 @@ Pixel 4 的“flame”,"12.0.0 (SQ1A.211205.008, 2021 年 12 月)",https://googl
 Pixel 4 的“flame”,12.0.0（SQ1A.220105.002，2022 年 1 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-sq1a.220105.002-aec4fc6e.zip,aec4fc6eb79b2e011bc7f97736e30dfb5770a8fef099b1f6e174888cde51dd1c
 Pixel 4 的“flame”,12.0.0（SQ1A.220205.002，2022 年 2 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-sq1a.220205.002-bfbef0b4.zip,bfbef0b4026b30948e9c56a7080284b5fca9662aaa6eaee544c9b2a4302bcbed
 Pixel 4 的“flame”,12.1.0（SP2A.220305.012，2022 年 3 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-sp2a.220305.012-661704c8.zip,661704c8530e990a600ca054abb615d0d986955129db7802b2b0dbd3ac489ee5
-Pixel 4 的“flame”,12.1.0（SP2A.220405.003，2022 年 4 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-sp2a.220405.003-4cfe45f7.zip,4cfe45f79eaf6914f618ed11e6943a612623c0a31c51bd02cd35324df37c1242
+Pixel 4 的“flame”,"12.1.0 (SP2A.220405.003, 2022 年 4 月)",https://googledownloads.cn/dl/android/aosp/flame-ota-sp2a.220405.003-4cfe45f7.zip,4cfe45f79eaf6914f618ed11e6943a612623c0a31c51bd02cd35324df37c1242
 Pixel 4 的“flame”,"12.1.0 (SP2A.220505.002, 2022 年 5 月)",https://googledownloads.cn/dl/android/aosp/flame-ota-sp2a.220505.002-5c5eb99e.zip,5c5eb99eb39d373c5f6ea6bded4f8967c488ad4de8950814d2b1ddc0153c954d
 Pixel 4 的“flame”,12.1.0（SQ3A.220605.009.A1，2022 年 6 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-sq3a.220605.009.a1-296671c1.zip,296671c1f64d04d4b5eb6829b88d53e63f3caa64b1c595b94fb610d6bcd12cae
 Pixel 4 的“flame”,12.1.0（SQ3A.220705.003.A1，2022 年 7 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-sq3a.220705.003.a1-c3ee51db.zip,c3ee51dbdc2b05b47c1384b347de7e1cbacfc2202a1acfd4a7529409c617e692
 Pixel 4 的“flame”,13.0.0（TP1A.220624.014，2022 年 8 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-tp1a.220624.014-9ac24d3e.zip,9ac24d3eb3670d7f89c552b73945726d1183e2e94d4b6c3a260c00154cd4a1c1
-Pixel 4 的“flame”,"13.0.0 (TP1A.220905.004, 2022 年 9 月)",https://googledownloads.cn/dl/android/aosp/flame-ota-tp1a.220905.004-0c8049f1.zip,0c8049f140f449408e3bce0797f9d09aa02b828ec558fb59c63c55ced7bda019
+Pixel 4 的“flame”,13.0.0（TP1A.220905.004，2022 年 9 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-tp1a.220905.004-0c8049f1.zip,0c8049f140f449408e3bce0797f9d09aa02b828ec558fb59c63c55ced7bda019
 Pixel 4 的“flame”,13.0.0（TP1A.221005.002，2022 年 10 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-tp1a.221005.002-c29c98cb.zip,c29c98cbf630bc4d37faf0c3a80e11d3afe91bc1acaf8d4af8a763bfc9106ec4
 Pixel 4 的“flame”,13.0.0（TP1A.221005.002.B2，2023 年 2 月）,https://googledownloads.cn/dl/android/aosp/flame-ota-tp1a.221005.002.b2-4d76895a.zip,4d76895aac34a8bb816a338439ee62ca0794628228cf4c1330b4e40a5c8cb4af
 Pixel 3a XL 的“bonito”
@@ -1060,7 +1076,7 @@ Pixel 3a XL 的“bonito”,"12.1.0 (SP2A.220505.008, 2022 年 9 月)",https://g
 “sargo”表示 Pixel 3a,"11.0.0 (RP1A.200720.009, 2020 年 9 月)",https://googledownloads.cn/dl/android/aosp/sargo-ota-rp1a.200720.009-1b6d1efa.zip,1b6d1efa3cd1df03985a135fa9b696d5086f1fdef9c5590aa4f0f7052d702634
 “sargo”表示 Pixel 3a,"11.0.0 (RP1A.201005.004, 2020 年 10 月)",https://googledownloads.cn/dl/android/aosp/sargo-ota-rp1a.201005.004-9efe013f.zip,9efe013f4b7c25756ac636f333f81936d889844f6512759d0a822df5a639700c
 “sargo”表示 Pixel 3a,"11.0.0 (RP1A.201105.002, 2020 年 11 月)",https://googledownloads.cn/dl/android/aosp/sargo-ota-rp1a.201105.002-cd4ef64b.zip,cd4ef64b5f052acbf0c19c0532f254c53c4902ec862db26a6d7ddb853103de7e
-“sargo”表示 Pixel 3a,"11.0.0 (RQ1A.201205.003, 2020 年 12 月)",https://googledownloads.cn/dl/android/aosp/sargo-ota-rq1a.201205.003-1eb75577.zip,1eb75577f7e5e3f1660c9799d6242e189b62fdcc2992ae17f9d49e0c5ab4f301
+“sargo”表示 Pixel 3a,11.0.0（RQ1A.201205.003，2020 年 12 月）,https://googledownloads.cn/dl/android/aosp/sargo-ota-rq1a.201205.003-1eb75577.zip,1eb75577f7e5e3f1660c9799d6242e189b62fdcc2992ae17f9d49e0c5ab4f301
 “sargo”表示 Pixel 3a,11.0.0（RQ1A.210105.002，2021 年 1 月）,https://googledownloads.cn/dl/android/aosp/sargo-ota-rq1a.210105.002-b8be09b5.zip,b8be09b50776fdcb62dbf5554c45ce9a5bb8e208ed29c7819a46a2c122e65003
 “sargo”表示 Pixel 3a,"11.0.0 (RQ1A.210205.004, 2021 年 2 月)",https://googledownloads.cn/dl/android/aosp/sargo-ota-rq1a.210205.004-d7345ef8.zip,d7345ef80dea3f397a5624a5080c2916190f04ce79169547a08eb0982012c06d
 “sargo”表示 Pixel 3a,11.0.0（RQ2A.210305.006，2021 年 3 月）,https://googledownloads.cn/dl/android/aosp/sargo-ota-rq2a.210305.006-39e6ff3d.zip,39e6ff3dec4800d84ccb2500a339ceb8076922dc0c28d26d89f2f8131a6c932b
@@ -1093,7 +1109,7 @@ Pixel 3a XL 的“bonito”,"12.1.0 (SP2A.220505.008, 2022 年 9 月)",https://g
 “crosshatch”(Pixel 3 XL),9.0.0（PQ2A.190205.001，2019 年 2 月）,https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq2a.190205.001-4225fb81.zip,4225fb81e4966985965ca80b26d165dc9344dbbb5c2128dde55f9092f71ad5e4
 “crosshatch”(Pixel 3 XL),9.0.0（PQ2A.190305.002，2019 年 3 月）,https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq2a.190305.002-5f13844f.zip,5f13844fc314f0ebe1d69ec233246126a1197aaf119af40d0ed68a170ca6836c
 “crosshatch”(Pixel 3 XL),9.0.0（PQ2A.190405.003，2019 年 4 月）,https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq2a.190405.003-8dbfa1fe.zip,8dbfa1fe8764648efe3a0924ad37c23022b093861a939ec867e7c9ac164c0c1a
-“crosshatch”(Pixel 3 XL),"9.0.0 (PQ3A.190505.002, 2019 年 5 月)",https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq3a.190505.002-18b3673d.zip,18b3673d4278c5f8c85941d1ffc6586044d449bf61b7479e21ecfe8ec76a13bf
+“crosshatch”(Pixel 3 XL),9.0.0（PQ3A.190505.002，2019 年 5 月）,https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq3a.190505.002-18b3673d.zip,18b3673d4278c5f8c85941d1ffc6586044d449bf61b7479e21ecfe8ec76a13bf
 “crosshatch”(Pixel 3 XL),9.0.0（PQ3A.190605.003，2019 年 6 月）,https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq3a.190605.003-336f035b.zip,336f035be229a42c8ddc7c19afab448e48a4f3b9783ae39383934244d96a3369
 “crosshatch”(Pixel 3 XL),"9.0.0 (PQ3A.190605.004.A1, 2019 年 6 月, Verizon)",https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq3a.190605.004.a1-110ae5ac.zip,110ae5ac148bcc92d2956da4eb8f98c3b84517573cac1962a0f267218e6ac72e
 “crosshatch”(Pixel 3 XL),"9.0.0 (PQ3A.190705.003, 2019 年 7 月)",https://googledownloads.cn/dl/android/aosp/crosshatch-ota-pq3a.190705.003-f729fb6d.zip,f729fb6db0131c892e756fa22ad3a98319d4080000d9e7c42054643335b43f1d
@@ -1150,7 +1166,7 @@ Pixel 3a XL 的“bonito”,"12.1.0 (SP2A.220505.008, 2022 年 9 月)",https://g
 “blueline”表示 Pixel 3,9.0.0（PQ2A.190205.001，2019 年 2 月）,https://googledownloads.cn/dl/android/aosp/blueline-ota-pq2a.190205.001-c4975610.zip,c497561067a9600162f310519b2dfcc91745bee300e508255b914f669db51fd5
 “blueline”表示 Pixel 3,9.0.0（PQ2A.190305.002，2019 年 3 月）,https://googledownloads.cn/dl/android/aosp/blueline-ota-pq2a.190305.002-814c6733.zip,814c6733c37b4d2c83115c1ad71e41011591c0f1705ac9b5e9210942211f04a6
 “blueline”表示 Pixel 3,9.0.0（PQ2A.190405.003，2019 年 4 月）,https://googledownloads.cn/dl/android/aosp/blueline-ota-pq2a.190405.003-9d700bb8.zip,9d700bb8bc408bbfd83a42134594ac6a16adc31299194333afaf90edc28431db
-“blueline”表示 Pixel 3,"9.0.0 (PQ3A.190505.002, 2019 年 5 月)",https://googledownloads.cn/dl/android/aosp/blueline-ota-pq3a.190505.002-4c495c8d.zip,4c495c8de2b6af6f13bf3721db64ee79119b5c0fa7dc539c0a5736741840380e
+“blueline”表示 Pixel 3,9.0.0（PQ3A.190505.002，2019 年 5 月）,https://googledownloads.cn/dl/android/aosp/blueline-ota-pq3a.190505.002-4c495c8d.zip,4c495c8de2b6af6f13bf3721db64ee79119b5c0fa7dc539c0a5736741840380e
 “blueline”表示 Pixel 3,9.0.0（PQ3A.190605.003，2019 年 6 月）,https://googledownloads.cn/dl/android/aosp/blueline-ota-pq3a.190605.003-ea63a5ab.zip,ea63a5aba2b2f23b7611c50f046608b55d163f27df11608e74a997a28bdd9ec1
 “blueline”表示 Pixel 3,"9.0.0 (PQ3A.190605.004.A1, 2019 年 6 月, Verizon)",https://googledownloads.cn/dl/android/aosp/blueline-ota-pq3a.190605.004.a1-12b42e4f.zip,12b42e4f05069bf6c1d7556a9495dd5465d72f5837ee6232f65e6ac1fcbc0cb5
 “blueline”表示 Pixel 3,"9.0.0 (PQ3A.190705.003, 2019 年 7 月)",https://googledownloads.cn/dl/android/aosp/blueline-ota-pq3a.190705.003-357e439d.zip,357e439d326831aaa9b9cd202bb6f9d448c2faaa57847d87c7c171df4cb1fddf
@@ -1197,59 +1213,59 @@ Pixel 3a XL 的“bonito”,"12.1.0 (SP2A.220505.008, 2022 年 9 月)",https://g
 “blueline”表示 Pixel 3,"12.0.0 (SP1A.210812.016.C1, 2022 年 2 月)",https://googledownloads.cn/dl/android/aosp/blueline-ota-sp1a.210812.016.c1-e72a1a2b.zip,e72a1a2be3a2fbe211a430776c66810fc48ab222e9441bb48d27d6a8f3cf07c2
 “blueline”表示 Pixel 3,12.0.0（SP1A.210812.016.B2，2022 年 6 月，Telstra、Optus、Vodafone AU）,https://googledownloads.cn/dl/android/aosp/blueline-ota-sp1a.210812.016.b2-6c5eb510.zip,6c5eb51008b783bdb1e32a13f67390a9e794a071a1d54532d8578374af6799ef
 “blueline”表示 Pixel 3,"12.0.0 (SP1A.210812.016.C2, 2022 年 6 月)",https://googledownloads.cn/dl/android/aosp/blueline-ota-sp1a.210812.016.c2-f7ebc6b3.zip,f7ebc6b326be1b40355d1e0b6d5e5e73204878f3419dec954eb35e1677bb12a1
-“taimen”适用于 Pixel 2 XL
-“taimen”适用于 Pixel 2 XL,"8.0.0 (OPD1.170816.010, 2017 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.010-825664c4.zip,825664c4b581bae9af8231ad323ad5fc63105785d868bdd53b3c9dfb75bdcca1
-“taimen”适用于 Pixel 2 XL,"8.0.0 (OPD1.170816.011, 2017 年 9 月, Telstra)",https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.011-797ba455.zip,797ba455bb5e6a3c8d7be5a4f0800983bbcb4495d1be0bcf2bc1407c53e7c9b9
-“taimen”适用于 Pixel 2 XL,8.0.0（OPD1.170816.012，2017 年 9 月，Rogers、Fido）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.012-c726c936.zip,c726c936cab143b4c99ed71463bfbbab7af841374942f0f06a8945da4197dae9
-“taimen”适用于 Pixel 2 XL,8.0.0（OPD3.170816.012，2017 年 9 月，Verizon）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opd3.170816.012-b436aae6.zip,b436aae670c6ca95d62494c3d050507217c999a12c2723eedf3e341184ad8653
-“taimen”适用于 Pixel 2 XL,8.0.0（OPD1.170816.025，2017 年 11 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.025-f62d726d.zip,f62d726d1696713ac3e5d52794209cbe9857931b33ed368b5318d91282b34315
-“taimen”适用于 Pixel 2 XL,8.0.0（OPD3.170816.023，2017 年 11 月，Verizon）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opd3.170816.023-78039794.zip,780397940f5a459d6f219fda5a361cfaf92f11c65b0300f65f0894a97c845c3a
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM1.171019.011，2017 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.011-03a35830.zip,03a3583099daaa1c5799a66ec715ff1541234bf409dc460efbeb44db7ce31a78
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM2.171019.012，2017 年 12 月，仅限 Telus）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171019.012-dc30d3b7.zip,dc30d3b7a6aa8d1d74e2079012162004c68db4709ec1ed9dfe7d8df313995f43
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM1.171019.013，2018 年 1 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.013-81edd164.zip,81edd16456670a60cf1965f903d3562e586b50a36880c6474bf92c85beafaa43
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM1.171019.014，2018 年 1 月，仅限 O2/英国）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.014-14624c53.zip,14624c537b2c8bbea4a89a8d48dbb4d4460c442d8e09fdd5f3f19155b96f5755
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM1.171019.018，2018 年 2 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.018-660c9291.zip,660c9291449657e4367210915e5751ac54131a95571be17c46b68c6095c0e527
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM1.171019.021，2018 年 3 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.021-7995d48c.zip,7995d48cb38c39d18a63b1501ae6e70169048cd1ed6aa298f2b414f98c7b31da
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM2.171019.029，2018 年 4 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171019.029-1b792f19.zip,1b792f19b92b87413091e8705ad1eb94dd57e2ea7e28c8d19b70356731c62e53
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM4.171019.015.A1，2018 年 4 月，仅限 Telus 和 Koodo）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.015.a1-384ebe17.zip,384ebe17cceeebccf2b8ccd6c9fccee295bbbfa7c78989f8e01bb2f7d84a990f
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM2.171019.029.B1，2018 年 5 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171019.029.b1-9276e899.zip,9276e8998c65462271f332d91969b20a469459466048281aa288bcba53b5c65d
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM4.171019.016.B1，2018 年 5 月，Fi 运营商）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.016.b1-3ff1f16f.zip,3ff1f16f0183f1620586526ad41529b35d9d7f38dfa9ac3808acc7d39fe79d68
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM2.171026.006.C1，2018 年 6 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171026.006.c1-e5ce99bc.zip,e5ce99bc58577ff089eaa04655c8fa58c8f334e2b3e617a511e68a2fc6bd4805
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM4.171019.021.E1，2018 年 6 月，T-Mobile）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.021.e1-817aa113.zip,817aa11345feb2d9b09746f85508276d100effbf32e10aedb4ed5bc5b4fa6098
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM2.171026.006.H1，2018 年 7 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171026.006.h1-339d5d30.zip,339d5d3070497339b156af4106a7a03f60e08533f8eb911f8dc6f1c9698dfc03
-“taimen”适用于 Pixel 2 XL,8.1.0（OPM4.171019.021.R1，2018 年 7 月，T-Mobile）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.021.r1-83539bc7.zip,83539bc7d06c1d0732f5aa309f2214aa40cfb614b2d00dac200fccdc48d74665
-“taimen”适用于 Pixel 2 XL,9.0.0（PPR1.180610.009，2018 年 8 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr1.180610.009-8ac43d39.zip,8ac43d394b7ab8ef80e0fe396f47eec43e3581b1a8874521b8037c8490e56ab9
-“taimen”适用于 Pixel 2 XL,9.0.0（PPR1.180610.011，2018 年 8 月，Telstra）,https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr1.180610.011-d5d094b0.zip,d5d094b040f5326de388d56962ce7ece95aa4513d41aa80894f55b79c8e348e8
-“taimen”适用于 Pixel 2 XL,9.0.0（PPR2.180905.005，2018 年 9 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr2.180905.005-6f1f7ef7.zip,6f1f7ef71125619c07108f5a87b837e7b91c8df9dc7a3cec067d79a01452ae45
-“taimen”适用于 Pixel 2 XL,"9.0.0 (PPR2.181005.003, 2018 年 10 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr2.181005.003-b1969df7.zip,b1969df7adb62989695a6c5a52a8b58ec65a19a9d1ea40a77043998feb6facfd
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ1A.181105.017.A1，2018 年 11 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq1a.181105.017.a1-36f455f8.zip,36f455f81914eb322607110ec283913dd072905e405c232434e499261ee786ff
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ1A.181205.002，2018 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq1a.181205.002-5f46b944.zip,5f46b9449157d3aef1771872b7b18e46c81ee56061e802dd3eecbea7e4030e6a
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ1A.190105.004，2019 年 1 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq1a.190105.004-27e32aa1.zip,27e32aa14278601254f8983672e8b12fb646756c804725a5cf06ca918def33d4
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ2A.190205.002，2019 年 2 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq2a.190205.002-1f4c18f0.zip,1f4c18f0756bdcc9ed5de2cff42084a8821547094d2cb1890b1a87b863f62310
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ2A.190305.002，2019 年 3 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq2a.190305.002-6f1909e8.zip,6f1909e8a11d32510e5f3e2342b2d078a5fcb9472a61831c97e57e27816549d6
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ2A.190405.003，2019 年 4 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq2a.190405.003-f831bc21.zip,f831bc2144b969962e3d7b33288cabd2b326109d799b499cad3c15ca50536292
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ3A.190505.001，2019 年 5 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190505.001-3c2e5fed.zip,3c2e5fed285168831233a65c775bf3f8e6dcc86b202e8d4183d1293cfd34ce63
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ3A.190605.003，2019 年 6 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190605.003-b699cbc8.zip,b699cbc828c0a3900122ee98be9433fb19c05d691a979c8a8815adfd5f585d6a
-“taimen”适用于 Pixel 2 XL,"9.0.0 (PQ3A.190705.001, 2019 年 7 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190705.001-1dd88e96.zip,1dd88e96ab342a9cea10b8359a080f3e3931e0afde50c367336db3a010923c38
-“taimen”适用于 Pixel 2 XL,9.0.0（PQ3A.190801.002，2019 年 8 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190801.002-57654c65.zip,57654c6527896e4eb35b5437684ad076c1a15d702f4e51d694e6b24b99c2c9ef
-“taimen”适用于 Pixel 2 XL,"10.0.0 (QP1A.190711.019, 2019 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.190711.019-8a12e8a1.zip,8a12e8a1c958f675c056652072e9f615cdf98d5af84399eee10e84d778012dd9
-“taimen”适用于 Pixel 2 XL,"10.0.0 (QP1A.190711.020, 2019 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.190711.020-4757f073.zip,4757f073fa728dfe776856afdfb0079ac6dc20728e45c4afaefd04352095d2a5
-“taimen”适用于 Pixel 2 XL,10.0.0（QP1A.191005.007.A1，2019 年 10 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.191005.007.a1-3d9deb8a.zip,3d9deb8aebb52825c77a7147db1d6f4fe675ed218675739aac19cf5df3897c0c
-“taimen”适用于 Pixel 2 XL,"10.0.0 (QP1A.191105.004, 2019 年 11 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.191105.004-1cc98995.zip,1cc9899520e7f3c30893c952d8b8187477757bc388cb2c7539a4f466563904e1
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ1A.191205.008，2019 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq1a.191205.008-5b940489.zip,5b940489b1ab8d4d9a2592c15ac50d4ba435086852a169cd1e60da05d681b544
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ1A.200105.002，2020 年 1 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq1a.200105.002-150a82f7.zip,150a82f7593456769f85dd031673f1b8612be4e766a5d7524bdcd3ffc5186a45
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ1A.200205.002，2020 年 2 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq1a.200205.002-1c132203.zip,1c1322039cffcea2a4cfbfe96afb3ff4e05a405d34287db32c3112825f787d26
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ2A.200305.002，2020 年 3 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200305.002-ad1c1331.zip,ad1c133174950e54f2d047f6fe7995343f4074930359c41b889a683ec52b5da7
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ2A.200405.005，2020 年 4 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200405.005-a1de17f3.zip,a1de17f3bb8fa172f7bdb1456c682bce9fb5b25393723ee12363553d20296168
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ2A.200501.001.A3，2020 年 5 月，台湾运营商）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200501.001.a3-0b4c9315.zip,0b4c931563d8ce9b98c1e0800db7c32dfae45d5cf92fdfcf43bd072ccbe0e830
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ2A.200501.001.B3，2020 年 5 月，除台湾以外的所有运营商）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200501.001.b3-85b863e3.zip,85b863e3c61165763f67a9b5659889920a51067f8236ec2fbf0a23dd5929a6d8
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ3A.200605.001，2020 年 6 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200605.001-992633c8.zip,992633c8482230a68706433859f692a05af21b9dbd1f59a7016ae8d425fd682c
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ3A.200605.002.A1，2020 年 6 月，仅限 Telstra）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200605.002.a1-a5271614.zip,a5271614a7cea58d8dd0f253aff0c5bbb167f5439599c0f60827a0ab4d24a829
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ3A.200705.002，2020 年 7 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200705.002-365a75db.zip,365a75db2f6c2b81710832b7db06bfe1fa6dc8809a2268d3e380d6815d46e68c
-“taimen”适用于 Pixel 2 XL,10.0.0（QQ3A.200805.001，2020 年 8 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200805.001-8541f893.zip,8541f89323d774db1b47a46f22ce2455c74f99ac3c76556f4ed6a4488c0b27fa
-“taimen”适用于 Pixel 2 XL,"11.0.0 (RP1A.200720.009, 2020 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-rp1a.200720.009-a5a90702.zip,a5a90702c6b6d89913e33fb2e5d21f45aad37d43c663ea03b8d54697ec7117e9
-“taimen”适用于 Pixel 2 XL,"11.0.0 (RP1A.201005.004, 2020 年 10 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-rp1a.201005.004-b5dff51e.zip,b5dff51e9891236ea84bb1027614d6e9c8a4ad59f0a35275a9e0ff14f946a70c
-“taimen”适用于 Pixel 2 XL,11.0.0（RP1A.201005.004.A1，2020 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-rp1a.201005.004.a1-9de3b962.zip,9de3b96223cf14e8afd69ed9b21b801a15a96990781a7058ac8418ffd78e0dd7
+Pixel 2 XL 的“taimen”
+Pixel 2 XL 的“taimen”,"8.0.0 (OPD1.170816.010, 2017 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.010-825664c4.zip,825664c4b581bae9af8231ad323ad5fc63105785d868bdd53b3c9dfb75bdcca1
+Pixel 2 XL 的“taimen”,"8.0.0 (OPD1.170816.011, 2017 年 9 月, Telstra)",https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.011-797ba455.zip,797ba455bb5e6a3c8d7be5a4f0800983bbcb4495d1be0bcf2bc1407c53e7c9b9
+Pixel 2 XL 的“taimen”,8.0.0（OPD1.170816.012，2017 年 9 月，Rogers、Fido）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.012-c726c936.zip,c726c936cab143b4c99ed71463bfbbab7af841374942f0f06a8945da4197dae9
+Pixel 2 XL 的“taimen”,8.0.0（OPD3.170816.012，2017 年 9 月，Verizon）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opd3.170816.012-b436aae6.zip,b436aae670c6ca95d62494c3d050507217c999a12c2723eedf3e341184ad8653
+Pixel 2 XL 的“taimen”,8.0.0（OPD1.170816.025，2017 年 11 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opd1.170816.025-f62d726d.zip,f62d726d1696713ac3e5d52794209cbe9857931b33ed368b5318d91282b34315
+Pixel 2 XL 的“taimen”,"8.0.0 (OPD3.170816.023, 2017 年 11 月, Verizon)",https://googledownloads.cn/dl/android/aosp/taimen-ota-opd3.170816.023-78039794.zip,780397940f5a459d6f219fda5a361cfaf92f11c65b0300f65f0894a97c845c3a
+Pixel 2 XL 的“taimen”,8.1.0（OPM1.171019.011，2017 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.011-03a35830.zip,03a3583099daaa1c5799a66ec715ff1541234bf409dc460efbeb44db7ce31a78
+Pixel 2 XL 的“taimen”,8.1.0（OPM2.171019.012，2017 年 12 月，仅限 Telus）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171019.012-dc30d3b7.zip,dc30d3b7a6aa8d1d74e2079012162004c68db4709ec1ed9dfe7d8df313995f43
+Pixel 2 XL 的“taimen”,8.1.0（OPM1.171019.013，2018 年 1 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.013-81edd164.zip,81edd16456670a60cf1965f903d3562e586b50a36880c6474bf92c85beafaa43
+Pixel 2 XL 的“taimen”,8.1.0（OPM1.171019.014，2018 年 1 月，仅限 O2/英国）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.014-14624c53.zip,14624c537b2c8bbea4a89a8d48dbb4d4460c442d8e09fdd5f3f19155b96f5755
+Pixel 2 XL 的“taimen”,8.1.0（OPM1.171019.018，2018 年 2 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.018-660c9291.zip,660c9291449657e4367210915e5751ac54131a95571be17c46b68c6095c0e527
+Pixel 2 XL 的“taimen”,8.1.0（OPM1.171019.021，2018 年 3 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm1.171019.021-7995d48c.zip,7995d48cb38c39d18a63b1501ae6e70169048cd1ed6aa298f2b414f98c7b31da
+Pixel 2 XL 的“taimen”,8.1.0（OPM2.171019.029，2018 年 4 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171019.029-1b792f19.zip,1b792f19b92b87413091e8705ad1eb94dd57e2ea7e28c8d19b70356731c62e53
+Pixel 2 XL 的“taimen”,8.1.0（OPM4.171019.015.A1，2018 年 4 月，仅限 Telus 和 Koodo）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.015.a1-384ebe17.zip,384ebe17cceeebccf2b8ccd6c9fccee295bbbfa7c78989f8e01bb2f7d84a990f
+Pixel 2 XL 的“taimen”,8.1.0（OPM2.171019.029.B1，2018 年 5 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171019.029.b1-9276e899.zip,9276e8998c65462271f332d91969b20a469459466048281aa288bcba53b5c65d
+Pixel 2 XL 的“taimen”,8.1.0（OPM4.171019.016.B1，2018 年 5 月，Fi 运营商）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.016.b1-3ff1f16f.zip,3ff1f16f0183f1620586526ad41529b35d9d7f38dfa9ac3808acc7d39fe79d68
+Pixel 2 XL 的“taimen”,8.1.0（OPM2.171026.006.C1，2018 年 6 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171026.006.c1-e5ce99bc.zip,e5ce99bc58577ff089eaa04655c8fa58c8f334e2b3e617a511e68a2fc6bd4805
+Pixel 2 XL 的“taimen”,8.1.0（OPM4.171019.021.E1，2018 年 6 月，T-Mobile）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.021.e1-817aa113.zip,817aa11345feb2d9b09746f85508276d100effbf32e10aedb4ed5bc5b4fa6098
+Pixel 2 XL 的“taimen”,8.1.0（OPM2.171026.006.H1，2018 年 7 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm2.171026.006.h1-339d5d30.zip,339d5d3070497339b156af4106a7a03f60e08533f8eb911f8dc6f1c9698dfc03
+Pixel 2 XL 的“taimen”,8.1.0（OPM4.171019.021.R1，2018 年 7 月，T-Mobile）,https://googledownloads.cn/dl/android/aosp/taimen-ota-opm4.171019.021.r1-83539bc7.zip,83539bc7d06c1d0732f5aa309f2214aa40cfb614b2d00dac200fccdc48d74665
+Pixel 2 XL 的“taimen”,9.0.0（PPR1.180610.009，2018 年 8 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr1.180610.009-8ac43d39.zip,8ac43d394b7ab8ef80e0fe396f47eec43e3581b1a8874521b8037c8490e56ab9
+Pixel 2 XL 的“taimen”,9.0.0（PPR1.180610.011，2018 年 8 月，Telstra）,https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr1.180610.011-d5d094b0.zip,d5d094b040f5326de388d56962ce7ece95aa4513d41aa80894f55b79c8e348e8
+Pixel 2 XL 的“taimen”,9.0.0（PPR2.180905.005，2018 年 9 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr2.180905.005-6f1f7ef7.zip,6f1f7ef71125619c07108f5a87b837e7b91c8df9dc7a3cec067d79a01452ae45
+Pixel 2 XL 的“taimen”,"9.0.0 (PPR2.181005.003, 2018 年 10 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-ppr2.181005.003-b1969df7.zip,b1969df7adb62989695a6c5a52a8b58ec65a19a9d1ea40a77043998feb6facfd
+Pixel 2 XL 的“taimen”,9.0.0（PQ1A.181105.017.A1，2018 年 11 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq1a.181105.017.a1-36f455f8.zip,36f455f81914eb322607110ec283913dd072905e405c232434e499261ee786ff
+Pixel 2 XL 的“taimen”,9.0.0（PQ1A.181205.002，2018 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq1a.181205.002-5f46b944.zip,5f46b9449157d3aef1771872b7b18e46c81ee56061e802dd3eecbea7e4030e6a
+Pixel 2 XL 的“taimen”,9.0.0（PQ1A.190105.004，2019 年 1 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq1a.190105.004-27e32aa1.zip,27e32aa14278601254f8983672e8b12fb646756c804725a5cf06ca918def33d4
+Pixel 2 XL 的“taimen”,9.0.0（PQ2A.190205.002，2019 年 2 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq2a.190205.002-1f4c18f0.zip,1f4c18f0756bdcc9ed5de2cff42084a8821547094d2cb1890b1a87b863f62310
+Pixel 2 XL 的“taimen”,9.0.0（PQ2A.190305.002，2019 年 3 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq2a.190305.002-6f1909e8.zip,6f1909e8a11d32510e5f3e2342b2d078a5fcb9472a61831c97e57e27816549d6
+Pixel 2 XL 的“taimen”,9.0.0（PQ2A.190405.003，2019 年 4 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq2a.190405.003-f831bc21.zip,f831bc2144b969962e3d7b33288cabd2b326109d799b499cad3c15ca50536292
+Pixel 2 XL 的“taimen”,9.0.0（PQ3A.190505.001，2019 年 5 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190505.001-3c2e5fed.zip,3c2e5fed285168831233a65c775bf3f8e6dcc86b202e8d4183d1293cfd34ce63
+Pixel 2 XL 的“taimen”,9.0.0（PQ3A.190605.003，2019 年 6 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190605.003-b699cbc8.zip,b699cbc828c0a3900122ee98be9433fb19c05d691a979c8a8815adfd5f585d6a
+Pixel 2 XL 的“taimen”,"9.0.0 (PQ3A.190705.001, 2019 年 7 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190705.001-1dd88e96.zip,1dd88e96ab342a9cea10b8359a080f3e3931e0afde50c367336db3a010923c38
+Pixel 2 XL 的“taimen”,9.0.0（PQ3A.190801.002，2019 年 8 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-pq3a.190801.002-57654c65.zip,57654c6527896e4eb35b5437684ad076c1a15d702f4e51d694e6b24b99c2c9ef
+Pixel 2 XL 的“taimen”,"10.0.0 (QP1A.190711.019, 2019 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.190711.019-8a12e8a1.zip,8a12e8a1c958f675c056652072e9f615cdf98d5af84399eee10e84d778012dd9
+Pixel 2 XL 的“taimen”,"10.0.0 (QP1A.190711.020, 2019 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.190711.020-4757f073.zip,4757f073fa728dfe776856afdfb0079ac6dc20728e45c4afaefd04352095d2a5
+Pixel 2 XL 的“taimen”,10.0.0（QP1A.191005.007.A1，2019 年 10 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.191005.007.a1-3d9deb8a.zip,3d9deb8aebb52825c77a7147db1d6f4fe675ed218675739aac19cf5df3897c0c
+Pixel 2 XL 的“taimen”,"10.0.0 (QP1A.191105.004, 2019 年 11 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-qp1a.191105.004-1cc98995.zip,1cc9899520e7f3c30893c952d8b8187477757bc388cb2c7539a4f466563904e1
+Pixel 2 XL 的“taimen”,10.0.0（QQ1A.191205.008，2019 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq1a.191205.008-5b940489.zip,5b940489b1ab8d4d9a2592c15ac50d4ba435086852a169cd1e60da05d681b544
+Pixel 2 XL 的“taimen”,10.0.0（QQ1A.200105.002，2020 年 1 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq1a.200105.002-150a82f7.zip,150a82f7593456769f85dd031673f1b8612be4e766a5d7524bdcd3ffc5186a45
+Pixel 2 XL 的“taimen”,10.0.0（QQ1A.200205.002，2020 年 2 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq1a.200205.002-1c132203.zip,1c1322039cffcea2a4cfbfe96afb3ff4e05a405d34287db32c3112825f787d26
+Pixel 2 XL 的“taimen”,10.0.0（QQ2A.200305.002，2020 年 3 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200305.002-ad1c1331.zip,ad1c133174950e54f2d047f6fe7995343f4074930359c41b889a683ec52b5da7
+Pixel 2 XL 的“taimen”,10.0.0（QQ2A.200405.005，2020 年 4 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200405.005-a1de17f3.zip,a1de17f3bb8fa172f7bdb1456c682bce9fb5b25393723ee12363553d20296168
+Pixel 2 XL 的“taimen”,10.0.0（QQ2A.200501.001.A3，2020 年 5 月，台湾运营商）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200501.001.a3-0b4c9315.zip,0b4c931563d8ce9b98c1e0800db7c32dfae45d5cf92fdfcf43bd072ccbe0e830
+Pixel 2 XL 的“taimen”,10.0.0（QQ2A.200501.001.B3，2020 年 5 月，除台湾以外的所有运营商）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq2a.200501.001.b3-85b863e3.zip,85b863e3c61165763f67a9b5659889920a51067f8236ec2fbf0a23dd5929a6d8
+Pixel 2 XL 的“taimen”,10.0.0（QQ3A.200605.001，2020 年 6 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200605.001-992633c8.zip,992633c8482230a68706433859f692a05af21b9dbd1f59a7016ae8d425fd682c
+Pixel 2 XL 的“taimen”,10.0.0（QQ3A.200605.002.A1，2020 年 6 月，仅限 Telstra）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200605.002.a1-a5271614.zip,a5271614a7cea58d8dd0f253aff0c5bbb167f5439599c0f60827a0ab4d24a829
+Pixel 2 XL 的“taimen”,10.0.0（QQ3A.200705.002，2020 年 7 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200705.002-365a75db.zip,365a75db2f6c2b81710832b7db06bfe1fa6dc8809a2268d3e380d6815d46e68c
+Pixel 2 XL 的“taimen”,10.0.0（QQ3A.200805.001，2020 年 8 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-qq3a.200805.001-8541f893.zip,8541f89323d774db1b47a46f22ce2455c74f99ac3c76556f4ed6a4488c0b27fa
+Pixel 2 XL 的“taimen”,"11.0.0 (RP1A.200720.009, 2020 年 9 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-rp1a.200720.009-a5a90702.zip,a5a90702c6b6d89913e33fb2e5d21f45aad37d43c663ea03b8d54697ec7117e9
+Pixel 2 XL 的“taimen”,"11.0.0 (RP1A.201005.004, 2020 年 10 月)",https://googledownloads.cn/dl/android/aosp/taimen-ota-rp1a.201005.004-b5dff51e.zip,b5dff51e9891236ea84bb1027614d6e9c8a4ad59f0a35275a9e0ff14f946a70c
+Pixel 2 XL 的“taimen”,11.0.0（RP1A.201005.004.A1，2020 年 12 月）,https://googledownloads.cn/dl/android/aosp/taimen-ota-rp1a.201005.004.a1-9de3b962.zip,9de3b96223cf14e8afd69ed9b21b801a15a96990781a7058ac8418ffd78e0dd7
 “walleye”(适用于 Pixel 2)
 “walleye”(适用于 Pixel 2),"8.0.0 (OPD1.170816.010, 2017 年 9 月)",https://googledownloads.cn/dl/android/aosp/walleye-ota-opd1.170816.010-768eb7b1.zip,768eb7b1141db97be5c8e5118935c19178e5a12defe862c86dfd6dc0eb468f31
 “walleye”(适用于 Pixel 2),"8.0.0 (OPD1.170816.011, 2017 年 9 月, Telstra)",https://googledownloads.cn/dl/android/aosp/walleye-ota-opd1.170816.011-1e0ba663.zip,1e0ba663ab69d5ef3f4130ea03322856018877e5124a94e60c0065e507065a10
@@ -1259,7 +1275,7 @@ Pixel 3a XL 的“bonito”,"12.1.0 (SP2A.220505.008, 2022 年 9 月)",https://g
 “walleye”(适用于 Pixel 2),8.0.0（OPD2.170816.015，2017 年 11 月，DTAG）,https://googledownloads.cn/dl/android/aosp/walleye-ota-opd2.170816.015-33c7118e.zip,33c7118eb6489da7b8feb2c2f0118e5067bcb26ab9634d14b08b21ad978b38c1
 “walleye”(适用于 Pixel 2),8.0.0（OPD3.170816.016，2017 年 11 月，Verizon）,https://googledownloads.cn/dl/android/aosp/walleye-ota-opd3.170816.016-a0bf57be.zip,a0bf57beb9b2c45eb8c9f77a9f55cd35d3af673eb2083a7f05e84c2eff659651
 “walleye”(适用于 Pixel 2),8.0.0（OPD1.170816.025，2017 年 11 月）,https://googledownloads.cn/dl/android/aosp/walleye-ota-opd1.170816.025-70ad5f95.zip,70ad5f95391ad34520cc16d497acff338c5c990cc81883bb67cc470589dd5e57
-“walleye”(适用于 Pixel 2),8.0.0（OPD3.170816.023，2017 年 11 月，Verizon）,https://googledownloads.cn/dl/android/aosp/walleye-ota-opd3.170816.023-b97764eb.zip,b97764ebdec5f969787a94d8f685c1ac70a646961f124b01491e4c7ee4afdcec
+“walleye”(适用于 Pixel 2),"8.0.0 (OPD3.170816.023, 2017 年 11 月, Verizon)",https://googledownloads.cn/dl/android/aosp/walleye-ota-opd3.170816.023-b97764eb.zip,b97764ebdec5f969787a94d8f685c1ac70a646961f124b01491e4c7ee4afdcec
 “walleye”(适用于 Pixel 2),8.1.0（OPM1.171019.011，2017 年 12 月）,https://googledownloads.cn/dl/android/aosp/walleye-ota-opm1.171019.011-4f58f0f0.zip,4f58f0f0cd1e90db605bdd918decac55ce166ea999f437a50aaf388dc6c7fb11
 “walleye”(适用于 Pixel 2),8.1.0（OPM2.171019.012，2017 年 12 月，仅限 Telus）,https://googledownloads.cn/dl/android/aosp/walleye-ota-opm2.171019.012-ae2ee0f5.zip,ae2ee0f5be023a56fcb0ff13267eef917f71ffa052a49a9efc750609fdda3ed1
 “walleye”(适用于 Pixel 2),8.1.0（OPM1.171019.013，2018 年 1 月）,https://googledownloads.cn/dl/android/aosp/walleye-ota-opm1.171019.013-5ccf0b20.zip,5ccf0b204cc2375e115800dfe8db9ae93e821374261a0fb4ef4c041a9412bde2
@@ -1316,11 +1332,11 @@ Pixel 3a XL 的“bonito”,"12.1.0 (SP2A.220505.008, 2022 年 9 月)",https://g
 “marlin”(适用于 Pixel XL),7.1.0（Verizon、NDE63X、2016 年 11 月）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nde63x-3c8add4e.zip,3c8add4eba146483b39cbd3d1b85e7763260bbf65ada3e43dcc1682e377241e3
 “marlin”(适用于 Pixel XL),7.1.1（NMF26O，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nmf26o-54bb505e.zip,54bb505e0144abdce6e8b2d185bbc633e01ce81d45730594ae49441cedb56bdd
 “marlin”(适用于 Pixel XL),7.1.1（NMF26Q，2016 年 12 月，欧洲/O2）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nmf26q-2337023a.zip,2337023a7a51e166fd05d672f85486bf686d9f113dfc78754e5494b435ce9863
-“marlin”(适用于 Pixel XL),7.1.1（NMF26U，2017 年 1 月）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nmf26u-b1e4388d.zip,b1e4388d4b5e61554a1dc22e2e856ab0b2ad036b57530d453b21e898b48f9639
+“marlin”(适用于 Pixel XL),"7.1.1 (NMF26U, 2017 年 1 月)",https://googledownloads.cn/dl/android/aosp/marlin-ota-nmf26u-b1e4388d.zip,b1e4388d4b5e61554a1dc22e2e856ab0b2ad036b57530d453b21e898b48f9639
 “marlin”(适用于 Pixel XL),"7.1.1 (NMF26V, 2017 年 1 月, Europe/O2)",https://googledownloads.cn/dl/android/aosp/marlin-ota-nmf26v-7bda3acb.zip,7bda3acb14219405b41bd9034ceb77ce6e559a8ee54fc974b7faaf6a4c770b82
 “marlin”(适用于 Pixel XL),7.1.1（NOF26V，2017 年 2 月）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nof26v-51079639.zip,5107963915c386d48b99fe60a2adb34e7910277d46a9c4317f21a17b2aef20b4
 “marlin”(适用于 Pixel XL),7.1.1（NOF26W，2017 年 2 月，仅限 Rogers）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nof26w-591f4655.zip,591f4655b4d1be3472629e5701b041d1b9f4f68e698b73eeb7e9bdbedbb703d8
-“marlin”(适用于 Pixel XL),"7.1.1 (NOF27B, 2017 年 3 月)",https://googledownloads.cn/dl/android/aosp/marlin-ota-nof27b-ca49da7b.zip,ca49da7bc3563a767076347521038225931641875c776444fde57bbe4321dde3
+“marlin”(适用于 Pixel XL),7.1.1（NOF27B，2017 年 3 月）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nof27b-ca49da7b.zip,ca49da7bc3563a767076347521038225931641875c776444fde57bbe4321dde3
 “marlin”(适用于 Pixel XL),7.1.1（NOF27C，2017 年 3 月，仅限 Rogers）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nof27c-4aadb995.zip,4aadb9954a844467a90c8e2206d11b936e34f40d35f564a56a863ed02e690943
 “marlin”(适用于 Pixel XL),7.1.1（NOF27D，2017 年 4 月）,https://googledownloads.cn/dl/android/aosp/marlin-ota-nof27d-a715d144.zip,a715d144b53a8b983ff26ee6bb63480e9e996745305425d77a27e66a9462fea1
 “marlin”(适用于 Pixel XL),7.1.2（N2G47E，2017 年 4 月）,https://googledownloads.cn/dl/android/aosp/marlin-ota-n2g47e-a3451543.zip,a3451543b281a7f4215e365b8f85d411ac0a7c45abaf96c6e6898b60a330064b
@@ -1389,7 +1405,7 @@ Pixel 的“sailfish”,"7.1.0 (NDE63V, 2016 年 11 月)",https://googledownload
 Pixel 的“sailfish”,7.1.0（Verizon、NDE63X、2016 年 11 月）,https://googledownloads.cn/dl/android/aosp/sailfish-ota-nde63x-59a512a1.zip,59a512a19ac374bb1bff1b66f710b9ace0af8a8f64b47206d99c78f7fddf6d10
 Pixel 的“sailfish”,7.1.1（NMF26O，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/sailfish-ota-nmf26o-3e7c4b66.zip,3e7c4b669b7eee6991c2b6583332da95f7bb07caee55c9aece0a706cd75e3ba4
 Pixel 的“sailfish”,7.1.1（NMF26Q，2016 年 12 月，欧洲/O2）,https://googledownloads.cn/dl/android/aosp/sailfish-ota-nmf26q-6478188a.zip,6478188a18919c8e856ade7668d571edf870ef6d2f314074a7fe787fbbc0da8a
-Pixel 的“sailfish”,7.1.1（NMF26U，2017 年 1 月）,https://googledownloads.cn/dl/android/aosp/sailfish-ota-nmf26u-6ea22a0c.zip,6ea22a0c1c285d4c6f9e671ed947ff789b4b5ce032bab716e7b54076dbe0734c
+Pixel 的“sailfish”,"7.1.1 (NMF26U, 2017 年 1 月)",https://googledownloads.cn/dl/android/aosp/sailfish-ota-nmf26u-6ea22a0c.zip,6ea22a0c1c285d4c6f9e671ed947ff789b4b5ce032bab716e7b54076dbe0734c
 Pixel 的“sailfish”,"7.1.1 (NMF26V, 2017 年 1 月, Europe/O2)",https://googledownloads.cn/dl/android/aosp/sailfish-ota-nmf26v-1988a458.zip,1988a4588be6e2b332167153bce7915dc651b1c751d4622f52751f7263080157
 Pixel 的“sailfish”,7.1.1（NOF26V，2017 年 2 月）,https://googledownloads.cn/dl/android/aosp/sailfish-ota-nof26v-4bbb310d.zip,4bbb310d98c028e9a90a063d59b811ca207abeeb88e98bb726784035295d8a3a
 Pixel 的“sailfish”,7.1.1（NOF26W，2017 年 2 月，仅限 Rogers）,https://googledownloads.cn/dl/android/aosp/sailfish-ota-nof26w-1b59bd54.zip,1b59bd54f76fa231c083a682483488dcf9bd53b91fbdb4448d3197bf2c230d55
@@ -1471,7 +1487,7 @@ Pixel 的“sailfish”,"10.0.0 (QP1A.191005.007.A3, 2019 年 12 月)",https://g
 “ryu”适用于 Pixel C,7.1.2（N2G47O，2017 年 5 月）,https://googledownloads.cn/dl/android/aosp/ryu-ota-n2g47o-64e86c52.zip,64e86c52c27d2eae29f02eec00b0218a2e5227600b4586302a6b8aca0524b843
 “ryu”适用于 Pixel C,7.1.2（N2G47W，2017 年 6 月）,https://googledownloads.cn/dl/android/aosp/ryu-ota-n2g47w-7d6dac7b.zip,7d6dac7be6fa2c26cb7a135f5ba66c0877001aecc42d45fd6611529649e1301d
 “ryu”适用于 Pixel C,7.1.2（N2G48B，2017 年 7 月）,https://googledownloads.cn/dl/android/aosp/ryu-ota-n2g48b-173657a7.zip,173657a7de7ca326748dcd9be1069d287ddb23c6061a1285fffc1ca709fbab7f
-“ryu”适用于 Pixel C,"7.1.2 (N2G48C, 2017 年 8 月)",https://googledownloads.cn/dl/android/aosp/ryu-ota-n2g48c-b25f43f9.zip,b25f43f9ea9339347a812dbdaa78aa7924a1a033594c23502532919b4c545d4d
+“ryu”适用于 Pixel C,7.1.2（N2G48C，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/ryu-ota-n2g48c-b25f43f9.zip,b25f43f9ea9339347a812dbdaa78aa7924a1a033594c23502532919b4c545d4d
 “ryu”适用于 Pixel C,8.0.0（OPR6.170623.010，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/ryu-ota-opr6.170623.010-6a4a2ae2.zip,6a4a2ae2b2cb685fd3e741fb0f3f718bbb04892ab5b8bea01aa1cd7a1d18d582
 “ryu”适用于 Pixel C,8.0.0（OPR1.170623.026，2017 年 9 月）,https://googledownloads.cn/dl/android/aosp/ryu-ota-opr1.170623.026-0f2fd8de.zip,0f2fd8decb79726b6d3dc400c3f955b9200823c4a001a7ca7fcb6966732599eb
 “ryu”适用于 Pixel C,8.0.0（OPR1.170623.027，2017 年 10 月）,https://googledownloads.cn/dl/android/aosp/ryu-ota-opr1.170623.027-63bcb615.zip,63bcb6156d897b4d89a0f645ceeb6df69de02027f87273337614d75c4940b618
@@ -1519,7 +1535,7 @@ Nexus 6P 的“angler”,7.1.2（N2G47H，2017 年 4 月）,https://googledownlo
 Nexus 6P 的“angler”,7.1.2（N2G47O，2017 年 5 月）,https://googledownloads.cn/dl/android/aosp/angler-ota-n2g47o-ec3f4df1.zip,ec3f4df1327284bc68fef0fca9d99a9287034873cb7e338a76b3ae14fc3e807e
 Nexus 6P 的“angler”,7.1.2（N2G47W，2017 年 6 月）,https://googledownloads.cn/dl/android/aosp/angler-ota-n2g47w-135b87b2.zip,135b87b267ca8dfe32a51ae2295c7df84ae60793ba173b6ead808d834ffeea71
 Nexus 6P 的“angler”,7.1.2（N2G48B，2017 年 7 月）,https://googledownloads.cn/dl/android/aosp/angler-ota-n2g48b-8166f6bf.zip,8166f6bf470583b9e82e6dc8146cd2f606be824d13c0b9e930b7d6c19b48c814
-Nexus 6P 的“angler”,"7.1.2 (N2G48C, 2017 年 8 月)",https://googledownloads.cn/dl/android/aosp/angler-ota-n2g48c-b004b71e.zip,b004b71e951181d287440315a35124f9fa831c997ea5a4ee1fd375aa5ad04c2b
+Nexus 6P 的“angler”,7.1.2（N2G48C，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/angler-ota-n2g48c-b004b71e.zip,b004b71e951181d287440315a35124f9fa831c997ea5a4ee1fd375aa5ad04c2b
 Nexus 6P 的“angler”,8.0.0（OPR6.170623.013，2017 年 8 月，不适用于 T-Mobile/USCC/Fi）,https://googledownloads.cn/dl/android/aosp/angler-ota-opr6.170623.013-517abdd6.zip,517abdd6acbd668de344a841236aee998a1a8c98cec9746e5c9e24b717c5a126
 Nexus 6P 的“angler”,8.0.0（OPR6.170623.019，2017 年 9 月）,https://googledownloads.cn/dl/android/aosp/angler-ota-opr6.170623.019-d7784575.zip,d77845753289e1588994026d02cd1f6d90cebb900d839af96bc7ce310c5a7ad4
 Nexus 6P 的“angler”,8.0.0（OPR5.170623.007，2017 年 10 月）,https://googledownloads.cn/dl/android/aosp/angler-ota-opr5.170623.007-7a7505e1.zip,7a7505e1c0ac47d1c0b3b2ac05ea589f71c172dd80147e18b3d2ba784629de54
@@ -1560,11 +1576,11 @@ Nexus 6P 的“angler”,8.1.0（OPM7.181205.001，2018 年 12 月）,https://go
 “bullhead”表示 Nexus 5X,7.1.1（N4F26O，2017 年 2 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n4f26o-6624f529.zip,6624f52963cab4022ad421a067b682476dd35c5b8087e4df0984f2f622db0e4d
 “bullhead”表示 Nexus 5X,7.1.1（N4F26T，2017 年 3 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n4f26t-648ce802.zip,648ce802bd192160d21ab000106189714069156ce87c1d020a9badd324d54682
 “bullhead”表示 Nexus 5X,7.1.1（N4F26U，2017 年 4 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n4f26u-a15b50b3.zip,a15b50b31223cc2832fc7c163b92e2d38a7b063b1a9742fafaf7dee383cdc73c
-“bullhead”表示 Nexus 5X,"7.1.2 (N2G47F, 2017 年 4 月)",https://googledownloads.cn/dl/android/aosp/bullhead-ota-n2g47f-87f5e6a4.zip,87f5e6a4aaadf5ace6395b9c8d1e101bcc48b21d5b68b75e073657a32a70ba9c
+“bullhead”表示 Nexus 5X,7.1.2（N2G47F，2017 年 4 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n2g47f-87f5e6a4.zip,87f5e6a4aaadf5ace6395b9c8d1e101bcc48b21d5b68b75e073657a32a70ba9c
 “bullhead”表示 Nexus 5X,7.1.2（N2G47O，2017 年 5 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n2g47o-b6cdc215.zip,b6cdc215d284184b8a8a01a7c480f8698eb5c96f21735de73235a3456e9f7b50
 “bullhead”表示 Nexus 5X,7.1.2（N2G47W，2017 年 6 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n2g47w-60388647.zip,603886472e96bbfa0b579fa21292b0e14bbda1548e36d89125231096dab41bc4
 “bullhead”表示 Nexus 5X,7.1.2（N2G47Z，2017 年 7 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n2g47z-07a2c0b4.zip,07a2c0b482129ac2d4091f6fa7a58a365f91fd4f759939805337a3086ca8b128
-“bullhead”表示 Nexus 5X,"7.1.2 (N2G48C, 2017 年 8 月)",https://googledownloads.cn/dl/android/aosp/bullhead-ota-n2g48c-b90e4a00.zip,b90e4a002e809702b184811854a3170217328df5f387ad51ffea4f3c2f527700
+“bullhead”表示 Nexus 5X,7.1.2（N2G48C，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-n2g48c-b90e4a00.zip,b90e4a002e809702b184811854a3170217328df5f387ad51ffea4f3c2f527700
 “bullhead”表示 Nexus 5X,8.0.0（OPR6.170623.013，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opr6.170623.013-87f85e44.zip,87f85e44518b4ab632f14403c7817c6afefe0c66304fa1368d9857c991e13925
 “bullhead”表示 Nexus 5X,8.0.0（OPR4.170623.006，2017 年 9 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opr4.170623.006-98637094.zip,986370941805502c0357497d36ffae9789ed3c54da821b633580488b8827faff
 “bullhead”表示 Nexus 5X,oreo-r6（OPR6.170623.023，2017 年 11 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opr6.170623.023-f6c8c456.zip,f6c8c45682ada91450cd3fd129202d2e5de019436ffc6464dea1ff84d7b19ab9
@@ -1585,16 +1601,16 @@ Nexus 6P 的“angler”,8.1.0（OPM7.181205.001，2018 年 12 月）,https://go
 “bullhead”表示 Nexus 5X,8.1.0（OPM7.181005.003，2018 年 10 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opm7.181005.003-94150a78.zip,94150a7894a98768c251156d0f50d7a08b2246867e4044c2c4523af0cefa6d32
 “bullhead”表示 Nexus 5X,8.1.0（OPM7.181105.004，2018 年 11 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opm7.181105.004-1520cb0b.zip,1520cb0bbdf9229cb0acc95760d132053802fc28f442678c42a3b1864d60eb64
 “bullhead”表示 Nexus 5X,8.1.0（OPM7.181205.001，2018 年 12 月）,https://googledownloads.cn/dl/android/aosp/bullhead-ota-opm7.181205.001-b1af2457.zip,b1af2457a90503c56d45019a1901480bf9218ac02c7b7768d01fdc4e2de17078
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mmb29x-13c27a19.zip,13c27a19d036140ef17c3d7b53b06f819258077cfdf52bc5900d9975f6b27c6f
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30d-74ff57bc.zip,74ff57bc6526cc0349b78856beed7f20bf9572198d6c7331881d952afb06ebca
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1 (MOB30H),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30h-672f59e1.zip,672f59e1c1f441df229026ffbc42d4dc125f2548e3e258a07f18d71e1c5974f7
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1 (MOB30M),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30m-1af36a17.zip,1af36a1788360dbae08f3dd9fce905f65ca0942078acafc807600910e066ea5c
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30p-d447411d.zip,d447411d0ecb7c4ce16a08f57750aa53708cbe2bdd5c90061255ec4ce3e431e1
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1 (MOB30Y),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30y-308025d1.zip,308025d1faacb235fc7a07f1e1612b0be5c1d5d326d7a39af3d0ed42a0851e7f
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1 (MOB31E),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob31e-284a96a5.zip,284a96a504593216c61d2460ce899d34a4d3699f09039d6e54cd9c540aa217b2
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1（M4B30X，2016 年 10 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30x-f2eb90a8.zip,f2eb90a8da6bb28731dbcd72b47b2e228720cb815954614f707d421751c02881
-“hammerhead”（适用于 Nexus 5 [GSM/LTE]）,6.0.1（M4B30Z，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30z-752c16b1.zip,752c16b1f819d051d1d11ebd5be001c6118abbb0e31d099c6a286dbd30342f67
+“hammerhead”(适用于 Nexus 5 [GSM/LTE])
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mmb29x-13c27a19.zip,13c27a19d036140ef17c3d7b53b06f819258077cfdf52bc5900d9975f6b27c6f
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30d-74ff57bc.zip,74ff57bc6526cc0349b78856beed7f20bf9572198d6c7331881d952afb06ebca
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1 (MOB30H),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30h-672f59e1.zip,672f59e1c1f441df229026ffbc42d4dc125f2548e3e258a07f18d71e1c5974f7
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1 (MOB30M),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30m-1af36a17.zip,1af36a1788360dbae08f3dd9fce905f65ca0942078acafc807600910e066ea5c
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30p-d447411d.zip,d447411d0ecb7c4ce16a08f57750aa53708cbe2bdd5c90061255ec4ce3e431e1
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1 (MOB30Y),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob30y-308025d1.zip,308025d1faacb235fc7a07f1e1612b0be5c1d5d326d7a39af3d0ed42a0851e7f
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1 (MOB31E),https://googledownloads.cn/dl/android/aosp/hammerhead-ota-mob31e-284a96a5.zip,284a96a504593216c61d2460ce899d34a4d3699f09039d6e54cd9c540aa217b2
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1（M4B30X，2016 年 10 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30x-f2eb90a8.zip,f2eb90a8da6bb28731dbcd72b47b2e228720cb815954614f707d421751c02881
+“hammerhead”(适用于 Nexus 5 [GSM/LTE]),6.0.1（M4B30Z，2016 年 12 月）,https://googledownloads.cn/dl/android/aosp/hammerhead-ota-m4b30z-752c16b1.zip,752c16b1f819d051d1d11ebd5be001c6118abbb0e31d099c6a286dbd30342f67
 “shamu”（适用于 Nexus 6）
 “shamu”（适用于 Nexus 6）,6.0.1 (MMB29X),https://googledownloads.cn/dl/android/aosp/shamu-ota-mmb29x-27102553.zip,271025536502b0a1357022df0fe7cc4a2f0dbf9744f088b04057c7bfd2dfb6f2
 “shamu”（适用于 Nexus 6）,6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/shamu-ota-mob30d-6505ca97.zip,6505ca973e14c11a93f70d0a6a8c12485cac127558f64f4c10424e205b973f91
@@ -1694,24 +1710,24 @@ Nexus 6P 的“angler”,8.1.0（OPM7.181205.001，2018 年 12 月）,https://go
 “volantis”：适用于 Nexus 9 (Wi-Fi),7.1.1（N9F27H，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/volantis-ota-n9f27h-352ae317.zip,352ae317135665441b3301c4ebfa335caae57f1375230b6b18350b33019aa38e
 “volantis”：适用于 Nexus 9 (Wi-Fi),7.1.1（N9F27L，2017 年 9 月）,https://googledownloads.cn/dl/android/aosp/volantis-ota-n9f27l-7fd5d6e6.zip,7fd5d6e6e7d486b6aaa7a0c59bb8e697f74c1a11b0647a4ef939cfef32206edd
 “volantis”：适用于 Nexus 9 (Wi-Fi),7.1.1（N9F27M，2017 年 10 月）,https://googledownloads.cn/dl/android/aosp/volantis-ota-n9f27m-ad1aee0f.zip,ad1aee0f88649afd7aab15f188b9532506b52224111e8fa97644189f0e732ceb
-“fugu”适用于 Nexus Player
-“fugu”适用于 Nexus Player,6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30d-6aee10f9.zip,6aee10f97242f2b47d5daa7e4b03aa8c3be3378b751b38adff50d329ec2199ac
-“fugu”适用于 Nexus Player,6.0.1 (MOB30G),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30g-71bd9ea8.zip,71bd9ea8f2c19e18e953b77de311213d084959b2a6d4895e81d77a07e8099de7
-“fugu”适用于 Nexus Player,6.0.1 (MOB30M),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30m-6f4d7f77.zip,6f4d7f77bf37f108c4edee5526f26ddf8a8bd284ac6b02f781bffa3f333bd55d
-“fugu”适用于 Nexus Player,6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30p-443443ab.zip,443443ab2b9f35da3b6c8ef2059077978bacac2cd7fbf9699d6c2bb9c9b42438
-“fugu”适用于 Nexus Player,6.0.1 (MOB30W),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30w-da502398.zip,da50239826081ff3105bd90765e9b6ca460ac95f5aef3bbf80a9652e6bfc2789
-“fugu”适用于 Nexus Player,7.0.0 (NRD90M),https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd90m-2c446ffb.zip,2c446ffb1a548b04c711b18bf144768b8276238d16460fc6a22fc321a5f64ad1
-“fugu”适用于 Nexus Player,7.0.0 (NRD90R),https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd90r-a45ccb30.zip,a45ccb3050882606b0877d0520f39d8b9ad94d6a8daffc37ef6fc402a548a40c
-“fugu”适用于 Nexus Player,"7.0.0 (NRD91D, 2016 年 10 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd91d-647860d6.zip,647860d6462cea38b926b25c125fe6bcbc7476e83f8ba0089ea33e35986fc7e4
-“fugu”适用于 Nexus Player,7.0.0（NRD91N，2016 年 11 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd91n-f340b315.zip,f340b3154b60fb5b402a1ca92eba6da4bef1180559458726484b682e783fbd14
-“fugu”适用于 Nexus Player,"7.1.1 (NMF26J, 2016 年 12 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf26j-8cd065bc.zip,8cd065bcaf394486e575e749c26892b5b54500368fad4f6c9a7a2b9019f91cda
-“fugu”适用于 Nexus Player,"7.1.1 (NMF26R, 2017 年 1 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf26r-109e4df1.zip,109e4df1478f7d5327752fffe97aef45519e64f4203356609966bd003cef1d0b
-“fugu”适用于 Nexus Player,"7.1.1 (NMF26X, Feb 2017)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf26x-dd6b5ed2.zip,dd6b5ed238ffd1efc0cfb1096f6c4012c10743b2a3bf9ea91e60000f1b5d542c
-“fugu”适用于 Nexus Player,"7.1.1 (NMF27D, 2017 年 3 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf27d-24aa0ddb.zip,24aa0ddbb0bc56e370c277369020cf919073fe945cb997d3fb184dc732b0408b
-“fugu”适用于 Nexus Player,7.1.2（N2G47H，2017 年 4 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g47h-8ce1e152.zip,8ce1e15200ac41d93c16e72fd9b2cb6d7a63cb7504652a4745ace32768191aa9
-“fugu”适用于 Nexus Player,7.1.2（N2G47R，2017 年 5 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g47r-689c6f92.zip,689c6f92586e97f3b6f5ccc76137bd42542adca639fbb9a5d83654ac6261a7fa
-“fugu”适用于 Nexus Player,7.1.2（N2G47X，2017 年 6 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g47x-9f1ac867.zip,9f1ac867a983a35f15b663f465185cb313e58e180b45323040bccd87f96c77e9
-“fugu”适用于 Nexus Player,7.1.2（N2G48B，2017 年 7 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g48b-13d76eb6.zip,13d76eb6e6652f4998d5ac7171c0c71c7e58865c7e8a5b5462f49cc9855defd2
-“fugu”适用于 Nexus Player,"7.1.2 (N2G48C, 2017 年 8 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g48c-0f0941ab.zip,0f0941ab0035032a1c4ef830b23b6d69737305130a92e8d9f091d10be21ba95e
-“fugu”适用于 Nexus Player,8.0.0（OPR6.170623.021，2017 年 9 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-opr6.170623.021-1474ea3b.zip,1474ea3b8b281493c58582581b76d29190abb952656c27c7882f90fcff5957be
-“fugu”适用于 Nexus Player,8.0.0（OPR2.170623.027，2017 年 11 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-opr2.170623.027-401d182e.zip,401d182ecee4258bab1f78299ddcd2076413c9672fa4d1f9f8c6eeedb1bfd4aa
+“fugu”：适用于 Nexus Player
+“fugu”：适用于 Nexus Player,6.0.1 (MOB30D),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30d-6aee10f9.zip,6aee10f97242f2b47d5daa7e4b03aa8c3be3378b751b38adff50d329ec2199ac
+“fugu”：适用于 Nexus Player,6.0.1 (MOB30G),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30g-71bd9ea8.zip,71bd9ea8f2c19e18e953b77de311213d084959b2a6d4895e81d77a07e8099de7
+“fugu”：适用于 Nexus Player,6.0.1 (MOB30M),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30m-6f4d7f77.zip,6f4d7f77bf37f108c4edee5526f26ddf8a8bd284ac6b02f781bffa3f333bd55d
+“fugu”：适用于 Nexus Player,6.0.1 (MOB30P),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30p-443443ab.zip,443443ab2b9f35da3b6c8ef2059077978bacac2cd7fbf9699d6c2bb9c9b42438
+“fugu”：适用于 Nexus Player,6.0.1 (MOB30W),https://googledownloads.cn/dl/android/aosp/fugu-ota-mob30w-da502398.zip,da50239826081ff3105bd90765e9b6ca460ac95f5aef3bbf80a9652e6bfc2789
+“fugu”：适用于 Nexus Player,7.0.0 (NRD90M),https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd90m-2c446ffb.zip,2c446ffb1a548b04c711b18bf144768b8276238d16460fc6a22fc321a5f64ad1
+“fugu”：适用于 Nexus Player,7.0.0 (NRD90R),https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd90r-a45ccb30.zip,a45ccb3050882606b0877d0520f39d8b9ad94d6a8daffc37ef6fc402a548a40c
+“fugu”：适用于 Nexus Player,"7.0.0 (NRD91D, 2016 年 10 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd91d-647860d6.zip,647860d6462cea38b926b25c125fe6bcbc7476e83f8ba0089ea33e35986fc7e4
+“fugu”：适用于 Nexus Player,7.0.0（NRD91N，2016 年 11 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-nrd91n-f340b315.zip,f340b3154b60fb5b402a1ca92eba6da4bef1180559458726484b682e783fbd14
+“fugu”：适用于 Nexus Player,"7.1.1 (NMF26J, 2016 年 12 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf26j-8cd065bc.zip,8cd065bcaf394486e575e749c26892b5b54500368fad4f6c9a7a2b9019f91cda
+“fugu”：适用于 Nexus Player,"7.1.1 (NMF26R, 2017 年 1 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf26r-109e4df1.zip,109e4df1478f7d5327752fffe97aef45519e64f4203356609966bd003cef1d0b
+“fugu”：适用于 Nexus Player,"7.1.1 (NMF26X, Feb 2017)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf26x-dd6b5ed2.zip,dd6b5ed238ffd1efc0cfb1096f6c4012c10743b2a3bf9ea91e60000f1b5d542c
+“fugu”：适用于 Nexus Player,"7.1.1 (NMF27D, 2017 年 3 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-nmf27d-24aa0ddb.zip,24aa0ddbb0bc56e370c277369020cf919073fe945cb997d3fb184dc732b0408b
+“fugu”：适用于 Nexus Player,7.1.2（N2G47H，2017 年 4 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g47h-8ce1e152.zip,8ce1e15200ac41d93c16e72fd9b2cb6d7a63cb7504652a4745ace32768191aa9
+“fugu”：适用于 Nexus Player,7.1.2（N2G47R，2017 年 5 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g47r-689c6f92.zip,689c6f92586e97f3b6f5ccc76137bd42542adca639fbb9a5d83654ac6261a7fa
+“fugu”：适用于 Nexus Player,"7.1.2 (N2G47X, 2017 年 6 月)",https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g47x-9f1ac867.zip,9f1ac867a983a35f15b663f465185cb313e58e180b45323040bccd87f96c77e9
+“fugu”：适用于 Nexus Player,7.1.2（N2G48B，2017 年 7 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g48b-13d76eb6.zip,13d76eb6e6652f4998d5ac7171c0c71c7e58865c7e8a5b5462f49cc9855defd2
+“fugu”：适用于 Nexus Player,7.1.2（N2G48C，2017 年 8 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-n2g48c-0f0941ab.zip,0f0941ab0035032a1c4ef830b23b6d69737305130a92e8d9f091d10be21ba95e
+“fugu”：适用于 Nexus Player,8.0.0（OPR6.170623.021，2017 年 9 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-opr6.170623.021-1474ea3b.zip,1474ea3b8b281493c58582581b76d29190abb952656c27c7882f90fcff5957be
+“fugu”：适用于 Nexus Player,8.0.0（OPR2.170623.027，2017 年 11 月）,https://googledownloads.cn/dl/android/aosp/fugu-ota-opr2.170623.027-401d182e.zip,401d182ecee4258bab1f78299ddcd2076413c9672fa4d1f9f8c6eeedb1bfd4aa

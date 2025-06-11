@@ -1,4 +1,20 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2025-26785,2025-06-01,A-394084586 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2025-32337,2025-06-01,A-383628266 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2025-26457,2025-06-01,A-394726304 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Bluetooth
+CVE-2025-26459,2025-06-01,A-394596202 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=RIL
+CVE-2025-26460,2025-06-01,A-404959676 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=TPU
+CVE-2025-32314,2025-06-01,A-329622454 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=DRM LDFW
+CVE-2025-32334,2025-06-01,A-394726109 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Bluetooth
+CVE-2025-32335,2025-06-01,A-397679986 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=rild
+CVE-2025-32336,2025-06-01,A-382577130 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-32339,2025-06-01,A-380273030 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2025-36887,2025-06-01,A-382788890 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2024-56427,2025-06-01,A-373365664 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Cellular Modem
+CVE-2025-32315,2025-06-01,A-380909632 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Fingerprint Sensor
+CVE-2025-32338,2025-06-01,A-353958315 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=NVT
+CVE-2024-48883,2025-06-01,A-362957877 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2025-32340,2025-06-01,A-386346571 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Exynos RIL
 CVE-2025-27700,2025-05-01,A-330507809 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=oobconfig
 CVE-2024-56193,2025-05-01,A-238299155 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Bluetooth
 CVE-2025-27701,2025-05-01,A-384814655 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=Kernel

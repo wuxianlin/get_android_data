@@ -120,6 +120,7 @@ OnePlus,OnePlus Nord CE 5G,OnePlusNordCE,EB2101
 OnePlus,OnePlus Nord CE 5G,OnePlusNordCE,EB2103
 OnePlus,OnePlus Nord CE4,OP5D3FL1,CPH2613
 OnePlus,OnePlus Nord CE4 Lite 5G,OP5D49L1,CPH2619
+OnePlus,OnePlus Nord CE4 Lite 5G,OP5D49L1,CPH2621
 OnePlus,OnePlus Nord N10 5G,OnePlusN10,BE2026
 OnePlus,OnePlus Nord N10 5G,OnePlusN10,BE2028
 OnePlus,OnePlus Nord N10 5G,OnePlusN10,BE2029
@@ -157,7 +158,6 @@ OnePlus,OnePlus6T,OnePlus6T,ONEPLUS A6013
 OnePlus,OnePlus6T,OnePlus6TSingle,ONEPLUS A6013
 OnePlus,Oneplus Ace 2 Pro,OP5943L1,PJA110
 OnePlus,Oneplus Ace 3 Pro,OP5D06L1,PJX110
-OnePlus,Oneplus Nord CE4 Lite 5G,OP5D49L1,CPH2621
 OnePlus,Oneplus Pad2,OP5DAAL1,OPD2403
 OnePlus,Oneplus_Dosa_IN,Oneplus_Dosa_IN,Oneplus_Dosa_IN
 OnePlus,Open,OP5973L1,CPH2551
@@ -593,7 +593,6 @@ Oppo,OPPO Watch,beluga,OPPO Watch
 Oppo,OPPO Watch,orca,OPPO Watch
 Oppo,OPPO Watch X,OWWE231,OWWE231
 Oppo,OPPO Watch X2,OWWE251,OWWE251
-Oppo,Oppo Pad 3 Pro,OP5DA8L1,OPD2402
 Oppo,PCRT01,OP4AB5,PCRT01
 Oppo,PDKM00,OP4ABB,PDKM00
 Oppo,PDKT00,OP4ABB,PDKT00
