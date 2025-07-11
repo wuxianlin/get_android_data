@@ -40,8 +40,6 @@ POCO,POCO F5,marble,23049PCD8I
 POCO,POCO F6,peridot,24069PC21G
 POCO,POCO F6,peridot,24069PC21I
 POCO,POCO F6 Pro,vermeer,23113RKC6G
-POCO,POCO F7 Pro,zorn,24117RK2CG
-POCO,POCO F7 Ultra,miro,24122RKC7G
 POCO,POCO M2,shiva,M2004J19PI
 POCO,POCO M2 Pro,gram,POCO M2 Pro
 POCO,POCO M3,citrus,M2010J19CG
@@ -62,6 +60,7 @@ POCO,POCO M6 Pro,emerald,2312FPCA6G
 POCO,POCO M6 Pro 5G,sky,23076PC4BI
 POCO,POCO M7 5G,flame,24108PCE2I
 POCO,POCO M7 Pro 5G,beryl,2409FPCC4I
+POCO,POCO Pad,dizi,2405CPCFBG
 POCO,POCO X2,phoenixin,POCO X2
 POCO,POCO X3,karna,M2007J20CI
 POCO,POCO X3 NFC,surya,M2007J20CG
@@ -80,6 +79,10 @@ POCO,POCO X7,malachite,24095PCADG
 POCO,POCO X7,malachite,24095PCADI
 POCO,POCO X7 Pro,rodin,2412DPC0AG
 POCO,POCO X7 Pro,rodin,2412DPC0AI
+POCO,Poco F7,onyx,25053PC47G
+POCO,Poco F7,onyx,25053PC47I
+POCO,Poco F7 Pro,zorn,24117RK2CG
+POCO,Poco F7 Ultra,miro,24122RKC7G
 POCO,Poco M7 Pro 5G,citrine,2409FPCC4G
 Redmi,K30 PRO,lmi,Lmi
 Redmi,K30 PRO,lmi,Redmi K30 Pro
@@ -134,6 +137,8 @@ Redmi,Redmi 12C,earth,22120RN86G
 Redmi,Redmi 12C,earth,22120RN86I
 Redmi,Redmi 12C,earth,2212ARNC4L
 Redmi,Redmi 13,moon,24040RN64Y
+Redmi,Redmi 13,tides,24049RN28L
+Redmi,Redmi 13,tides,2404ARN45A
 Redmi,Redmi 13 5G,breeze,2406ERN9CI
 Redmi,Redmi 13C,gale,23100RN82L
 Redmi,Redmi 13C,gale,23106RN0DA
@@ -359,6 +364,7 @@ Redmi,Redmi Pad Pro,dizi,2405CRPFDC
 Redmi,Redmi Pad Pro,dizi,2405CRPFDG
 Redmi,Redmi Pad Pro,dizi,2405CRPFDI
 Redmi,Redmi Pad Pro 5G,ruan,24074RPD2C
+Redmi,Redmi Pad Pro 5G,ruan,24074RPD2G
 Redmi,Redmi Pad SE,xun,23073RPBFC
 Redmi,Redmi Pad SE,xun,23073RPBFG
 Redmi,Redmi Pad SE,xun,23073RPBFL
@@ -552,7 +558,6 @@ Xiaomi,MiTV,watchmen,MiTV-AXFR2
 Xiaomi,MiTV2,entrapment,MiTV2
 Xiaomi,MiTV4C,matrix,MiTV4C
 Xiaomi,POCO F1,beryllium,POCOPHONE F1
-Xiaomi,POCO F7 Pro,zorn,24117RK2CG
 Xiaomi,POCO M5s,rosemary,2207117BPG
 Xiaomi,Redmi,HM2013023,2013023
 Xiaomi,Redmi  Go,tiare,Redmi Go
