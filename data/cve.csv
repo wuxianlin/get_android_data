@@ -1,4 +1,5 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2025-26784,2025-08-01,A-394084168 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-26785,2025-06-01,A-394084586 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-32337,2025-06-01,A-383628266 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-26457,2025-06-01,A-394726304 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Bluetooth
