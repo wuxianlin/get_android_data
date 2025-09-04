@@ -1,4 +1,27 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2025-36897,2025-09-01,A-376027286 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=Cellular Modem
+CVE-2025-32342,2025-09-01,A-407082766 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=TPU
+CVE-2025-32343,2025-09-01,A-412418039 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=TPU
+CVE-2025-32344,2025-09-01,A-394583415 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=RIL
+CVE-2025-36890,2025-09-01,A-394278882 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36891,2025-09-01,A-392596931 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36896,2025-09-01,A-394765106 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36898,2025-09-01,A-365960683 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Pixel Sim Lock
+CVE-2025-36899,2025-09-01,A-421029630 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Secure Element
+CVE-2025-36904,2025-09-01,A-396458384 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36905,2025-09-01,A-364028612 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=GXP
+CVE-2025-36906,2025-09-01,A-289810779 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=NeuralNetworks
+CVE-2025-36907,2025-09-01,A-418774137 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Pixel Boot Loader
+CVE-2025-36893,2025-09-01,A-413471185 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=TPU
+CVE-2025-36895,2025-09-01,A-396454072 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36892,2025-09-01,A-384692949 [*](#asterisk),DoS,High,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36894,2025-09-01,A-397744732 [*](#asterisk),DoS,High,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2025-36900,2025-09-01,A-419541948 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=lwis
+CVE-2025-36901,2025-09-01,A-396462223 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36902,2025-09-01,A-379878759 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=Synaptics TouchCom driver
+CVE-2025-36903,2025-09-01,A-418224726 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=lwis
+CVE-2025-36908,2025-09-01,A-419014045 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=WLAN
+CVE-2025-36909,2025-09-01,A-396463432 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=WLAN
 CVE-2025-26784,2025-08-01,A-394084168 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-26785,2025-06-01,A-394084586 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-32337,2025-06-01,A-383628266 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Modem
