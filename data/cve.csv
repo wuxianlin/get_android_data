@@ -12,6 +12,7 @@ CVE-2025-36904,2025-09-01,A-396458384 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subc
 CVE-2025-36905,2025-09-01,A-364028612 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=GXP
 CVE-2025-36906,2025-09-01,A-289810779 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=NeuralNetworks
 CVE-2025-36907,2025-09-01,A-418774137 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Pixel Boot Loader
+CVE-2025-36910,2025-09-01,A-377489833 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-36893,2025-09-01,A-413471185 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=TPU
 CVE-2025-36895,2025-09-01,A-396454072 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=WLAN
 CVE-2025-36892,2025-09-01,A-384692949 [*](#asterisk),DoS,High,N/A,pixel,N/A,Subcomponent=WLAN
