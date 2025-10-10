@@ -1,4 +1,8 @@
 Model,Version,Download,SHA-256 Checksum
+Pixel 10 Pro Fold 的“rango”
+Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.250808.001，2025 年 10 月）,https://flash.android.com/build/13901789?target=rango-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/rango-bd3a.250808.001-factory-8f7b23b7.zip,8f7b23b725a7f51c28f60acdfce7a7f582b6b5c3df173f71973402365a948e6f
+Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251005.003，2025 年 10 月）,https://flash.android.com/build/14038932?target=rango-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/rango-bd3a.251005.003-factory-482c1280.zip,482c12802c4e8cbe6dad7ba1e8e94d684b4b10b45ef3cda9aece0530569e00a5
+Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251005.003.J2，2025 年 10 月，日本）,https://flash.android.com/build/14049774?target=rango-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/rango-bd3a.251005.003.j2-factory-8db2d5cc.zip,8db2d5ccddf62990e6d294ee943ea0cecf0be0127e8729538b43f1c9487b47f4
 Pixel 10 Pro 的“blazer”
 Pixel 10 Pro 的“blazer”,16.0.0（BD1A.250702.001，2025 年 8 月）,https://flash.android.com/build/13724644?target=blazer-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/blazer-bd1a.250702.001-factory-f2267c45.zip,f2267c453f3c983897df0a02fefde5838fd75ab051f37553e19df947efd9b00a
 Pixel 10 Pro 的“blazer”,16.0.0（BD1A.250702.001.A3，2025 年 8 月，Verizon）,https://flash.android.com/build/13759938?target=blazer-user&hl=zh-cn,https://googledownloads.cn/dl/android/aosp/blazer-bd1a.250702.001.a3-factory-2ea9335c.zip,2ea9335cf00a32d9e3aa4e47930fc5df4dbd70cc69dca3a5527b9b1351a272db
@@ -1676,7 +1680,7 @@ Nexus 6 的“shamu”,5.1.1 (LMY48X),https://googledownloads.cn/dl/android/aosp
 Nexus 6 的“shamu”,5.1.1 (LMY48Y),https://googledownloads.cn/dl/android/aosp/shamu-lmy48y-factory-505ed306.zip,505ed3067bb04e45374eaad707e729c08b5d06586016c9c218449091f879732a
 Nexus 6 的“shamu”,5.1.1（仅面向 T-Mobile）(LYZ28N),https://googledownloads.cn/dl/android/aosp/shamu-lyz28n-factory-5dffe2dc.zip,5dffe2dccf71c1859a2c58d80a08e372cea3b8d49c20dbbcce5f520d1522e860
 Nexus 6 的“shamu”,5.1.1（仅适用于 Project Fi）（LVY48I）,https://googledownloads.cn/dl/android/aosp/shamu-lvy48i-factory-e9cedcb8.zip,e9cedcb8f4f0be18576b7317fe915bbf868907be9859a2201b536d182f171789
-Nexus 6 的“shamu”,6.0.0（MRA58K）,https://googledownloads.cn/dl/android/aosp/shamu-mra58k-factory-0c8cee76.zip,0c8cee76432db6fc40c169a61bbd6286b76e06bc5ebf5c79b2feba1b87e46660
+Nexus 6 的“shamu”,6.0.0 (MRA58K),https://googledownloads.cn/dl/android/aosp/shamu-mra58k-factory-0c8cee76.zip,0c8cee76432db6fc40c169a61bbd6286b76e06bc5ebf5c79b2feba1b87e46660
 Nexus 6 的“shamu”,6.0.0 (MRA58N),https://googledownloads.cn/dl/android/aosp/shamu-mra58n-factory-330ade99.zip,330ade99ba383bb263d8ec2bbfc8e936053d29080dc3c854cf0d2ec9a83d79fc
 Nexus 6 的“shamu”,6.0.0 (MRA58R),https://googledownloads.cn/dl/android/aosp/shamu-mra58r-factory-0c3e2d0b.zip,0c3e2d0b5a4af48eb665836bb64c6a4c95554ba6efe9a3fad9cdc226afa1b65a
 Nexus 6 的“shamu”,6.0.0 (MRA58X),https://googledownloads.cn/dl/android/aosp/shamu-mra58x-factory-9a184014.zip,9a18401432138127943e8ac2464d4f7b80920f8e6d74855a7adf8a037a4ae42a
