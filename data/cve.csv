@@ -31,7 +31,6 @@ CVE-2025-26459,2025-06-01,A-394596202 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subc
 CVE-2025-26460,2025-06-01,A-404959676 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=TPU
 CVE-2025-32314,2025-06-01,A-329622454 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=DRM LDFW
 CVE-2025-32334,2025-06-01,A-394726109 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Bluetooth
-CVE-2025-32335,2025-06-01,A-397679986 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=rild
 CVE-2025-32336,2025-06-01,A-382577130 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
 CVE-2025-32339,2025-06-01,A-380273030 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2025-36887,2025-06-01,A-382788890 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=WLAN
