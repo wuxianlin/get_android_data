@@ -1,13 +1,18 @@
 Retail Branding,Marketing Name,Device,Model
+Blackshark,BSM2,PadSE,BSM2
 Blackshark,Black Shark 2,skywalker,SKW-A0
 Blackshark,Black Shark 2,skywalker,SKW-H0
 Blackshark,Black Shark 2 Pro,darklighter,DLT-H0
 Blackshark,Black shark 4 pro,kaiser-os,SHARK KSR-H0
+Blackshark,Black_Shark_Gaming_Tablet,Black_Shark_Gaming_Tablet,BSG1
 Blackshark,KLE-A0,klein,SHARK KLE-A0
 Blackshark,KLE-H0,klein,SHARK KLE-H0
 Blackshark,MBU-A0,mobius,SHARK MBU-A0
 Blackshark,MBU-H0,mobius,SHARK MBU-H0
 Blackshark,Pad6,Pad6,Pad6
+Blackshark,Pad7,Pad7,BSM1
+Blackshark,Pad7_Pro,Pad7_Pro,BSM3
+Blackshark,Pad7_WiFi,Pad7_WiFi,BSM4
 Blackshark,SHARK KSR-A0,kaiser,SHARK KSR-A0
 Blackshark,SHARK PRS-A0,penrose,SHARK PRS-A0
 Blackshark,SHARK PRS-H0,penrose,SHARK PRS-H0
@@ -96,6 +101,7 @@ Redmi,Mi  9T  Pro,raphaelin,Redmi K20 Pro
 Redmi,Mi 9T,davinci,Mi 9T
 Redmi,MiTV,rango,MiTV-AXFR0
 Redmi,POCO F5,marblein,23049PCD8I
+Redmi,REDMI 15C,dew,25078RA3EA
 Redmi,REDMI 15C,dew,25078RA3EE
 Redmi,REDMI 15C,dew,25078RA3EL
 Redmi,REDMI 15C,dew,25078RA3EY
@@ -105,8 +111,11 @@ Redmi,REDMI K80,zorn,24117RK2CC
 Redmi,REDMI K80 Pro,miro,24122RKC7C
 Redmi,REDMI K80 Ultra,dali,25060RK16C
 Redmi,REDMI K90,annibale,2510DRK44C
+Redmi,REDMI K90 Pro Max,myron,25102RK69C
+Redmi,REDMI K90 Pro Max,myron,25102RKBEC
 Redmi,REDMI Note 15,kunzite,25098RA98C
 Redmi,REDMI Note 15 Pro,lapis,25080RABDC
+Redmi,REDMI Note 15 Pro+,flourite,25104RADAC
 Redmi,REDMI Note 15 Pro+,flourite,2510ERA8BC
 Redmi,REDMI Note 15R,spring,25057RA09C
 Redmi,REDMI Pad 2,taiko,25040RP0AC
@@ -345,7 +354,6 @@ Redmi,Redmi Note 14 5G,beryl,24094RAD4C
 Redmi,Redmi Note 14 5G,beryl,24094RAD4I
 Redmi,Redmi Note 14 5G,citrine,24094RAD4G
 Redmi,Redmi Note 14 Pro,malachite,24090RA29C
-Redmi,Redmi Note 14 Pro,malachite,24090RA29G
 Redmi,Redmi Note 14 Pro,obsidian,24116RACCG
 Redmi,Redmi Note 14 Pro 5G,malachite,24090RA29G
 Redmi,Redmi Note 14 Pro 5G,malachite,24090RA29I
@@ -386,6 +394,9 @@ Redmi,Redmi Pad 2,taiko,25040RP0AL
 Redmi,Redmi Pad 2 4G,koto,2505DRP06E
 Redmi,Redmi Pad 2 4G,koto,2505DRP06G
 Redmi,Redmi Pad 2 Pro,flute,25099RP13G
+Redmi,Redmi Pad 2 Pro,flute,25099RP13I
+Redmi,Redmi Pad 2 Pro 5G,organ,2509BRP2DG
+Redmi,Redmi Pad 2 Pro 5G,organ,2509BRP2DI
 Redmi,Redmi Pad 2 Wi-Fi + Cellular,koto,2505DRP06I
 Redmi,Redmi Pad Pro,dizi,2405CRPFDC
 Redmi,Redmi Pad Pro,dizi,2405CRPFDG
@@ -729,6 +740,7 @@ Xiaomi,Xiaomi Smart Projector L1 Pro,tianshan,C045RGN
 Xiaomi,Xiaomi TV,arctictale,MiTV-AXFU0
 Xiaomi,Xiaomi TV Box S,twilight,MiTV-AFMU0
 Xiaomi,Xiaomi TV Box S (2nd Gen),jaws,MiTV-AFKR0
+Xiaomi,Xiaomi TV Stick 4K (2nd Gen),twilight,MiTV-AFMU1
 Xiaomi,Xiaomi TV stick 4K,soul,MiTV-AYFR0
 Xiaomi,Xiaomi Watch 2,axolotlaxie,Xiaomi Watch 2
 Xiaomi,Xiaomi Watch 2 Pro,axolotl,Xiaomi Watch 2 Pro
