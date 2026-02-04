@@ -1,4 +1,7 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2026-0106,2026-02-01,A-463674877 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=VPU Driver
+CVE-2025-48647,2026-01-01,A-445395606 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=CPM
+CVE-2025-36911,2026-01-01,A-445196906 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=Bluetooth
 CVE-2025-54957,2025-12-01,A-438955204 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Dolby
 CVE-2025-36935,2025-12-01,A-441512848 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Trusty
 CVE-2025-36937,2025-12-01,A-417437723 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=AOC
