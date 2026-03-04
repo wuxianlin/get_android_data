@@ -1,4 +1,24 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2026-0114,2026-03-01,A-454604426 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2026-0120,2026-03-01,A-454076522 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2026-0122,2026-03-01,A-454078934 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Baseband
+CVE-2024-56184,2026-03-01,A-308585798 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Bootloader
+CVE-2026-0116,2026-03-01,A-321712082 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=MFC
+CVE-2025-48611,2026-03-01,A-416259739 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Companion
+CVE-2026-0107,2026-03-01,A-449752657 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=CPM
+CVE-2026-0110,2026-03-01,A-440358226 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Modem
+CVE-2026-0111,2026-03-01,A-461921661 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Cellular Modem
+CVE-2026-0112,2026-03-01,A-463676597 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=VPU
+CVE-2026-0113,2026-03-01,A-441209133 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Cellular Modem
+CVE-2026-0117,2026-03-01,A-337803567 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=MFC
+CVE-2026-0118,2026-03-01,A-427469428 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=oobconfig
+CVE-2026-0119,2026-03-01,A-439846057 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Shannon Baseband
+CVE-2026-0108,2026-03-01,A-467269839 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=GPU
+CVE-2026-0121,2026-03-01,A-466090114 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=VPU
+CVE-2025-36920,2026-03-01,A-431949921 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=pKVM
+CVE-2026-0123,2026-03-01,A-430693465 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,Subcomponent=AOC
+CVE-2026-0115,2026-03-01,A-221125054 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Trusted Execution Environment
+CVE-2026-0109,2026-03-01,A-438245439 [*](#asterisk),DoS,Moderate,N/A,pixel,N/A,Subcomponent=Wifi
 CVE-2026-0106,2026-02-01,A-463674877 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=VPU Driver
 CVE-2025-48647,2026-01-01,A-445395606 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=CPM
 CVE-2025-36911,2026-01-01,A-445196906 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=Bluetooth
