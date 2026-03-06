@@ -1,4 +1,7 @@
 Model,Version,Download,SHA-256 Checksum
+Pixel 10a 的“stallion”
+Pixel 10a 的“stallion”,16.0.0（BD6A.251031.001.A4，2026 年 3 月）,https://googledownloads.cn/dl/android/aosp/stallion-ota-bd6a.251031.001.a4-babc6d73.zip,babc6d7386f898f76a3502ed0818b5ea607e813d5b088208d4efa637047bcadd
+Pixel 10a 的“stallion”,16.0.0（CP1A.260305.018，2026 年 3 月）,https://googledownloads.cn/dl/android/aosp/stallion-ota-cp1a.260305.018-c157843a.zip,c157843ae2a6d5031008efdafed278ceb4662e38c2827751b900f8e1127951ea
 Pixel 10 Pro Fold 的“rango”
 Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.250808.001，2025 年 10 月）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.250808.001-f5927106.zip,f5927106a5dc10e20390e959d936d27aac53c769c2ccbb79457ce35724ed3dbe
 Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251005.003，2025 年 10 月）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.251005.003-ca14833b.zip,ca14833baf70700e4edbd897f91f4ed31cc9aaeb02ac9439fbd9f448af4d3d29
@@ -6,7 +9,7 @@ Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251005.003.J2，2025 年 10 月�
 Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251005.003.E1，2025 年 10 月）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.251005.003.e1-f9b3a480.zip,f9b3a4806eda9a81bd51279af4746810afce5fda066f789529dcb4c62485659c
 Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251005.003.F1，2025 年 10 月，日本）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.251005.003.f1-7b5a59a6.zip,7b5a59a61c064bf0c06bf9fc9dc7d4aba2968413b0ac58fb74791713b3f010c3
 Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251105.010.E1，2025 年 11 月）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.251105.010.e1-94b8d36f.zip,94b8d36f90087b106f41d3395a86b910b1388eaac7215f103275b0cd8af3e621
-Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251105.010.F1，2025 年 11 月，日本运营商，但 Softbank 除外）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.251105.010.f1-5ee98bbe.zip,5ee98bbe7e676a42c4f5f7ad6e3f832a6f57733edd39e6908a3a907cf8bce50d
+Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251105.010.F1，2025 年 11 月，日本运营商，Softbank 除外）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.251105.010.f1-5ee98bbe.zip,5ee98bbe7e676a42c4f5f7ad6e3f832a6f57733edd39e6908a3a907cf8bce50d
 Pixel 10 Pro Fold 的“rango”,16.0.0（BD3A.251105.010.J3，2025 年 11 月，Softbank）,https://googledownloads.cn/dl/android/aosp/rango-ota-bd3a.251105.010.j3-b7578297.zip,b757829738f8d1d6b8253cbd6bba1c25bf537cd67014d2837417810549123742
 Pixel 10 Pro Fold 的“rango”,16.0.0（BP4A.251205.006，2025 年 12 月）,https://googledownloads.cn/dl/android/aosp/rango-ota-bp4a.251205.006-7d660137.zip,7d660137dc777413d592c89459130525abed210db0648db46d37d1f66ce3bc13
 Pixel 10 Pro Fold 的“rango”,16.0.0（BP4A.251205.006.A1，2025 年 12 月，欧洲、中东和非洲地区）,https://googledownloads.cn/dl/android/aosp/rango-ota-bp4a.251205.006.a1-c9fdbf40.zip,c9fdbf4047ca2196f63ddc39d75c5b14f1f6b03d0a4d7536c815773f181b5c29
@@ -33,7 +36,7 @@ Pixel 10 Pro 的“blazer”,16.0.0（BD3A.251005.003.W3，2025 年 10 月）,ht
 Pixel 10 Pro 的“blazer”,16.0.0（BD3A.251005.003.J6，2025 年 10 月，日本）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bd3a.251005.003.j6-b014c03b.zip,b014c03ba9f0390185c95dc9295b35fa63a48188f45a19538a15fd63ac78d8f8
 Pixel 10 Pro 的“blazer”,16.0.0（BD3A.251005.003.W4，2025 年 10 月）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bd3a.251005.003.w4-1a39f9f4.zip,1a39f9f434971c691900161d16be1dc0cbfcfd3358031c3d764025dcf4569878
 Pixel 10 Pro 的“blazer”,16.0.0（BD3A.251105.010.E1，2025 年 11 月）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bd3a.251105.010.e1-c1904cad.zip,c1904cad175e31d74a30468752462c762598ed308eb0a3cd7d7ed107cc2e130d
-Pixel 10 Pro 的“blazer”,16.0.0（BD3A.251105.010.F1，2025 年 11 月，日本运营商，但 Softbank 除外）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bd3a.251105.010.f1-bd624ae4.zip,bd624ae4f774a074edd5f933e3a77223da5d5f06c9f1d80add5d811d9e06dd57
+Pixel 10 Pro 的“blazer”,16.0.0（BD3A.251105.010.F1，2025 年 11 月，日本运营商，Softbank 除外）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bd3a.251105.010.f1-bd624ae4.zip,bd624ae4f774a074edd5f933e3a77223da5d5f06c9f1d80add5d811d9e06dd57
 Pixel 10 Pro 的“blazer”,16.0.0（BD3A.251105.010.J3，2025 年 11 月，Softbank）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bd3a.251105.010.j3-59662ec8.zip,59662ec822567abd4c02563ac365a950059464afbaedfc163b8f6117bbfb7ac7
 Pixel 10 Pro 的“blazer”,16.0.0（BP4A.251205.006，2025 年 12 月）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bp4a.251205.006-aa546124.zip,aa546124bf9ec923a687f692260cd88bc95b81d36de25dbca30c5cc42fb34c3c
 Pixel 10 Pro 的“blazer”,16.0.0（BP4A.251205.006.A1，2025 年 12 月，欧洲、中东和非洲地区）,https://googledownloads.cn/dl/android/aosp/blazer-ota-bp4a.251205.006.a1-1612ae80.zip,1612ae80545a0873f67a0f3810c9a5afbd67e879331911e75df36f4f2767cda5
