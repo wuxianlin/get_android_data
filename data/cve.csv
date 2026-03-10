@@ -2,7 +2,7 @@ cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,com
 CVE-2026-0114,2026-03-01,A-454604426 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2026-0120,2026-03-01,A-454076522 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Modem
 CVE-2026-0122,2026-03-01,A-454078934 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Baseband
-CVE-2024-56184,2026-03-01,A-308585798 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Bootloader
+CVE-2026-0124,2026-03-01,A-308585798 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Bootloader
 CVE-2026-0116,2026-03-01,A-321712082 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=MFC
 CVE-2025-48611,2026-03-01,A-416259739 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Companion
 CVE-2026-0107,2026-03-01,A-449752657 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=CPM
