@@ -100,6 +100,8 @@ POCO,POCO X7 Pro,rodin,2412DPC0AG
 POCO,POCO X7 Pro,rodin,2412DPC0AI
 POCO,POCO X8 Pro,klee,2511FPC34G
 POCO,POCO X8 Pro,klee,2511FPC34I
+POCO,POCO X8 Pro Max,dash,2602BPC18G
+POCO,POCO X8 Pro Max,dash,2602BPC18I
 POCO,Poco F7,onyx,25053PC47G
 POCO,Poco F7,onyx,25053PC47I
 POCO,Poco F7 Pro,zorn,24117RK2CG
@@ -111,10 +113,6 @@ Redmi,Mi  9T  Pro,raphaelin,Redmi K20 Pro
 Redmi,Mi 9T,davinci,Mi 9T
 Redmi,MiTV,rango,MiTV-AXFR0
 Redmi,POCO F5,marblein,23049PCD8I
-Redmi,REDMI 15C,dew,25078RA3EA
-Redmi,REDMI 15C,dew,25078RA3EE
-Redmi,REDMI 15C,dew,25078RA3EL
-Redmi,REDMI 15C,dew,25078RA3EY
 Redmi,REDMI 15C 5G,tornado,2508CRN2BI
 Redmi,REDMI A7 Pro,arctic,25128RN17A
 Redmi,REDMI K Pad,turner,25079RPDCC
@@ -213,6 +211,10 @@ Redmi,Redmi 15 5G,spring,25057RN09G
 Redmi,Redmi 15 5G,spring,25057RN09I
 Redmi,Redmi 15 5G,spring,25057RN09R
 Redmi,Redmi 15 5G,spring,A501XM
+Redmi,Redmi 15C,dew,25078RA3EA
+Redmi,Redmi 15C,dew,25078RA3EE
+Redmi,Redmi 15C,dew,25078RA3EL
+Redmi,Redmi 15C,dew,25078RA3EY
 Redmi,Redmi 15C 5G,tornado,2508CRN2BE
 Redmi,Redmi 6,cereus,Redmi 6
 Redmi,Redmi 7,onc,Redmi 7
@@ -465,6 +467,7 @@ Xiaomi,HM Note 2,hermes,Redmi Note 2
 Xiaomi,Hong Mi,HM2013022,2013022
 Xiaomi,K30 PRO,lmiinpro,Redmi K30 Pro 5G Zoom Edition
 Xiaomi,K30 pro,lmiin,Redmi K30 Pro 5G
+Xiaomi,Leitzphone powered by Xiaomi,nezha,2512BPNDAG
 Xiaomi,MI  8  Explorer  Edition,ursa,MI 8 Explorer Edition
 Xiaomi,MI  8  Pro,equuleus,MI 8 Pro
 Xiaomi,MI  8  Pro,equuleus,MI 8 UD
