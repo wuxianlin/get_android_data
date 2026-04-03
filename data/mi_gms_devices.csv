@@ -14,6 +14,7 @@ Blackshark,Pad6,Pad6,Pad6
 Blackshark,Pad7,Pad7,BSM1
 Blackshark,Pad7_Pro,Pad7_Pro,BSM3
 Blackshark,Pad7_WiFi,Pad7_WiFi,BSM4
+Blackshark,Pad_7_Pro_UE,Pad_7_Pro_UE,Pad_7_Pro_UE
 Blackshark,SHARK KSR-A0,kaiser,SHARK KSR-A0
 Blackshark,SHARK PRS-A0,penrose,SHARK PRS-A0
 Blackshark,SHARK PRS-H0,penrose,SHARK PRS-H0
@@ -115,6 +116,8 @@ Redmi,MiTV,rango,MiTV-AXFR0
 Redmi,POCO F5,marblein,23049PCD8I
 Redmi,REDMI 15C 5G,tornado,2508CRN2BI
 Redmi,REDMI A7 Pro,arctic,25128RN17A
+Redmi,REDMI A7 Pro,arctic,25128RN17L
+Redmi,REDMI A7 Pro,arctic,25128RN17Y
 Redmi,REDMI K Pad,turner,25079RPDCC
 Redmi,REDMI K80,zorn,24117RK2CC
 Redmi,REDMI K80 Pro,miro,24122RKC7C
