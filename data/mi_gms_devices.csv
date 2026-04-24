@@ -15,6 +15,7 @@ Blackshark,Pad7,Pad7,BSM1
 Blackshark,Pad7_Pro,Pad7_Pro,BSM3
 Blackshark,Pad7_WiFi,Pad7_WiFi,BSM4
 Blackshark,Pad_7_Pro_UE,Pad_7_Pro_UE,Pad_7_Pro_UE
+Blackshark,Pad_Air7,Pad_Air7,BSM4
 Blackshark,SHARK KSR-A0,kaiser,SHARK KSR-A0
 Blackshark,SHARK PRS-A0,penrose,SHARK PRS-A0
 Blackshark,SHARK PRS-H0,penrose,SHARK PRS-H0
@@ -148,6 +149,7 @@ Redmi,REDMI Note 15 SE 5G,kunzite,26022PCACI
 Redmi,REDMI Note 15R,spring,25057RA09C
 Redmi,REDMI Pad 2,taiko,25040RP0AC
 Redmi,REDMI Pad 2 Pro,flute,25099RP13C
+Redmi,REDMI Pad 2 SE,guitar,2603ARP14C
 Redmi,REDMI Turbo 4,rodin,24129RT7CC
 Redmi,REDMI Turbo 4 Pro,onyx,25053RT47C
 Redmi,REDMI Turbo 5 Max,dash,2602BRT18C
