@@ -61,8 +61,6 @@ CVE-2026-0123,2026-03-01,A-430693465 [*](#asterisk),EoP,Moderate,N/A,pixel,N/A,S
 CVE-2026-0115,2026-03-01,A-221125054 [*](#asterisk),ID,Moderate,N/A,pixel,N/A,Subcomponent=Trusted Execution Environment
 CVE-2026-0109,2026-03-01,A-438245439 [*](#asterisk),DoS,Moderate,N/A,pixel,N/A,Subcomponent=Wifi
 CVE-2026-0106,2026-02-01,A-463674877 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=VPU Driver
-CVE-2025-48647,2026-01-01,A-445395606 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=CPM
-CVE-2025-36911,2026-01-01,A-445196906 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=Bluetooth
 CVE-2025-54957,2025-12-01,A-438955204 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=Dolby
 CVE-2025-36935,2025-12-01,A-441512848 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Trusty
 CVE-2025-36937,2025-12-01,A-417437723 [*](#asterisk),RCE,High,N/A,pixel,N/A,Subcomponent=AOC
@@ -158,9 +156,6 @@ CVE-2024-53838,2024-12-01,A-349130926 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,
 CVE-2024-53841,2024-12-01,A-335213696 [*](#asterisk),EoP,Moderate,N/A,Pixel,N/A,Subcomponent=ConnectivityThermalPowerManager
 CVE-2024-53834,2024-12-01,A-315649952 [*](#asterisk),ID,Moderate,N/A,Pixel,N/A,Subcomponent=Modem
 CVE-2024-53839,2024-12-01,A-355817499 [*](#asterisk),ID,Moderate,N/A,Pixel,N/A,Subcomponent=Exynos RIL
-CVE-2024-47038,2024-11-01,A-350472698 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=Kernel
-CVE-2024-47040,2024-11-01,A-353493525 [*](#asterisk),EoP,High,N/A,pixel,N/A,Subcomponent=ISap
-CVE-2024-47039,2024-11-01,A-353516777 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=bootctrl
 CVE-2024-47012,2024-10-01,A-322820753 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=Pixel Modem
 CVE-2024-47016,2024-10-01,A-328221525 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=ACPM
 CVE-2024-47024,2024-10-01,A-340720879 [*](#asterisk),EoP,Critical,N/A,Pixel,N/A,Subcomponent=Trusty
