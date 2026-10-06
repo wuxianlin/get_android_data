@@ -1,4 +1,10 @@
 cve,securitypatchlevel,reference,type,severity,aospversion,securitycomponent,component,other
+CVE-2026-56906,2026-10-01,A-496716086 [*](#asterisk),EoP,High,N/A,kernel-components,N/A,Subcomponent=Fs
+CVE-2026-56936,2026-10-01,A-497973001 [*](#asterisk),EoP,High,N/A,kernel-components,N/A,Subcomponent=Wacom HID
+CVE-2026-55330,2026-10-01,A-522372636 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=Bluetooth
+CVE-2026-56952,2026-10-01,A-508697411 [*](#asterisk),EoP,Critical,N/A,pixel,N/A,Subcomponent=GDMC
+CVE-2026-55307,2026-10-01,A-511809981 [*](#asterisk),ID,Critical,N/A,pixel,N/A,Subcomponent=GSA
+CVE-2026-0198,2026-10-01,A-508717360 [*](#asterisk),ID,High,N/A,pixel,N/A,Subcomponent=GDMC
 CVE-2026-56914,2026-09-01,A-494548205 [*](#asterisk),EoP,High,N/A,kernel,N/A,Subcomponent=Google eXperience Processor
 CVE-2026-58773,2026-09-01,A-503549684 [*](#asterisk),EoP,High,N/A,kernel,N/A,Subcomponent=Kernel
 CVE-2026-55318,2026-09-01,A-511640613 [*](#asterisk),RCE,Critical,N/A,pixel,N/A,Subcomponent=IP Multimedia Subsystem
